@@ -1,15 +1,15 @@
 LowerCaseAlphabet:
 	db "abcdefghi"
 	db "jklmnopqr"
-	db "stuvwxyz "
-	db "×():;[]<PK><MN>"
+	db "stuvwxyzæ"
+	db "øå :;()<PK><MN>"
 	db "-?!♂♀/<DOT>,<ED>"
-	db "UPPER CASE@"
+	db "STORE@"
 
 UpperCaseAlphabet:
 	db "ABCDEFGHI"
 	db "JKLMNOPQR"
-	db "STUVWXYZ "
-	db "×():;[]<PK><MN>"
+	db "STUVWXYZÆ"
+	db "ØÅ :;()<PK><MN>"
 	db "-?!♂♀/<DOT>,<ED>"
-	db "lower case@"
+	db "små  @"
