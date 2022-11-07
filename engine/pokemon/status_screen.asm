@@ -290,10 +290,10 @@ PrintStat:
 	ret
 
 StatsText:
-	db   "ATTACK"
-	next "DEFENSE"
-	next "SPEED"
-	next "SPECIAL@"
+	db   "ANGREB"
+	next "FORSVAR"
+	next "FART"
+	next "SPECIEL@"
 
 StatusScreen2:
 	ldh a, [hTileAnimations]
