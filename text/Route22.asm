@@ -3,7 +3,7 @@ _Route22RivalBeforeBattleText1::
 	line "<PLAYER>!"
 
 	para "You're going to"
-	line "#MON LEAGUE?"
+	line "#MON-LIGAEN?"
 
 	para "Forget it! You"
 	line "probably don't"
@@ -53,7 +53,7 @@ _Route22RivalBeforeBattleText2::
 	cont "you here!"
 
 	para "So you're going to"
-	line "#MON LEAGUE?"
+	line "#MON-LIGAEN?"
 
 	para "You collected all"
 	line "the BADGEs too?"
@@ -62,7 +62,7 @@ _Route22RivalBeforeBattleText2::
 	para "Then I'll whip you"
 	line "<PLAYER> as a"
 	cont "warm up for"
-	cont "#MON LEAGUE!"
+	cont "#MON-LIGAEN!"
 
 	para "Come on!"
 	done
@@ -70,7 +70,7 @@ _Route22RivalBeforeBattleText2::
 _Route22RivalAfterBattleText2::
 	text "That loosened me"
 	line "up! I'm ready for"
-	cont "#MON LEAGUE!"
+	cont "#MON-LIGAEN!"
 
 	para "<PLAYER>, you need"
 	line "more practice!"
@@ -99,6 +99,6 @@ _Route22Text_511d0::
 	prompt
 
 _Route22FrontGateText::
-	text "#MON LEAGUE"
+	text "#MON-LIGA"
 	line "Front Gate"
 	done

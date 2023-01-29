@@ -1,6 +1,6 @@
 _LoreleiBeforeBattleText::
 	text "Welcome to"
-	line "#MON LEAGUE!"
+	line "#MON-LIGAEN!"
 
 	para "I am LORELEI of"
 	line "the ELITE FOUR!"

@@ -89,7 +89,7 @@ _GaryText_76120::
 	text "OAK: So, you won!"
 	line "Congratulations!"
 	cont "You're the new"
-	cont "#MON LEAGUE"
+	cont "#MON LIGA"
 	cont "champion!"
 
 	para "You've grown up so"

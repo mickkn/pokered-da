@@ -175,7 +175,7 @@ _ViridianGymEndBattleText6::
 	prompt
 
 _ViridianGymAfterBattleText6::
-	text "#MON LEAGUE?"
+	text "#MON-LIGAEN?"
 	line "You? Don't get"
 	cont "cocky!"
 	done
@@ -210,7 +210,7 @@ _ViridianGymEndBattleText8::
 
 _ViridianGymAfterBattleText8::
 	text "You can go onto"
-	line "#MON LEAGUE"
+	line "#MON-LIGAEN"
 	cont "only by defeating"
 	cont "our GYM LEADER!"
 	done
