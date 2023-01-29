@@ -272,7 +272,7 @@ _CinnabarPokecenterGuyText::
 _SaffronCityPokecenterGuyText1::
 	text "Det ville være"
 	line "fantastisk hvis"
-	cont "ELITE FOUR"
+	cont "ELITE-FIREN"
 	cont "dukkede op"
 	cont "og knuste"
 	cont "TEAM ROCKET!"
@@ -308,264 +308,275 @@ _PushStartText::
 	done
 
 _SaveOptionText::
-	text "The SAVE option is"
-	line "on the MENU"
-	cont "screen."
+	text "GEMME-muligheden"
+	line "er på"
+	cont "MENU-skærmen."
 	done
 
 _StrengthsAndWeaknessesText::
-	text "All #MON types"
-	line "have strong and"
-	cont "weak points"
-	cont "against others."
+	text "Alle #MON "
+	line "typer har styrker"
+	cont "og svagheder"
+	cont "mod andre."
 	done
 
 _TimesUpText::
 	text "PA: Ding-dong!"
 
-	para "Time's up!"
+	para "Tiden er gået!"
 	prompt
 
 _GameOverText::
-	text "PA: Your SAFARI"
-	line "GAME is over!"
+	text "PA: Dit SAFARI"
+	line "SPIL er ovre!"
 	done
 
 _CinnabarGymQuizIntroText::
 	text "#MON Quiz!"
 
-	para "Get it right and"
-	line "the door opens to"
-	cont "the next room!"
+	para "Gæt rigtigt og"
+	line "døren åbner til"
+	cont "det næste rum!"
 
-	para "Get it wrong and"
-	line "face a trainer!"
+	para "Gæt forkert og"
+	line "kæmp imod en"
+	cont "træner!"
 
-	para "If you want to"
-	line "conserve your"
-	cont "#MON for the"
-	cont "GYM LEADER..."
+	para "Hvis du vil"
+	line "gemme dine"
+	cont "#MON til"
+	cont "GYM-LEDEREN..."
 
-	para "Then get it right!"
-	line "Here we go!"
+	para "Så gæt rigtigt!"
+	line "Så starter vi!"
 	prompt
 
 _CinnabarQuizQuestionsText1::
-	text "CATERPIE evolves"
-	line "into BUTTERFREE?"
+	text "CATERPIE udvikler"
+	line "sig til" 
+	cont "BUTTERFREE?"
 	done
 
 _CinnabarQuizQuestionsText2::
-	text "There are 9"
-	line "certified #MON"
-	cont "LEAGUE BADGEs?"
+	text "Der er 9"
+	line "certificerede"
+	cont "#MON"
+	cont "LIGA-EMBLEMER?"
 	done
 
 _CinnabarQuizQuestionsText3::
-	text "POLIWAG evolves 3"
-	line "times?"
+	text "POLIWAG udvikles 3"
+	line "gange?"
 	done
 
 _CinnabarQuizQuestionsText4::
-	text "Are thunder moves"
-	line "effective against"
-	cont "ground element-"
+	text "Er elektrisitet"
+	line "effektivt imod"
+	cont "jord-element-"
 	cont "type #MON?"
 	done
 
 _CinnabarQuizQuestionsText5::
-	text "#MON of the"
-	line "same kind and"
-	cont "level are not"
-	cont "identical?"
+	text "#MON af samme"
+	line "slags og"
+	cont "niveau er ikke"
+	cont "identiske?"
 	done
 
 _CinnabarQuizQuestionsText6::
-	text "TM28 contains"
+	text "TM28 indeholder"
 	line "TOMBSTONER?"
 	done
 
 _CinnabarGymQuizCorrectText::
-	text "You're absolutely"
-	line "correct!"
+	text "Du har helt"
+	line "ret!"
 
-	para "Go on through!@"
+	para "Fortsæt!@"
 	text_end
 
 _CinnabarGymQuizIncorrectText::
-	text "Sorry! Bad call!"
+	text "Beklager! Forkert"
+	line "beslutning!"
 	prompt
 
 _MagazinesText::
-	text "#MON magazines!"
+	text "#MON magasiner!"
 
-	para "#MON notebooks!"
+	para "#MON notater!"
 
-	para "#MON graphs!"
+	para "#MON grafer!"
 	done
 
 _BillsHouseMonitorText::
-	text "TELEPORTER is"
-	line "displayed on the"
-	cont "PC monitor."
+	text "TELEPORTER vises"
+	line "på PC-skærmen."
 	done
 
 _BillsHouseInitiatedText::
-	text "<PLAYER> initiated"
-	line "TELEPORTER's Cell"
+	text "<PLAYER> startede"
+	line "TELEPORTER's Celle"
 	cont "Separator!@"
 	text_end
 
 _BillsHousePokemonListText1::
-	text "BILL's favorite"
-	line "#MON list!"
+	text "BILL's yndlings"
+	line "#MON liste!"
 	prompt
 
 _BillsHousePokemonListText2::
-	text "Which #MON do"
-	line "you want to see?"
+	text "Hvilken #MON"
+	line "vil du gerne se?"
 	done
 
 _OakLabEmailText::
-	text "There's an e-mail"
-	line "message here!"
+	text "Der er en e-mail"
+	line "besked her!"
 
 	para "..."
 
-	para "Calling all"
-	line "#MON trainers!"
+	para "Kalder alle"
+	line "#MON trænere!"
 
-	para "The elite trainers"
-	line "of #MON LEAGUE"
-	cont "are ready to take"
-	cont "on all comers!"
+	para "Elite-trænerne"
+	line "af #MON-LIGAEN"
+	cont "er klar til at"
+	cont "tage imod alle"
+	cont "udfordringer!"
 
-	para "Bring your best"
-	line "#MON and see"
-	cont "how you rate as a"
-	cont "trainer!"
+	para "Medbring dine"
+	line "bedste #MON"
+	cont "og se hvordan du"
+	cont "rangerer som"
+	cont "træner!"
 
-	para "#MON LEAGUE HQ"
+	para "#MON LIGA HQ"
 	line "INDIGO PLATEAU"
 
 	para "PS: PROF.OAK,"
-	line "please visit us!"
+	line "kom og besøg os!"
 	cont "..."
 	done
 
 _GameCornerCoinCaseText::
-	text "A COIN CASE is"
-	line "required!"
+	text "En MØNTKASSE er"
+	line "påkrævet!"
 	done
 
 _GameCornerNoCoinsText::
-	text "You don't have"
-	line "any coins!"
+	text "Du har ingen"
+	line "mønter!"
 	done
 
 _GameCornerOutOfOrderText::
-	text "OUT OF ORDER"
-	line "This is broken."
+	text "UDE AF DRIFT"
+	line "Denne er ødelagt."
 	done
 
 _GameCornerOutToLunchText::
-	text "OUT TO LUNCH"
-	line "This is reserved."
+	text "TIL FROKOST"
+	line "Denne er"
+	cont "reserveret."
 	done
 
 _GameCornerSomeonesKeysText::
-	text "Someone's keys!"
-	line "They'll be back."
+	text "Nogen's nøgler!"
+	line "Straks tilbage."
 	done
 
 _JustAMomentText::
-	text "Just a moment."
+	text "Lige et øjeblik."
 	done
 
 TMNotebookText::
-	text "It's a pamphlet"
-	line "on TMs."
+	text "Det er en folder"
+	line "om TMs."
 
 	para "..."
 
-	para "There are 50 TMs"
-	line "in all."
+	para "Der er 50 TMs"
+	line "i alt."
 
-	para "There are also 5"
-	line "HMs that can be"
-	cont "used repeatedly."
+	para "Der er også 5"
+	line "HMs der kan"
+	cont "bruges gentagne"
+	cont "gange."
 
 	para "SILPH CO.@"
 	text_end
 
 _TurnPageText::
-	text "Turn the page?"
+	text "Vend siden?"
 	done
 
 _ViridianSchoolNotebookText5::
-	text "GIRL: Hey! Don't"
-	line "look at my notes!@"
+	text "PIGE: Hey! Kig"
+	line "ikke i"
+	cont "mine noter!@"
 	text_end
 
 _ViridianSchoolNotebookText1::
-	text "Looked at the"
-	line "notebook!"
+	text "Kiggede på"
+	line "notesbogen!"
 
-	para "First page..."
+	para "Første side..."
 
-	para "# BALLs are"
-	line "used to catch"
+	para "# BALLs bruges"
+	line "til at fange"
 	cont "#MON."
 
-	para "Up to 6 #MON"
-	line "can be carried."
+	para "Op til 6 #MON"
+	line "kan bæres."
 
-	para "People who raise"
-	line "and make #MON"
-	cont "fight are called"
-	cont "#MON trainers."
+	para "Mennesker, der"
+	line "opdrætter og får"
+	cont "#MON til at"
+	cont "kæmpe, kaldes"
+	cont "#MON trænere."
 	prompt
 
 _ViridianSchoolNotebookText2::
-	text "Second page..."
+	text "Anden side..."
 
-	para "A healthy #MON"
-	line "may be hard to"
-	cont "catch, so weaken"
-	cont "it first!"
+	para "En frisk #MON"
+	line "kan være svær at"
+	cont "fange, så svæk"
+	cont "den først!"
 
-	para "Poison, burns and"
-	line "other damage are"
-	cont "effective!"
+	para "Gift,"
+	line "forbrændinger og"
+	cont "andre skader er"
+	cont "effektive!"
 	prompt
 
 _ViridianSchoolNotebookText3::
-	text "Third page..."
+	text "Tredje side..."
 
-	para "#MON trainers"
-	line "seek others to"
-	cont "engage in #MON"
-	cont "fights."
+	para "#MON trænere"
+	line "søger andre til"
+	cont "at deltage i"
+	cont "#MON kampe."
 
-	para "Battles are"
-	line "constantly fought"
-	cont "at #MON GYMs."
+	para "Slagene er"
+	line "konstant kæmpet"
+	cont "på #MON GYMs."
 	prompt
 
 _ViridianSchoolNotebookText4::
-	text "Fourth page..."
+	text "Fjerde side..."
 
-	para "The goal for"
-	line "#MON trainers"
-	cont "is to beat the "
+	para "Målet for"
+	line "#MON trænere"
+	cont "er at slå de "
 	cont "top 8 #MON"
-	cont "GYM LEADERs."
+	cont "GYM-LEDERE."
 
-	para "Do so to earn the"
-	line "right to face..."
+	para "Gør det for at"
+	line "opnå retten til"
+	cont "at stå overfor..."
 
-	para "The ELITE FOUR of"
-	line "#MON LEAGUE!"
+	para "ELITE-FIREN af"
+	line "#MON-LIGAEN!"
 	prompt
 
 _EnemiesOnEverySideText::
@@ -584,7 +595,7 @@ _FightingDojoText::
 
 _IndigoPlateauHQText::
 	text "INDIGO PLATEAU"
-	line "#MON LEAGUE HQ"
+	line "#MON LIGA HQ"
 	done
 
 _RedBedroomSNESText::
@@ -801,13 +812,13 @@ _IndigoPlateauStatuesText1::
 _IndigoPlateauStatuesText2::
 	text "The ultimate goal"
 	line "of trainers!"
-	cont "#MON LEAGUE HQ"
+	cont "#MON LIGA HQ"
 	done
 
 _IndigoPlateauStatuesText3::
 	text "The highest"
 	line "#MON authority"
-	cont "#MON LEAGUE HQ"
+	cont "#MON LIGA HQ"
 	done
 
 _PokemonBooksText::
@@ -1634,7 +1645,7 @@ _MonWasReleasedText::
 	prompt
 
 _RequireCoinCaseText::
-	text "A COIN CASE is"
+	text "A MØNTKASSE is"
 	line "required!@"
 	text_end
 
