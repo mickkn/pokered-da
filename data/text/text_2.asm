@@ -1,26 +1,26 @@
 _AIBattleWithdrawText::
 	text_ram wTrainerName
-	text " with-"
-	line "drew @"
+	text " trak"
+	line "@"
 	text_ram wEnemyMonNick
-	text "!"
+	text "tilbage!"
 	prompt
 
 _AIBattleUseItemText::
 	text_ram wTrainerName
 	text_start
-	line "used @"
+	line "brugte @"
 	text_ram wcd6d
 	text_start
-	cont "on @"
+	cont "på @"
 	text_ram wEnemyMonNick
 	text "!"
 	prompt
 
 _TradeWentToText::
 	text_ram wStringBuffer
-	text " went"
-	line "to @"
+	text " gik"
+	line "til @"
 	text_ram wLinkEnemyTrainerName
 	text "."
 	done
@@ -34,7 +34,7 @@ _TradeForText::
 
 _TradeSendsText::
 	text_ram wLinkEnemyTrainerName
-	text " sends"
+	text " sender"
 	line "@"
 	text_ram wcd6d
 	text "."
@@ -42,18 +42,18 @@ _TradeSendsText::
 
 _TradeWavesFarewellText::
 	text_ram wLinkEnemyTrainerName
-	text " waves"
-	line "farewell as"
+	text " vinker"
+	line "farvel som"
 	done
 
 _TradeTransferredText::
 	text_ram wcd6d
-	text " is"
-	line "transferred."
+	text " er"
+	line "overført."
 	done
 
 _TradeTakeCareText::
-	text "Take good care of"
+	text "Tag dig godt af"
 	line "@"
 	text_ram wcd6d
 	text "."
@@ -61,8 +61,8 @@ _TradeTakeCareText::
 
 _TradeWillTradeText::
 	text_ram wLinkEnemyTrainerName
-	text " will"
-	line "trade @"
+	text " vil"
+	line "bytte @"
 	text_ram wcd6d
 	text_start
 	done
@@ -75,18 +75,19 @@ _TradeforText::
 	done
 
 _PlaySlotMachineText::
-	text "A slot machine!"
-	line "Want to play?"
+	text "En spillemaskine!"
+	line "Vil du spille?"
 	done
 
 _OutOfCoinsSlotMachineText::
-	text "Darn!"
-	line "Ran out of coins!"
+	text "Øv!"
+	line "Løb tør for" 
+	cont "mønter!"
 	done
 
 _BetHowManySlotMachineText::
-	text "Bet how many"
-	line "coins?"
+	text "Hvor mange mønter"
+	line "vil du satse?"
 	done
 
 _StartSlotMachineText::
@@ -94,24 +95,24 @@ _StartSlotMachineText::
 	done
 
 _NotEnoughCoinsSlotMachineText::
-	text "Not enough"
-	line "coins!"
+	text "Ikke nok"
+	line "mønter!"
 	prompt
 
 _OneMoreGoSlotMachineText::
-	text "One more "
-	line "go?"
+	text "En tur "
+	line "mere?"
 	done
 
 _LinedUpText::
-	text " lined up!"
-	line "Scored @"
+	text " stillet op!"
+	line "Scorede @"
 	text_ram wStringBuffer
-	text " coins!"
+	text " mønter!"
 	done
 
 _NotThisTimeText::
-	text "Not this time!"
+	text "Ikke denne gang!"
 	prompt
 
 _YeahText::
@@ -119,10 +120,10 @@ _YeahText::
 	text_end
 
 _DexSeenOwnedText::
-	text "#DEX   Seen:@"
+	text "#DEX   Set:@"
 	text_decimal wDexRatingNumMonsSeen, 1, 3
 	text_start
-	line "         Owned:@"
+	line "         Ejet:@"
 	text_decimal wDexRatingNumMonsOwned, 1, 3
 	text_end
 
@@ -134,11 +135,11 @@ _GymStatueText1::
 	text_ram wGymCityName
 	text_start
 	line "#MON GYM"
-	cont "LEADER: @"
+	cont "LEDER: @"
 	text_ram wGymLeaderName
 	text_start
 
-	para "WINNING TRAINERS:"
+	para "VINDENDE TRÆNERE:"
 	line "<RIVAL>"
 	done
 
@@ -150,148 +151,160 @@ _GymStatueText2::
 	text_ram wGymLeaderName
 	text_start
 
-	para "WINNING TRAINERS:"
+	para "VINDENDE TRÆNERE:"
 	line "<RIVAL>"
 	cont "<PLAYER>"
 	done
 
 _ViridianCityPokecenterGuyText::
 	text "#MON CENTERs"
-	line "heal your tired,"
-	cont "hurt or fainted"
+	line "helbreder dine"
+	cont "udmattede, skadet"
+	cont "eller bevidstløse"
 	cont "#MON!"
 	done
 
 _PewterCityPokecenterGuyText::
-	text "Yawn!"
+	text "Gaab!"
 
-	para "When JIGGLYPUFF"
-	line "sings, #MON"
-	cont "get drowsy..."
+	para "Når JIGGLYPUFF"
+	line "synger, bliver
+	cont "#MON"
+	cont "døsige..."
 
-	para "...Me too..."
-	line "Snore..."
+	para "...Også mig..."
+	line "Snork..."
 	done
 
 _CeruleanPokecenterGuyText::
-	text "BILL has lots of"
+	text "BILL har mange"
 	line "#MON!"
 
-	para "He collects rare"
-	line "ones too!"
+	para "Han samler også"
+	line "på sjældne!"
 	done
 
 _LavenderPokecenterGuyText::
-	text "CUBONEs wear"
-	line "skulls, right?"
+	text "CUBONEs bærer"
+	line "kranier, ikke?"
 
-	para "People will pay a"
-	line "lot for one!"
+	para "Folk vil betale"
+	line "en del for en!"
 	done
 
 _MtMoonPokecenterBenchGuyText::
-	text "If you have too"
-	line "many #MON, you"
-	cont "should store them"
-	cont "via PC!"
+	text "Hvis du har for"
+	line "mange #MON,"
+	cont "bør du gemme dem" 
+	cont "via en PC!"
 	done
 
 _RockTunnelPokecenterGuyText::
-	text "I heard that"
-	line "GHOSTs haunt"
+	text "Jeg hørte, at"
+	line "SPØGELSER"
+	cont "hjemsøger"
 	cont "LAVENDER TOWN!"
 	done
 
 _UnusedBenchGuyText1::
-	text "I wish I could"
-	line "catch #MON."
+	text "Jeg ønsker, jeg"
+	line "kunne fange"
+	cont "#MON."
 	done
 
 _UnusedBenchGuyText2::
-	text "I'm tired from"
-	line "all the fun..."
+	text "Jeg er træt efter"
+	line "alt det sjov..."
 	done
 
 _UnusedBenchGuyText3::
-	text "SILPH's manager"
-	line "is hiding in the"
-	cont "SAFARI ZONE."
+	text "SILPH's leder"
+	line "gemmer sig i"
+	cont "SAFARIZONEN."
 	done
 
 _VermilionPokecenterGuyText::
-	text "It is true that a"
-	line "higher level"
-	cont "#MON will be"
-	cont "more powerful..."
+	text "Det er sandt, at"
+	line "en højere niveau"
+	cont "#MON vil være"
+	cont "mere kraftfuld..."
 
-	para "But, all #MON"
-	line "will have weak"
-	cont "points against"
-	cont "specific types."
+	para "Men, alle #MON"
+	line "vil have"
+	cont "svagheder mod"
+	cont "specifikke typer."
 
-	para "So, there is no"
-	line "universally"
-	cont "strong #MON."
+	para "Så der er ingen"
+	line "universalt stærk"
+	cont "#MON."
 	done
 
 _CeladonCityPokecenterGuyText::
-	text "If I had a BIKE,"
-	line "I would go to"
-	cont "CYCLING ROAD!"
+	text "Hvis jeg havde en"
+	line "CYKEL, kunne"
+	cont "jeg bruge"
+	cont "CYKELVEJEN!"
 	done
 
 _FuchsiaCityPokecenterGuyText::
-	text "If you're studying "
-	line "#MON, visit"
-	cont "the SAFARI ZONE."
+	text "Hvis du studerer "
+	line "#MON, besøg"
+	cont "SAFARIZONEN."
 
-	para "It has all sorts"
-	line "of rare #MON."
+	para "Der er alle"
+	line "slags sjældne"
+	cont "#MON."
 	done
 
 _CinnabarPokecenterGuyText::
-	text "#MON can still"
-	line "learn techniques"
-	cont "after canceling"
-	cont "evolution."
+	text "#MON kan stadig"
+	line "lære teknikker"
+	cont "efter en"
+	cont "annulleret"
+	cont "udvikling."
 
-	para "Evolution can wait"
-	line "until new moves"
-	cont "have been learned."
+	para "En udvikling kan"
+	line "vente indtil nye"
+	cont "teknikker er"
+	cont "blevet lært."
 	done
 
 _SaffronCityPokecenterGuyText1::
-	text "It would be great"
-	line "if the ELITE FOUR"
-	cont "came and stomped"
+	text "Det ville være"
+	line "fantastisk hvis"
+	cont "ELITE FOUR"
+	cont "dukkede op"
+	cont "og knuste"
 	cont "TEAM ROCKET!"
 	done
 
 _SaffronCityPokecenterGuyText2::
-	text "TEAM ROCKET took"
-	line "off! We can go"
-	cont "out safely again!"
+	text "TEAM ROCKET tog"
+	line "afsted! Vi kan"
+	cont "nu gå ud"
+	cont "sikkert igen!"
 	cont "That's great!"
 	done
 
 _CeladonCityHotelText::
-	text "My sis brought me"
-	line "on this vacation!"
+	text "Min søster tog"
+	line "mig med på"
+	cont "denne ferie!"
 	done
 
 _BookcaseText::
-	text "Crammed full of"
-	line "#MON books!"
+	text "Propfyldt med"
+	line "#MON bøger!"
 	done
 
 _NewBicycleText::
-	text "A shiny new"
-	line "BICYCLE!"
+	text "En skinnende ny"
+	line "CYKEL!"
 	done
 
 _PushStartText::
-	text "Push START to"
-	line "open the MENU!"
+	text "Tryk START for"
+	line "at åbne MENUEN!"
 	done
 
 _SaveOptionText::
@@ -575,10 +588,10 @@ _IndigoPlateauHQText::
 	done
 
 _RedBedroomSNESText::
-	text "<PLAYER> is"
-	line "playing the SNES!"
+	text "<PLAYER>"
+	line "spiller SNES!"
 	cont "...Okay!"
-	cont "It's time to go!"
+	cont "Tid til at gå!"
 	done
 
 _Route15UpstairsBinocularsText::
@@ -1694,95 +1707,101 @@ _LinkCanceledText::
 	done
 
 _OakSpeechText1::
-	text "Hello there!"
-	line "Welcome to the"
-	cont "world of #MON!"
+	text "Hej der!"
+	line "Velkommen til"
+	cont "verdenen af"
+	cont "#MON!"
 
-	para "My name is OAK!"
-	line "People call me"
-	cont "the #MON PROF!"
+	para "Mit navn er OAK!"
+	line "Folk kalder mig"
+	cont "#MON PROF!"
 	prompt
 
 _OakSpeechText2A::
-	text "This world is"
-	line "inhabited by"
-	cont "creatures called"
+	text "Denne verden er"
+	line "beboet af"
+	cont "væsener kaldet"
 	cont "#MON!@"
 	text_end
 
 _OakSpeechText2B::
 	text_start
 
-	para "For some people,"
-	line "#MON are"
-	cont "pets. Others use"
-	cont "them for fights."
+	para "For nogle folk,"
+	line "er #MON er"
+	cont "kæledyr. Andre"
+	cont "bruger dem til"
+	cont "kampe.
 
-	para "Myself..."
+	para "Mig selv..."
 
-	para "I study #MON"
-	line "as a profession."
+	para "Jeg arbejder"
+	line "med at studere"
+	cont "#MON."
 	prompt
 
 _IntroducePlayerText::
-	text "First, what is"
-	line "your name?"
+	text "Først, hvad er"
+	line "dit navn?"
 	prompt
 
 _IntroduceRivalText::
-	text "This is my grand-"
-	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
+	text "Dette er mit"
+	line "barnebarn. Han"
+	cont "har været din"
+	cont "rival siden du" 
+	cont "var baby."
 
-	para "...Erm, what is"
-	line "his name again?"
+	para "...Øh, hvad er"
+	line "hans navn igen?"
 	prompt
 
 _OakSpeechText3::
 	text "<PLAYER>!"
 
-	para "Your very own"
-	line "#MON legend is"
-	cont "about to unfold!"
+	para "Din egen #MON"
+	line "legende er ved at"
+	cont "udfolde sig!"
 
-	para "A world of dreams"
-	line "and adventures"
-	cont "with #MON"
-	cont "awaits! Let's go!"
+	para "En verden af"
+	line "drømme og eventyr"
+	cont "med #MON"
+	cont "venter!"
+	cont "Lad os gå!"
 	done
 
 _DoYouWantToNicknameText::
-	text "Do you want to"
-	line "give a nickname"
-	cont "to @"
+	text "Vil du give et"
+	line "kælenavn til"
+	cont "@"
 	text_ram wcd6d
 	text "?"
 	done
 
 _YourNameIsText::
-	text "Right! So your"
-	line "name is <PLAYER>!"
+	text "Rigtigt! Så dit"
+	line "navn er <PLAYER>!"
 	prompt
 
 _HisNameIsText::
-	text "That's right! I"
-	line "remember now! His"
-	cont "name is <RIVAL>!"
+	text "Det er rigtigt!"
+	line "Jeg husker nu!"
+	cont "Hans navn er"
+	cont "<RIVAL>!"
 	prompt
 
 _WillBeTradedText::
 	text_ram wNameOfPlayerMonToBeTraded
-	text " and"
+	text " og"
 	line "@"
 	text_ram wcd6d
-	text " will"
-	cont "be traded."
+	text " vil"
+	cont "blive byttet."
 	done
 
 _TextIDErrorText::
 	text_decimal hSpriteIndexOrTextID, 1, 2
-	text " ERROR."
+	text " FEJL."
 	done
 
 _ContCharText::
