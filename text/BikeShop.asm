@@ -40,7 +40,7 @@ _BikeShopText_1d82f::
 	line "your new BICYCLE?"
 
 	para "You can take it"
-	line "on CYCLING ROAD"
+	line "on CYKELVEJEN"
 	cont "and in caves!"
 	done
 

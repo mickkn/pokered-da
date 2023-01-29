@@ -11,7 +11,7 @@ _Route17EndBattleText1::
 _Route17AfterBattleText1::
 	text "Good stuff is"
 	line "lying around on"
-	cont "CYCLING ROAD!"
+	cont "CYKELVEJEN!"
 	done
 
 _Route17BattleText2::
@@ -190,6 +190,6 @@ _Route17Text15::
 	done
 
 _Route17Text16::
-	text "CYCLING ROAD"
+	text "CYKELVEJEN"
 	line "Slope ends here!"
 	done

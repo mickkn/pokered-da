@@ -52,7 +52,7 @@ _Route18Text4::
 	done
 
 _Route18Text5::
-	text "CYCLING ROAD"
+	text "CYKELVEJEN"
 	line "No pedestrians"
 	cont "permitted!"
 	done

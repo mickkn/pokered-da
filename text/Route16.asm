@@ -110,7 +110,7 @@ _Route16Text11::
 
 _Route16Text8::
 	text "Enjoy the slope!"
-	line "CYCLING ROAD"
+	line "CYKELVEJEN"
 	done
 
 _Route16Text9::

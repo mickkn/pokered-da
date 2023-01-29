@@ -1,10 +1,10 @@
 _Route18GateText_49928::
 	text "You need a BICYCLE"
-	line "for CYCLING ROAD!"
+	line "for CYKELVEJEN!"
 	done
 
 _Route18GateText_4992d::
-	text "CYCLING ROAD is"
+	text "CYKELVEJEN is"
 	line "all uphill from"
 	cont "here."
 	done
