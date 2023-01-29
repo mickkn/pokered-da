@@ -168,7 +168,7 @@ _PewterCityPokecenterGuyText::
 	text "Gaab!"
 
 	para "Når JIGGLYPUFF"
-	line "synger, bliver
+	line "synger, bliver"
 	cont "#MON"
 	cont "døsige..."
 
@@ -1728,10 +1728,10 @@ _OakSpeechText2B::
 	text_start
 
 	para "For nogle folk,"
-	line "er #MON er"
+	line "er #MON"
 	cont "kæledyr. Andre"
 	cont "bruger dem til"
-	cont "kampe.
+	cont "kampe."
 
 	para "Mig selv..."
 
