@@ -55,7 +55,7 @@ _MartSignText::
 	done
 
 _PokeCenterSignText::
-	text "helbred dine 
+	text "helbred dine"
 	line "#MON!"
 	cont "#MON CENTER"
 	done
@@ -121,7 +121,7 @@ _OaksAideComeBackText::
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
 	line "typer, kom"
-	cont "tilbage efter
+	cont "tilbage efter"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "."
