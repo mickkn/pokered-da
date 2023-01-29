@@ -41,7 +41,7 @@ _CeladonGameCornerText_48d36::
 
 _CeladonGameCornerText_48d3b::
 	text "You don't have a"
-	line "COIN CASE!"
+	line "MØNTKASSE!"
 	done
 
 _CeladonGameCornerText3::
@@ -186,5 +186,5 @@ _CeladonGameCornerText_48f09::
 
 _CeladonGameCornerText_48f19::
 	text "Oops! Forgot the"
-	line "COIN CASE!"
+	line "MØNTKASSE!"
 	done

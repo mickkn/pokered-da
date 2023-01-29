@@ -68,7 +68,7 @@ ItemNames::
 	li "X DEFEND"
 	li "X SPEED"
 	li "X SPECIAL"
-	li "COIN CASE"
+	li "MØNTKASSE"
 	li "OAK's PARCEL"
 	li "ITEMFINDER"
 	li "SILPH SCOPE"
