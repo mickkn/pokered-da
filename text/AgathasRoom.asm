@@ -1,6 +1,6 @@
 _AgathaBeforeBattleText::
 	text "I am AGATHA of"
-	line "the ELITE FOUR!"
+	line "ELITE-FIREN!"
 
 	para "OAK's taken a lot"
 	line "of interest in"
