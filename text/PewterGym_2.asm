@@ -67,7 +67,7 @@ _BrockBoulerBadgeInfoText::
 	text_start
 
 	para "That's an official"
-	line "#MON LEAGUE"
+	line "#MON-LIGA"
 	cont "BADGE!"
 
 	para "Its bearer's"

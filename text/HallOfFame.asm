@@ -7,7 +7,7 @@ _HallofFameRoomText1::
 	line "#MON HALL OF"
 	cont "FAME!"
 
-	para "#MON LEAGUE"
+	para "#MON-LIGAEN"
 	line "champions are"
 	cont "honored for their"
 	cont "exploits here!"
