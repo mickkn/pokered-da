@@ -98,7 +98,7 @@ _ViridianGymEndBattleText1::
 _ViridianGymAfterBattleText1::
 	text "You need power to"
 	line "keep up with our"
-	cont "GYM LEADER!"
+	cont "GYM-LEDER!"
 	done
 
 _ViridianGymBattleText2::
@@ -130,7 +130,7 @@ _ViridianGymEndBattleText3::
 _ViridianGymAfterBattleText3::
 	text "Do you know the"
 	line "identity of our"
-	cont "GYM LEADER?"
+	cont "GYM-LEDER?"
 	done
 
 _ViridianGymBattleText4::
@@ -212,7 +212,7 @@ _ViridianGymAfterBattleText8::
 	text "You can go onto"
 	line "#MON-LIGAEN"
 	cont "only by defeating"
-	cont "our GYM LEADER!"
+	cont "our GYM-LEDER!"
 	done
 
 _ViridianGymGuidePreBattleText::
@@ -225,7 +225,7 @@ _ViridianGymGuidePreBattleText::
 
 	para "This will be the"
 	line "toughest of all"
-	cont "the GYM LEADERs!"
+	cont "the GYM-LEDERE!"
 
 	para "I heard that the"
 	line "trainers here"
@@ -236,5 +236,5 @@ _ViridianGymGuidePreBattleText::
 _ViridianGymGuidePostBattleText::
 	text "Blow me away!"
 	line "GIOVANNI was the"
-	cont "GYM LEADER here?"
+	cont "GYM-LEDER here?"
 	done
