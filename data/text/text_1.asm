@@ -48,8 +48,9 @@ _BoulderText::
 	done
 
 _MartSignText::
-	text "Alle dine vare-"
-	line "behov er opfyldt!"
+	text "Alle dine"
+	line "varebehov er"
+	cont "opfyldt!"
 	cont "#MON MART"
 	done
 
@@ -119,15 +120,16 @@ _OaksAideComeBackText::
 	para "Når du får @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "typer, kom tilbage"
-	cont "efter @"
+	line "typer, kom"
+	cont "tilbage efter
+	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "."
 	done
 
 _OaksAideHereYouGoText::
-	text "Fantastisk! Du har"
-	line "fanget @"
+	text "Fantastisk! Du"
+	line "har fanget @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
 	text " typer "
 	cont "#MON!"
