@@ -1,5 +1,5 @@
 _FuchsiaHouse1Text1::
-	text "SAFARI ZONE's"
+	text "SAFARIZONEN's"
 	line "WARDEN is old,"
 	cont "but still active!"
 

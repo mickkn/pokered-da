@@ -22,7 +22,7 @@ _SSAnne9Text_61c10::
 
 _SSAnne9Text_61c1f::
 	text "Have you gone to"
-	line "the SAFARI ZONE"
+	line "the SAFARIZONEN"
 	cont "in FUCHSIA CITY?"
 
 	para "It had many rare"

@@ -61,7 +61,7 @@ _HM04ExplanationText::
 
 	para "Oh yes, did you"
 	line "find SECRET HOUSE"
-	cont "in SAFARI ZONE?"
+	cont "in SAFARIZONEN?"
 
 	para "If you do, you"
 	line "win an HM!"

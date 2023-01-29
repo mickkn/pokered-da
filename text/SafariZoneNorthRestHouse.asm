@@ -12,7 +12,7 @@ _SafariZoneRestHouse4Text1::
 _SafariZoneRestHouse4Text2::
 	text "Go to the deepest"
 	line "part of the"
-	cont "SAFARI ZONE. You"
+	cont "SAFARIZONEN. You"
 	cont "will win a prize!"
 	done
 

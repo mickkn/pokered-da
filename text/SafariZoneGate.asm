@@ -1,6 +1,6 @@
 _SafariZoneEntranceText1::
 	text "Welcome to the"
-	line "SAFARI ZONE!"
+	line "SAFARIZONEN!"
 	done
 
 SafariZoneEntranceText_9e6e4::
@@ -70,7 +70,7 @@ _SafariZoneEntranceText_753e6::
 	done
 
 _SafariZoneEntranceText_753eb::
-	text "SAFARI ZONE has 4"
+	text "SAFARIZONEN has 4"
 	line "zones in it."
 
 	para "Each zone has"

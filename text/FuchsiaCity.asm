@@ -6,7 +6,7 @@ _FuchsiaCityText1::
 	done
 
 _FuchsiaCityText2::
-	text "SAFARI ZONE has a"
+	text "SAFARIZONEN has a"
 	line "zoo in front of"
 	cont "the entrance."
 
@@ -43,13 +43,13 @@ _FuchsiaCityText13::
 	done
 
 _FuchsiaCityText16::
-	text "SAFARI ZONE"
+	text "SAFARIZONEN"
 	line "WARDEN's HOME"
 	done
 
 _FuchsiaCityText17::
 	text "#MON PARADISE"
-	line "SAFARI ZONE"
+	line "SAFARIZONEN"
 	done
 
 _FuchsiaCityText18::
