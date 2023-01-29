@@ -4,13 +4,13 @@ _CardKeySuccessText1::
 
 _CardKeySuccessText2::
 	text_start
-	line "The CARD KEY"
-	cont "opened the door!"
+	line "KORTNØGLEN"
+	cont "åbnede døren!"
 	done
 
 _CardKeyFailText::
-	text "Darn! It needs a"
-	line "CARD KEY!"
+	text "Uffda! Det kræver"
+	line "en KORTNØGLE!"
 	done
 
 _TrainerNameText::
@@ -19,17 +19,18 @@ _TrainerNameText::
 	text_end
 
 _NoNibbleText::
-	text "Not even a nibble!"
+	text "Ikke engang" 
+	line "et bid!"
 	prompt
 
 _NothingHereText::
-	text "Looks like there's"
-	line "nothing here."
+	text "Det ser ud til,"
+	line "der intet er her."
 	prompt
 
 _ItsABiteText::
 	text "Oh!"
-	line "It's a bite!"
+	line "Der er bid!"
 	prompt
 
 _ExclamationText::
@@ -37,112 +38,115 @@ _ExclamationText::
 	done
 
 _GroundRoseText::
-	text "Ground rose up"
-	line "somewhere!"
+	text "Jorden steg op et"
+	line "eller andet sted!"
 	done
 
 _BoulderText::
-	text "This requires"
-	line "STRENGTH to move!"
+	text "Det kræver"
+	line "STYRKE at flytte!"
 	done
 
 _MartSignText::
-	text "All your item"
-	line "needs fulfilled!"
+	text "Alle dine vare-"
+	line "behov er opfyldt!"
 	cont "#MON MART"
 	done
 
 _PokeCenterSignText::
-	text "Heal Your #MON!"
-	line "#MON CENTER"
+	text "helbred dine 
+	line "#MON!"
+	cont "#MON CENTER"
 	done
 
 _FoundItemText::
-	text "<PLAYER> found"
+	text "<PLAYER> fandt"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _NoMoreRoomForItemText::
-	text "No more room for"
-	line "items!"
+	text "Ingen plads til"
+	line "flere genstande!"
 	done
 
 _OaksAideHiText::
-	text "Hi! Remember me?"
-	line "I'm PROF.OAK's"
-	cont "AIDE!"
+	text "Hej! Husker du"
+	line "mig? Jeg er" 
+	cont "PROF.OAK's"
+	cont "HJÆLP!"
 
-	para "If you caught @"
+	para "Hvis du har" 
+	line "fanget @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "kinds of #MON,"
-	cont "I'm supposed to"
-	cont "give you an"
+	line "typer af #MON,"
+	cont "skal jeg give"
+	cont "dig en"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "!"
 
-	para "So, <PLAYER>! Have"
-	line "you caught at"
-	cont "least @"
+	para "Så, <PLAYER>! Har"
+	line "du fanget"
+	cont "mindst @"
 	text_decimal hOaksAideRequirement, 1, 3
-	text " kinds of"
+	text " typer"
 	cont "#MON?"
 	done
 
 _OaksAideUhOhText::
-	text "Let's see..."
-	line "Uh-oh! You have"
-	cont "caught only @"
+	text "Lad os se..."
+	line "Åh nej! Du har"
+	cont "kun fanget @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
 	text_start
-	cont "kinds of #MON!"
+	cont "typer of #MON!"
 
-	para "You need @"
+	para "Du manger @"
 	text_decimal hOaksAideRequirement, 1, 3
-	text " kinds"
-	line "if you want the"
+	text " typer"
+	line "hvis du vil have"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "."
 	done
 
 _OaksAideComeBackText::
-	text "Oh. I see."
+	text "Oh. Jeg forstår."
 
-	para "When you get @"
+	para "Når du får @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "kinds, come back"
-	cont "for @"
+	line "typer, kom tilbage"
+	cont "efter @"
 	text_ram wOaksAideRewardItemName
 	text "."
 	done
 
 _OaksAideHereYouGoText::
-	text "Great! You have"
-	line "caught @"
+	text "Fantastisk! Du har"
+	line "fanget @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
-	text " kinds "
-	cont "of #MON!"
-	cont "Congratulations!"
+	text " typer "
+	cont "#MON!"
+	cont "Tillykke!"
 
-	para "Here you go!"
+	para "Værsgo!"
 	prompt
 
 _OaksAideGotItemText::
-	text "<PLAYER> got the"
+	text "<PLAYER> fik"
 	line "@"
 	text_ram wOaksAideRewardItemName
 	text "!@"
 	text_end
 
 _OaksAideNoRoomText::
-	text "Oh! I see you"
-	line "don't have any"
-	cont "room for the"
+	text "Oh! Jeg ser at"
+	line "du ikke har plads"
+	cont " til"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "."
