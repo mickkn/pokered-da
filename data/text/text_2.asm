@@ -606,58 +606,61 @@ _RedBedroomSNESText::
 	done
 
 _Route15UpstairsBinocularsText::
-	text "Looked into the"
-	line "binoculars..."
+	text "Kiggede i"
+	line "kikkerten..."
 
-	para "A large, shining"
-	line "bird is flying"
-	cont "toward the sea."
+	para "En stor, skinnede"
+	line "fugl flyver"
+	cont "mod havet."
 	done
 
 _AerodactylFossilText::
 	text "AERODACTYL Fossil"
-	line "A primitive and"
-	cont "rare #MON."
+	line "En primitiv og"
+	cont "sjælden #MON."
 	done
 
 _KabutopsFossilText::
 	text "KABUTOPS Fossil"
-	line "A primitive and"
-	cont "rare #MON."
+	line "En primitiv og"
+	cont "sjælden #MON."
 	done
 
 _LinkCableHelpText1::
-	text "TRAINER TIPS"
+	text "TRÆNER TIPS"
 
-	para "Using a Game Link"
-	line "Cable"
+	para "Ved brug af et"
+	line "Game Link kabel"
 	prompt
 
 _LinkCableHelpText2::
-	text "Which heading do"
-	line "you want to read?"
+	text "Hvilken"
+	line "overskrift vil du" 
+	cont "gerne læse?"
 	done
 
 _LinkCableInfoText1::
-	text "When you have"
-	line "linked your GAME"
-	cont "BOY with another"
-	cont "GAME BOY, talk to"
-	cont "the attendant on"
-	cont "the right in any"
+	text "Når du har"
+	line "linket din GAME"
+	cont "BOY til en anden"
+	cont "GAME BOY, tal med"
+	cont "tjeneren til" 
+	cont "højre i et"
 	cont "#MON CENTER."
 	prompt
 
 _LinkCableInfoText2::
-	text "COLOSSEUM lets"
-	line "you play against"
-	cont "a friend."
+	text "KOLOSSEUM giver"
+	line "dig mulighed for"
+	cont "at spille mod"
+	cont "en ven."
 	prompt
 
 _LinkCableInfoText3::
-	text "TRADE CENTER is"
-	line "used for trading"
-	cont "#MON."
+	text "BYTTECENTRALEN"
+	line "bruges til at"
+	cont "bytte #MON"
+	cont "med."
 	prompt
 
 _ViridianSchoolBlackboardText1::
