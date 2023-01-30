@@ -999,86 +999,89 @@ _AlreadyOutText::
 _MoveNoPPText::
 	text "Ikke nok PP"
 	line "tilbage til dette"
-	line "træk!"
+	line "angreb!"
 	prompt
 
 _MoveDisabledText::
-	text "The move is"
-	line "disabled!"
+	text "Dette angreb er"
+	line "deaktiveret!"
 	prompt
 
 _NoMovesLeftText::
 	text_ram wBattleMonNick
-	text " has no"
-	line "moves left!"
+	text " har ikke flere"
+	line "angreb tilbage!"
 	done
 
 _MultiHitText::
-	text "Hit the enemy"
+	text "Ramte modstander"
 	line "@"
 	text_decimal wPlayerNumHits, 1, 1
-	text " times!"
+	text " gange!"
 	prompt
 
 _ScaredText::
 	text_ram wBattleMonNick
-	text " is too"
-	line "scared to move!"
+	text " er for bange"
+	line "til at angribe!"
 	prompt
 
 _GetOutText::
-	text "GHOST: Get out..."
-	line "Get out..."
+	text "SPØGELSE:"
+	line "Kom væk..."
+	cont "Kom væk..."
 	prompt
 
 _FastAsleepText::
 	text "<USER>"
-	line "is fast asleep!"
+	line "i dyb søvn!"
 	prompt
 
 _WokeUpText::
 	text "<USER>"
-	line "woke up!"
+	line "vågnede op!"
 	prompt
 
 _IsFrozenText::
 	text "<USER>"
-	line "is frozen solid!"
+	line "er dybfrossen!"
 	prompt
 
 _FullyParalyzedText::
-	text "<USER>'s"
-	line "fully paralyzed!"
+	text "<USER> er"
+	line "helt lammet!"
 	prompt
 
 _FlinchedText::
 	text "<USER>"
-	line "flinched!"
+	line "krympede sig!"
 	prompt
 
 _MustRechargeText::
-	text "<USER>"
-	line "must recharge!"
+	text "<USER> skal"
+	line "genoplade!"
 	prompt
 
 _DisabledNoMoreText::
-	text "<USER>'s"
-	line "disabled no more!"
+	text "<USER>"
+	line "er ikke længere"
+	cont "deaktiveret!"
 	prompt
 
 _IsConfusedText::
 	text "<USER>"
-	line "is confused!"
+	line "er forvirret!"
 	prompt
 
 _HurtItselfText::
-	text "It hurt itself in"
-	line "its confusion!"
+	text "Skadede sig selv"
+	line "i sin forvirring!"
 	prompt
 
 _ConfusedNoMoreText::
-	text "<USER>'s"
-	line "confused no more!"
+	text "<USER>"
+	line "er ikke længere"
+	cont "forvirret!"
 	prompt
 
 _SavingEnergyText::
@@ -1088,30 +1091,32 @@ _SavingEnergyText::
 
 _UnleashedEnergyText::
 	text "<USER>"
-	line "unleashed energy!"
+	line "udløste energi!"
 	prompt
 
 _ThrashingAboutText::
-	text "<USER>'s"
-	line "thrashing about!"
+	text "<USER>"
+	line "vælter runt!"
 	done
 
 _AttackContinuesText::
 	text "<USER>'s"
-	line "attack continues!"
+	line "angreb"
+	cont "fortsætter!"
 	done
 
 _CantMoveText::
 	text "<USER>"
-	line "can't move!"
+	line "kan ikke"
+	cont "bevæge sig!"
 	prompt
 
 _MoveIsDisabledText::
 	text "<USER>'s"
 	line "@"
 	text_ram wcd6d
-	text " is"
-	cont "disabled!"
+	text " er"
+	cont "deaktiveret!"
 	prompt
 
 _MonName1Text::
@@ -1120,16 +1125,16 @@ _MonName1Text::
 
 _Used1Text::
 	text_start
-	line "used @"
+	line "brugte @"
 	text_end
 
 _Used2Text::
 	text_start
-	line "used @"
+	line "brugte @"
 	text_end
 
 _InsteadText::
-	text "instead,"
+	text "istedet,"
 	cont "@"
 	text_end
 
@@ -1159,49 +1164,50 @@ _ExclamationPoint5Text::
 
 _AttackMissedText::
 	text "<USER>'s"
-	line "attack missed!"
+	line "angreb"
+	cont "mislykkedes!"
 	prompt
 
 _KeptGoingAndCrashedText::
 	text "<USER>"
-	line "kept going and"
-	cont "crashed!"
+	line "fortsatte og"
+	cont "styrtede!"
 	prompt
 
 _UnaffectedText::
-	text "<TARGET>'s"
-	line "unaffected!"
+	text "<TARGET> er"
+	line "upåvirket!"
 	prompt
 
 _DoesntAffectMonText::
-	text "It doesn't affect"
+	text "Det påvirker ikke"
 	line "<TARGET>!"
 	prompt
 
 _CriticalHitText::
-	text "Critical hit!"
+	text "Kritisk træf!"
 	prompt
 
 _OHKOText::
-	text "One-hit KO!"
+	text "Et-træf KO!"
 	prompt
 
 _LoafingAroundText::
 	text_ram wBattleMonNick
-	text " is"
-	line "loafing around."
+	text " "
+	line "slapper af."
 	prompt
 
 _BeganToNapText::
 	text_ram wBattleMonNick
-	text " began"
-	line "to nap!"
+	text " begyndte"
+	line "at tage en lur!"
 	prompt
 
 _WontObeyText::
 	text_ram wBattleMonNick
-	text " won't"
-	line "obey!"
+	text " vil"
+	line "ikke adlyde!"
 	prompt
 
 _TurnedAwayText::
