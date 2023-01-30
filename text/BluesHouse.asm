@@ -24,7 +24,7 @@ _DaisyBagFullText::
 	done
 
 _DaisyUseMapText::
-	text "Use the TOWN MAP"
+	text "Use BYKORTET"
 	line "to find out where"
 	cont "you are."
 	done

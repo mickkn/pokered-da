@@ -350,7 +350,7 @@ _OaksLabText27::
 	cont "don't need you!"
 
 	para "I know! I'll"
-	line "borrow a TOWN MAP"
+	line "borrow a BYKORT"
 	cont "from my sis!"
 
 	para "I'll tell her not"
