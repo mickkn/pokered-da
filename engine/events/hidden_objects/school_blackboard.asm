@@ -70,8 +70,8 @@ LinkCableHelpText2:
 HowToLinkText:
 	db   "HOW TO LINK"
 	next "COLOSSEUM"
-	next "TRADE CENTER"
-	next "STOP READING@"
+	next "BYTTECENTRAL"
+	next "STOP LÆSNING@"
 
 LinkCableInfoTexts:
 	dw LinkCableInfoText1
