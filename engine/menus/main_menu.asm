@@ -341,9 +341,9 @@ NewGameText:
 	next "MENU@"
 
 CableClubOptionsText:
-	db   "TRADE CENTER"
-	next "COLOSSEUM"
-	next "CANCEL@"
+	db   "BYTTECENTRAL"
+	next "KOLOSSEUM"
+	next "FORTRYD@"
 
 DisplayContinueGameInfo:
 	xor a
