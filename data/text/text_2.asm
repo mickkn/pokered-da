@@ -664,148 +664,154 @@ _LinkCableInfoText3::
 	prompt
 
 _ViridianSchoolBlackboardText1::
-	text "The blackboard"
-	line "describes #MON"
-	cont "STATUS changes"
-	cont "during battles."
+	text "Tavlen beskriver"
+	line "ændringerne i"
+	cont "#MON STATUS"
+	cont "under kampe."
 	prompt
 
 _ViridianSchoolBlackboardText2::
-	text "Which heading do"
-	line "you want to read?"
+	text "Hvilken"
+	line "overskrift vil du"
+	cont "gerne læse?"
 	done
 
 _ViridianBlackboardSleepText::
-	text "A #MON can't"
-	line "attack if it's"
-	cont "asleep!"
+	text "En #MON kan"
+	line "ikke angribe,"
+	cont "hvis den sover!"
 
-	para "#MON will stay"
-	line "asleep even after"
-	cont "battles."
+	para "En #MON vil"
+	line "fortsætte med at"
+	cont "sove, selv efter"
+	cont "kampe."
 
-	para "Use AWAKENING to"
-	line "wake them up!"
+	para "Brug AWAKENING"
+	line "til at vække den!"
 	prompt
 
 _ViridianBlackboardPoisonText::
-	text "When poisoned, a"
-	line "#MON's health"
-	cont "steadily drops."
+	text "Når en #MON er"    
+	line "forgiftet falder" 
+	cont "dens liv støt"
 
-	para "Poison lingers"
-	line "after battles."
+	para "Forgiftning varer"
+	line "ved efter kampe."
 
-	para "Use an ANTIDOTE"
-	line "to cure poison!"
+	para "Brug ANTIDOTE til"
+	line "til at kurere en"
+	cont "forgiftning!"
 	prompt
 
 _ViridianBlackboardPrlzText::
-	text "Paralysis could"
-	line "make #MON"
-	cont "moves misfire!"
+	text "Lammelse kan gøre"
+	line "at #MON"
+	cont "angreb mislykkes!"
 
-	para "Paralysis remains"
-	line "after battles."
+	para "Paralysis varer"
+	line "ved efter kampe."
 
-	para "Use PARLYZ HEAL"
-	line "for treatment!"
+	para "Brug PARLYZ HEAL"
+	line "til behandling!"
 	prompt
 
 _ViridianBlackboardBurnText::
-	text "A burn reduces"
-	line "power and speed."
-	cont "It also causes"
-	cont "ongoing damage."
+	text "Et forbrænding"
+	line "reducerer styrke" 
+	cont "og hastighed. Det"
+	cont "forårsager også"
+	cont "fortsat skade."
 
-	para "Burns remain"
-	line "after battles."
+	para "Forbrænding varer"
+	line "ved efter kampe."
 
-	para "Use BURN HEAL to"
-	line "cure a burn!"
+	para "Brug BURN HEAL"
+	line "til behandling!"
 	prompt
 
 _ViridianBlackboardFrozenText::
-	text "If frozen, a"
-	line "#MON becomes"
-	cont "totally immobile!"
+	text "En frossen"
+	line "#MON bliver"
+	cont "fuldstændig"
+	cont "ubevægelig!"
 
-	para "It stays frozen"
-	line "even after the"
-	cont "battle ends."
+	para "Forbrysning varer"
+	line "ved efter kampe."
 
-	para "Use ICE HEAL to"
-	line "thaw out #MON!"
+	para "Brug ICE HEAL til"
+	line "at tø en #MON!"
 	prompt
 
 _VermilionGymTrashText::
-	text "Nope, there's"
-	line "only trash here."
+	text "Nej, der er kun"
+	line "skrald her."
 	done
 
 _VermilionGymTrashSuccessText1::
-	text "Hey! There's a"
-	line "switch under the"
-	cont "trash!"
-	cont "Turn it on!"
+	text "Hey! Der er en"
+	line "kontakt under"
+	cont "skraldet!"
+	cont "Slå den til!"
 
-	para "The 1st electric"
-	line "lock opened!@"
+	para "Den første"
+	line "elektriske lås"
+	cont "åbnede!@"
 	text_end
 
 _VermilionGymTrashSuccessText2::
-	text "Hey! There's"
-	line "another switch"
-	cont "under the trash!"
-	cont "Turn it on!"
+	text "Hey! Der er endnu"
+	line "en kontakt under"
+	cont "skraldet!"
+	cont "Slå den til!"
 	prompt
 
 _VermilionGymTrashSuccessText3::
-	text "The 2nd electric"
-	line "lock opened!"
+	text "Den 2. elektriske"
+	line "lås åbnede!"
 
-	para "The motorized door"
-	line "opened!@"
+	para "Den motoriserede"
+	line "dør åbnede!@"
 	text_end
 
 _VermilionGymTrashFailText::
-	text "Nope! There's"
-	line "only trash here."
-	cont "Hey! The electric"
-	cont "locks were reset!@"
+	text "Nope! Der er kun"
+	line "affald her."
+	cont "Hey! De"
+	cont "elektriske låse"
+	cont "blev nulstillet!@"
 	text_end
 
 _FoundHiddenItemText::
-	text "<PLAYER> found"
+	text "<PLAYER> fandt"
 	line "@"
 	text_ram wcd6d
 	text "!@"
 	text_end
 
 _HiddenItemBagFullText::
-	text "But, <PLAYER> has"
-	line "no more room for"
-	cont "other items!"
+	text "Men, <PLAYER> har"
+	line "ikke plads til"
+	cont "andre ting!"
 	done
 
 _FoundHiddenCoinsText::
-	text "<PLAYER> found"
+	text "<PLAYER> fandt"
 	line "@"
 	text_bcd hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
-	text " coins!@"
+	text " mønter!@"
 	text_end
 
 _FoundHiddenCoins2Text::
-	text "<PLAYER> found"
+	text "<PLAYER> fandt"
 	line "@"
 	text_bcd hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
-	text " coins!@"
+	text " mønter!@"
 	text_end
 
 _DroppedHiddenCoinsText::
 	text_start
-	para "Oops! Dropped"
-	line "some coins!"
+	para "Ups! tabte"
+	line "nogle mønter!"
 	done
 
 _IndigoPlateauStatuesText1::
@@ -813,93 +819,94 @@ _IndigoPlateauStatuesText1::
 	prompt
 
 _IndigoPlateauStatuesText2::
-	text "The ultimate goal"
-	line "of trainers!"
+	text "Det ultimative"
+	line "mål for trænere!"
 	cont "#MON LIGA HQ"
 	done
 
 _IndigoPlateauStatuesText3::
-	text "The highest"
-	line "#MON authority"
+	text "Den højeste"
+	line "#MON autoritet"
 	cont "#MON LIGA HQ"
 	done
 
 _PokemonBooksText::
-	text "Crammed full of"
-	line "#MON books!"
+	text "Fyldt med"
+	line "#MON bøger!"
 	done
 
 _DiglettSculptureText::
-	text "It's a sculpture"
-	line "of DIGLETT."
+	text "Det er en"
+	line "skulptur af"
+	cont "DIGLETT."
 	done
 
 _ElevatorText::
-	text "This is an"
+	text "Dette er en"
 	line "elevator."
 	done
 
 _TownMapText::
-	text "A TOWN MAP.@"
+	text "Et BYKORT.@"
 	text_end
 
 _PokemonStuffText::
-	text "Wow! Tons of"
-	line "#MON stuff!"
+	text "Wow! Masser af"
+	line "#MON ting!"
 	done
 
 _OutOfSafariBallsText::
 	text "PA: Ding-dong!"
 
-	para "You are out of"
+	para "Du har ikke flere"
 	line "SAFARI BALLs!"
 	prompt
 
 _WildRanText::
-	text "Wild @"
+	text "Vild @"
 	text_ram wEnemyMonNick
 	text_start
-	line "ran!"
+	line "stak af!"
 	prompt
 
 _EnemyRanText::
-	text "Enemy @"
+	text "Modstander @"
 	text_ram wEnemyMonNick
 	text_start
-	line "ran!"
+	line "stak af!"
 	prompt
 
 _HurtByPoisonText::
-	text "<USER>'s"
-	line "hurt by poison!"
+	text "<USER> tog skade"
+	line "af giften!"
 	prompt
 
 _HurtByBurnText::
-	text "<USER>'s"
-	line "hurt by the burn!"
+	text "<USER> tog skade"
+	line "af forbrændingen!"
 	prompt
 
 _HurtByLeechSeedText::
-	text "LEECH SEED saps"
-	line "<USER>!"
+	text "LEECH SEED tager"
+	line "liv fra <USER>!"
 	prompt
 
 _EnemyMonFaintedText::
-	text "Enemy @"
+	text "Modstander @"
 	text_ram wEnemyMonNick
 	text_start
-	line "fainted!"
+	line "besvimede!"
 	prompt
 
 _MoneyForWinningText::
-	text "<PLAYER> got ¥@"
+	text "<PLAYER> fik ¥@"
 	text_bcd wAmountMoneyWon, 3 | LEADING_ZEROES | LEFT_ALIGN
 	text_start
-	line "for winning!"
+	line "for at vinde!"
 	prompt
 
 _TrainerDefeatedText::
-	text "<PLAYER> defeated"
+	text "<PLAYER> besejrede"
 	line "@"
 	text_ram wTrainerName
 	text "!"
@@ -908,86 +915,91 @@ _TrainerDefeatedText::
 _PlayerMonFaintedText::
 	text_ram wBattleMonNick
 	text_start
-	line "fainted!"
+	line "besvimede!"
 	prompt
 
 _UseNextMonText::
-	text "Use next #MON?"
+	text "Brug næste #MON?"
 	done
 
 _Rival1WinText::
-	text "<RIVAL>: Yeah! Am"
-	line "I great or what?"
+	text "<RIVAL>: Yeah! Er"
+	line "jeg ikke"
+	cont "fantastisk?"
 	prompt
 
 _PlayerBlackedOutText2::
-	text "<PLAYER> is out of"
-	line "useable #MON!"
+	text "<PLAYER> har"
+	line "ingen brugbare"
+	cont "#MON tilbage!"
 
-	para "<PLAYER> blacked"
-	line "out!"
+	para "<PLAYER>"
+	line "besvimede!"
 	prompt
 
 _LinkBattleLostText::
-	text "<PLAYER> lost to"
-	line "@"
+	text "<PLAYER> tabte"
+	line "til @"
 	text_ram wTrainerName
 	text "!"
 	prompt
 
 _TrainerAboutToUseText::
 	text_ram wTrainerName
-	text " is"
-	line "about to use"
+	text " er"
+	line "ved at bruge"
 	cont"@"
 	text_ram wEnemyMonNick
 	text "!"
 
-	para "Will <PLAYER>"
-	line "change #MON?"
+	para "Vil <PLAYER>"
+	line "skifte #MON?"
 	done
 
 _TrainerSentOutText::
 	text_ram wTrainerName
-	text " sent"
-	line "out @"
+	text " vælger"
+	line "@"
 	text_ram wEnemyMonNick
 	text "!"
 	done
 
 _NoWillText::
-	text "There's no will"
-	line "to fight!"
+	text "Der er ingen vilje"
+	line "til at kæmpe!"
 	prompt
 
 _CantEscapeText::
-	text "Can't escape!"
+	text "Kan ikke"
+	line "undslippe!"
 	prompt
 
 _NoRunningText::
-	text "No! There's no"
-	line "running from a"
-	cont "trainer battle!"
+	text "Nej! Der er ingen"
+	line "mulighed for at"
+	cont "løbe fra en"
+	cont "trænerkamp!"
 	prompt
 
 _GotAwayText::
-	text "Got away safely!"
+	text "Kom sikkert væk!"
 	prompt
 
 _ItemsCantBeUsedHereText::
-	text "Items can't be"
-	line "used here."
+	text "Genstande kan ikke"
+	line "bruges her."
 	prompt
 
 _AlreadyOutText::
 	text_ram wBattleMonNick
-	text " is"
-	line "already out!"
+	text " er"
+	line "allerede ude"
 	prompt
 
 _MoveNoPPText::
-	text "No PP left for"
-	line "this move!"
+	text "Ikke nok PP"
+	line "tilbage til dette"
+	line "træk!"
 	prompt
 
 _MoveDisabledText::
