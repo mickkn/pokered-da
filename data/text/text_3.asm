@@ -1,111 +1,112 @@
 _FileDataDestroyedText::
-	text "The file data is"
-	line "destroyed!"
+	text "Filerne er"
+	line "ødelagt!"
 	prompt
 
 _WouldYouLikeToSaveText::
-	text "Would you like to"
-	line "SAVE the game?"
+	text "Vil du GEMME"
+	line "spillet?"
 	done
 
 _GameSavedText::
-	text "<PLAYER> saved"
-	line "the game!"
+	text "<PLAYER> gemte"
+	line "spillet!"
 	done
 
 _OlderFileWillBeErasedText::
-	text "The older file"
-	line "will be erased to"
-	cont "save. Okay?"
+	text "Den ældre fil"
+	line "vil blive slettet"
+	cont "for at gemme. OK?"
 	done
 
 _WhenYouChangeBoxText::
-	text "When you change a"
-	line "#MON BOX, data"
-	cont "will be saved."
+	text "Når du ændrer en"
+	line "#MON boks, vil"
+	cont "data blive gemt."
 
-	para "Is that okay?"
+	para "Er det okay?"
 	done
 
 _ChooseABoxText::
-	text "Choose a"
-	line "<PKMN> BOX.@"
+	text "Vælg en"
+	line "<PKMN> BOKS.@"
 	text_end
 
 _EvolvedText::
 	text_ram wStringBuffer
-	text " evolved"
+	text " udviklede sig"
 	done
 
 _IntoText::
 	text_start
-	line "into @"
+	line "til @"
 	text_ram wcd6d
 	text "!"
 	done
 
 _StoppedEvolvingText::
-	text "Huh? @"
+	text "Hvad? @"
 	text_ram wStringBuffer
 	text_start
-	line "stopped evolving!"
+	line "stoppede sin"
+	cont "udviklingen!"
 	prompt
 
 _IsEvolvingText::
-	text "What? @"
+	text "Hvad? @"
 	text_ram wStringBuffer
 	text_start
-	line "is evolving!"
+	line "udvikler sig!"
 	done
 
 _FellAsleepText::
 	text "<TARGET>"
-	line "fell asleep!"
+	line "faldt i søvn!"
 	prompt
 
 _AlreadyAsleepText::
-	text "<TARGET>'s"
-	line "already asleep!"
+	text "<TARGET>"
+	line "sover allerede!"
 	prompt
 
 _PoisonedText::
 	text "<TARGET>"
-	line "was poisoned!"
+	line "blev forgiftet!"
 	prompt
 
 _BadlyPoisonedText::
-	text "<TARGET>'s"
-	line "badly poisoned!"
+	text "<TARGET>"
+	line "er forgiftet!"
 	prompt
 
 _BurnedText::
 	text "<TARGET>"
-	line "was burned!"
+	line "blev forbrændt!"
 	prompt
 
 _FrozenText::
 	text "<TARGET>"
-	line "was frozen solid!"
+	line "var stivfrossen!"
 	prompt
 
 _FireDefrostedText::
-	text "Fire defrosted"
+	text "Ilden optøede"
 	line "<TARGET>!"
 	prompt
 
 _MonsStatsRoseText::
-	text "<USER>'s"
+	text "<USER> er"
 	line "@"
 	text_ram wStringBuffer
 	text "@"
 	text_end
 
 _GreatlyRoseText::
-	text "<SCROLL>greatly@"
+	text "<SCROLL>@"
 	text_end
 
 _RoseText::
-	text " rose!"
+	text " steg!"
 	prompt
 
 _MonsStatsFellText::
@@ -116,26 +117,26 @@ _MonsStatsFellText::
 	text_end
 
 _GreatlyFellText::
-	text "<SCROLL>greatly@"
+	text "<SCROLL>@"
 	text_end
 
 _FellText::
-	text " fell!"
+	text " faldt!"
 	prompt
 
 _RanFromBattleText::
 	text "<USER>"
-	line "ran from battle!"
+	line "løb fra kampen!"
 	prompt
 
 _RanAwayScaredText::
 	text "<TARGET>"
-	line "ran away scared!"
+	line "løb skræmt væk!"
 	prompt
 
 _WasBlownAwayText::
 	text "<TARGET>"
-	line "was blown away!"
+	line "blev blæst væk!"
 	prompt
 
 _ChargeMoveEffectText::
@@ -144,42 +145,43 @@ _ChargeMoveEffectText::
 
 _MadeWhirlwindText::
 	text_start
-	line "made a whirlwind!"
+	line "lavede en"
+	cont "tornado!"
 	prompt
 
 _TookInSunlightText::
 	text_start
-	line "took in sunlight!"
+	line "optog sollyset!"
 	prompt
 
 _LoweredItsHeadText::
 	text_start
-	line "lowered its head!"
+	line "sænkede sit hoved!"
 	prompt
 
 _SkyAttackGlowingText::
 	text_start
-	line "is glowing!"
+	line "skinner!"
 	prompt
 
 _FlewUpHighText::
 	text_start
-	line "flew up high!"
+	line "fløj højt op!"
 	prompt
 
 _DugAHoleText::
 	text_start
-	line "dug a hole!"
+	line "gravede et hul!"
 	prompt
 
 _BecameConfusedText::
 	text "<TARGET>"
-	line "became confused!"
+	line "blev forvirret!"
 	prompt
 
 _MimicLearnedMoveText::
 	text "<USER>"
-	line "learned"
+	line "lærte"
 	cont "@"
 	text_ram wcd6d
 	text "!"
@@ -189,136 +191,139 @@ _MoveWasDisabledText::
 	text "<TARGET>'s"
 	line "@"
 	text_ram wcd6d
-	text " was"
-	cont "disabled!"
+	text " blev"
+	cont "deaktiveret!"
 	prompt
 
 _NothingHappenedText::
-	text "Nothing happened!"
+	text "Intet skete!"
 	prompt
 
 _NoEffectText::
-	text "No effect!"
+	text "Ingen virkning!"
 	prompt
 
 _ButItFailedText::
-	text "But, it failed! "
+	text "Men det"
+	line "mislykkedes!"
 	prompt
 
 _DidntAffectText::
-	text "It didn't affect"
+	text "Det påvirkede ikke"
 	line "<TARGET>!"
 	prompt
 
 _IsUnaffectedText::
 	text "<TARGET>"
-	line "is unaffected!"
+	line "er upåvirket!!"
 	prompt
 
 _ParalyzedMayNotAttackText::
-	text "<TARGET>'s"
-	line "paralyzed! It may"
-	cont "not attack!"
+	text "<TARGET> er"
+	line "lammet! Den kan"
+	cont "ikke angribe!"
 	prompt
 
 _SubstituteText::
-	text "It created a"
-	line "SUBSTITUTE!"
+	text "Den lavede en"
+	line "SUBSTITUT!"
 	prompt
 
 _HasSubstituteText::
 	text "<USER>"
-	line "has a SUBSTITUTE!"
+	line "har en SUBSTITUT!"
 	prompt
 
 _TooWeakSubstituteText::
-	text "Too weak to make"
-	line "a SUBSTITUTE!"
+	text "For svag til at"
+	line "lave en en"
+	line "SUBSTITUT!"
 	prompt
 
 _CoinsScatteredText::
-	text "Coins scattered"
-	line "everywhere!"
+	text "Mønter spredt"
+	line "overalt!"
 	prompt
 
 _GettingPumpedText::
-	text "<USER>'s"
-	line "getting pumped!"
+	text "<USER>"
+	line "bliver pumpet op!"
 	prompt
 
 _WasSeededText::
 	text "<TARGET>"
-	line "was seeded!"
+	line "blev sået!"
 	prompt
 
 _EvadedAttackText::
 	text "<TARGET>"
-	line "evaded attack!"
+	line "undgik angreb!"
 	prompt
 
 _HitWithRecoilText::
-	text "<USER>'s"
-	line "hit with recoil!"
+	text "<USER> blev"
+	line "ramt af rekyl!"
 	prompt
 
 _ConvertedTypeText::
-	text "Converted type to"
+	text "Ændrede type til"
 	line "<TARGET>'s!"
 	prompt
 
 _StatusChangesEliminatedText::
-	text "All STATUS changes"
-	line "are eliminated!"
+	text "Alle STATUS"
+	line "ændringer er"
+	cont "elimineret!"
 	prompt
 
 _StartedSleepingEffect::
 	text "<USER>"
-	line "started sleeping!"
+	line "begyndte at sove!"
 	done
 
 _FellAsleepBecameHealthyText::
 	text "<USER>"
-	line "fell asleep and"
-	cont "became healthy!"
+	line "faldt i søvn og"
+	cont "blev helbredt!"
 	done
 
 _RegainedHealthText::
 	text "<USER>"
-	line "regained health!"
+	line "genvandt liv!"
 	prompt
 
 _TransformedText::
 	text "<USER>"
-	line "transformed into"
+	line "transformerede til"
 	cont "@"
 	text_ram wcd6d
 	text "!"
 	prompt
 
 _LightScreenProtectedText::
-	text "<USER>'s"
-	line "protected against"
-	cont "special attacks!"
+	text "<USER> er"
+	line "beskyttet imod"
+	cont "specielle angreb!"
 	prompt
 
 _ReflectGainedArmorText::
 	text "<USER>"
-	line "gained armor!"
+	line "fik rustning!"
 	prompt
 
 _ShroudedInMistText::
-	text "<USER>'s"
-	line "shrouded in mist!"
+	text "<USER> er"
+	line "dækket af tåge!"
 	prompt
 
 _SuckedHealthText::
-	text "Sucked health from"
+	text "Sugede liv fra"
 	line "<TARGET>!"
 	prompt
 
 _DreamWasEatenText::
 	text "<TARGET>'s"
-	line "dream was eaten!"
+	line "drømme blev spist!"
 	prompt
 
 _TradeCenterText1::
