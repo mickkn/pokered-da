@@ -1212,125 +1212,128 @@ _WontObeyText::
 
 _TurnedAwayText::
 	text_ram wBattleMonNick
-	text " turned"
-	line "away!"
+	text " vendte"
+	line "sig væk!"
 	prompt
 
 _IgnoredOrdersText::
 	text_ram wBattleMonNick
 	text_start
-	line "ignored orders!"
+	line "ignorerede ordre!"
 	prompt
 
 _SubstituteTookDamageText::
-	text "The SUBSTITUTE"
-	line "took damage for"
+	text "SUBSTITUTEN"
+	line "tog skade for"
 	cont "<TARGET>!"
 	prompt
 
 _SubstituteBrokeText::
 	text "<TARGET>'s"
-	line "SUBSTITUTE broke!"
+	line "SUBSTITUT gik"
+	cont "i stykker!"
 	prompt
 
 _BuildingRageText::
 	text "<USER>'s"
-	line "RAGE is building!"
+	line "RAGE opbygges!"
 	prompt
 
 _MirrorMoveFailedText::
-	text "The MIRROR MOVE"
-	next "failed!"
+	text "MIRROR MOVE"
+	next "fejlede!"
 	prompt
 
 _HitXTimesText::
-	text "Hit @"
+	text "Ramte @"
 	text_decimal wEnemyNumHits, 1, 1
-	text " times!"
+	text " gange!"
 	prompt
 
 _GainedText::
 	text_ram wcd6d
-	text " gained"
+	text " opnåede"
 	line "@"
 	text_end
 
 _WithExpAllText::
-	text "with EXP.ALL,"
+	text "med EXP.ALL,"
 	cont "@"
 	text_end
 
 _BoostedText::
-	text "a boosted"
+	text "en forbedret"
 	cont "@"
 	text_end
 
 _ExpPointsText::
 	text_decimal wExpAmountGained, 2, 4
-	text " EXP. Points!"
+	text " EXP. Point!"
 	prompt
 
 _GrewLevelText::
 	text_ram wcd6d
-	text " grew"
-	line "to level @"
+	text " steg"
+	line "til level @"
 	text_decimal wCurEnemyLVL, 1, 3
 	text "!@"
 	text_end
 
 _WildMonAppearedText::
-	text "Wild @"
+	text "Vild @"
 	text_ram wEnemyMonNick
 	text_start
-	line "appeared!"
+	line "dukkede op!"
 	prompt
 
 _HookedMonAttackedText::
-	text "The hooked"
+	text "Den fangede"
 	line "@"
 	text_ram wEnemyMonNick
 	text_start
-	cont "attacked!"
+	cont "angreb!"
 	prompt
 
 _EnemyAppearedText::
 	text_ram wEnemyMonNick
 	text_start
-	line "appeared!"
+	line "dukkede op!"
 	prompt
 
 _TrainerWantsToFightText::
 	text_ram wTrainerName
-	text " wants"
-	line "to fight!"
+	text " vil"
+	line "kæmpe!"
 	prompt
 
 _UnveiledGhostText::
 	text "SILPH SCOPE"
-	line "unveiled the"
-	cont "GHOST's identity!"
+	line "afslørede GHOST's"
+	cont "identitet!"
 	prompt
 
 _GhostCantBeIDdText::
-	text "Darn! The GHOST"
-	line "can't be ID'd!"
+	text "Øv! Det GHOST"
+	line "kan ikke"
+	cont "identificeres!"
 	prompt
 
 _GoText::
-	text "Go! @"
+	text "Afsted! @"
 	text_end
 
 _DoItText::
-	text "Do it! @"
+	text "Gør det! @"
 	text_end
 
 _GetmText::
-	text "Get'm! @"
+	text "Tag dem! @"
 	text_end
 
 _EnemysWeakText::
-	text "The enemy's weak!"
-	line "Get'm! @"
+	text "Modstanderen"
+	line "er svag!"
+	cont "Tag dem! @"
 	text_end
 
 _PlayerMon1Text::
@@ -1344,7 +1347,7 @@ _PlayerMon2Text::
 	text_end
 
 _EnoughText::
-	text "enough!@"
+	text "nok!@"
 	text_end
 
 _OKExclamationText::
@@ -1352,157 +1355,163 @@ _OKExclamationText::
 	text_end
 
 _GoodText::
-	text "good!@"
+	text "godt!@"
 	text_end
 
 _ComeBackText::
 	text_start
-	line "Come back!"
+	line "Kom tilbage!"
 	done
 
 _SuperEffectiveText::
-	text "It's super"
-	line "effective!"
+	text "Det er super"
+	line "effektivt!"
 	prompt
 
 _NotVeryEffectiveText::
-	text "It's not very"
-	line "effective..."
+	text "Det er ikke særlig"
+	line "effektivt..."
 	prompt
 
 _SafariZoneEatingText::
-	text "Wild @"
+	text "Vild @"
 	text_ram wEnemyMonNick
 	text_start
-	line "is eating!"
+	line "spiser!"
 	prompt
 
 _SafariZoneAngryText::
-	text "Wild @"
+	text "Vild @"
 	text_ram wEnemyMonNick
 	text_start
-	line "is angry!"
+	line "er vred!"
 	prompt
 
 ; money related
 _PickUpPayDayMoneyText::
-	text "<PLAYER> picked up"
-	line "¥@"
+	text "<PLAYER> samlede"
+	line "¥@ op"
 	text_bcd wTotalPayDayMoney, 3 | LEADING_ZEROES | LEFT_ALIGN
 	text "!"
 	prompt
 
 _ClearSaveDataText::
-	text "Clear all saved"
+	text "Ryd alt gemt"
 	line "data?"
 	done
 
 _WhichFloorText::
-	text "Which floor do"
-	line "you want? "
+	text "Hvilken etage vil"
+	line "du gå til?"
 	done
 
 _PartyMenuNormalText::
-	text "Choose a #MON."
+	text "Vælg en #MON."
 	done
 
 _PartyMenuItemUseText::
-	text "Use item on which"
-	line "#MON?"
+	text "Brug genstand på"
+	line "hvilken"
+	cont "#MON?"
 	done
 
 _PartyMenuBattleText::
-	text "Bring out which"
+	text "Vælg en"
 	line "#MON?"
 	done
 
 _PartyMenuUseTMText::
-	text "Use TM on which"
+	text "Brug TM på hvilken"
 	line "#MON?"
 	done
 
 _PartyMenuSwapMonText::
-	text "Move #MON"
-	line "where?"
+	text "Flyt #MON"
+	line "til hvor?"
 	done
 
 _PotionText::
 	text_ram wcd6d
 	text_start
-	line "recovered by @"
+	line "genvandt @"
 	text_decimal wHPBarHPDifference, 2, 3
-	text "!"
+	text " liv!"
 	done
 
 _AntidoteText::
 	text_ram wcd6d
-	text " was"
-	line "cured of poison!"
+	text " blev"
+	line "helbredt for gift"
 	done
 
 _ParlyzHealText::
 	text_ram wcd6d
 	text "'s"
-	line "rid of paralysis!"
+	line "lammelse blev"
+	cont "helbredt!"
 	done
 
 _BurnHealText::
 	text_ram wcd6d
 	text "'s"
-	line "burn was healed!"
+	line "forbrænding blev"
+	cont "helbredt!"
 	done
 
 _IceHealText::
 	text_ram wcd6d
-	text " was"
-	line "defrosted!"
+	text " blev"
+	line "tøet op!"
 	done
 
 _AwakeningText::
 	text_ram wcd6d
 	text_start
-	line "woke up!"
+	line "vågnede op!"
 	done
 
 _FullHealText::
 	text_ram wcd6d
 	text "'s"
-	line "health returned!"
+	line "liv blev"
+	cont "genoprettet!"
 	done
 
 _ReviveText::
 	text_ram wcd6d
 	text_start
-	line "is revitalized!"
+	line "vågnede op!"
 	done
 
 _RareCandyText::
 	text_ram wcd6d
-	text " grew"
-	line "to level @"
+	text " steg"
+	line "til level @"
 	text_decimal wCurEnemyLVL, 1, 3
 	text "!@"
 	text_end
 
 _TurnedOnPC1Text::
-	text "<PLAYER> turned on"
-	line "the PC."
+	text "<PLAYER> tændte"
+	line "PCen."
 	prompt
 
 _AccessedBillsPCText::
-	text "Accessed BILL's"
-	line "PC."
+	text "Fik adgang til"
+	line "BILL's PC."
 
-	para "Accessed #MON"
-	line "Storage System."
+	para "Fik adgang til"
+	line "#MON"
+	cont "Opbevaringssystem."
 	prompt
 
 _AccessedSomeonesPCText::
-	text "Accessed someone's"
-	line "PC."
+	text "Fik adgang til"
+	line "nogens PC."
 
-	para "Accessed #MON"
-	line "Storage System."
+	para "Fik adgang til"
+	line "#MON"
+	cont "Opbevaringssystem."
 	prompt
 
 _AccessedMyPCText::
