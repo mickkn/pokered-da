@@ -1,101 +1,102 @@
 _PokemartGreetingText::
-	text "Hi there!"
-	next "May I help you?"
+	text "Hej! Kan jeg"
+	next "hjælpe dig?"
 	done
 
 _PokemonFaintedText::
 	text_ram wcd6d
 	text_start
-	line "fainted!"
+	line "besvimede!"
 	done
 
 _PlayerBlackedOutText::
-	text "<PLAYER> is out of"
-	line "useable #MON!"
+	text "<PLAYER> har ingen"
+	line "brugbare #MON!"
 
-	para "<PLAYER> blacked"
-	line "out!"
+	para "<PLAYER>"
+	line "besvimede!"
 	prompt
 
 _RepelWoreOffText::
-	text "REPEL's effect"
-	line "wore off."
+	text "REPEL's virkning"
+	line "er udløbet."
 	done
 
 _PokemartBuyingGreetingText::
-	text "Take your time."
+	text "Tag din tid."
 	done
 
 _PokemartTellBuyPriceText::
 	text_ram wStringBuffer
 	text "?"
-	line "That will be"
+	line "Det bliver"
 	cont "¥@"
 	text_bcd hMoney, 3 | LEADING_ZEROES | LEFT_ALIGN
 	text ". OK?"
 	done
 
 _PokemartBoughtItemText::
-	text "Here you are!"
-	line "Thank you!"
+	text "Her har du det!"
+	line "Tak!"
 	prompt
 
 _PokemartNotEnoughMoneyText::
-	text "You don't have"
-	line "enough money."
+	text "Du har ikke"
+	line "nok penge."
 	prompt
 
 _PokemartItemBagFullText::
-	text "You can't carry"
-	line "any more items."
+	text "Du kan ikke bære"
+	line "flere ting."
 	prompt
 
 _PokemonSellingGreetingText::
-	text "What would you"
-	line "like to sell?"
+	text "Hvad vil du"
+	line "gerne sælge?"
 	done
 
 _PokemartTellSellPriceText::
-	text "I can pay you"
+	text "Jeg kan give dig"
 	line "¥@"
 	text_bcd hMoney, 3 | LEADING_ZEROES | LEFT_ALIGN
-	text " for that."
+	text " for det."
 	done
 
 _PokemartItemBagEmptyText::
-	text "You don't have"
-	line "anything to sell."
+	text "Du har ikke"
+	line "noget at sælge."
 	prompt
 
 _PokemartUnsellableItemText::
-	text "I can't put a"
-	line "price on that."
+	text "Jeg kan ikke sætte"
+	line "en pris på det."
 	prompt
 
 _PokemartThankYouText::
-	text "Thank you!"
+	text "Tak skal du have!"
 	done
 
 _PokemartAnythingElseText::
-	text "Is there anything"
-	line "else I can do?"
+	text "Er der noget"
+	line "andet, jeg"
+	cont "kan gøre?"
 	done
 
 _LearnedMove1Text::
 	text_ram wLearnMoveMonName
-	text " learned"
+	text " har lært"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _WhichMoveToForgetText::
-	text "Which move should"
-	next "be forgotten?"
+	text "Hvilken evne"
+	next "skal glemmes?"
 	done
 
 _AbandonLearningText::
-	text "Abandon learning"
+	text "Opgiv at lære"
 	line "@"
 	text_ram wStringBuffer
 	text "?"
@@ -104,7 +105,7 @@ _AbandonLearningText::
 _DidNotLearnText::
 	text_ram wLearnMoveMonName
 	text_start
-	line "did not learn"
+	line "lærte ikke"
 	cont "@"
 	text_ram wStringBuffer
 	text "!"
@@ -112,27 +113,28 @@ _DidNotLearnText::
 
 _TryingToLearnText::
 	text_ram wLearnMoveMonName
-	text " is"
-	line "trying to learn"
+	text " forsøger"
+	line "at lære"
 	cont "@"
 	text_ram wStringBuffer
 	text "!"
 
-	para "But, @"
+	para "Men, @"
 	text_ram wLearnMoveMonName
 	text_start
-	line "can't learn more"
-	cont "than 4 moves!"
+	line "kan ikke lære mere"
+	cont "end 4 evner!"
 
-	para "Delete an older"
-	line "move to make room"
-	cont "for @"
+	para "Slet en ældre"
+	line "evne for at"
+	cont "skabe plads"
+	cont "til @"
 	text_ram wStringBuffer
 	text "?"
 	done
 
 _OneTwoAndText::
-	text "1, 2 and...@"
+	text "1, 2 og...@"
 	text_end
 
 _PoofText::
@@ -143,89 +145,91 @@ _ForgotAndText::
 	text_start
 	para "@"
 	text_ram wLearnMoveMonName
-	text " forgot"
+	text " glemte"
 	line "@"
 	text_ram wcd6d
 	text "!"
 
-	para "And..."
+	para "Og..."
 	prompt
 
 _HMCantDeleteText::
-	text "HM techniques"
-	line "can't be deleted!"
+	text "HM teknikker"
+	line "kan ikke slettes!"
 	prompt
 
 _PokemonCenterWelcomeText::
-	text "Welcome to our"
+	text "elkommen til vores"
 	line "#MON CENTER!"
 
-	para "We heal your"
-	line "#MON back to"
-	cont "perfect health!"
+	para "Vi heler dine"
+	line "#MON tilbage til"
+	cont "perfekt helbred!"
 	prompt
 
 _ShallWeHealYourPokemonText::
-	text "Shall we heal your"
-	line "#MON?"
+	text "Skal vi helbrede"
+	line "dine #MON?"
 	done
 
 _NeedYourPokemonText::
-	text "OK. We'll need"
-	line "your #MON."
+	text "OK. Vi skal bruge"
+	line "dine #MON."
 	done
 
 _PokemonFightingFitText::
-	text "Thank you!"
-	line "Your #MON are"
-	cont "fighting fit!"
+	text "Tak!"
+	line "Dine #MON er"
+	cont "kampklar!"
 	prompt
 
 _PokemonCenterFarewellText::
-	text "We hope to see"
-	line "you again!"
+	text "Vi håber at se"
+	line "dig igen!"
 	done
 
 _CableClubNPCAreaReservedFor2FriendsLinkedByCableText::
-	text "This area is"
-	line "reserved for 2"
-	cont "friends who are"
-	cont "linked by cable."
+	text "Dette område er"
+	line "reserveret til 2"
+	cont "venner, der er"
+	cont "forbundet med et"
+	cont "kabel."
 	done
 
 _CableClubNPCWelcomeText::
-	text "Welcome to the"
-	line "Cable Club!"
+	text "Velkommen til"
+	line "Kabelklubben!"
 	done
 
 _CableClubNPCPleaseApplyHereHaveToSaveText::
-	text "Please apply here."
+	text "Ansøg venligst her"
 
-	para "Before opening"
-	line "the link, we have"
-	cont "to save the game."
+	para "Før du åbner"
+	line "forbindelsen, skal"
+	cont "vi gemme spillet."
 	done
 
 _CableClubNPCPleaseWaitText::
-	text "Please wait.@"
+	text "Vent venligst.@"
 	text_end
 
 _CableClubNPCLinkClosedBecauseOfInactivityText::
 	vc_patch Change_link_closed_inactivity_message
 IF DEF(_RED_VC) || DEF(_BLUE_VC)
-	text "Please come again!"
+	text "Kom venligst igen!"
 	done
 	text_start
-	text "sed because of"
-	cont "inactivity."
+	text "Lukket på grund"
+	cont "af inaktivitet."
 ELSE
-	text "The link has been"
-	line "closed because of"
-	cont "inactivity."
+	text "Forbindelsen er"
+	line "blevet lukket på"
+	cont "grund af"
+	cont "inaktivitet."
 ENDC
 	vc_patch_end
 
-	para "Please contact"
-	line "your friend and"
-	cont "come again!"
+	para "Kontakt venligst" 
+	line "din ven og"
+	cont "kom igen!"
 	done
