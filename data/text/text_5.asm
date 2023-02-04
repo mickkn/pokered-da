@@ -1,104 +1,103 @@
 _CableClubNPCPleaseComeAgainText::
-	text "Please come again!"
+	text "Kom venligst igen!"
 	done
 
 _CableClubNPCMakingPreparationsText::
-	text "We're making"
-	line "preparations."
-	cont "Please wait."
+	text "Vi forbereder."
+	line "Vent venligst."
 	done
 
 _UsedStrengthText::
 	text_ram wcd6d
-	text " used"
+	text " brugte"
 	line "STRENGTH.@"
 	text_end
 
 _CanMoveBouldersText::
 	text_ram wcd6d
-	text " can"
-	line "move boulders."
+	text " kan"
+	line "flytte sten."
 	prompt
 
 _CurrentTooFastText::
-	text "The current is"
-	line "much too fast!"
+	text "Strømmen er"
+	line "meget for hurtig!"
 	prompt
 
 _CyclingIsFunText::
-	text "Cycling is fun!"
-	line "Forget SURFing!"
+	text "Cykling er sjovt!"
+	line "Glem SURFing!"
 	prompt
 
 _FlashLightsAreaText::
-	text "A blinding FLASH"
-	line "lights the area!"
+	text "Et blændende FLASH"
+	line "oplyser området!"
 	prompt
 
 _WarpToLastPokemonCenterText::
-	text "Warp to the last"
+	text "Gå til sidste"
 	line "#MON CENTER."
 	done
 
 _CannotUseTeleportNowText::
 	text_ram wcd6d
-	text " can't"
-	line "use TELEPORT now."
+	text " kan ikke"
+	line "bruge TELEPORT nu."
 	prompt
 
 _CannotFlyHereText::
 	text_ram wcd6d
-	text " can't"
-	line "FLY here."
+	text " kan ikke"
+	line "FLY her."
 	prompt
 
 _NotHealthyEnoughText::
-	text "Not healthy"
-	line "enough."
+	text "Ikke rask nok."
 	prompt
 
 _NewBadgeRequiredText::
-	text "No! A new BADGE"
-	line "is required."
+	text "Nej! Et nyt BADGE"
+	line "er påkrævet."
 	prompt
 
 _CannotUseItemsHereText::
-	text "You can't use items"
-	line "here."
+	text "Du kan ikke bruge"
+	line "genstande her."
 	prompt
 
 _CannotGetOffHereText::
-	text "You can't get off"
-	line "here."
+	text "Du kan ikke stige"
+	line "af her."
 	prompt
 
 _GotMonText::
-	text "<PLAYER> got"
+	text "<PLAYER> fik"
 	line "@"
 	text_ram wcd6d
 	text "!@"
 	text_end
 
 _SentToBoxText::
-	text "There's no more"
-	line "room for #MON!"
+	text "Der er ikke mere"
+	line "plads til #MON!"
 	cont "@"
 	text_ram wBoxMonNicks
-	text " was"
-	cont "sent to #MON"
+	text " blev"
+	cont "sendt til #MON"
 	cont "BOX @"
 	text_ram wStringBuffer
-	text " on PC!"
+	text " på PC!"
 	done
 
 _BoxIsFullText::
-	text "There's no more"
-	line "room for #MON!"
+	text "Der er ikke mere"
+	line "plads til #MON!"
 
-	para "The #MON BOX"
-	line "is full and can't"
-	cont "accept any more!"
+	para "Den #MON BOX"
+	line "er fuld og kan"
+	cont "ikke modtage"
+	cont "flere!"
 
-	para "Change the BOX at"
-	line "a #MON CENTER!"
+	para "Skift BOXen på"
+	line "et #MON CENTER!"
 	done
