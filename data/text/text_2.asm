@@ -852,7 +852,8 @@ _TownMapText::
 
 _PokemonStuffText::
 	text "Wow! Masser af"
-	line "#MON ting!"
+	line "#MON"
+	cont "genstande!"
 	done
 
 _OutOfSafariBallsText::
@@ -1502,7 +1503,7 @@ _AccessedBillsPCText::
 
 	para "Fik adgang til"
 	line "#MON"
-	cont "Opbevaringssystem."
+	cont "Lagersystemet."
 	prompt
 
 _AccessedSomeonesPCText::
@@ -1511,240 +1512,251 @@ _AccessedSomeonesPCText::
 
 	para "Fik adgang til"
 	line "#MON"
-	cont "Opbevaringssystem."
+	cont "Lagersystemet."
 	prompt
 
 _AccessedMyPCText::
-	text "Accessed my PC."
+	text "Fik adgang til"
+	line "nogens PC."
 
-	para "Accessed Item"
-	line "Storage System."
+	para "Fik adgang til"
+	line "lagersystemet"
+	cont "for genstande."
 	prompt
 
 _TurnedOnPC2Text::
-	text "<PLAYER> turned on"
-	line "the PC."
+	text "<PLAYER> tændte"
+	line "PCen."
 	prompt
 
 _WhatDoYouWantText::
-	text "What do you want"
-	line "to do?"
+	text "Hvad vil du gerne"
+	line "gøre?"
 	done
 
 _WhatToDepositText::
-	text "What do you want"
-	line "to deposit?"
+	text "Hvad vil du gerne"
+	line "indsætte?"
 	done
 
 _DepositHowManyText::
-	text "How many?"
+	text "Hvor mange?"
 	done
 
 _ItemWasStoredText::
 	text_ram wcd6d
-	text " was"
-	line "stored via PC."
+	text " blev"
+	line "gemt via PC."
 	prompt
 
 _NothingToDepositText::
-	text "You have nothing"
-	line "to deposit."
+	text "Du har intet at"
+	line "indsætte."
 	prompt
 
 _NoRoomToStoreText::
-	text "No room left to"
-	line "store items."
+	text "Ingen plads"
+	line "tilbage til"
+	cont "opbevaring af"
+	cont "genstande."
 	prompt
 
 _WhatToWithdrawText::
-	text "What do you want"
-	line "to withdraw?"
+	text "Hvad vil du gerne"
+	line "trække?"
 	done
 
 _WithdrawHowManyText::
-	text "How many?"
+	text "Hvor mange?"
 	done
 
 _WithdrewItemText::
-	text "Withdrew"
+	text "Trak"
 	line "@"
 	text_ram wcd6d
 	text "."
 	prompt
 
 _NothingStoredText::
-	text "There is nothing"
-	line "stored."
+	text "Der er intet"
+	line "gemt."
 	prompt
 
 _CantCarryMoreText::
-	text "You can't carry"
-	line "any more items."
+	text "Du kan ikke bære"
+	line "flere genstande."
 	prompt
 
 _WhatToTossText::
-	text "What do you want"
-	line "to toss away?"
+	text "Hvad vil du gerne"
+	line "smide væk?"
 	done
 
 _TossHowManyText::
-	text "How many?"
+	text "Hvor mange?"
 	done
 
 _AccessedHoFPCText::
-	text "Accessed #MON"
-	line "LEAGUE's site."
+	text "Adgang til"
+	line "#MON LIGAENS"
+	cont "side.
 
-	para "Accessed the HALL"
-	line "OF FAME List."
+	para "Adgang til HALL"
+	line "OF FAME-listen."
 	prompt
 
 _SwitchOnText::
-	text "Switch on!"
+	text "Tænd!"
 	prompt
 
 _WhatText::
-	text "What?"
+	text "Hvad?"
 	done
 
 _DepositWhichMonText::
-	text "Deposit which"
+	text "Indsæt hvilken"
 	line "#MON?"
 	done
 
 _MonWasStoredText::
 	text_ram wStringBuffer
-	text " was"
-	line "stored in Box @"
+	text " blev"
+	line "gemt i Boks @"
 	text_ram wBoxNumString
 	text "."
 	prompt
 
 _CantDepositLastMonText::
-	text "You can't deposit"
-	line "the last #MON!"
+	text "Du kan ikke"
+	line "indsætte den"
+	cont "sidste #MON!"
 	prompt
 
 _BoxFullText::
-	text "Oops! This Box is"
-	line "full of #MON."
+	text "Ups! Denne boks er"
+	line "fuld af #MON."
 	prompt
 
 _MonIsTakenOutText::
 	text_ram wStringBuffer
-	text " is"
-	line "taken out."
-	cont "Got @"
+	text " er"
+	line "taget ud."
+	cont "Fik @"
 	text_ram wStringBuffer
 	text "."
 	prompt
 
 _NoMonText::
-	text "What? There are"
-	line "no #MON here!"
+	text "Hvad? Der er ingen"
+	line "#MON her!"
 	prompt
 
 _CantTakeMonText::
-	text "You can't take"
-	line "any more #MON."
+	text "Du kan ikke tage"
+	line "flere #MON."
 
-	para "Deposit #MON"
-	line "first."
+	para "Indsæt #MON"
+	line "først."
 	prompt
 
 _ReleaseWhichMonText::
-	text "Release which"
-	line "#MON?"
+	text "Slip hvilken"
+	line "#MON fri?"
 	done
 
 _OnceReleasedText::
-	text "Once released,"
-	line "@"
+	text "Når den er sluppet"
+	line "fri, @"
 	text_ram wStringBuffer
-	text " is"
-	cont "gone forever. OK?"
+	text " er"
+	cont "væk for evigt."
+	cont "OK?"
 	done
 
 _MonWasReleasedText::
 	text_ram wStringBuffer
-	text " was"
-	line "released outside."
-	cont "Bye @"
+	text " blev"
+	line "sluppet fri."
+	cont "Hej @"
 	text_ram wStringBuffer
 	text "!"
 	prompt
 
 _RequireCoinCaseText::
-	text "A MØNTKASSE is"
-	line "required!@"
+	text "En MØNTKASSE er"
+	line "påkrævet!@"
 	text_end
 
 _ExchangeCoinsForPrizesText::
-	text "We exchange your"
-	line "coins for prizes."
+	text "Vi veksler dine"
+	line "mønter for"
+	cont "præmier."
 	prompt
 
 _WhichPrizeText::
-	text "Which prize do"
-	line "you want?"
+	text "Hvilken præmie"
+	line "vil du have?"
 	done
 
 _HereYouGoText::
-	text "Here you go!@"
+	text "Værsgo!@"
 	text_end
 
 _SoYouWantPrizeText::
-	text "So, you want"
+	text "Så, du vil have"
 	line "@"
 	text_ram wcd6d
 	text "?"
 	done
 
 _SorryNeedMoreCoinsText::
-	text "Sorry, you need"
-	line "more coins.@"
+	text "Beklager, du skal"
+	line "bruge flere"
+	cont "mønter.@"
 	text_end
 
 _OopsYouDontHaveEnoughRoomText::
-	text "Oops! You don't"
-	line "have enough room.@"
+	text "Ups! Du har ikke"
+	line "tilstrækkelig"
+	cont "plads.@"
 	text_end
 
 _OhFineThenText::
-	text "Oh, fine then.@"
+	text "Åh, det er fint.@"
 	text_end
 
 _GetDexRatedText::
-	text "Want to get your"
-	line "#DEX rated?"
+	text "Vil du få din"
+	line "#DEX vurderet?"
 	done
 
 _ClosedOaksPCText::
-	text "Closed link to"
+	text "Lukket link til"
 	line "PROF.OAK's PC.@"
 	text_end
 
 _AccessedOaksPCText::
-	text "Accessed PROF."
-	line "OAK's PC."
+	text "Fik adgang til"
+	line "PROF. OAK's PC."
 
-	para "Accessed #DEX"
-	line "Rating System."
+	para "Fik adgang til"
+	line "#DEX"
+	line "Vurderingssystem."
 	prompt
 
 _WhereWouldYouLikeText::
-	text "Where would you"
-	line "like to go?"
+	text "Hvor vil du gerne"
+	line "gå hen?"
 	done
 
 _PleaseWaitText::
-	text "OK, please wait"
-	line "just a moment."
+	text "OK, vent venligst"
+	line "et øjeblik."
 	done
 
 _LinkCanceledText::
-	text "The link was"
-	line "canceled."
+	text "Forbindelsen blev"
+	line "annulleret."
 	done
 
 _OakSpeechText1::
@@ -1801,8 +1813,8 @@ _OakSpeechText3::
 	text "<PLAYER>!"
 
 	para "Din egen #MON"
-	line "legende er ved at"
-	cont "udfolde sig!"
+	line "historie er ved"
+	cont "at udfolde sig!"
 
 	para "En verden af"
 	line "drømme og eventyr"
