@@ -1599,7 +1599,7 @@ _TossHowManyText::
 _AccessedHoFPCText::
 	text "Adgang til"
 	line "#MON LIGAENS"
-	cont "side.
+	cont "side."
 
 	para "Adgang til HALL"
 	line "OF FAME-listen."
