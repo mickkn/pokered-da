@@ -999,19 +999,19 @@ _AlreadyOutText::
 
 _MoveNoPPText::
 	text "Ikke nok PP"
-	line "tilbage til dette"
-	line "angreb!"
+	line "tilbage til denne"
+	line "evne!"
 	prompt
 
 _MoveDisabledText::
-	text "Dette angreb er"
+	text "Denne evne er"
 	line "deaktiveret!"
 	prompt
 
 _NoMovesLeftText::
 	text_ram wBattleMonNick
 	text " har ikke flere"
-	line "angreb tilbage!"
+	line "evner tilbage!"
 	done
 
 _MultiHitText::
