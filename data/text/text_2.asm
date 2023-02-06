@@ -258,14 +258,14 @@ _FuchsiaCityPokecenterGuyText::
 
 _CinnabarPokecenterGuyText::
 	text "#MON kan stadig"
-	line "lære teknikker"
+	line "lære evner"
 	cont "efter en"
 	cont "annulleret"
 	cont "udvikling."
 
 	para "En udvikling kan"
 	line "vente indtil nye"
-	cont "teknikker er"
+	cont "evner er"
 	cont "blevet lært."
 	done
 

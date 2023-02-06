@@ -154,7 +154,7 @@ _ForgotAndText::
 	prompt
 
 _HMCantDeleteText::
-	text "HM teknikker"
+	text "HM evner"
 	line "kan ikke slettes!"
 	prompt
 
