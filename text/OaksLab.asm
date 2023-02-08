@@ -1,173 +1,181 @@
 _OaksLabGaryText1::
 	text "<RIVAL>: Yo"
-	line "<PLAYER>! Gramps"
-	cont "isn't around!"
+	line "<PLAYER>! Farfar"
+	cont "er her ikke!"
 	done
 
 _OaksLabText40::
-	text "<RIVAL>: Heh, I"
-	line "don't need to be"
-	cont "greedy like you!"
+	text "<RIVAL>: Heh, jeg"
+	line "behøver ikke være"
+	cont "grisk som dig!"
 
-	para "Go ahead and"
-	line "choose, <PLAYER>!"
+	para "Bare vælg,"
+	line "<PLAYER>!"
 	done
 
 _OaksLabText41::
-	text "<RIVAL>: My"
-	line "#MON looks a"
-	cont "lot stronger."
+	text "<RIVAL>: Min"
+	line "#MON ser ud"
+	cont "til at være"
+	cont "stærkere."
 	done
 
 _OaksLabText39::
-	text "Those are #"
-	line "BALLs. They"
-	cont "contain #MON!"
+	text "Det her er #"
+	line "BALLs. De"
+	cont "indeholder"
+	cont "#MON!"
 	done
 
 _OaksLabCharmanderText::
-	text "So! You want the"
-	line "fire #MON,"
+	text "Så! Du vælger den"
+	line "ild #MON,"
 	cont "CHARMANDER?"
 	done
 
 _OaksLabSquirtleText::
-	text "So! You want the"
-	line "water #MON,"
+	text "Så! Du vælger den"
+	line "vand #MON,"
 	cont "SQUIRTLE?"
 	done
 
 _OaksLabBulbasaurText::
-	text "So! You want the"
-	line "plant #MON,"
+	text "Så! Du vælger den"
+	line "græs #MON,"
 	cont "BULBASAUR?"
 	done
 
 _OaksLabMonEnergeticText::
-	text "This #MON is"
-	line "really energetic!"
+	text "Denne #MON er"
+	line "virkelig energisk!"
 	prompt
 
 _OaksLabReceivedMonText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> modtog"
+	line "en @"
 	text_ram wcd6d
 	text "!@"
 	text_end
 
 _OaksLabLastMonText::
-	text "That's PROF.OAK's"
-	line "last #MON!"
+	text "Det er PROF.OAK's"
+	line "sidste #MON!"
 	done
 
 _OaksLabText_1d2f0::
-	text "OAK: Now, <PLAYER>,"
-	line "which #MON do"
-	cont "you want?"
+	text "OAK: Ok, <PLAYER>,"
+	line "hvilken #MON"
+	cont "vil du have?"
 	done
 
 _OaksLabText_1d2f5::
-	text "OAK: If a wild"
-	line "#MON appears,"
-	cont "your #MON can"
-	cont "fight against it!"
+	text "OAK: Hvis en vild"
+	line "#MON kommer,"
+	cont "kan din #MON"
+	cont "kæmpe imod den!"
 	done
 
 _OaksLabText_1d2fa::
 	text "OAK: <PLAYER>,"
-	line "raise your young"
-	cont "#MON by making"
-	cont "it fight!"
+	line "træn din unge"
+	cont "#MON ved at"
+	cont "lade den kæmpe!"
 	done
 
 _OaksLabDeliverParcelText1::
 	text "OAK: Oh, <PLAYER>!"
 
-	para "How is my old"
-	line "#MON?"
+	para "Hvordan går det"
+	line "med min gamle"
+	cont "#MON?"
 
-	para "Well, it seems to"
-	line "like you a lot."
+	para "Nå, det ser ud til"
+	line "at den er vild" 
+	cont "dig meget."
 
-	para "You must be"
-	line "talented as a"
-	cont "#MON trainer!"
+	para "Du må være en"
+	line "talentfuld"
+	cont "#MON træner!"
 
-	para "What? You have"
-	line "something for me?"
+	para "Hvad? Har du"
+	line "noget til mig?"
 
-	para "<PLAYER> delivered"
-	line "OAK's PARCEL.@"
+	para "<PLAYER> leveret"
+	line "OAK's PAKKE.@"
 	text_end
 
 _OaksLabDeliverParcelText2::
 	text_start
-	para "Ah! This is the"
-	line "custom # BALL"
-	cont "I ordered!"
-	cont "Thank you!"
+	para "Ah! Dette er den"
+	line "tilpassede"
+	cont " # BALL jeg"
+	cont "bestilte! Tak!"
 	done
 
 _OaksLabAroundWorldText::
-	text "#MON around the"
-	line "world wait for"
-	cont "you, <PLAYER>!"
+	text "#MON over hele"
+	line "verdenen venter på"
+	cont "dig, <PLAYER>!"
 	done
 
 _OaksLabGivePokeballsText1::
-	text "OAK: You can't get"
-	line "detailed data on"
-	cont "#MON by just"
-	cont "seeing them."
+	text "OAK: Du kan ikke"
+	line "få detaljerede"
+	cont "data om #MON ved" 
+	cont "kun at se dem."
 
-	para "You must catch"
-	line "them! Use these"
-	cont "to capture wild"
-	cont "#MON."
+	para "Du skal fange"
+	line "dem! Brug disse"
+	cont "til at fange"
+	cont "vilde #MON."
 
-	para "<PLAYER> got 5"
+	para "<PLAYER> fik 5"
 	line "# BALLs!@"
 	text_end
 
 _OaksLabGivePokeballsText2::
 	text_start
-	para "When a wild"
-	line "#MON appears,"
-	cont "it's fair game."
+	para "Når en vild"
+	line "#MON viser"
+	cont "sig er det et"
+	cont "fair spil."
 
-	para "Just throw a #"
-	line "BALL at it and try"
-	line "to catch it!"
+	para "Smid en # BALL" 
+	line "på den og prøv" 
+	cont "at fange den!"
 
-	para "This won't always"
-	line "work, though."
+	para "Dette vil ikke"
+	line "altid virke,"
+	cont "selvfølgelig."
 
-	para "A healthy #MON"
-	line "could escape. You"
-	cont "have to be lucky!"
+	para "En sund #MON"
+	line "kan undslippe. Du"
+	cont "skal være heldig!"
 	done
 
 _OaksLabPleaseVisitText::
-	text "OAK: Come see me"
-	line "sometimes."
+	text "OAK: Kom og besøg"
+	line "mig engang"
+	cont "imellem."
 
-	para "I want to know how"
-	line "your #DEX is"
-	cont "coming along."
+	para "Jeg vil gerne"
+	line "vide, hvordan"
+	cont "dit #DEX"
+	cont "udvikler sig."
 	done
 
 _OaksLabText_1d31d::
-	text "OAK: Good to see "
-	line "you! How is your "
-	cont "#DEX coming? "
-	cont "Here, let me take"
-	cont "a look!"
+	text "OAK: Godt at se"
+	line "dig! Hvordan går"
+	cont "det med dit"
+	cont "#DEX? Her, lad"
+	cont "mig se på det!"
 	prompt
 
 _OaksLabText_1d32c::
-	text "It's encyclopedia-"
-	line "like, but the"
-	cont "pages are blank!"
+	text "Det er en slags"
+	line "leksikon, men"
+	cont "siderne er tomme!"
 	done
 
 _OaksLabText8::
