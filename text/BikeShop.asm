@@ -1,71 +1,73 @@
 _BikeShopText_1d810::
-	text "Hi! Welcome to"
-	line "our BIKE SHOP."
+	text "Hej! Velkommen til"
+	line "vores CYKELBUTIK."
 
-	para "Have we got just"
-	line "the BIKE for you!"
+	para "Mon ikke vi har,"
+	line "lige den rigtige"
+	cont "CYKEL til dig!"
 	prompt
 
 _BikeShopText_1d815::
-	text "It's a cool BIKE!"
-	line "Do you want it?"
+	text "Det er en cool"
+	line "CYKEL! Do you"
+	cont "want it?"
 	done
 
 _BikeShopCantAffordText::
-	text "Sorry! You can't"
-	line "afford it!"
+	text "Beklager! Du har"
+	line "ikke råd til den!"
 	prompt
 
 _BikeShopText_1d81f::
-	text "Oh, that's..."
+	text "Åh, det er..."
 
-	para "A BIKE VOUCHER!"
+	para "EN CYKELVOUCHER!"
 
-	para "OK! Here you go!"
+	para "OK! Værsgo!"
 	prompt
 
 _BikeShopText_1d824::
-	text "<PLAYER> exchanged"
-	line "the BIKE VOUCHER"
-	cont "for a BICYCLE.@"
+	text "<PLAYER> byttede"
+	line "CYKELVOUCHEREN"
+	cont "for en CYKEL.@"
 	text_end
 
 _BikeShopComeAgainText::
-	text "Come back again"
-	line "some time!"
+	text "Kom igen en anden"
+	line "gang!"
 	done
 
 _BikeShopText_1d82f::
-	text "How do you like"
-	line "your new BICYCLE?"
+	text "Kan du lide din"
+	line "nye CYKEL?"
 
-	para "You can take it"
-	line "on CYKELVEJEN"
-	cont "and in caves!"
+	para "Du kan tage den"
+	line "med på CYKELVEJEN"
+	cont "og i huler!"
 	done
 
 _BikeShopText_1d834::
-	text "You better make"
-	line "room for this!"
+	text "Du må hellere lave"
+	line "plads til den"
 	done
 
 _BikeShopText_1d843::
-	text "A plain city BIKE"
-	line "is good enough"
-	cont "for me!"
+	text "En simpel BYCYKEL"
+	line "er god nok"
+	cont "til mig!"
 
-	para "You can't put a"
-	line "shopping basket"
-	cont "on an MTB!"
+	para "Du kan ikke sætte"
+	line "en cykelkurv"
+	cont "på en MTB!"
 	done
 
 _BikeShopText_1d85c::
-	text "These BIKEs are"
-	line "cool, but they're"
-	cont "way expensive!"
+	text "Disse CYKLER er"
+	line "cool, men de er"
+	cont "meget dyre!"
 	done
 
 _BikeShopText_1d861::
-	text "Wow. Your BIKE is"
-	line "really cool!"
+	text "Wow. Din CYKEL er"
+	line "virkelig cool!"
 	done
