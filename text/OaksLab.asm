@@ -1,7 +1,8 @@
 _OaksLabGaryText1::
 	text "<RIVAL>: Yo"
-	line "<PLAYER>! Farfar"
-	cont "er her ikke!"
+	line "<PLAYER>!"
+	cont "Bedstefar er"
+	cont "her ikke!"
 	done
 
 _OaksLabText40::
@@ -183,190 +184,203 @@ _OaksLabText8::
 	done
 
 _OaksLabText_1d340::
-	text "PROF.OAK is the"
-	line "authority on"
+	text "PROF.OAK er"
+	line "myndigheden når"
+	cont "det gælder"
 	cont "#MON!"
 
-	para "Many #MON"
-	line "trainers hold him"
-	cont "in high regard!"
+	para "Mange #MON"
+	line "trænere ser meget"
+	cont "op til ham!"
 	done
 
 _OaksLabRivalWaitingText::
-	text "<RIVAL>: Gramps!"
-	line "I'm fed up with"
-	cont "waiting!"
+	text "<RIVAL>:"
+	line "Bedstefar! Jeg er"
+	cont "træt af at vente!"
 	done
 
 _OaksLabChooseMonText::
 	text "OAK: <RIVAL>?"
-	line "Let me think..."
+	line "Lad mig tænke..."
 
-	para "Oh, that's right,"
-	line "I told you to"
-	cont "come! Just wait!"
+	para "Åh ja, nu husker"
+	line "jeg, at jeg sagde,"
+	cont "du skulle komme!"
+	cont "Vent lidt!"
 
-	para "Here, <PLAYER>!"
+	para "Her, <PLAYER>!"
 
-	para "There are 3"
-	line "#MON here!"
+	para "Der er 3"
+	line "#MON her!"
 
 	para "Haha!"
 
-	para "They are inside"
-	line "the # BALLs."
+	para "De er inde i"
+	line "de # BALLs."
 
-	para "When I was young,"
-	line "I was a serious"
-	cont "#MON trainer!"
+	para "Da jeg var ung,"
+	line "var jeg en seriøs"
+	cont "#MON træner!"
 
-	para "In my old age, I"
-	line "have only 3 left,"
-	cont "but you can have"
-	cont "one! Choose!"
+	para "Nu er jeg gammel,"
+	line "og har kun 3"
+	cont "tilbage, men du"
+	cont "kan få en! Vælg!"
 	done
 
 _OaksLabRivalInterjectionText::
 	text "<RIVAL>: Hey!"
-	line "Gramps! What"
-	cont "about me?"
+	line "Bedstefar! Hvad"
+	cont "med mig?"
 	done
 
 _OaksLabBePatientText::
-	text "OAK: Be patient!"
-	line "<RIVAL>, you can"
-	cont "have one too!"
+	text "OAK: Vær tålmodig!"
+	line "<RIVAL>, du kan"
+	cont "også få en!"
 	done
 
 _OaksLabLeavingText::
-	text "OAK: Hey! Don't go"
-	line "away yet!"
+	text "OAK: Hej! Tag ikke"
+	line "afsted endnu!"
 	done
 
 _OaksLabRivalPickingMonText::
-	text "<RIVAL>: I'll take"
-	line "this one, then!"
+	text "<RIVAL>: Jeg tager"
+	line "denne her, så!"
 	done
 
 _OaksLabRivalReceivedMonText::
-	text "<RIVAL> received"
-	line "a @"
+	text "<RIVAL> modtog"
+	line "en @"
 	text_ram wcd6d
 	text "!@"
 	text_end
 
 _OaksLabRivalChallengeText::
-	text "<RIVAL>: Wait"
+	text "<RIVAL>: Vent"
 	line "<PLAYER>!"
-	cont "Let's check out"
-	cont "our #MON!"
+	cont "Lad os se på"
+	cont "vores #MON!"
 
-	para "Come on, I'll take"
-	line "you on!"
+	para "Kom nu, jeg tager"
+	line "dig ned!"
 	done
 
 _OaksLabText_1d3be::
-	text "WHAT?"
-	line "Unbelievable!"
-	cont "I picked the"
-	cont "wrong #MON!"
+	text "HVAD?"
+	line "Ubegribeligt!"
+	cont "Jeg valgte den"
+	cont "forkerte #MON!"
 	prompt
 
 _OaksLabText_1d3c3::
-	text "<RIVAL>: Yeah! Am"
-	line "I great or what?"
+	text "<RIVAL>: Ja! Er"
+	line "jeg ikke god?"
 	prompt
 
 _OaksLabRivalToughenUpText::
 	text "<RIVAL>: Okay!"
-	line "I'll make my"
-	cont "#MON fight to"
-	cont "toughen it up!"
+	line "Jeg får min"
+	cont "#MON til at"
+	cont "kæmpe, for at gøre"
+	cont "den stærkere!"
 
-	para "<PLAYER>! Gramps!"
-	line "Smell you later!"
+	para "<PLAYER>!"
+	line "Bedstefar!"
+	cont "Vi lugtes ved!"
 	done
 
 _OaksLabText21::
-	text "<RIVAL>: Gramps!"
+	text "<RIVAL>:"
+	cont "Bedstefar!"
 	done
 
 _OaksLabText22::
-	text "<RIVAL>: What did"
-	line "you call me for?"
+	text "<RIVAL>: Hvad vil"
+	line "du have mig til?"
 	done
 
 _OaksLabText23::
-	text "OAK: Oh right! I"
-	line "have a request"
-	cont "of you two."
+	text "OAK: Okay, jeg har"
+	line "en opgave til"
+	cont "jer to."
 	done
 
 _OaksLabText24::
-	text "On the desk there"
-	line "is my invention,"
+	text "På skrivebordet"
+	line "ligger min"
+	cont "opfindelse,"
 	cont "#DEX!"
 
-	para "It automatically"
-	line "records data on"
-	cont "#MON you've"
-	cont "seen or caught!"
+	para "Det gemmer"
+	line "automatisk data"
+	cont "om #MON du"
+	cont "har set eller"
+	cont "fanget!"
 
-	para "It's a hi-tech"
-	line "encyclopedia!"
+	para "Det er et high-"
+	line "tech leksikon!"
 	done
 
 _OaksLabText25::
-	text "OAK: <PLAYER> and"
-	line "<RIVAL>! Take"
-	cont "these with you!"
+	text "OAK: <PLAYER> og"
+	line "<RIVAL>! Tag"
+	cont "disse med dig!"
 
-	para "<PLAYER> got"
-	line "#DEX from OAK!@"
+	para "<PLAYER> fik"
+	line "#DEX af OAK!@"
 	text_end
 
 _OaksLabText26::
-	text "To make a complete"
-	line "guide on all the"
-	cont "#MON in the"
-	cont "world..."
+	text "For at lave en"
+	line "komplet guide om"
+	cont "alle #MON i"
+	cont "verden..."
 
-	para "That was my dream!"
+	para "Det var min drøm!"
 
-	para "But, I'm too old!"
-	line "I can't do it!"
+	para "Men, jeg er for"
+	line "gammel! Jeg kan"
+	cont "ikke gøre det!"
 
-	para "So, I want you two"
-	line "to fulfill my"
-	cont "dream for me!"
+	para "Så vil jeg gerne"
+	line "have, at I to"
+	cont "realiserer min"
+	cont "drøm for mig!"
 
-	para "Get moving, you"
-	line "two!"
+	para "Kom i gang, I"
+	line "to!"
 
-	para "This is a great"
-	line "undertaking in"
-	cont "#MON history!"
+	para "Det er et stort"
+	line "skridt i #MON-"
+	cont "historien!"
 	done
 
 _OaksLabText27::
-	text "<RIVAL>: Alright"
-	line "Gramps! Leave it"
-	cont "all to me!"
+	text "<RIVAL>: Okay,"
+	line "Bedstefar! Lad"
+	cont "alt være op til"
+	cont "mig!"
 
-	para "<PLAYER>, I hate to"
-	line "say it, but I"
-	cont "don't need you!"
+	para "<PLAYER>, jeg hader"
+	line "at sige det,"
+	cont "men jeg har ikke"
+	cont "brug for dig!"
 
-	para "I know! I'll"
-	line "borrow a BYKORT"
-	cont "from my sis!"
+	para "Jeg ved det! Jeg"
+	line "vil låne et BYKORT"
+	cont "fra min søster!"
 
-	para "I'll tell her not"
-	line "to lend you one,"
-	cont "<PLAYER>! Hahaha!"
+	para "Jeg vil fortælle"
+	line "hende ikke at låne"
+	cont "dig et, <PLAYER>!"
+	cont "Hahaha!"
 	done
 
 _OaksLabText_1d405::
-	text "I study #MON as"
-	line "PROF.OAK's AIDE."
+	text "Jeg studerer"
+	line "Pokémon som"
+	cont "PROF.OAK's AIDE."
 	done
