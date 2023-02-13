@@ -1,44 +1,48 @@
 _AgathaBeforeBattleText::
-	text "I am AGATHA of"
+	text "Jeg er AGATHA fra"
 	line "ELITE-FIREN!"
 
-	para "OAK's taken a lot"
-	line "of interest in"
-	cont "you, child!"
+	para "OAK har vist en"
+	line "del interesse for"
+	cont "dig, barn!"
 
-	para "That old duff was"
-	line "once tough and"
-	cont "handsome! That"
-	cont "was decades ago!"
+	para "Den gamle dreng"
+	line "var engang sej og"
+	cont "smuk! Det var for"
+	cont "mange år siden!"
 
-	para "Now he just wants"
-	line "to fiddle with"
-	cont "his #DEX! He's"
-	cont "wrong! #MON"
-	cont "are for fighting!"
+	para "Nu vil han bare"
+	line "lege med sit"
+	cont "#DEX! Han er"
+	cont "forkert på den!"
+	cont "#MON skal"
+	cont "bruges til at"
+	cont "kæmpe!"
 
-	para "<PLAYER>! I'll show"
-	line "you how a real"
-	cont "trainer fights!"
+	para "<PLAYER>! Jeg vil"
+	line "vise dig, hvordan"
+	cont "en rigtig træner"
+	cont "kæmper!"
 	done
 
 _AgathaEndBattleText::
 	text "Oh ho!"
-	line "You're something"
-	cont "special, child!"
+	line "Du er noget"
+	cont "særligt, barn!"
 	prompt
 
 _AgathaAfterBattleText::
-	text "You win! I see"
-	line "what the old duff"
-	cont "sees in you now!"
+	text "Du vinder! Jeg"
+	line "kan se, hvad den"
+	cont "gamle dreng ser i"
+	cont "dig nu!"
 
-	para "I have nothing"
-	line "else to say! Run"
-	cont "along now, child!"
+	para "Jeg har ikke mere"
+	line "at sige! Løb nu"
+	cont "af sted, barn!"
 	done
 
 _AgathaDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Nogens stemme:"
+	line "Løb ikke væk!"
 	done
