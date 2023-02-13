@@ -596,7 +596,7 @@ BattleStyleOptionText:
 	next " SHIFT    SET@"
 
 OptionMenuCancelText:
-	db "CANCEL@"
+	db "FORTRYD@"
 
 ; sets the options variable according to the current placement of the menu cursors in the options menu
 SetOptionsFromCursorPositions:

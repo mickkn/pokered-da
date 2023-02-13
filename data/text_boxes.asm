@@ -76,7 +76,7 @@ SafariZoneBattleMenuText:
 SwitchStatsCancelText:
 	db   "SWITCH"
 	next "STATS"
-	next "CANCEL@"
+	next "FORTRYD@"
 
 JapaneseAhText:
 	db "アッ！@"
