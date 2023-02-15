@@ -1,88 +1,94 @@
 _BillsHouseText_1e865::
-	text "Hiya! I'm a"
+	text "Hej! Jeg er en"
 	line "#MON..."
-	cont "...No I'm not!"
+	cont "...Nej, jeg er"
+	cont "ikke!"
 
-	para "Call me BILL!"
-	line "I'm a true blue"
+	para "Kald mig BILL!"
+	line "Jeg er en rigtig"
 	cont "#MANIAC! Hey!"
-	cont "What's with that"
-	cont "skeptical look?"
+	cont "Hvad er det for"
+	cont "et skeptisk blik?"
 
-	para "I'm not joshing"
-	line "you, I screwed up"
-	cont "an experiment and"
-	cont "got combined with"
-	cont "a #MON!"
+	para "Jeg driller dig"
+	line "ikke, jeg lavede"
+	cont "en fejl med et"
+	cont "eksperiment og"
+	cont "blev blandet"
+	cont "med en #MON!"
 
-	para "So, how about it?"
-	line "Help me out here!"
+	para "Så, hvad siger du?"
+	line "Hjælp mig lige!"
 	done
 
 _BillsHouseText_1e86a::
-	text "When I'm in the"
-	line "TELEPORTER, go to"
-	cont "my PC and run the"
-	cont "Cell Separation"
-	cont "System!"
+	text "Når jeg er i"
+	line "TELEPORTØREN, gå"
+	cont "til min PC og kør"
+	cont "celleseparations-"
+	cont "systemet!"
 	done
 
 _BillsHouseText_1e86f::
-	text "No!? Come on, you"
-	line "gotta help a guy"
-	cont "in deep trouble!"
+	text "Nej!? Kom nu, du"
+	line "bliver nødt til"
+	cont "at hjælpe en fyr"
+	cont "i dybe problemer!"
 
-	para "What do you say,"
-	line "chief? Please?"
-	cont "OK? All right!"
+	para "Hvad siger du,"
+	line "chef? Vær sød?"
+	cont "Okay? Okay!"
 	prompt
 
 _BillThankYouText::
 	text "BILL: Yeehah!"
-	line "Thanks, bud! I"
-	cont "owe you one!"
+	line "Tak, ven! Jeg"
+	cont "skylder dig en!"
 
-	para "So, did you come"
-	line "to see my #MON"
-	cont "collection?"
-	cont "You didn't?"
-	cont "That's a bummer."
+	para "Så kom du for at"
+	line "se min #MON"
+	cont "samling?"
+	cont "Gjorde du ikke?"
+	cont "Det er ærgerligt."
 
-	para "I've got to thank"
-	line "you... Oh here,"
-	cont "maybe this'll do."
+	para "Jeg er nødt til at"
+	line "takke dig... Åh,"
+	cont "her, måske denne"
+	cont "vil gøre det."
 	prompt
 
 _SSTicketReceivedText::
-	text "<PLAYER> received"
-	line "an @"
+	text "<PLAYER> modtog"
+	line "en @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SSTicketNoRoomText::
-	text "You've got too"
-	line "much stuff, bud!"
+	text "Du har for mange"
+	line "genstande, ven"
 	done
 
 _BillsHouseText_1e8cb::
-	text "That cruise ship,"
-	line "S.S.ANNE, is in"
+	text "Det krydstogtskib,"
+	line "S.S.ANNE, er i"
 	cont "VERMILION CITY."
-	cont "Its passengers"
-	cont "are all trainers!"
+	cont "Dets passagerer"
+	cont "er alle trænere!"
 
-	para "They invited me"
-	line "to their party,"
-	cont "but I can't stand"
-	cont "fancy do's. Why"
-	cont "don't you go"
-	cont "instead of me?"
+	para "De inviterede mig"
+	line "til deres fest,"
+	cont "men jeg kan ikke"
+	cont "lide fine"
+	cont "arrangementer."
+	cont "Hvorfor tager du"
+	cont "ikke afsted i"
+	cont "stedet for mig?"
 	done
 
 _BillsHouseText_1e8da::
-	text "BILL: Look, bud,"
-	line "just check out"
-	cont "some of my rare"
-	cont "#MON on my PC!"
+	text "BILL: Se, ven,"
+	line "bare kig på nogle"
+	cont "af mine sjældne"
+	cont "#MON på min PC!"
 	done
