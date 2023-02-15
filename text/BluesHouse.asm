@@ -1,42 +1,45 @@
 _DaisyInitialText::
-	text "Hi <PLAYER>!"
-	line "<RIVAL> is out at"
-	cont "Grandpa's lab."
+	text "Hej <PLAYER>!"
+	line "<RIVAL> er ude"
+	cont "ved bedstefars"
+	cont "laboratorium."
 	done
 
 _DaisyOfferMapText::
-	text "Grandpa asked you"
-	line "to run an errand?"
-	cont "Here, this will"
-	cont "help you!"
+	text "Skal du løbe et"
+	line "ærinde for"
+	cont "bedstefar? Her,"
+	cont "dette vil"
+	cont "hjælpe dig!"
 	prompt
 
 _GotMapText::
-	text "<PLAYER> got a"
+	text "<PLAYER> fik et"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _DaisyBagFullText::
-	text "You have too much"
-	line "stuff with you."
+	text "Du har for meget"
+	line "med dig."
 	done
 
 _DaisyUseMapText::
-	text "Use BYKORTET"
-	line "to find out where"
-	cont "you are."
+	text "Brug BYKORTET"
+	line "til at finde ud"
+	cont "af, hvor du er."
 	done
 
 _BluesHouseDaisyWalkingText::
-	text "#MON are living"
-	line "things! If they"
-	cont "get tired, give"
-	cont "them a rest!"
+	text "#MON er levende"
+	line "væsener! Hvis de"
+	cont "bliver trætte, så"
+	cont "giv dem en pause!"
 	done
 
 _BluesHouseTownMapText::
-	text "It's a big map!"
-	line "This is useful!"
+	text "Det er et stort"
+	line "kort! Det er"
+	cont "nyttigt!"
 	done
