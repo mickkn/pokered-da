@@ -1,22 +1,26 @@
 _CeladonHouseText1::
-	text "Hehehe! The slots"
-	line "just reel in the"
-	cont "dough, big time!"
+	text "Hehehe!"
+	line "Spillemaskinerne"
+	cont "hive bare penge"
+	cont "ind, konstant!"
 	done
 
 _CeladonHouseText2::
-	text "CHIEF!"
+	text "CHEF!"
 
-	para "We just shipped"
-	line "2000 #MON as"
-	cont "slot prizes!"
+	para "Vi har har lige"
+	line "leveret 2000"
+	cont "#MON som"
+	cont "spillemaskine-"
+	cont "gevinster!"
 	done
 
 _CeladonHouseText3::
-	text "Don't touch the"
-	line "poster at the"
-	cont "GAME CORNER!"
+	text "Rør ikke ved"
+	line "plakaten i"
+	cont "SPILLEHJØRNET!"
 
-	para "There's no secret"
-	line "switch behind it!"
+	para "Der er ingen"
+	line "hemmelig kontakt"
+	cont "bag den!"
 	done
