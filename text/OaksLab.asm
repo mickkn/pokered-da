@@ -48,7 +48,8 @@ _OaksLabBulbasaurText::
 
 _OaksLabMonEnergeticText::
 	text "Denne #MON er"
-	line "virkelig energisk!"
+	line "virkelig"
+	cont "energisk!"
 	prompt
 
 _OaksLabReceivedMonText::
@@ -115,8 +116,9 @@ _OaksLabDeliverParcelText2::
 
 _OaksLabAroundWorldText::
 	text "#MON over hele"
-	line "verdenen venter på"
-	cont "dig, <PLAYER>!"
+	line "verdenen venter"
+	cont "på dig,"
+	cont "<PLAYER>!"
 	done
 
 _OaksLabGivePokeballsText1::
@@ -205,8 +207,9 @@ _OaksLabChooseMonText::
 	line "Lad mig tænke..."
 
 	para "Åh ja, nu husker"
-	line "jeg, at jeg sagde,"
-	cont "du skulle komme!"
+	line "jeg, at jeg"
+	cont "sagde, du skulle"
+	cont "komme!"
 	cont "Vent lidt!"
 
 	para "Her, <PLAYER>!"
@@ -284,8 +287,9 @@ _OaksLabRivalToughenUpText::
 	text "<RIVAL>: Okay!"
 	line "Jeg får min"
 	cont "#MON til at"
-	cont "kæmpe, for at gøre"
-	cont "den stærkere!"
+	cont "kæmpe, for at"
+	cont "gøre den"
+	cont "stærkere!"
 
 	para "<PLAYER>!"
 	line "Bedstefar!"
@@ -364,18 +368,21 @@ _OaksLabText27::
 	cont "alt være op til"
 	cont "mig!"
 
-	para "<PLAYER>, jeg hader"
-	line "at sige det,"
-	cont "men jeg har ikke"
-	cont "brug for dig!"
+	para "<PLAYER>, jeg"
+	line "hader at sige"
+	cont "det, men jeg har"
+	cont "ikke brug for"
+	cont "dig!"
 
 	para "Jeg ved det! Jeg"
-	line "vil låne et BYKORT"
-	cont "fra min søster!"
+	line "vil låne et"
+	cont "BYKORT af min"
+	cont "søster!"
 
 	para "Jeg vil fortælle"
-	line "hende ikke at låne"
-	cont "dig et, <PLAYER>!"
+	line "hende ikke, at"
+	cont "låne dig et,"
+	cont "<PLAYER>!"
 	cont "Hahaha!"
 	done
 
