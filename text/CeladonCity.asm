@@ -1,74 +1,84 @@
 _CeladonCityText1::
-	text "I got my KOFFING"
-	line "in CINNABAR!"
+	text "Jeg fik min"
+	line "KOFFING i"
+	cont "CINNABAR!"
 
-	para "It's nice, but it"
-	line "breathes poison"
-	cont "when it's angry!"
+	para "Den er fin, men"
+	line "den spyr gift"
+	cont "når den er vred!"
 	done
 
 _CeladonCityText2::
-	text "Heheh! This GYM"
-	line "is great! It's"
-	cont "full of women!"
+	text "Heheh! Dette GYM"
+	line "er fantastisk!"
+	cont "Det er fyldt med"
+	cont "kvinder!"
 	done
 
 _CeladonCityText3::
-	text "The GAME CORNER"
-	line "is bad for our"
-	cont "city's image!"
+	text "SPILLEHJØRNET"
+	line "er dårligt for"
+	cont "byens image!"
 	done
 
 _CeladonCityText4::
-	text "Moan! I blew it"
-	line "all at the slots!"
+	text "Støn!"
+	line "Jeg tabte alt på"
+	cont "spillemaskinerne!"
 
-	para "I knew I should"
-	line "have cashed in my"
-	cont "coins for prizes!"
+	para "Jeg vidste, jeg"
+	line "skulle have"
+	line "indløst mine"
+	line "mønter til"
+	cont "præmier!"
 	done
 
 _TM41PreText::
-	text "Hello, there!"
+	text "Hej der!"
 
-	para "I've seen you,"
-	line "but I never had a"
-	cont "chance to talk!"
+	para "Jeg har set dig,"
+	line "men jeg har aldrig"
+	line "haft mulighed for"
+	cont "at snakke!"
 
-	para "Here's a gift for"
-	line "dropping by!"
+	para "Her er en gave til"
+	line "dig for at kigge"
+	cont "forbi!"
 	prompt
 
 _ReceivedTM41Text::
-	text "<PLAYER> received"
+	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _TM41ExplanationText::
-	text "TM41 teaches"
+	text "TM41 lærer"
 	line "SOFTBOILED!"
 
-	para "Only one #MON"
-	line "can use it!"
+	para "Kun en #MON"
+	line "kan bruge den!"
 
-	para "That #MON is"
+	para "Den #MON er"
 	line "CHANSEY!"
 	done
 
 _TM41NoRoomText::
-	text "Oh, your pack is"
-	line "full of items!"
+	text "Åh, din taske er"
+	line "fyldt med"
+	cont "genstande!"
 	done
 
 _CeladonCityText6::
-	text "This is my trusted"
-	line "pal, POLIWRATH!"
+	text "Dette er min"
+	line "betroede ven,"
+	cont "POLIWRATH!"
 
-	para "It evolved from"
-	line "POLIWHIRL when I"
-	cont "used WATER STONE!"
+	para "Den udviklede sig"
+	line "fra POLIWHIRL, da"
+	cont "jeg brugte"
+	cont "VANDSTEN!"
 	done
 
 _CeladonCityText7::
@@ -77,44 +87,43 @@ _CeladonCityText7::
 	text_end
 
 _CeladonCityText8::
-	text "What are you"
-	line "staring at?"
+	text "Hvad glor du på?"
 	done
 
 _CeladonCityText9::
-	text "Keep out of TEAM"
-	line "ROCKET's way!"
+	text "Hold dig væk fra"
+	line "TEAM ROCKETs vej!"
 	done
 
 _CeladonCityText10::
-	text "TRAINER TIPS"
+	text "TRÆNER TIPS"
 
-	para "X ACCURACY boosts"
-	line "the accuracy of"
-	cont "techniques!"
+	para "X ACCURACY"
+	line "øger evners"
+	cont "præcisionen!"
 
-	para "DIRE HIT jacks up"
-	line "the likelihood of"
-	cont "critical hits!"
+	para "DIRE HIT øger"
+	line "chancen for"
+	cont "kritiske"
+	cont "træffere!"
 
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "Køb dine genstande"
+	line "i CELADON VAREHUS"
 	done
 
 _CeladonCityText11::
 	text "CELADON CITY"
-	line "The City of"
-	cont "Rainbow Dreams"
+	line "Regnbuedrømmenes"
+	cont "by!"
 	done
 
 _CeladonCityText13::
 	text "CELADON CITY"
 	line "#MON GYM"
-	cont "LEADER: ERIKA"
+	cont "LEDER: ERIKA"
 
-	para "The Nature Loving"
-	line "Princess!"
+	para "Den naturglade"
+	line "prinsesse!"
 	done
 
 _CeladonCityText14::
@@ -122,33 +131,32 @@ _CeladonCityText14::
 	done
 
 _CeladonCityText15::
-	text "Find what you"
-	line "need at CELADON"
-	cont "DEPT. STORE!"
+	text "Find hvad du har"
+	line "brug for i"
+	cont "CELADON VAREHUS"
 	done
 
 _CeladonCityText16::
-	text "TRAINER TIPS"
+	text "TRÆNER TIPS"
 
 	para "GUARD SPEC."
-	line "protects #MON"
-	cont "against SPECIAL"
-	cont "attacks such as"
-	cont "fire and water!"
+	line "beskytter #MON"
+	cont "mod SPECIELLE"
+	cont "angreb som ild"
+	cont "og vand!"
 
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "Køb dine genstande"
+	line "i CELADON VAREHUS"
 	done
 
 _CeladonCityText17::
-	text "Coins exchanged"
-	line "for prizes!"
-	cont "PRIZE EXCHANGE"
+	text "Mønter byttes til"
+	line "præmier!"
+	cont "PRÆMIEUDVEKSLING"
 	done
 
 _CeladonCityText18::
-	text "ROCKET GAME CORNER"
-	line "The playground"
-	cont "for grown-ups!"
+	text "ROCKET SPILLEHAL"
+	line "Legepladsen"
+	cont "for voksne!"
 	done
