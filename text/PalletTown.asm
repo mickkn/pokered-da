@@ -1,56 +1,57 @@
 _OakAppearsText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@"
+	text "OAK: Vent lige!"
+	line "Gå ikke ud!@"
 	text_end
 
 _OakWalksUpText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
+	text "OAK: Det er"
+	line "farligt! Vilde"
+	cont "#MON lever"
+	cont "i højt græs!"
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "Du har brug for"
+	line "din egen #MON"
+	cont "til din"
+	cont "beskyttelse. Jeg"
+	cont "ved det!"
 
-	para "Here, come with"
-	line "me!"
+	para "Kom med mig!"
 	done
 
 _PalletTownText2::
-	text "I'm raising"
-	line "#MON too!"
+	text "Jeg opdrætter også"
+	line "#MON!"
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "Når de bliver"
+	line "stærke, kan de"
+	cont "beskytte mig!"
 	done
 
 _PalletTownText3::
-	text "Technology is"
-	line "incredible!"
+	text "Teknologien er"
+	line "fantastisk!"
 
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	para "Nu kan du gemme og"
+	line "hente ting og"
+	cont "#MON som"
+	cont "data via en PC!"
 	done
 
 _PalletTownText4::
 	text "OAK #MON"
-	line "RESEARCH LAB"
+	line "FORSKNINGSLAB"
 	done
 
 _PalletTownText5::
 	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	line "Din rejse"
+	cont "venter forude!"
 	done
 
 _PalletTownText6::
-	text "<PLAYER>'s house "
+	text "<PLAYER>s hus "
 	done
 
 _PalletTownText7::
-	text "<RIVAL>'s house "
+	text "<RIVAL>s hus "
 	done
