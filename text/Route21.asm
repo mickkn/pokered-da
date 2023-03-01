@@ -1,36 +1,37 @@
 _Route21BattleText1::
-	text "You want to know"
-	line "if the fish are"
-	cont "biting?"
+	text "Vil du gerne vide,"
+	line "om fiskene bider?"
 	done
 
 _Route21EndBattleText1::
-	text "Dang!"
+	text "Forbandet!"
 	prompt
 
 _Route21AfterBattleText1::
-	text "I can't catch"
-	line "anything good!"
+	text "Jeg kan ikke fange"
+	line "noget godt!"
 	done
 
 _Route21BattleText2::
-	text "I got a big haul!"
-	line "Wanna go for it?"
+	text "Jeg har fanget en"
+	line "stor fisk!"
+	cont "Skal vi prøve?"
 	done
 
 _Route21EndBattleText2::
-	text "Darn"
+	text "Æv!"
 	line "MAGIKARP!"
 	prompt
 
 _Route21AfterBattleText2::
-	text "I seem to only"
-	line "catch MAGIKARP!"
+	text "Det ser ud til, at"
+	line "jeg kun fanger"
+	cont "MAGIKARP!"
 	done
 
 _Route21BattleText3::
-	text "The sea cleanses"
-	line "my body and soul!"
+	text "Havet renser min"
+	line "krop og sjæl!"
 	done
 
 _Route21EndBattleText3::
@@ -38,100 +39,105 @@ _Route21EndBattleText3::
 	prompt
 
 _Route21AfterBattleText3::
-	text "I like the"
-	line "mountains too!"
+	text "Jeg kan også lide"
+	line "bjergene!"
 	done
 
 _Route21BattleText4::
-	text "What's wrong with"
-	line "me swimming?"
+	text "Hvad er der galt"
+	line "med at svømme?"
 	done
 
 _Route21EndBattleText4::
-	text "Cheap"
-	line "shot!"
+	text "Billigt"
+	line "træk!"
 	prompt
 
 _Route21AfterBattleText4::
-	text "I look like what?"
-	line "A studded inner"
-	cont "tube? Get lost!"
+	text "Ligner jeg hvad?"
+	line "Et rør med"
+	cont "nitter? Skrid!"
 	done
 
 _Route21BattleText5::
-	text "I caught all my"
-	line "#MON at sea!"
+	text "Jeg har fanget"
+	line "alle mine"
+	cont "#MON i havet!"
 	done
 
 _Route21EndBattleText5::
-	text "Diver!!"
-	line "Down!!"
+	text "Dykker!!"
+	line "Ned!!"
 	prompt
 
 _Route21AfterBattleText5::
-	text "Where'd you catch"
-	line "your #MON?"
+	text "Hvor fangede du"
+	line "dine #MON?"
 	done
 
 _Route21BattleText6::
-	text "Right now, I'm in"
-	line "a triathlon meet!"
+	text "Lige nu er jeg til"
+	line "triatlonstævne!"
 	done
 
 _Route21EndBattleText6::
-	text "Pant..."
-	line "pant...pant..."
+	text "Pust..."
+	line "pust...pust..."
 	prompt
 
 _Route21AfterBattleText6::
-	text "I'm beat!"
-	line "But, I still have"
-	cont "the bike race and"
-	cont "marathon left!"
+	text "Jeg er træt!"
+	line "Men, jeg har"
+	cont "stadig cykelløbet"
+	cont "og maraton"
+	cont "tilbage!"
 	done
 
 _Route21BattleText7::
-	text "Ahh! Feel the sun"
-	line "and the wind!"
+	text "Ahh! Mærk solen"
+	line "og vinden!"
 	done
 
 _Route21EndBattleText7::
-	text "Yow!"
-	line "I lost!"
+	text "Av!!"
+	line "Jeg tabte!"
 	prompt
 
 _Route21AfterBattleText7::
-	text "I'm sunburnt to a"
-	line "crisp!"
+	text "Jeg er helt"
+	line "forbrændt i"
+	cont "solen!"
 	done
 
 _Route21BattleText8::
-	text "Hey, don't scare"
-	line "away the fish!"
+	text "Hey, skræm ikke"
+	line "fiskene væk!"
 	done
 
 _Route21EndBattleText8::
-	text "Sorry!"
-	line "I didn't mean it!"
+	text "Undskyld! Det var"
+	line "ikke min mening!"
 	prompt
 
 _Route21AfterBattleText8::
-	text "I was just angry"
-	line "that I couldn't"
-	cont "catch anything."
+	text "Jeg var bare sur,"
+	line "fordi jeg ikke"
+	cont "kunne fange"
+	cont "noget."
 	done
 
 _Route21BattleText9::
-	text "Keep me company"
-	line "'til I get a hit!"
+	text "Hold mig med"
+	line "selskab, indtil"
+	cont "jeg får et hug!"
 	done
 
 _Route21EndBattleText9::
-	text "That"
-	line "burned some time."
+	text "Det"
+	line "brugte noget tid."
 	prompt
 
 _Route21AfterBattleText9::
-	text "Oh wait! I got a"
-	line "bite! Yeah!"
+	text "Vent! Jeg fik et"
+	line "hug! Yeah!"
 	done
