@@ -1,60 +1,62 @@
 _CeladonDinerText1::
-	text "Hi!"
+	text "Hej!"
 
-	para "We're taking a"
-	line "break now."
+	para "Vi holder lige en"
+	line "pause nu."
 	done
 
 _CeladonDinerText2::
-	text "My #MON are"
-	line "weak, so I often"
-	cont "have to go to the"
-	cont "DRUG STORE."
+	text "Mine #MON er"
+	line "svage, så jeg må"
+	cont "ofte gå på"
+	cont "APOTEKET."
 	done
 
 _CeladonDinerText3::
-	text "Psst! There's a"
-	line "basement under"
-	cont "the GAME CORNER."
+	text "Psst! Der er en"
+	line "kælder under"
+	cont "SPILLEHJØRNET"
 	done
 
 _CeladonDinerText4::
 	text "Munch..."
 
-	para "The man at that"
-	line "table lost it all"
-	cont "at the slots."
+	para "Manden ved det"
+	line "bord tabte alt"
+	cont "ved spille-"
+	cont "automaterne."
 	done
 
 _CeladonDinerText_491a7::
-	text "Go ahead! Laugh!"
+	text "Gå videre! Grin!"
 
-	para "I'm flat out"
-	line "busted!"
+	para "Jeg er helt"
+	line "på røven!"
 
-	para "No more slots for"
-	line "me! I'm going"
-	cont "straight!"
+	para "Ikke flere spille-"
+	line "automater til"
+	cont "mig! Jeg går lige"
+	cont "til sagen!"
 
-	para "Here! I won't be"
-	line "needing this any-"
-	cont "more!"
+	para "Her! Jeg har ikke"
+	line "brug for den"
+	cont "mere!"
 	prompt
 
 _ReceivedCoinCaseText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> modtog"
+	line "en @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CoinCaseNoRoomText::
-	text "Make room for"
-	line "this!"
+	text "Lav plads til den!"
 	done
 
 _CeladonDinerText_491b7::
-	text "I always thought"
-	line "I was going to"
-	cont "win it back..."
+	text "Jeg har hele tiden"
+	line "troet, at jeg"
+	cont "ville vinde det"
+	cont "tilbage..."
 	done

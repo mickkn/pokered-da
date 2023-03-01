@@ -19,7 +19,7 @@ _CeladonMart1Text2::
 
 	para "4F: WISEMAN GIFTS"
 
-	para "5F: DRUG STORE"
+	para "5F: APOTEK"
 
 	para "ROOFTOP SQUARE:"
 	line "VENDING MACHINES"
