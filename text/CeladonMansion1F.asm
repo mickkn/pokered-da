@@ -3,11 +3,13 @@ _CeladonMansion1Text1::
 	text_end
 
 _CeladonMansion1Text2::
-	text "My dear #MON"
-	line "keep me company."
+	text "Kære #MON,"
+	line "hold mig med"
+	cont "selskab."
 
-	para "MEOWTH even brings"
-	line "money home!"
+	para "MEOWTH bringer"
+	line "endda penge med"
+	cont "hjem!"
 	done
 
 _CeladonMansion1Text3::
