@@ -1,67 +1,77 @@
 _ProgrammerText::
-	text "Me? I'm the"
-	line "programmer!"
+	text "Mig? Jeg er"
+	line "den danske"
+	cont "oversætter! Kan"
+	cont "du lide #MON"
+	cont "på dansk?"
 	done
 
 _GraphicArtistText::
-	text "I'm the graphic"
-	line "artist!"
-	cont "I drew you!"
+	text "Jeg er den"
+	line "grafiske"
+	cont "designer! Jeg"
+	cont "tegnede dig!"
 	done
 
 _WriterText::
-	text "I wrote the story!"
-	line "Isn't ERIKA cute?"
+	text "Jeg skrev"
+	line "historien!"
+	cont "Er ERIKA"
+	cont "ikke sød?"
 
-	para "I like MISTY a"
-	line "lot too!"
+	para "Jeg kan også godt"
+	line "lide MISTY meget!"
 
-	para "Oh, and SABRINA,"
-	line "I like her!"
+	para "Åh, og SABRINA,"
+	line "jeg kan godt lide"
+	cont "hende!"
 	done
 
 _GameDesignerText::
-	text "Is that right?"
+	text "Er det rigtigt?"
 
-	para "I'm the game"
+	para "Jeg er spil"
 	line "designer!"
 
-	para "Filling up your"
-	line "#DEX is tough,"
-	cont "but don't quit!"
+	para "At fylde dit"
+	line "#DEX er svært,"
+	cont "men giv ikke op!"
 
-	para "When you finish,"
-	line "come tell me!"
+	para "Når du er færdig,"
+	line "kom og fortæl"
+	cont "mig det!"
 	done
 
 _CompletedDexText::
-	text "Wow! Excellent!"
-	line "You completed"
-	cont "your #DEX!"
-	cont "Congratulations!"
+	text "Wow! Fantastisk!"
+	line "Du fuldførte"
+	cont "dit #DEX!"
+	cont "Tillykke!"
 	cont "...@"
 	text_end
 
 _CeladonMansion3Text5::
-	text "It's the game"
-	line "program! Messing"
-	cont "with it could bug"
-	cont "out the game!"
+	text "Det er spillets"
+	line "program! At rode"
+	cont "med det kan bugge"
+	cont "spillet ud!"
 	done
 
 _CeladonMansion3Text6::
-	text "Someone's playing"
-	line "a game instead of"
-	cont "working!"
+	text "Nogen spiller"
+	line "et spil i stedet"
+	cont "for at arbejde!"
 	done
 
 _CeladonMansion3Text7::
-	text "It's the script!"
-	line "Better not look"
-	cont "at the ending!"
+	text "Det er"
+	line "manuskriptet! Du"
+	cont "har bare, ikke at"
+	cont "kigge på"
+	cont "slutningen"
 	done
 
 _CeladonMansion3Text8::
 	text "GAME FREAK"
-	line "Development Room"
+	line "Udviklingsrum"
 	done
