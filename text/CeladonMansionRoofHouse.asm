@@ -1,10 +1,9 @@
 _CeladonMansion5Text1::
-	text "I know everything"
-	line "about the world"
-	cont "of #MON in"
-	cont "your GAME BOY!"
+	text "Jeg ved alt om"
+	line "verdenen af"
+	cont "#MON i din"
+	cont "GAME BOY!"
 
-	para "Get together with"
-	line "your friends and"
-	cont "trade #MON!"
+	para "Saml dine venner"
+	line "og byt #MON!"
 	done
