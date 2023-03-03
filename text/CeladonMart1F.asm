@@ -1,31 +1,30 @@
 _CeladonMart1Text1::
-	text "Hello! Welcome to"
-	line "CELADON DEPT."
-	cont "STORE."
+	text "Hej! Velkommen til"
+	line "CELADON VAREHUS."
 
-	para "The board on the"
-	line "right describes"
-	cont "the store layout."
+	para "Tavlen til højre"
+	line "viser butiks-"
+	cont "oversigten."
 	done
 
 _CeladonMart1Text2::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "1F: SERVICE-"
+	line "    SKRANKE"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "2F: TRÆNERS'S"
+	line "    MARKED"
 
-	para "3F: TV GAME SHOP"
+	para "3F: SPILLEBUTIK"
 
-	para "4F: WISEMAN GIFTS"
+	para "4F: GAVEARTIKLER"
 
 	para "5F: APOTEK"
 
-	para "ROOFTOP SQUARE:"
-	line "VENDING MACHINES"
+	para "TAGTERRASSE:"
+	line "SODAVANDSMASKINER"
 	done
 
 _CeladonMart1Text3::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "1F: SERVICE-"
+	line "    SKRANKE"
 	done
