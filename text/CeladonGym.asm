@@ -1,68 +1,77 @@
 _ErikaPreBattleText::
-	text "Hello. Lovely"
-	line "weather isn't it?"
-	cont "It's so pleasant."
+	text "Hej. Dejligt"
+	line "vejr, ik' sandt?"
+	cont "Det er så"
+	cont "behageligt."
 
-	para "...Oh dear..."
-	line "I must have dozed"
-	cont "off. Welcome."
+	para "...Åh nej..."
+	line "Jeg må have sovet"
+	cont "ind. Velkommen."
 
-	para "My name is ERIKA."
-	line "I am the LEADER"
-	cont "of CELADON GYM."
+	para "Mit navn er ERIKA."
+	line "Jeg er LEADEREN"
+	cont "af CELADON GYM."
 
-	para "I teach the art of"
-	line "flower arranging."
-	cont "My #MON are of"
-	cont "the grass-type."
+	para "Jeg underviser i"
+	line "kunsten blomster-"
+	cont "binding. Mine"
+	cont "#MON er af"
+	cont "græs-typen."
 
-	para "Oh, I'm sorry, I"
-	line "had no idea that"
-	cont "you wished to"
-	cont "challenge me."
+	para "Åh, undskyld, jeg"
+	line "havde ingen"
+	cont "anelse om, at du"
+	cont "ønskede at"
+	cont "udfordre mig."
 
-	para "Very well, but I"
-	line "shall not lose."
+	para "Meget godt, men"
+	line "jeg vil ikke"
+	cont "tabe."
 	done
 
 _ReceivedRainbowBadgeText::
-	text "Oh!"
-	line "I concede defeat."
+	text "Åh! Jeg"
+	line "overgiver mig."
 
-	para "You are remarkably"
-	line "strong."
+	para "Du er bemærkelses-"
+	line "værdig stærk"
 
-	para "I must confer you"
-	line "the RAINBOWBADGE."
+	para "Jeg tildeler dig"
+	line "et RAINBOWBADGE."
 	prompt
 
 _ErikaPostBattleAdviceText::
-	text "You are cataloging"
-	line "#MON? I must"
-	cont "say I'm impressed."
+	text "Er du i gang med"
+	line "at katalogisere"
+	cont "#MON? Jeg må"
+	cont "sige, jeg er"
+	cont "imponeret."
 
-	para "I would never"
-	line "collect #MON"
-	cont "if they were"
-	cont "unattractive."
+	para "Jeg ville aldrig"
+	line "samle #MON, der"
+	cont "ikke var flotte"
+	cont "og attraktive."
 	done
 
 _ErikaRainbowBadgeInfoText::
-	text "The RAINBOWBADGE"
-	line "will make #MON"
-	cont "up to L50 obey."
+	text "Et RAINBOWBADGE"
+	line "vil få #MON til"
+	cont "at lytte til"
+	cont "kommandoer op"
+	cont "til L50."
 
-	para "It also allows"
-	line "#MON to use"
-	cont "STRENGTH in and"
-	cont "out of battle."
+	para "Det giver også en"
+	line "#MON mulighed"
+	cont "for at bruge"
+	cont "STRENGTH inde og"
+	cont "udenfor kampen."
 
-	para "Please also take"
-	line "this with you."
+	para "Tag også dette"
+	line "med dig."
 	done
 
 _ReceivedTM21Text::
-	text "<PLAYER> received"
+	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -71,150 +80,156 @@ _ReceivedTM21Text::
 _TM21ExplanationText::
 	text_start
 
-	para "TM21 contains"
+	para "TM21 indeholder"
 	line "MEGA DRAIN."
 
-	para "Half the damage"
-	line "it inflicts is"
-	cont "drained to heal"
-	cont "your #MON!"
+	para "Halvdelen af den"
+	line "skade, det"
+	cont "påfører, bliver"
+	cont "drænet for at"
+	cont "helbrede din"
+	cont "#MON!"
 	done
 
 _TM21NoRoomText::
-	text "You should make"
-	line "room for this."
+	text "Du bør gøre plads"
+	line "til den."
 	done
 
 _CeladonGymBattleText2::
-	text "Hey!"
+	text "Hej!"
 
-	para "You are not"
-	line "allowed in here!"
+	para "Du har ikke"
+	line "tilladelse til at"
+	cont "være her!"
 	done
 
 _CeladonGymEndBattleText2::
-	text "You're"
-	line "too rough!"
+	text "Du er"
+	line "for voldsom!"
 	prompt
 
 _CeladonGymAfterBattleText2::
 	text "Bleaah!"
-	line "I hope ERIKA"
-	cont "wipes you out!"
+	line "Jeg håber, ERIKA"
+	cont "udrydder dig!"
 	done
 
 _CeladonGymBattleText3::
-	text "I was getting"
-	line "bored."
+	text "Jeg kedede mig."
 	done
 
 _CeladonGymEndBattleText3::
-	text "My"
+	text "Mit"
 	line "makeup!"
 	prompt
 
 _CeladonGymAfterBattleText3::
-	text "Grass-type #MON"
-	line "are tough against"
-	cont "the water-type!"
+	text "Græs-type #MON"
+	line "er stærke imod"
+	cont "vand-typen!"
 
-	para "They also have an"
-	line "edge on rock and"
-	cont "ground #MON!"
+	para "De har også en"
+	line "fordel imod sten"
+	cont "og jord #MON!"
 	done
 
 _CeladonGymBattleText4::
-	text "Aren't you the"
-	line "peeping Tom?"
+	text "Er du ikke den"
+	line "nysgerrige?"
 	done
 
 _CeladonGymEndBattleText4::
-	text "I'm"
-	line "in shock!"
+	text "Jeg er"
+	line "i chok!"
 	prompt
 
 _CeladonGymAfterBattleText4::
-	text "Oh, you weren't"
-	line "peeping? We get a"
-	cont "lot of gawkers!"
+	text "Åh, du kiggede"
+	line "ikke? Vi får"
+	cont "mange kiggefugle!"
 	done
 
 _CeladonGymBattleText5::
-	text "Look at my grass"
+	text "Se på mine græs-"
 	line "#MON!"
 
-	para "They're so easy"
-	line "to raise!"
+	para "De er så nemme"
+	line "at opdrætte!"
 	done
 
 _CeladonGymEndBattleText5::
-	text "No!"
+	text "Nej!"
 	prompt
 
 _CeladonGymAfterBattleText5::
-	text "We only use grass-"
-	line "type #MON at"
-	cont "our GYM!"
+	text "Vi bruger kun"
+	line "græstype #MON"
+	cont "i vores GYM!"
 
-	para "We also use them"
-	line "for making flower"
-	cont "arrangements!"
+	para "Vi bruger dem"
+	line "også til at"
+	cont "lave blomster-"
+	cont "dekorationer!"
 	done
 
 _CeladonGymBattleText6::
-	text "Don't bring any"
-	line "bugs or fire"
-	cont "#MON in here!"
+	text "Medbring ikke"
+	line "nogen insekt"
+	cont "eller ild #MON"
+	cont "herind!"
 	done
 
 _CeladonGymEndBattleText6::
 	text "Oh!"
-	line "You!"
+	line "Dig!"
 	prompt
 
 _CeladonGymAfterBattleText6::
-	text "Our LEADER, ERIKA,"
-	line "might be quiet,"
-	cont "but she's also"
-	cont "very skilled!"
+	text "Vores LEDER,"
+	line "ERIKA, er måske"
+	cont "stille, men hun"
+	cont "er også meget"
+	cont "dygtig!"
 	done
 
 _CeladonGymBattleText7::
-	text "Pleased to meet"
-	line "you. My hobby is"
-	cont "#MON training."
+	text "Hyggeligt at møde"
+	line "dig. Min hobby er"
+	cont "#MON træning."
 	done
 
 _CeladonGymEndBattleText7::
 	text "Oh!"
-	line "Splendid!"
+	line "Fremragende!"
 	prompt
 
 _CeladonGymAfterBattleText7::
-	text "I have a blind"
-	line "date coming up."
-	cont "I have to learn"
-	cont "to be polite."
+	text "Jeg har en blind-"
+	line "date på vej. Jeg"
+	cont "skal lære at"
+	cont "være høflig."
 	done
 
 _CeladonGymBattleText8::
-	text "Welcome to"
+	text "Velkommen til"
 	line "CELADON GYM!"
 
-	para "You better not"
-	line "underestimate"
+	para "Du skal ikke"
+	line "undervurdere"
 	cont "girl power!"
 	done
 
 _CeladonGymEndBattleText8::
 	text "Oh!"
-	line "Beaten!"
+	line "Besejret!"
 	prompt
 
 _CeladonGymAfterBattleText8::
-	text "I didn't bring my"
-	line "best #MON!"
+	text "Jeg medbragte ikke"
+	line "min bedste"
+	cont "#MON!"
 
-	para "Wait 'til next"
-	line "time!"
+	para "Vent til næste"
+	line "gang!"
 	done
