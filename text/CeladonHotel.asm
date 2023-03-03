@@ -1,21 +1,22 @@
 _CeladonHotelText1::
-	text "#MON? No, this"
-	line "is a hotel for"
-	cont "people."
+	text "#MON? Nej, dette"
+	line "er et hotel for"
+	cont "mennesker."
 
-	para "We're full up."
+	para "Vi er fuldt"
+	line "booket."
 	done
 
 _CeladonHotelText2::
-	text "I'm on vacation"
-	line "with my brother"
-	cont "and boy friend."
+	text "Jeg er på ferie"
+	line "med min bror"
+	cont "og kæreste."
 
-	para "CELADON is such a"
-	line "pretty city!"
+	para "CELADON er sådan"
+	line "en smuk by!"
 	done
 
 _CeladonHotelText3::
-	text "Why did she bring"
-	line "her brother?"
+	text "Hvorfor tog hun"
+	line "sin bror med?"
 	done
