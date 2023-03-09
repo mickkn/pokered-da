@@ -11,7 +11,7 @@ _CeladonMart1Text2::
 	text "1F: SERVICE-"
 	line "    SKRANKE"
 
-	para "2F: TRÆNERS'S"
+	para "2F: TRÆNER-"
 	line "    MARKED"
 
 	para "3F: SPILLEBUTIK"
