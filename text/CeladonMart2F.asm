@@ -1,22 +1,25 @@
 _CeladonMart2Text3::
-	text "SUPER REPEL keeps"
-	line "weak #MON at"
-	cont "bay..."
+	text "SUPER REPEL"
+	line "holder svage"
+	cont "#MON på"
+	cont "afstand."
 
-	para "Hmm, it's a more"
-	line "powerful REPEL!"
+	para "Hmm, det er en"
+	line "mere kraftfuld"
+	cont "REPEL!"
 	done
 
 _CeladonMart2Text4::
-	text "For long outings,"
-	line "you should buy"
+	text "Til lange ture,"
+	line "bør du købe"
 	cont "REVIVE."
 	done
 
 _CeladonMart2Text5::
-	text "Top Grade Items"
-	line "for Trainers!"
+	text "Topkvalitets-"
+	line "genstande til"
+	cont "trænere!"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "2F: TRÆNER-"
+	line "    MARKED"
 	done
