@@ -1,26 +1,26 @@
 _CeladonMart5Text1::
-	text "#MON ability"
-	line "enhancers can be"
-	cont "bought only here."
+	text "#MON evnefor-"
+	line "bedringer kan kun"
+	cont "købes her."
 
-	para "Use CALCIUM to"
-	line "increase SPECIAL"
-	cont "abilities."
+	para "Brug CALCIUM til"
+	line "øge SPECIELLE"
+	cont "evner."
 
-	para "Use CARBOS to"
-	line "increase SPEED."
+	para "Brug CARBOS til at"
+	line "øge SPEED."
 	done
 
 _CeladonMart5Text2::
-	text "I'm here for"
-	line "#MON ability"
-	cont "enhancers."
+	text "Jeg er kommet"
+	line "efter #MON"
+	cont "evneforbedringer."
 
-	para "PROTEIN increases"
-	line "ATTACK power."
+	para "PROTEIN øger"
+	line "ANGREBS-styrke."
 
-	para "IRON increases"
-	line "DEFENSE!"
+	para "JERN øger"
+	line "FORSVAR!"
 	done
 
 _CeladonMart5Text5::
