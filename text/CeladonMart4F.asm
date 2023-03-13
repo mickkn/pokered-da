@@ -1,26 +1,26 @@
 _CeladonMart4Text2::
-	text "I'm getting a"
-	line "# DOLL for my"
-	cont "girl friend!"
+	text "Jeg skal købe en"
+	line "# DOLL til min"
+	cont "kæreste!"
 	done
 
 _CeladonMart4Text3::
-	text "I heard something"
-	line "useful."
+	text "Jeg hørte noget"
+	line "nyttigt."
 
-	para "You can run from"
-	line "wild #MON by"
-	cont "distracting them"
-	cont "with a # DOLL!"
+	para "Du kan undslippe"
+	line "vilde #MON ved"
+	cont "at aflede dem"
+	cont "med en # DOLL!"
 	done
 
 _CeladonMart4Text4::
-	text "Express yourself"
-	line "with gifts!"
+	text "Udtryk dig"
+	line "med gaver!"
 
 	para "4F: GAVEARTIKLER"
 
 	para "Evolution Special!"
-	line "Element STONEs on"
-	cont "sale now!"
+	line "Element STEN på"
+	cont "tilbud nu!"
 	done
