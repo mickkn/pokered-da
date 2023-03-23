@@ -1,21 +1,21 @@
 _CeladonMartRoofText_484ee::
-	text "Give her which"
-	line "drink?"
+	text "Giv hende hvad"
+	line "at drikke?"
 	done
 
 _CeladonMartRoofText_484f3::
-	text "Yay!"
+	text "Hurra!"
 
-	para "FRESH WATER!"
+	para "FRISK VAND!"
 
-	para "Thank you!"
+	para "Tak!"
 
-	para "You can have this"
-	line "from me!@"
+	para "Du kan få denne"
+	line "fra mig!@"
 	text_end
 
 _CeladonMartRoofText_484f9::
-	text "<PLAYER> received"
+	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -26,26 +26,27 @@ _CeladonMartRoofText_484fe::
 
 	para "@"
 	text_ram wStringBuffer
-	text " contains"
+	text " indeholder"
 	line "ICE BEAM!"
 
-	para "It can freeze the"
-	line "target sometimes!@"
+	para "Det kan fryse"
+	line "målet nogle"
+	cont "gange!@"
 	text_end
 
 _CeladonMartRoofText_48504::
-	text "Yay!"
+	text "Hurra!"
 
-	para "SODA POP!"
+	para "SODAVAND!"
 
-	para "Thank you!"
+	para "Tak!"
 
-	para "You can have this"
-	line "from me!@"
+	para "Du kan få denne"
+	line "fra mig!@"
 	text_end
 
 _CeladonMartRoofText_4850a::
-	text "<PLAYER> received"
+	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -56,97 +57,102 @@ _CeladonMartRoofText_4850f::
 
 	para "@"
 	text_ram wStringBuffer
-	text " contains"
+	text " indeholder"
 	line "ROCK SLIDE!"
 
-	para "It can spook the"
-	line "target sometimes!@"
+	para "Det kan skræmme"
+	line "målet nogle"
+	cont "gange!@"
 	text_end
 
 _CeladonMartRoofText_48515::
-	text "Yay!"
+	text "Hurra!"
 
 	para "LEMONADE!"
 
-	para "Thank you!"
+	para "Tak!"
 
-	para "You can have this"
-	line "from me!@"
+	para "Du kan få denne"
+	line "fra mig!@"
 	text_end
 
 _ReceivedTM49Text::
-	text "<PLAYER> received"
+	text "<PLAYER> modtog"
 	line "TM49!@"
 	text_end
 
 _CeladonMartRoofText_48520::
 	text_start
 
-	para "TM49 contains"
+	para "TM49 indeholder"
 	line "TRI ATTACK!@"
 	text_end
 
 _CeladonMartRoofText_48526::
-	text "You don't have"
-	line "space for this!@"
+	text "Du har ikke"
+	line "plads til den!@"
 	text_end
 
 _CeladonMartRoofText_4852c::
-	text "No thank you!"
-	line "I'm not thirsty"
-	cont "after all!@"
+	text "Nej tak!"
+	line "Jeg er ikke"
+	cont "tørstig"
+	cont "alligevel!!@"
 	text_end
 
 _CeladonMartRoofText1::
-	text "My sister is a"
-	line "trainer, believe"
-	cont "it or not."
+	text "Min søster er en"
+	line "træner, tro det"
+	cont "eller ej."
 
-	para "But, she's so"
-	line "immature, she"
-	cont "drives me nuts!"
+	para "Men, hun er så"
+	line "umoden, hun"
+	cont "driver mig til"
+	cont "vanvid!"
 	done
 
 _CeladonMartRoofText_48598::
-	text "I'm thirsty!"
-	line "I want something"
-	cont "to drink!"
+	text "Jeg er tørstig!"
+	line "Jeg vil have noget"
+	cont "at drikke!"
 	done
 
 _CeladonMartRoofText4::
-	text "I'm thirsty!"
-	line "I want something"
-	cont "to drink!"
+	text "Jeg er tørstig!"
+	line "Jeg vil have"
+	cont "noget at drikke!"
 
-	para "Give her a drink?"
+	para "Giv hende noget at"
+	cont "drikke?"
 	done
 
 _CeladonMartRoofText6::
-	text "ROOFTOP SQUARE:"
-	line "VENDING MACHINES"
+	text "TAGTERRASSE:"
+	line "SODAVANDSMASKINER"
 	done
 
 _VendingMachineText1::
-	text "A vending machine!"
-	line "Here's the menu!"
+	text "En sodavands-"
+	line "maskine!"
+	cont "Her er menuen!"
 	prompt
 
 _VendingMachineText4::
-	text "Oops, not enough"
-	line "money!"
+	text "Ups, ikke nok"
+	line "penge!"
 	done
 
 _VendingMachineText5::
 	text_ram wStringBuffer
 	text_start
-	line "popped out!"
+	line "popper ud!"
 	done
 
 _VendingMachineText6::
-	text "There's no more"
-	line "room for stuff!"
+	text "Der er ikke mere"
+	line "plads til ting!"
 	done
 
 _VendingMachineText7::
-	text "Not thirsty!"
+	text "Ikke tørstig!"
 	done
