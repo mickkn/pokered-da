@@ -1,12 +1,12 @@
 _CeladonPokecenterText2::
-	text "# FLUTE awakens"
-	line "#MON with a"
-	cont "sound that only"
-	cont "they can hear!"
-	done
+    text "# FLØJTE vækker"
+    line "#MON med en"
+    cont "lyd, som kun"
+    cont "de kan høre!"
+    done
 
 _CeladonPokecenterText3::
-	text "I rode uphill on"
-	line "CYKELVEJEN from"
-	cont "FUCHSIA!"
-	done
+    text "Jeg kørte op ad"
+    line "CYKELVEJEN fra"
+    cont "FUCHSIA!"
+    done
