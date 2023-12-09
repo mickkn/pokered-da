@@ -9,8 +9,8 @@ _BikeShopText_1d810::
 
 _BikeShopText_1d815::
 	text "Det er en cool"
-	line "CYKEL! Do you"
-	cont "want it?"
+	line "CYKEL! Vil du"
+	cont "have den?"
 	done
 
 _BikeShopCantAffordText::
