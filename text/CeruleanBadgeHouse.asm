@@ -1,97 +1,106 @@
 _CeruleanHouse2Text_74e77::
-	text "#MON BADGEs"
-	line "are owned only by"
-	cont "skilled trainers."
+    text "#MON BADGEs"
+    line "ejes kun af"
+    cont "dygtige trænere."
 
-	para "I see you have"
-	line "at least one."
+    para "Jeg kan se, at du"
+    line "har mindst én."
 
-	para "Those BADGEs have"
-	line "amazing secrets!"
-	prompt
+    para "Disse BADGEs har"
+    line "fantastiske"
+	line "hemmeligheder!"
+    prompt
 
 _CeruleanHouse2Text_74e7c::
-	text "Now then..."
+    text "Nu så..."
 
-	para "Which of the 8"
-	line "BADGEs should I"
-	cont "describe?"
-	done
+    para "Hvilken af de 8"
+    line "BADGEs skal jeg"
+    cont "beskrive?"
+    done
 
 _CeruleanHouse2Text_74e81::
-	text "Come visit me any"
-	line "time you wish."
-	done
+    text "Besøg mig når som"
+    line "helst du ønsker."
+    done
 
 _CeruleanHouse2Text_74e96::
-	text "The ATTACK of all"
-	line "#MON increases"
-	cont "a little bit."
+    text "ANGREBET fra alle"
+    line "#MON stiger en"
+    cont "smule."
 
-	para "It also lets you"
-	line "use FLASH any"
-	cont "time you desire."
-	prompt
+    para "Det giver dig også"
+    line "mulighed for at"
+	line "bruge FLASH"
+    cont "når som helst."
+    prompt
 
 _CeruleanHouse2Text_74e9b::
-	text "#MON up to L30"
-	line "will obey you."
+    text "#MON op til L30"
+    line "vil adlyde dig."
 
-	para "Any higher, they"
-	line "become unruly!"
+    para "Højere end det,"
+    line "bliver de"
+    line "ustyrlige!"
 
-	para "It also lets you"
-	line "use CUT outside"
-	cont "of battle."
+    para "Det giver dig også"
+	line "mulighed for at"
+    line "bruge CUT uden"
+    cont "for kamp."
 	prompt
 
 _CeruleanHouse2Text_74ea0::
-	text "The SPEED of all"
-	line "#MON increases"
-	cont "a little bit."
+    text "HASTIGHEDEN for"
+    line "alle #MON"
+    cont "stiger en smule."
 
-	para "It also lets you"
-	line "use FLY outside"
-	cont "of battle."
+    para "Det giver dig også"
+    line "mulighed for at"
+    line "bruge FLY uden for"
+    cont "kamp."
 	prompt
 
 _CeruleanHouse2Text_74ea5::
-	text "#MON up to L50"
-	line "will obey you."
+    text "#MON op til L50"
+    line "vil adlyde dig."
 
-	para "Any higher, they"
-	line "become unruly!"
+    para "Hvis de er højere,"
+    line "bliver de"
+	line "ustyrlige!"
 
-	para "It also lets you"
-	line "use STRENGTH out-"
-	cont "side of battle."
-	prompt
+    para "Det giver dig også"
+	line "mulighed for at"
+    line "bruge STYRKE uden"
+    cont "for kamp."
+    prompt
 
 _CeruleanHouse2Text_74eaa::
-	text "The DEFENSE of all"
-	line "#MON increases"
-	cont "a little bit."
+    text "FORSVARET for alle"
+    line "#MON stiger"
+    cont "en smule."
 
-	para "It also lets you"
-	line "use SURF outside"
-	cont "of battle."
+    para "Det giver dig også"
+	line "mulighed for at"
+    line "bruge SURF uden"
+    cont "for kamp."
 	prompt
 
 _CeruleanHouse2Text_74eaf::
-	text "#MON up to L70"
-	line "will obey you."
+    text "#MON op til L70"
+    line "vil adlyde dig."
 
-	para "Any higher, they"
-	line "become unruly!"
+    para "Hvis de er højere,"
+    line "bliver de"
+	line "ustyrlige!"
 	prompt
 
 _CeruleanHouse2Text_74eb4::
-	text "Your #MON's"
-	line "SPECIAL abilities"
-	cont "increase a bit."
+    text "Din #MON's"
+    line "SPECIAL evner"
+    cont "stiger en smule."
 	prompt
 
 _CeruleanHouse2Text_74eb9::
-	text "All #MON will"
-	line "obey you!"
+    text "Alle #MON vil"
+    line "adlyde dig!"
 	prompt
