@@ -1,235 +1,247 @@
 _CeruleanCityText_19668::
-	text "<RIVAL>: Yo!"
+	text "<RIVAL>: Hej!"
 	line "<PLAYER>!"
 
-	para "You're still"
-	line "struggling along"
-	cont "back here?"
+    para "Du kæmper stadig"
+    cont "her bagved?"
 
-	para "I'm doing great!"
-	line "I caught a bunch"
-	cont "of strong and"
-	cont "smart #MON!"
+    para "Jeg klarer mig"
+    line "godt! Jeg har"
+	line "fanget en masse"
+    cont "stærke og"
+    cont "seje #MON!"
 
-	para "Here, let me see"
-	line "what you caught,"
+    para "Her, lad mig se"
+    line "hvad du har"
+    line "fanget,"
 	cont "<PLAYER>!"
-	done
+    done
 
 _CeruleanCityText_1966d::
-	text "Hey!"
-	line "Take it easy!"
-	cont "You won already!"
-	prompt
+    text "Hey!"
+    line "Tag det roligt!"
+    cont "Du har jo vundet!"
+    prompt
 
 _CeruleanCityText_19672::
-	text "Heh!"
-	line "You're no match"
-	cont "for my genius!"
-	prompt
+    text "Heh! Du er"
+    line "ingen match for"
+    cont "min genialitet!"
+    prompt
 
 _CeruleanCityText_19677::
-	text "<RIVAL>: Hey,"
-	line "guess what?"
+    text "<RIVAL>: Hej,"
+    line "gæt hvad?"
 
-	para "I went to BILL's"
-	line "and got him to"
-	cont "show me his rare"
-	cont "#MON!"
+    para "Jeg gik til BILL's"
+    line "og fik ham til at"
+    cont "vise mig hans"
+    cont "sjældne #MON!"
 
-	para "That added a lot"
-	line "of pages to my"
-	cont "#DEX!"
+    para "Det tilføjede en"
+    line "masse sider til"
+    cont "min #DEX!"
 
-	para "After all, BILL's"
-	line "world famous as a"
-	cont "#MANIAC!"
+    para "Efter alt, BILL er"
+    line "verdensberømt som"
+	cont "en #MANIAC!"
 
-	para "He invented the"
-	line "#MON Storage"
-	cont "System on PC!"
+    para "Han opfandt"
+    line "#MON Opbevarings-"
+    cont "systemet på PC!"
 
-	para "Since you're using"
-	line "his system, go"
-	cont "thank him!"
+    para "Da du bruger"
+    line "hans system, så"
+    cont "tak ham!"
 
-	para "Well, I better"
-	line "get rolling!"
-	cont "Smell ya later!"
-	done
+    para "Nå, jeg må hellere"
+    line "komme i videre!"
+    cont "Vi ses senere!"
+    done
 
 _CeruleanCityText_196d9::
-	text "Hey! Stay out!"
-	line "It's not your"
-	cont "yard! Huh? Me?"
+    text "Hey! Bliv ude!"
+    line "Det er ikke din"
+    cont "have! Huh? Mig?"
 
-	para "I'm an innocent"
-	line "bystander! Don't"
-	cont "you believe me?"
-	done
+    para "Jeg er en uskyldig"
+    line "tilskuer! Tror du"
+    cont "ikke på mig?"
+    done
 
 _ReceivedTM28Text::
-	text "<PLAYER> recovered"
-	line "TM28!@"
-	text_end
+    text "<PLAYER> fik"
+    line "TM28 tilbage!@"
+    text_end
 
 _ReceivedTM28Text2::
 	text_start
 
-	para "I better get"
-	line "moving! Bye!@"
-	text_end
+    para "Jeg må hellere"
+    line "komme i gang!"
+	line "Farvel!@"
+    text_end
 
 _TM28NoRoomText::
-	text "Make room for"
-	line "this!"
+    text "Lav plads til"
+    line "dette!"
 
-	para "I can't run until"
-	line "I give it to you!"
-	done
+    para "Jeg kan ikke løbe,"
+    line "før jeg giver"
+	line "det til dig!"
+    done
 
 _CeruleanCityText_196ee::
-	text "Stop!"
-	line "I give up! I'll"
-	cont "leave quietly!"
-	prompt
+    text "Stop!"
+    line "Jeg giver op! Jeg"
+	line "forlader stedet"
+    cont "stille og roligt!"
+    prompt
 
 _CeruleanCityText_196f3::
-	text "OK! I'll return"
-	line "the TM I stole!"
+    text "OK! Jeg vil"
+    line "returnere den TM"
+	line "jeg stjal!"
 	prompt
 
 _CeruleanCityText3::
-	text "You're a trainer"
-	line "too? Collecting,"
-	cont "fighting, it's a"
-	cont "tough life."
+    text "Er du også en"
+    line "træner? At samle,"
+    cont "kæmpe, det er et"
+    cont "hårdt liv."
 	done
 
 _CeruleanCityText4::
-	text "That bush in"
-	line "front of the shop"
-	cont "is in the way."
+    text "Den busk foran"
+    line "butikken"
+    cont "er i vejen."
 
-	para "There might be a"
-	line "way around."
+    para "Der kan være en"
+    line "vej rundt."
 	done
 
 _CeruleanCityText5::
-	text "You're making an"
-	line "encyclopedia on"
-	cont "#MON? That"
-	cont "sounds amusing."
-	done
+    text "Du laver et"
+    line "leksikon om"
+    cont "#MON? Det"
+    cont "lyder sjovt."
+    done
 
 _CeruleanCityText6::
-	text "The people here"
-	line "were robbed."
+    text "Folk her"
+    line "blev røvet."
 
-	para "It's obvious that"
-	line "TEAM ROCKET is"
-	cont "behind this most"
-	cont "heinous crime!"
+    para "Det er åbenlyst at"
+    line "TEAM ROCKET står"
+    cont "bag denne"
+    cont "forbrydelse!"
 
-	para "Even our POLICE"
-	line "force has trouble"
-	cont "with the ROCKETs!"
+    para "Selv vores politi"
+    line "har problemer"
+    cont "med ROCKETs!"
 	done
 
 _CeruleanCityText_19730::
-	text "OK! SLOWBRO!"
-	line "Use SONICBOOM!"
-	cont "Come on, SLOWBRO"
-	cont "pay attention!"
-	done
+    text "OK! SLOWBRO!"
+    line "Brug SONICBOOM!"
+    cont "Kom nu, SLOWBRO"
+    cont "vær opmærksom!"
+    done
 
 _CeruleanCityText_19735::
-	text "SLOWBRO punch!"
-	line "No! You blew it"
-	cont "again!"
+    text "SLOWBRO slå!"
+    line "Nej! Du ødelagde"
+    cont "det igen!"
 	done
 
 _CeruleanCityText_1973a::
-	text "SLOWBRO, WITHDRAW!"
-	line "No! That's wrong!"
+    text "SLOWBRO,"
+	line "TRÆK DIG TILBAGE!"
+    line "Nej! Det"
+	line "er forkert!"
 
-	para "It's so hard to"
-	line "control #MON!"
+    para "Det er så svært at"
+    line "kontrollere #MON!"
 
-	para "Your #MON's"
-	line "obedience depends"
-	cont "on your abilities"
-	cont "as a trainer!"
-	done
+    para "Din #MON's"
+    line "lydighed afhænger"
+    cont "af dine evner"
+    cont "som en træner!"
+    done
 
 _CeruleanCityText_1976f::
-	text "SLOWBRO took a"
-	line "snooze..."
+    text "SLOWBRO tog en"
+    line "lur..."
 	done
 
 _CeruleanCityText_19774::
-	text "SLOWBRO is"
-	line "loafing around..."
+    text "SLOWBRO går"
+    line "doven rundt..."
 	done
 
 _CeruleanCityText_19779::
-	text "SLOWBRO turned"
-	line "away..."
+    text "SLOWBRO vendte"
+    line "sig væk..."
 	done
 
 _CeruleanCityText_1977e::
-	text "SLOWBRO"
-	line "ignored orders..."
+    text "SLOWBRO"
+    line "ignorerede"
+	line "ordrer..."
 	done
 
 _CeruleanCityText9::
-	text "I want a bright"
-	line "red BICYCLE!"
+    text "Jeg vil have en"
+    line "lysende rød"
+	line "CYKEL!"
 
-	para "I'll keep it at"
-	line "home, so it won't"
-	cont "get dirty!"
+    para "Jeg vil beholde"
+    line "den hjemme, så"
+    line "den ikke bliver"
+    cont "beskidt!"
 	done
 
 _CeruleanCityText10::
-	text "This is CERULEAN"
-	line "CAVE! Horribly"
-	cont "strong #MON"
-	cont "live in there!"
+    text "Dette er CERULEAN"
+    line "GROTTEN!"
+    line "Der lever"
+    line "forfærdeligt"
+    cont "stærke #MON"
+    cont "derinde!"
 
 	para "#MON-LIGAEN"
-	line "champion is the"
-	cont "only person who"
-	cont "is allowed in!"
+    line "en mester er den"
+    cont "eneste person, der"
+    cont "har adgang!"
 	done
 
 _CeruleanCityText12::
-	text "CERULEAN CITY"
-	line "A Mysterious,"
-	cont "Blue Aura"
-	cont "Surrounds It"
+    text "CERULEAN BY"
+    line "En mystisk,"
+    cont "blå aura"
+    cont "omgiver den"
 	done
 
 _CeruleanCityText13::
-	text "TRAINER TIPS"
+    text "TRÆNER TIPS"
 
-	para "Pressing B Button"
-	line "during evolution"
-	cont "cancels the whole"
-	cont "process."
+    para "Tryk på B-knappen"
+    line "under Udvikling"
+    cont "for at afbryd"
+    cont "hele processen."
 	done
 
 _CeruleanCityText16::
-	text "Grass and caves"
-	line "handled easily!"
-	cont "BIKE SHOP"
+    text "Græs og grotter"
+    line "er en leg!"
+    cont "CYKEL BUTIK"
 	done
 
 _CeruleanCityText17::
-	text "CERULEAN CITY"
+	text "CERULEAN BY"
 	line "#MON GYM"
-	cont "LEADER: MISTY"
+	cont "LEDER: MISTY"
 
-	para "The Tomboyish"
-	line "Mermaid!"
+	para "Den Drengepigede"
+	line "Havfrue!"
 	done
