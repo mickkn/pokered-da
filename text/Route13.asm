@@ -31,7 +31,7 @@ _Route13AfterBattleText3::
 	done
 
 _Route13BattleText4::
-	text "Wow! Your BADGEs"
+	text "Wow! Your EMBLEMER"
 	line "are too cool!"
 	done
 
@@ -42,7 +42,7 @@ _Route13EndBattleText4::
 
 _Route13AfterBattleText4::
 	text "You got those"
-	line "BADGEs from GYM"
+	line "EMBLEMER from GYM"
 	cont "LEADERs. I know!"
 	done
 

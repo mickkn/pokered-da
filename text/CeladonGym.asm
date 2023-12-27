@@ -37,7 +37,7 @@ _ReceivedRainbowBadgeText::
 	line "værdig stærk"
 
 	para "Jeg tildeler dig"
-	line "et RAINBOWBADGE."
+	line "et RAINBOWEMBLEM."
 	prompt
 
 _ErikaPostBattleAdviceText::
@@ -54,7 +54,7 @@ _ErikaPostBattleAdviceText::
 	done
 
 _ErikaRainbowBadgeInfoText::
-	text "Et RAINBOWBADGE"
+	text "Et RAINBOWEMBLEM"
 	line "vil få #MON til"
 	cont "at lytte til"
 	cont "kommandoer op"

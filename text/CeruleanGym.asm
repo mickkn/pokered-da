@@ -1,69 +1,72 @@
 _MistyPreBattleText::
-	text "Hi, you're a new"
-	line "face!"
+    text "Hej, du er et nyt"
+    line "ansigt!"
 
-	para "Trainers who want"
-	line "to turn pro have"
-	cont "to have a policy"
-	cont "about #MON!"
+    para "Trænere, der vil"
+    line "være pro, skal"
+    cont "have en politik"
+    cont "omkring #MON!"
 
-	para "What is your"
-	line "approach when you"
-	cont "catch #MON?"
+    para "Hvad er din"
+    line "tilgang, når du"
+    cont "fanger #MON?"
 
-	para "My policy is an"
-	line "all-out offensive"
-	cont "with water-type"
-	cont "#MON!"
-	done
+    para "Min politik er en"
+    line "fuld offensiv"
+    cont "med vand-type"
+    cont "#MON!"
+    done
 
 _TM11ExplanationText::
-	text "TM11 teaches"
-	line "BUBBLEBEAM!"
+    text "TM11 lærer"
+    line "BUBBLEBEAM!"
 
-	para "Use it on an"
-	line "aquatic #MON!"
-	done
+    para "Brug det på en"
+    line "vand #MON!"
+    done
 
 _MistyCascadeBadgeInfoText::
-	text "The CASCADEBADGE"
-	line "makes all #MON"
-	cont "up to L30 obey!"
+    text "CASCADEEMBLEMET"
+    line "gør at alle #MON"
+    cont "op til"
+	cont "L30 adlyder!"
 
-	para "That includes"
-	line "even outsiders!"
+    para "Det inkluderer"
+    line "selv"
+	line "udefrakommende!"
 
-	para "There's more, you"
-	line "can now use CUT"
-	cont "any time!"
+    para "Der er mere, du"
+    line "kan nu bruge CUT"
+    cont "når som helst!"
 
-	para "You can CUT down"
-	line "small bushes to"
-	cont "open new paths!"
+    para "Du kan hugge små"
+    line "buske ned for at"
+    cont "åbne nye stier!"
 
-	para "You can also have"
-	line "my favorite TM!"
-	done
+    para "Du kan også få"
+    line "min yndlings TM!"
+    done
 
 _ReceivedTM11Text::
-	text "<PLAYER> received"
-	line "TM11!@"
+    text "<PLAYER> modtog"
+    line "TM11!@"
 	text_end
 
 _TM11NoRoomText::
-	text "You better make"
-	line "room for this!"
+    text "Du hellere lave"
+    line "plads til dette!"
 	done
 
 _ReceivedCascadeBadgeText::
-	text "Wow!"
-	line "You're too much!"
+    text "Wow!"
+    line "Du er for stærk!"
 
-	para "All right!"
+    para "Okay!"
 
-	para "You can have the"
-	line "CASCADEBADGE to"
-	cont "show you beat me!@"
+    para "Du kan få"
+    line "CASCADEEMBLEMET"
+	line "for at vise, at"
+    cont "du slog mig!@"
 	text_end
 
 _CeruleanGymBattleText1::

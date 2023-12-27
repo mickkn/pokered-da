@@ -227,7 +227,7 @@ _CeruleanCityText13::
 
     para "Tryk på B-knappen"
     line "under Udvikling"
-    cont "for at afbryd"
+    cont "for at afbryde"
     cont "hele processen."
 	done
 

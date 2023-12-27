@@ -1,12 +1,12 @@
 _CeruleanHouse2Text_74e77::
-    text "#MON BADGEs"
+    text "#MON EMBLEMER"
     line "ejes kun af"
     cont "dygtige trænere."
 
     para "Jeg kan se, at du"
     line "har mindst én."
 
-    para "Disse BADGEs har"
+    para "Disse EMBLEMER har"
     line "fantastiske"
 	line "hemmeligheder!"
     prompt
@@ -15,7 +15,7 @@ _CeruleanHouse2Text_74e7c::
     text "Nu så..."
 
     para "Hvilken af de 8"
-    line "BADGEs skal jeg"
+    line "EMBLEMER skal jeg"
     cont "beskrive?"
     done
 

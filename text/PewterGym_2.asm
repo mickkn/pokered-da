@@ -57,10 +57,10 @@ _ReceivedBoulderBadgeText::
 
 	para "As proof of your"
 	line "victory, here's"
-	cont "the BOULDERBADGE!"
+	cont "the BOULDEREMBLEM!"
 
 	para "<PLAYER> received"
-	line "the BOULDERBADGE!@"
+	line "the BOULDEREMBLEM!@"
 	text_end
 
 _BrockBoulerBadgeInfoText::
@@ -68,7 +68,7 @@ _BrockBoulerBadgeInfoText::
 
 	para "That's an official"
 	line "#MON-LIGA"
-	cont "BADGE!"
+	cont "EMBLEM!"
 
 	para "Its bearer's"
 	line "#MON become"
