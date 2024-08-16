@@ -151,7 +151,7 @@ _Route19AfterBattleText10::
 	done
 
 _Route19Text11::
-	text "SEA ROUTE 19"
+	text "HAVRUTE 19"
 	line "FUCHSIA CITY -"
 	cont "SEAFOAM ISLANDS"
 	done
