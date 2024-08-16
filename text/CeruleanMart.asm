@@ -1,19 +1,20 @@
 _CeruleanMartText2::
-	text "Use REPEL to keep"
-	line "bugs and weak"
+	text "Brug REPEL til"
+	line "at holde insekter"
+	line "og svage"
 	cont "#MON away."
 
-	para "Put your strongest"
-	line "#MON at the"
-	cont "top of the list"
-	cont "for best results!"
+	para "Sæt din stærkeste"
+	line "#MON øverst på"
+	cont "listen for de"
+	cont "bedste resultater!"
 	done
 
 _CeruleanMartText3::
-	text "Have you seen any"
+	text "Har du set nogen"
 	line "RARE CANDY?"
 
-	para "It's supposed to"
-	line "make #MON go"
-	cont "up one level!"
+	para "Det skulle få"
+	line "#MON til at stige"
+	cont "et niveau!"
 	done

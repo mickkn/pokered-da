@@ -1,24 +1,25 @@
 _CeruleanPokecenterText2::
-	text "That BILL!"
+    text "Den BILL!"
 
-	para "I heard that"
-	line "he'll do whatever"
-	cont "it takes to get"
-	cont "rare #MON!"
-	done
+    para "Jeg har hørt, at"
+    line "han vil gøre hvad"
+	cont "som helst for"
+    cont "at få fat i"
+    cont "sjældne #MON!"
+    done
 
 _CeruleanPokecenterText3::
-	text "Have you heard"
-	line "about BILL?"
+    text "Har du hørt"
+    line "om BILL?"
 
-	para "Everyone calls"
-	line "him a #MANIAC!"
+    para "Alle kalder"
+    line "ham en #MANIAC!"
 
-	para "I think people"
-	line "are just jealous"
-	cont "of BILL, though."
+    para "Jeg tror folk"
+    line "bare er jaloux"
+    cont "på BILL."
 
-	para "Who wouldn't want"
-	line "to boast about"
-	cont "their #MON?"
+    para "Hvem ville ikke"
+    line "prale med"
+    cont "deres #MON?"
 	done

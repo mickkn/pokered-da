@@ -1,145 +1,149 @@
 _Route3Text1::
-	text "Whew... I better"
-	line "take a rest..."
-	cont "Groan..."
+    text "Puh... Jeg må nok"
+    line "tage en pause..."
+    cont "Suk..."
 
-	para "That tunnel from"
-	line "CERULEAN takes a"
-	cont "lot out of you!"
-	done
+    para "Den tunnel fra"
+    line "CERULEAN tager"
+    cont "alt din energi!"
+    done
 
 _Route3BattleText1::
-	text "Hey! I met you in"
-	line "VIRIDIAN FOREST!"
-	done
+    text "Hej! Jeg så dig i"
+    line "VIRIDIAN SKOVEN!"
+    done
 
 _Route3EndBattleText1::
-	text "You"
-	line "beat me again!"
-	prompt
+    text "Du"
+    line "slog mig igen!"
+    prompt
 
 _Route3AfterBattleText1::
-	text "There are other"
-	line "kinds of #MON"
-	cont "than those found"
-	cont "in the forest!"
-	done
+    text "Der er andre"
+    line "typer af #MON end"
+    cont "dem, der findes"
+    cont "i skoven!"
+    done
 
 _Route3BattleText2::
-	text "Hi! I like shorts!"
-	line "They're comfy and"
-	cont "easy to wear!"
-	done
+    text "Hej! Jeg kan lide"
+	line "shorts! De er"
+    line "behagelige og"
+    cont "rare at have på!"
+    done
 
 _Route3EndBattleText2::
-	text "I don't"
-	line "believe it!"
-	prompt
+    text "Jeg kan ikke"
+    line "tro det!"
+    prompt
 
 _Route3AfterBattleText2::
-	text "Are you storing"
-	line "your #MON on"
-	cont "PC? Each BOX can"
-	cont "hold 20 #MON!"
-	done
+    text "Opbevarer du dine"
+    line "#MON på PC'en? "
+    cont "Hver BOKS kan"
+    cont "holde 20 #MON!"
+    done
 
 _Route3BattleText3::
-	text "You looked at me,"
-	line "didn't you?"
-	done
+    text "Du kiggede på mig,"
+    line "gjorde du ikke?"
+    done
 
 _Route3EndBattleText3::
-	text "You're"
-	line "mean!"
-	prompt
+    text "Du er"
+    line "ond!"
+    prompt
 
 _Route3AfterBattleText3::
-	text "Quit staring if"
-	line "you don't want to"
-	cont "fight!"
-	done
+    text "Hold op med at"
+	line "stirre, hvis"
+    cont "du ikke vil"
+    cont "kæmpe!"
+    done
 
 _Route3BattleText4::
-	text "Are you a trainer?"
-	line "Let's fight!"
-	done
+    text "Er du en træner?"
+    line "Lad os kæmpe!"
+    done
 
 _Route3EndBattleText4::
-	text "If I"
-	line "had new #MON I"
-	cont "would've won!"
-	prompt
+    text "Hvis jeg"
+    line "havde nye #MON,"
+	cont "ville jeg"
+    cont "have vundet!"
+    prompt
 
 _Route3AfterBattleText4::
-	text "If a #MON BOX"
-	line "on the PC gets"
-	cont "full, just switch"
-	cont "to another BOX!"
-	done
+    text "Hvis en #MON BOKS"
+    line "på PC'en bliver"
+    cont "fuld, skal du"
+	cont "bare skifte til"
+    cont "en anden BOKS!"
+    done
 
 _Route3BattleText5::
-	text "That look you"
-	line "gave me, it's so"
-	cont "intriguing!"
-	done
+    text "Det blik, du"
+    line "gav mig, det er"
+    cont "så spændende!"
+    done
 
 _Route3EndBattleText5::
-	text "Be nice!"
-	prompt
+    text "Vær sød!"
+    prompt
 
 _Route3AfterBattleText5::
-	text "Avoid fights by"
-	line "not letting"
-	cont "people see you!"
-	done
+    text "Undgå kampe ved"
+    line "ikke at lade"
+    cont "folk se dig!"
+    done
 
 _Route3BattleText6::
-	text "Hey! You're not"
-	line "wearing shorts!"
-	done
+    text "Hej! Du har ikke"
+    line "shorts på!"
+    done
 
 _Route3EndBattleText6::
-	text "Lost!"
-	line "Lost! Lost!"
-	prompt
+    text "Tabt!"
+    line "Tabt! Tabt!"
+    prompt
 
 _Route3AfterBattleText6::
-	text "I always wear"
-	line "shorts, even in"
-	cont "winter!"
-	done
+    text "Jeg har altid"
+    line "shorts på, selv"
+    cont "om vinteren!"
+    done
 
 _Route3BattleText7::
-	text "You can fight my"
-	line "new #MON!"
-	done
+    text "Du kan kæmpe mod"
+    line "mine nye #MON!"
+    done
 
 _Route3EndBattleText7::
-	text "Done"
-	line "like dinner!"
-	prompt
+    text "Færdig"
+    line "som aftensmad!"
+    prompt
 
 _Route3AfterBattleText7::
-	text "Trained #MON"
-	line "are stronger than"
-	cont "the wild ones!"
-	done
+    text "Trænede #MON"
+    line "er stærkere end"
+    cont "de vilde!"
+    done
 
 _Route3BattleText8::
-	text "Eek! Did you"
-	line "touch me?"
-	done
+    text "Åh! Rørte du"
+    line "ved mig?"
+    done
 
 _Route3EndBattleText8::
-	text "That's it?"
-	prompt
+    text "Er det det?"
+    prompt
 
 _Route3AfterBattleText8::
-	text "ROUTE 4 is at the"
-	line "foot of MT.MOON."
-	done
+    text "RUTE 4 er ved "
+    line "foden af MT.MOON."
+    done
 
 _Route3Text10::
-	text "ROUTE 3"
-	line "MT.MOON AHEAD"
-	done
+    text "RUTE 3"
+    line "MT.MOON FORAN"
+    done

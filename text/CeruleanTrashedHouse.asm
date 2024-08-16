@@ -1,36 +1,38 @@
 _CeruleanTrashedText_1d6ab::
-	text "Those miserable"
-	line "ROCKETs!"
+    text "De elendige"
+    line "ROCKETs!"
 
-	para "Look what they"
-	line "did here!"
+    para "Se hvad de"
+    line "gjorde her!"
 
-	para "They stole a TM"
-	line "for teaching"
-	cont "#MON how to"
-	cont "DIG holes!"
+    para "De stjal en TM"
+    line "til at lære"
+    cont "#MON at"
+    cont "GRAVE huller!"
 
-	para "That cost me a"
-	line "bundle, it did!"
-	done
+    para "Det kostede mig"
+    line "en formue!"
+    done
 
 _CeruleanTrashedText_1d6b0::
-	text "I figure what's"
-	line "lost is lost!"
+    text "Jeg tænker, hvad"
+    line "der er tabt,"
+	line "er tabt!"
 
-	para "I decided to teach"
-	line "DIGLETT how to"
-	cont "DIG without a TM!"
-	done
+    para "Jeg besluttede at"
+    line "lære DIGLETT at"
+    cont "GRAVE uden en TM!"
+    done
 
 _CeruleanHouseTrashedText2::
-	text "TEAM ROCKET must"
-	line "be trying to DIG"
-	cont "their way into no"
-	cont "good!"
-	done
+    text "TEAM ROCKET må"
+    line "forsøge at GRAVE"
+    cont "sig vej til noget"
+    cont "skidt!"
+    done
 
 _CeruleanHouseTrashedText3::
-	text "TEAM ROCKET left"
-	line "a way out!"
+    text "TEAM ROCKET"
+    line "efterlod en"
+	line "vej ud!"
 	done

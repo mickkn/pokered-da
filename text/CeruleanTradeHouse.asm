@@ -1,9 +1,9 @@
 _CeruleanHouse1Text1::
-	text "My husband likes"
-	line "trading #MON."
+	text "Min mand kan lide"
+	line "at bytte #MON."
 
-	para "If you are a"
-	line "collector, would"
-	cont "you please trade"
-	cont "with him?"
+    para "Hvis du er en"
+    line "samler, vil du"
+    cont "venligst bytte"
+    cont "med ham?"
 	done

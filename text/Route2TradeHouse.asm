@@ -1,6 +1,7 @@
 _Route2HouseText1::
-	text "A fainted #MON"
-	line "can't fight. But, "
-	cont "it can still use "
-	cont "moves like CUT!"
-	done
+    text "En besvimet #MON"
+    line "kan ikke kæmpe."
+	cont "Men, den kan stadig"
+    cont "bruge evner som"
+    cont "CUT!"
+    done

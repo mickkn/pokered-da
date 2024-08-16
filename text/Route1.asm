@@ -1,46 +1,50 @@
 _Route1ViridianMartSampleText::
-	text "Hi! I work at a"
-	line "#MON MART."
+    text "Hej! Jeg arbejder"
+    line "i en #MON MART."
 
-	para "It's a convenient"
-	line "shop, so please"
-	cont "visit us in"
-	cont "VIRIDIAN CITY."
+    para "Det er en bekvem"
+    line "butik, så besøg os"
+    cont "venligst i"
+    cont "VIRIDIAN CITY."
 
-	para "I know, I'll give"
-	line "you a sample!"
-	cont "Here you go!"
-	prompt
+    para "Jeg ved det, jeg"
+	line "vil give dig en"
+    line "prøve!"
+    cont "Her, værsgo!"
+    prompt
 
 _Route1Text_1cae8::
-	text "<PLAYER> got"
-	line "@"
-	text_ram wStringBuffer
-	text "!@"
-	text_end
+    text "<PLAYER> fik"
+    line "@"
+    text_ram wStringBuffer
+    text "!@"
+    text_end
 
 _Route1Text_1caee::
-	text "We also carry"
-	line "# BALLs for"
-	cont "catching #MON!"
-	done
+    text "Vi har også"
+    line "# BALLs til"
+    cont "at fange #MON!"
+    done
 
 _Route1Text_1caf3::
-	text "You have too much"
-	line "stuff with you!"
-	done
+    text "Du har for mange"
+    line "ting med dig!"
+    done
 
 _Route1Text2::
-	text "See those ledges"
-	line "along the road?"
+    text "Ser du de kanter"
+    line "langs vejen?"
 
-	para "It's a bit scary,"
-	line "but you can jump"
-	cont "from them."
+    para "Det er lidt"
+	line "skræmmende, men"
+    line "du kan hoppe"
+    cont "fra dem."
 
-	para "You can get back"
-	line "to PALLET TOWN"
-	cont "quicker that way."
+    para "Du kan komme"
+	line "tilbage til"
+    line "PALLET TOWN"
+    line "hurtigere"
+    cont "på den måde."
 	done
 
 _Route1Text3::
