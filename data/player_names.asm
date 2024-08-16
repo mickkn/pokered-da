@@ -10,7 +10,7 @@ DefaultNamesRival:
 	db   "NYT NAVN"
 	next "BLÅ"
 	next "GARY"
-	next "ADAM"
+	next "KARL"
 	db   "@"
 ENDC
 
@@ -18,14 +18,14 @@ IF DEF(_BLUE)
 DefaultNamesPlayer:
 	db   "NYT NAVN"
 	next "BLÅ"
-	next "GARY"
+	next "ASH"
 	next "ADAM"
 	db   "@"
 
 DefaultNamesRival:
 	db   "NYT NAVN"
 	next "RØD"
-	next "ASH"
+	next "GARY"
 	next "KARL"
 	db   "@"
 ENDC

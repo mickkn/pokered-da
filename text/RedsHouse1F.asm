@@ -6,8 +6,8 @@ _MomWakeUpText::
     cont "de på TV."
 
     para "PROF.OAK, lige"
-    line "ved siden af, leder"
-    cont "efter dig."
+    line "ved siden af,"
+    cont "leder efter dig."
     done
 
 _MomHealText1::
@@ -27,9 +27,9 @@ _MomHealText2::
 
 _StandByMeText::
     text "Der er en film"
-    line "på TV. Fire drenge"
-    cont "går på et"
-    cont "jernbanespor."
+    line "på TV. Fire"
+    cont "drenge går på"
+    cont "et jernbanespor."
 
     para "Jeg må hellere"
 	line "også gå."
