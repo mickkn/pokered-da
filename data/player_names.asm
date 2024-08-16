@@ -3,14 +3,14 @@ DefaultNamesPlayer:
 	db   "NYT NAVN"
 	next "RØD"
 	next "ASH"
-	next "JENS"
+	next "ADAM"
 	db   "@"
 
 DefaultNamesRival:
 	db   "NYT NAVN"
 	next "BLÅ"
 	next "GARY"
-	next "JAKOB"
+	next "ADAM"
 	db   "@"
 ENDC
 
@@ -19,13 +19,13 @@ DefaultNamesPlayer:
 	db   "NYT NAVN"
 	next "BLÅ"
 	next "GARY"
-	next "JAKOB"
+	next "ADAM"
 	db   "@"
 
 DefaultNamesRival:
 	db   "NYT NAVN"
 	next "RØD"
 	next "ASH"
-	next "JENS"
+	next "KARL"
 	db   "@"
 ENDC
