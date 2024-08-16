@@ -1,37 +1,40 @@
 _MomWakeUpText::
-	text "MOM: Right."
-	line "All boys leave"
-	cont "home some day."
-	cont "It said so on TV."
+    text "MOR: Rigtigt."
+    line "Alle drenge"
+    cont "forlader hjemmet"
+	cont "en dag. Det sagde"
+    cont "de på TV."
 
-	para "PROF.OAK, next"
-	line "door, is looking"
-	cont "for you."
-	done
+    para "PROF.OAK, lige"
+    line "ved siden af, leder"
+    cont "efter dig."
+    done
 
 _MomHealText1::
-	text "MOM: <PLAYER>!"
-	line "You should take a"
-	cont "quick rest."
-	prompt
+    text "MOR: <PLAYER>!"
+    line "Du bør tage et"
+    cont "hurtigt hvile."
+    prompt
 
 _MomHealText2::
-	text "MOM: Oh good!"
-	line "You and your"
-	cont "#MON are"
-	cont "looking great!"
-	cont "Take care now!"
-	done
+    text "MOR: Åh godt!"
+    line "Du og dine"
+    cont "#MON ser"
+    cont "fantastiske ud!"
+    cont "Pas godt på"
+	cont "jer selv!"
+    done
 
 _StandByMeText::
-	text "There's a movie"
-	line "on TV. Four boys"
-	cont "are walking on"
-	cont "railroad tracks."
+    text "Der er en film"
+    line "på TV. Fire drenge"
+    cont "går på et"
+    cont "jernbanespor."
 
-	para "I better go too."
+    para "Jeg må hellere"
+	line "også gå."
 	done
 
 _TVWrongSideText::
-	text "Oops, wrong side."
+    text "Ups, forkert side."
 	done
