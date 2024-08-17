@@ -1,35 +1,35 @@
 _Route4Text1::
-	text "Ouch! I tripped"
-	line "over a rocky"
-	cont "#MON, GEODUDE!"
-	done
+    text "Av! Jeg snublede"
+    line "over en stenet"
+    cont "#MON, GEODUDE!"
+    done
 
 _Route4BattleText1::
-	text "I came to get my"
-	line "mushroom #MON!"
-	done
+    text "Jeg kom for at få"
+    line "min svampe #MON!"
+    done
 
 _Route4EndBattleText1::
-	text "Oh! My cute"
-	line "mushroom #MON!"
-	prompt
+    text "Åh! Min søde"
+    line "svampe #MON!"
+    prompt
 
 _Route4AfterBattleText1::
-	text "There might not"
-	line "be any more"
-	cont "mushrooms here."
+    text "Der er måske ikke"
+    line "flere svampe"
+    cont "her."
 
-	para "I think I got"
-	line "them all."
-	done
+    para "Jeg tror, jeg har"
+    line "taget dem alle."
+    done
 
 _Route4Text5::
-	text "MT.MOON"
-	line "Tunnel Entrance"
-	done
+    text "MT.MOON"
+    line "Tunnel Indgang"
+    done
 
 _Route4Text6::
-	text "ROUTE 4"
+	text "RUTE 4"
 	line "MT.MOON -"
 	cont "CERULEAN CITY"
 	done

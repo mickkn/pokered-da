@@ -1,97 +1,99 @@
 _Route6BattleText1::
-	text "Who's there?"
-	line "Quit listening in"
-	cont "on us!"
-	done
+    text "Hvem er der?"
+    line "Hold op med at"
+    cont "lytte til os!"
+    done
 
 _Route6EndBattleText1::
-	text "I"
-	line "just can't win!"
-	prompt
+    text "Jeg kan"
+    line "bare ikke vinde!"
+    prompt
 
 _Route6AfterBattleText1::
-	text "Whisper..."
-	line "whisper..."
-	done
+    text "Hvisken..."
+    line "hvisken..."
+    done
 
 _Route6BattleText2::
-	text "Excuse me! This"
-	line "is a private"
-	cont "conversation!"
-	done
+    text "Undskyld mig!"
+    line "Dette er en"
+    cont "privat samtale!"
+    done
 
 _Route6EndBattleText2::
-	text "Ugh!"
-	line "I hate losing!"
-	prompt
+    text "Øv! Jeg"
+    line "hader at tabe!"
+    prompt
 
 _Route6BattleText3::
-	text "There aren't many"
-	line "bugs out here."
-	done
+    text "Der er ikke mange"
+    line "insekter herude."
+    done
 
 _Route6EndBattleText3::
-	text "No!"
-	line "You're kidding!"
-	prompt
+    text "Nej!"
+    line "Du laver sjov!"
+    prompt
 
 _Route6AfterBattleText3::
-	text "I like bugs, so"
-	line "I'm going back to"
-	cont "VIRIDIAN FOREST."
-	done
+    text "Jeg kan lide"
+    line "insekter, så jeg"
+	line "går tilbage til"
+    cont "VIRIDIAN SKOVEN."
+    done
 
 _Route6BattleText4::
-	text "Huh? You want"
-	line "to talk to me?"
-	done
+    text "Huh? Vil du"
+    line "tale med mig?"
+    done
 
 _Route6EndBattleText4::
-	text "I"
-	line "didn't start it!"
-	prompt
+    text "Jeg startede"
+    line "det ikke!"
+    prompt
 
 _Route6AfterBattleText4::
-	text "I should carry"
-	line "more #MON with"
-	cont "me for safety."
-	done
+    text "Jeg bør have"
+    line "flere #MON med"
+    line "mig for en"
+	cont "sikkerheds skyld."
+    done
 
 _Route6BattleText5::
-	text "Me? Well, OK."
-	line "I'll play!"
-	done
+    text "Mig? Nå, OK."
+    line "Jeg leger med!"
+    done
 
 _Route6EndBattleText5::
-	text "Just"
-	line "didn't work!"
-	prompt
+    text "Det virkede"
+    line "bare ikke!"
+    prompt
 
 _Route6AfterBattleText5::
-	text "I want to get"
-	line "stronger! What's"
-	cont "your secret?"
-	done
+    text "Jeg vil være"
+    line "stærkere! Hvad er"
+    cont "din hemmelighed?"
+    done
 
 _Route6BattleText6::
-	text "I've never seen"
-	line "you around!"
-	cont "Are you good?"
-	done
+    text "Jeg har aldrig"
+    line "set dig før!"
+    cont "Er du god?"
+    done
 
 _Route6EndBattleText6::
-	text "You"
-	line "are too good!"
-	prompt
+    text "Du"
+    line "er for god!"
+    prompt
 
 _Route6AfterBattleText6::
-	text "Are my #MON"
-	line "weak? Or, am I"
-	cont "just bad?"
-	done
+    text "Er mine #MON"
+    line "svage? Eller er"
+    cont "jeg bare dårlig?"
+    done
 
 _Route6Text7::
-	text "UNDERGROUND PATH"
+	text "UNDERGRUNDSSTI"
 	line "CERULEAN CITY -"
 	cont "VERMILION CITY"
 	done
