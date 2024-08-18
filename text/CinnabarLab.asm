@@ -1,29 +1,31 @@
 _Lab1Text1::
-	text "We study #MON"
-	line "extensively here."
+    text "Vi studerer #MON"
+    line "indgående her."
 
-	para "People often bring"
-	line "us rare #MON"
-	cont "for examination."
-	done
+    para "Folk bringer ofte"
+    line "sjældne #MON"
+    cont "til os for"
+	cont "undersøgelse."
+    done
 
 _Lab1Text2::
-	text "A photo of the"
-	line "LAB's founder,"
-	cont "DR.FUJI!"
-	done
+    text "Et foto af LAB's"
+    line "grundlægger,"
+    cont "DR.FUJI!"
+    done
 
 _Lab1Text3::
-	text "#MON LAB"
-	line "Meeting Room"
-	done
+    text "#MON LAB"
+    line "Mødelokale"
+    done
 
 _Lab1Text4::
-	text "#MON LAB"
-	line "R-and-D Room"
-	done
+    text "#MON LAB"
+    line "Forskning og"
+	cont "Udvikling"
+    done
 
 _Lab1Text5::
-	text "#MON LAB"
-	line "Testing Room"
-	done
+    text "#MON LAB"
+    line "Testlokale"
+    done

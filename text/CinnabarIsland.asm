@@ -1,37 +1,38 @@
 _CinnabarIslandText8::
-	text "The door is"
-	line "locked..."
-	done
+    text "Døren er"
+    line "låst..."
+    done
 
 _CinnabarIslandText1::
-	text "CINNABAR GYM's"
-	line "BLAINE is an odd"
-	cont "man who has lived"
-	cont "here for decades."
-	done
+    text "CINNABAR GYM's"
+    line "BLAINE er en"
+	cont "mærkelig mand,"
+    cont "der har boet"
+    cont "her i årtier."
+    done
 
 _CinnabarIslandText2::
-	text "Scientists conduct"
-	line "experiments in"
-	cont "the burned out"
-	cont "building."
-	done
+    text "Forskere udfører"
+    line "eksperimenter i"
+    cont "den udbrændte"
+    cont "bygning."
+    done
 
 _CinnabarIslandText3::
-	text "CINNABAR ISLAND"
-	line "The Fiery Town of"
-	cont "Burning Desire"
-	done
+    text "CINNABAR Ø"
+    line "Den Flammende By"
+    cont "af Brændende Lyst"
+    done
 
 _CinnabarIslandText6::
 	text "#MON LAB"
 	done
 
 _CinnabarIslandText7::
-	text "CINNABAR ISLAND"
-	line "#MON GYM"
-	cont "LEADER: BLAINE"
+    text "CINNABAR Ø"
+    line "#MON GYM"
+    cont "LEDER: BLAINE"
 
-	para "The Hot-Headed"
-	line "Quiz Master!"
-	done
+    para "Den Hidsige"
+    line "Quizmester!"
+    done

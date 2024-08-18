@@ -1,64 +1,68 @@
 _TM35PreReceiveText::
 	text "Tch-tch-tch!"
-	line "I made a cool TM!"
+    line "Jeg lavede en"
+	cont "sej TM!"
 
-	para "It can cause all"
-	line "kinds of fun!"
-	prompt
+    para "Den kan forårsage"
+	line "alle mulige"
+    cont "sjove ting!"
+    prompt
 
 _ReceivedTM35Text::
-	text "<PLAYER> received "
-	line "@"
-	text_ram wStringBuffer
-	text "!@"
-	text_end
+    text "<PLAYER> modtog "
+    line "@"
+    text_ram wStringBuffer
+    text "!@"
+    text_end
 
 _TM35ExplanationText::
-	text "Tch-tch-tch!"
-	line "That's the sound"
-	cont "of a METRONOME!"
+    text "Tch-tch-tch!"
+    line "Det er lyden"
+    cont "af en METRONOME!"
 
-	para "It tweaks your"
-	line "#MON's brain"
-	cont "into using moves"
-	cont "it doesn't know!"
-	done
+    para "Den justerer din"
+    line "#MON's hjerne"
+    cont "til at bruge"
+    cont "evner den"
+	cont "ikke kender!"
+    done
 
 _TM35NoRoomText::
-	text "Your pack is"
-	line "crammed full!"
-	done
+    text "Din taske er"
+    line "propfuld!"
+    done
 
 _Lab3Text2::
-	text "EEVEE can evolve"
-	line "into 1 of 3 kinds"
-	cont "of #MON."
-	done
+    text "EEVEE kan udvikle"
+    line "sig til 1 af 3"
+    cont "slags #MON."
+    done
 
 _Lab3Text3::
-	text "There's an e-mail"
-	line "message!"
+    text "Der er en e-mail"
+    line "besked!"
 
 	para "..."
 
-	para "The 3 legendary"
-	line "bird #MON are"
-	cont "ARTICUNO, ZAPDOS"
-	cont "and MOLTRES."
+    para "De 3 legendariske"
+    line "fugle #MON er"
+    cont "ARTICUNO, ZAPDOS"
+    cont "og MOLTRES."
 
-	para "Their whereabouts"
-	line "are unknown."
+    para "Deres opholdssted"
+    line "er ukendt."
 
-	para "We plan to explore"
-	line "the cavern close"
-	cont "to CERULEAN."
+    para "Vi planlægger at"
+    line "udforske hulen"
+	cont "tæt på"
+    cont "CERULEAN."
 
-	para "From: #MON"
-	line "RESEARCH TEAM"
+    para "Fra: #MON"
+    line "FORSKNINGSTEAM"
 
-	para "..."
-	done
+    para "..."
+    done
 
 _Lab3Text5::
-	text "An amber pipe!"
+	text "Et ravrør!"
 	done

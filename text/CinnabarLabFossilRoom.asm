@@ -1,78 +1,82 @@
 _Lab4Text_75dc6::
-	text "Hiya!"
+    text "Hej!"
 
-	para "I am important"
-	line "doctor!"
+    para "Jeg er en vigtig"
+    line "doktor!"
 
-	para "I study here rare"
-	line "#MON fossils!"
+    para "Jeg studerer"
+    line "sjældne #MON"
+	cont "fossiler her!"
 
-	para "You! Have you a"
-	line "fossil for me?"
-	prompt
+    para "Du! Har du et"
+    line "fossil til mig?"
+    prompt
 
 _Lab4Text_75dcb::
-	text "No! Is too bad!"
-	done
+    text "Nej! Det er for"
+	cont "dårligt!"
+    done
 
 _Lab4Text_75dd0::
-	text "I take a little"
-	line "time!"
+    text "Det tager lidt"
+    line "tid!"
 
-	para "You go for walk a"
-	line "little while!"
-	done
+    para "Gå en tur"
+    line "i mellemtiden!"
+    done
 
 _Lab4Text_75dd5::
-	text "Where were you?"
+    text "Hvor har du"
+	cont "været?"
 
-	para "Your fossil is"
-	line "back to life!"
+    para "Dit fossil er"
+    line "bragt til live!"
 
-	para "It was @"
-	text_ram wStringBuffer
-	text_start
-	line "like I think!"
-	prompt
+    para "Det var @"
+    text_ram wStringBuffer
+    text_start
+    line "som jeg troede!"
+    prompt
 
 _Lab4Text_610ae::
-	text "Oh! That is"
-	line "@"
-	text_ram wcd6d
-	text "!"
+    text "Åh! Det er"
+    line "@"
+    text_ram wcd6d
+    text "!"
 
-	para "It is fossil of"
-	line "@"
-	text_ram wStringBuffer
-	text ", a"
-	cont "#MON that is"
-	cont "already extinct!"
+    para "Et fossil af"
+    line "@"
+    text_ram wStringBuffer
+    text ", en"
+    cont "#MON der"
+    cont "allerede"
+	cont "er uddød!"
 
-	para "My Resurrection"
-	line "Machine will make"
-	cont "that #MON live"
-	cont "again!"
-	done
+    para "Min Genoplivnings"
+    line "Maskine vil få"
+    cont "den #MON til at"
+    cont "leve igen!"
+    done
 
 _Lab4Text_610b3::
-	text "So! You hurry and"
-	line "give me that!"
+    text "Så! Skynd dig at"
+    line "giv mig det!"
 
-	para "<PLAYER> handed"
-	line "over @"
-	text_ram wcd6d
-	text "!"
-	prompt
+    para "<PLAYER> gav"
+    line "@"
+    text_ram wcd6d
+    text "!"
+    prompt
 
 _Lab4Text_610b8::
-	text "I take a little"
-	line "time!"
+    text "Det tager lidt"
+    line "tid!"
 
-	para "You go for walk a"
-	line "little while!"
-	done
+    para "Gå en tur"
+    line "i mellemtiden!"
+    done
 
 _Lab4Text_610bd::
-	text "Aiyah! You come"
-	line "again!"
-	done
+    text "Aiyah! Du kom"
+    line "igen!"
+    done

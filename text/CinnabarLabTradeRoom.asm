@@ -1,9 +1,11 @@
 _Lab2Text1::
-	text "I found this very"
-	line "strange fossil in"
-	cont "MT.MOON!"
+    text "Jeg fandt dette"
+	line "meget mærkelige"
+    line "fossil i"
+    cont "MT.MOON!"
 
-	para "I think it's a"
-	line "rare, prehistoric"
-	cont "#MON!"
-	done
+    para "Jeg tror, det"
+    line "er en sjælden,"
+	cont "forhistorisk"
+    cont "#MON!"
+    done

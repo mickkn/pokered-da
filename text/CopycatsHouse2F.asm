@@ -1,100 +1,107 @@
 _CopycatsHouse2FText_5ccd4::
-	text "<PLAYER>: Hi! Do"
-	line "you like #MON?"
+    text "<PLAYER>: Hej!"
+    line "Kan du lide #MON?"
 
-	para "<PLAYER>: Uh no, I"
-	line "just asked you."
+    para "<PLAYER>: Øh nej,"
+    line "jeg spurgte bare."
 
-	para "<PLAYER>: Huh?"
-	line "You're strange!"
+    para "<PLAYER>: Huh?"
+    line "Du er mærkelig!"
 
-	para "COPYCAT: Hmm?"
-	line "Quit mimicking?"
+    para "COPYCAT: Hmm?"
+    line "Stop med at"
+	cont "efterligne?"
 
-	para "But, that's my"
-	line "favorite hobby!"
-	prompt
+    para "Men, det er min"
+    line "yndlingshobby!"
+    prompt
 
 _TM31PreReceiveText::
-	text "Oh wow!"
-	line "A # DOLL!"
+    text "Åh wow!"
+    line "En # DUKKE!"
 
-	para "For me?"
-	line "Thank you!"
+    para "Til mig?"
+    line "Tak!"
 
-	para "You can have"
-	line "this, then!"
-	prompt
+    para "Du kan få"
+    line "denne her!"
+    prompt
 
 _ReceivedTM31Text::
-	text "<PLAYER> received"
-	line "@"
-	text_ram wStringBuffer
-	text "!@"
-	text_end
+    text "<PLAYER> modtog"
+    line "@"
+    text_ram wStringBuffer
+    text "!@"
+    text_end
 
 _TM31ExplanationText1::
-	text_start
+    text_start
 
-	para "TM31 contains my"
-	line "favorite, MIMIC!"
+    para "TM31 indeholder"
+    line "min yndlings-"
+	cont "bevægelse, MIMIC!"
 
-	para "Use it on a good"
-	line "#MON!@"
-	text_end
+    para "Brug den på en"
+    line "god #MON!@"
+    text_end
 
 _TM31ExplanationText2::
-	text "<PLAYER>: Hi!"
-	line "Thanks for TM31!"
+    text "<PLAYER>: Hej!"
+    line "Tak for TM31!"
 
-	para "<PLAYER>: Pardon?"
+    para "<PLAYER>: Pardon?"
 
-	para "<PLAYER>: Is it"
-	line "that fun to mimic"
-	cont "my every move?"
+    para "<PLAYER>: Er det"
+    line "så sjovt at"
+	cont "efterligne hver"
+    cont "eneste bevægelse?"
 
-	para "COPYCAT: You bet!"
-	line "It's a scream!"
-	done
+    para "COPYCAT: Det kan"
+	line "du tro! Det er"
+    cont "hylende morsomt!"
+    done
 
 _TM31NoRoomText::
-	text "Don't you want"
-	line "this?@"
-	text_end
+    text "Vil du ikke have"
+    line "denne?@"
+    text_end
 
 _CopycatsHouse2FText2::
 	text "DODUO: Giiih!"
 
-	para "MIRROR MIRROR ON"
-	line "THE WALL, WHO IS"
-	cont "THE FAIREST ONE"
-	cont "OF ALL?"
-	done
+    para "SPEJL SPEJL PÅ"
+    line "VÆGGEN DER, HVEM"
+    cont "ER DEN SMUKKESTE"
+    cont "AF DEM ALLE?"
+    done
 
 _CopycatsHouse2FText3::
-	text "This is a rare"
-	line "#MON! Huh?"
-	cont "It's only a doll!"
-	done
+    text "Dette er en"
+    line "sjælden #MON!"
+	cont "Huh? Det er kun"
+    cont "en dukke!"
+    done
 
 _CopycatsHouse2FText6::
-	text "A game with MARIO"
-	line "wearing a bucket"
-	cont "on his head!"
-	done
+    text "Et spil med MARIO"
+    line "med en spand"
+    cont "på hovedet!"
+    done
 
 _CopycatsHouse2FText_5cd17::
-	text "..."
+    text "..."
 
-	para "My Secrets!"
+    para "Mine"
+	line "Hemmeligheder!"
 
-	para "Skill: Mimicry!"
-	line "Hobby: Collecting"
-	cont "dolls!"
-	cont "Favorite #MON:"
-	cont "CLEFAIRY!"
-	done
+    para "Færdighed:"
+    line "Efterligning!"
+	cont "Hobby: Samle"
+    cont "dukker!"
+    cont "Yndlings #MON:"
+    cont "CLEFAIRY!"
+    done
 
 _CopycatsHouse2FText_5cd1c::
-	text "Huh? Can't see!"
-	done
+    text "Huh? Kan ikke se!"
+    done

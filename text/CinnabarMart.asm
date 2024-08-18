@@ -1,10 +1,11 @@
 _CinnabarMartText2::
-	text "Don't they have X"
-	line "ATTACK? It's good"
-	cont "for battles!"
-	done
+    text "Har de ikke X"
+    line "ANGREB? Det er"
+    cont "godt til kampe!"
+    done
 
 _CinnabarMartText3::
-	text "It never hurts to"
-	line "have extra items!"
-	done
+    text "Det skader aldrig"
+    line "at have ekstra"
+	cont "genstande!"
+    done
