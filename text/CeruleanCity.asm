@@ -7,7 +7,7 @@ _CeruleanCityText_19668::
 
     para "Jeg klarer mig"
     line "godt! Jeg har"
-	line "fanget en masse"
+	cont "fanget en masse"
     cont "stærke og"
     cont "seje #MON!"
 

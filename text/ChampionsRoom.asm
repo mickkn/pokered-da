@@ -1,146 +1,156 @@
 _GaryChampionIntroText::
 	text "<RIVAL>: Hey!"
 
-	para "I was looking"
-	line "forward to seeing"
-	cont "you, <PLAYER>!"
+    para "Jeg har set"
+    line "frem til at se"
+    cont "dig, <PLAYER>!"
 
-	para "My rival should"
-	line "be strong to keep"
-	cont "me sharp!"
+    para "Min rival skal"
+    line "være stærk for"
+	line "at holde"
+    cont "mig skarp!"
 
-	para "While working on"
-	line "#DEX, I looked"
-	cont "all over for"
-	cont "powerful #MON!"
+    para "Mens jeg trænede"
+    line "#DEX, ledte jeg"
+    cont "overalt efter"
+    cont "kraftfulde #MON!"
 
-	para "Not only that, I"
-	line "assembled teams"
-	cont "that would beat"
-	cont "any #MON type!"
+    para "Ikke kun det, jeg"
+    line "sammensatte hold"
+    cont "der kunne slå"
+    cont "enhver #MON type!"
 
-	para "And now!"
+    para "Og nu!"
 
-	para "I'm the #MON"
-	line "LEAGUE champion!"
+    para "Jeg er #MON"
+    line "LIGA-mester!"
 
-	para "<PLAYER>! Do you"
-	line "know what that"
-	cont "means?"
+    para "<PLAYER>! Ved du"
+    line "hvad det"
+    cont "betyder?"
 
-	para "I'll tell you!"
+    para "Jeg skal sige dig!"
 
-	para "I am the most"
-	line "powerful trainer"
-	cont "in the world!"
-	done
+    para "Jeg er den"
+    line "stærkeste træner"
+    cont "i verden!"
+    done
 
 _GaryDefeatedText::
-	text "NO!"
-	line "That can't be!"
-	cont "You beat my best!"
+    text "NEJ!"
+    line "Det kan ikke ske!"
+	line "Du slog min"
+    cont "bedste!"
 
-	para "After all that"
-	line "work to become"
-	cont "LEAGUE champ?"
+    para "Efter alt det"
+    line "arbejde for"
+    line "at blive"
+	cont "LIGA-mester?"
 
-	para "My reign is over"
-	line "already?"
-	cont "It's not fair!"
-	prompt
+    para "Min regeringstid"
+    line "er allerede"
+	line "forbi?"
+    cont "Det er ikke fair!"
+    prompt
 
 _GaryVictoryText::
-	text "Hahaha!"
-	line "I won, I won!"
+    text "Hahaha!"
+    line "Jeg vandt,"
+	line "jeg vandt!"
 
-	para "I'm too good for"
-	line "you, <PLAYER>!"
+    para "Jeg er for god"
+    line "til dig,"
+	line "<PLAYER>!"
 
-	para "You did well to"
-	line "even reach me,"
-	cont "<RIVAL>, the"
-	cont "#MON genius!"
+	para "Du gjorde det"
+	line "godt bare at nå"
+	cont "til mig,"
+	cont "<RIVAL>,"
+	cont "#MON geni!"
 
-	para "Nice try, loser!"
-	line "Hahaha!"
-	prompt
+    para "Godt forsøg,"
+    line "taber! Hahaha!"
+    prompt
 
 _GaryText_76103::
-	text "Why?"
-	line "Why did I lose?"
+    text "Hvorfor? Hvorfor"
+    line "tabte jeg?"
 
-	para "I never made any"
-	line "mistakes raising"
-	cont "my #MON..."
+    para "Jeg lavede"
+    line "aldrig fejl i"
+	cont "opdragelsen"
+    cont "af mine #MON..."
 
-	para "Darn it! You're"
-	line "the new #MON"
-	cont "LEAGUE champion!"
+    para "Pokkers! Du er"
+    line "den nye #MON"
+    cont "LIGA-mester!"
 
-	para "Although I don't"
-	line "like to admit it."
-	done
+    para "Selvom jeg ikke"
+    line "kan lide at"
+	line "indrømme det."
+    done
 
 _GaryText2::
 	text "OAK: <PLAYER>!"
 	done
 
 _GaryText_76120::
-	text "OAK: So, you won!"
-	line "Congratulations!"
-	cont "You're the new"
-	cont "#MON LIGA"
-	cont "champion!"
+    text "OAK: Du vandt!"
+    line "Tillykke!"
+    cont "Du er den nye"
+    cont "#MON LIGA-"
+    cont "mester!"
 
-	para "You've grown up so"
-	line "much since you"
-	cont "first left with"
-	cont "@"
-	text_ram wcd6d
-	text "!"
+    para "Du er vokset så"
+    line "meget siden du"
+    cont "rejste med"
+    cont "@"
+    text_ram wcd6d
+    text "!"
 
-	para "<PLAYER>, you have"
-	line "come of age!"
-	done
+    para "<PLAYER>, du er"
+    line "blevet voksen!"
+    done
 
 _GaryText_76125::
-	text "OAK: <RIVAL>! I'm"
-	line "disappointed!"
+    text "OAK: <RIVAL>!"
+    line "Jeg er skuffet!"
 
-	para "I came when I"
-	line "heard you beat"
-	cont "ELITE-FIREN!"
+    para "Jeg kom, da jeg"
+    line "hørte, du slog"
+    cont "ELITE-FIREN!"
 
-	para "But, when I got"
-	line "here, you had"
-	cont "already lost!"
+    para "Men, da jeg kom"
+    line "her, havde du"
+    cont "allerede tabt!"
 
-	para "<RIVAL>! Do you"
-	line "understand why"
-	cont "you lost?"
+    para "<RIVAL>! Forstår"
+    line "du hvorfor"
+    cont "du tabte?"
 
-	para "You have forgotten"
-	line "to treat your"
-	cont "#MON with"
-	cont "trust and love!"
+    para "Du har glemt"
+    line "at behandle dine"
+    cont "#MON med"
+    cont "tillid og"
+	cont "kærlighed!"
 
-	para "Without them, you"
-	line "will never become"
-	cont "a champ again!"
-	done
+    para "Uden dem, vil du"
+    line "aldrig blive"
+    cont "mester igen!"
+    done
 
 _GaryText_7612a::
 	text "OAK: <PLAYER>!"
 
-	para "You understand"
-	line "that your victory"
-	cont "was not just your"
-	cont "own doing!"
+    para "Du forstår"
+    line "at din sejr"
+    cont "ikke kun var din"
+    cont "egen præstation!"
 
-	para "The bond you share"
-	line "with your #MON"
-	cont "is marvelous!"
+    para "Båndet du deler"
+    line "med dine #MON"
+    cont "er vidunderligt!"
 
-	para "<PLAYER>!"
-	line "Come with me!"
-	done
+    para "<PLAYER>!"
+    line "Kom med mig!"
+    done

@@ -8,7 +8,7 @@ _CeruleanHouse2Text_74e77::
 
     para "Disse EMBLEMER har"
     line "fantastiske"
-	line "hemmeligheder!"
+	cont "hemmeligheder!"
     prompt
 
 _CeruleanHouse2Text_74e7c::
@@ -31,7 +31,7 @@ _CeruleanHouse2Text_74e96::
 
     para "Det giver dig også"
     line "mulighed for at"
-	line "bruge FLASH"
+	cont "bruge FLASH"
     cont "når som helst."
     prompt
 
@@ -41,11 +41,11 @@ _CeruleanHouse2Text_74e9b::
 
     para "Højere end det,"
     line "bliver de"
-    line "ustyrlige!"
+    cont "ustyrlige!"
 
     para "Det giver dig også"
 	line "mulighed for at"
-    line "bruge CUT uden"
+    cont "bruge CUT uden"
     cont "for kamp."
 	prompt
 
@@ -56,7 +56,7 @@ _CeruleanHouse2Text_74ea0::
 
     para "Det giver dig også"
     line "mulighed for at"
-    line "bruge FLY uden for"
+    cont "bruge FLY uden for"
     cont "kamp."
 	prompt
 
@@ -66,11 +66,11 @@ _CeruleanHouse2Text_74ea5::
 
     para "Hvis de er højere,"
     line "bliver de"
-	line "ustyrlige!"
+	cont "ustyrlige!"
 
     para "Det giver dig også"
 	line "mulighed for at"
-    line "bruge STYRKE uden"
+    cont "bruge STYRKE uden"
     cont "for kamp."
     prompt
 
@@ -81,7 +81,7 @@ _CeruleanHouse2Text_74eaa::
 
     para "Det giver dig også"
 	line "mulighed for at"
-    line "bruge SURF uden"
+    cont "bruge SURF uden"
     cont "for kamp."
 	prompt
 
@@ -91,7 +91,7 @@ _CeruleanHouse2Text_74eaf::
 
     para "Hvis de er højere,"
     line "bliver de"
-	line "ustyrlige!"
+	cont "ustyrlige!"
 	prompt
 
 _CeruleanHouse2Text_74eb4::

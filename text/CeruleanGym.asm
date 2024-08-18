@@ -33,7 +33,7 @@ _MistyCascadeBadgeInfoText::
 
     para "Det inkluderer"
     line "selv"
-	line "udefrakommende!"
+	cont "udefrakommende!"
 
     para "Der er mere, du"
     line "kan nu bruge CUT"
@@ -53,8 +53,9 @@ _ReceivedTM11Text::
 	text_end
 
 _TM11NoRoomText::
-    text "Du hellere lave"
-    line "plads til dette!"
+    text "Du må hellere"
+    line "lave plads til"
+	cont "dette!"
 	done
 
 _ReceivedCascadeBadgeText::
@@ -65,7 +66,7 @@ _ReceivedCascadeBadgeText::
 
     para "Du kan få"
     line "CASCADEEMBLEMET"
-	line "for at vise, at"
+	cont "for at vise, at"
     cont "du slog mig!@"
 	text_end
 

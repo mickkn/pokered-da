@@ -237,7 +237,7 @@ _HasSubstituteText::
 _TooWeakSubstituteText::
 	text "For svag til at"
 	line "lave en en"
-	line "SUBSTITUT!"
+	cont "SUBSTITUT!"
 	prompt
 
 _CoinsScatteredText::

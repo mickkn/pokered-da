@@ -37,13 +37,13 @@ _Route1Text2::
 
     para "Det er lidt"
 	line "skræmmende, men"
-    line "du kan hoppe"
+    cont "du kan hoppe"
     cont "fra dem."
 
     para "Du kan komme"
 	line "tilbage til"
-    line "PALLET TOWN"
-    line "hurtigere"
+    cont "PALLET TOWN"
+    cont "hurtigere"
     cont "på den måde."
 	done
 

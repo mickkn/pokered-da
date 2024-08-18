@@ -1000,7 +1000,7 @@ _AlreadyOutText::
 _MoveNoPPText::
 	text "Ikke nok PP"
 	line "tilbage til denne"
-	line "evne!"
+	cont "evne!"
 	prompt
 
 _MoveDisabledText::
@@ -1741,7 +1741,7 @@ _AccessedOaksPCText::
 
 	para "Fik adgang til"
 	line "#DEX"
-	line "Vurderingssystem."
+	cont "Vurderingssystem."
 	prompt
 
 _WhereWouldYouLikeText::

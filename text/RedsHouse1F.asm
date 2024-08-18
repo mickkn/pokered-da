@@ -1,6 +1,5 @@
 _MomWakeUpText::
     text "MOR: Rigtigt."
-    line "Alle drenge"
     cont "forlader hjemmet"
 	cont "en dag. Det sagde"
     cont "de på TV."

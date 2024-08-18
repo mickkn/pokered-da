@@ -28,8 +28,8 @@ _CeladonCityText4::
 
 	para "Jeg vidste, jeg"
 	line "skulle have"
-	line "indløst mine"
-	line "mønter til"
+	cont "indløst mine"
+	cont "mønter til"
 	cont "præmier!"
 	done
 
@@ -38,7 +38,7 @@ _TM41PreText::
 
 	para "Jeg har set dig,"
 	line "men jeg har aldrig"
-	line "haft mulighed for"
+	cont "haft mulighed for"
 	cont "at snakke!"
 
 	para "Her er en gave til"

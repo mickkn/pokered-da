@@ -38,7 +38,7 @@ _Route6EndBattleText3::
 _Route6AfterBattleText3::
     text "Jeg kan lide"
     line "insekter, så jeg"
-	line "går tilbage til"
+	cont "går tilbage til"
     cont "VIRIDIAN SKOVEN."
     done
 
@@ -55,7 +55,7 @@ _Route6EndBattleText4::
 _Route6AfterBattleText4::
     text "Jeg bør have"
     line "flere #MON med"
-    line "mig for en"
+    cont "mig for en"
 	cont "sikkerheds skyld."
     done
 

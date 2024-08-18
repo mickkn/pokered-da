@@ -153,7 +153,7 @@ _Route8EndBattleText9::
 _Route8AfterBattleText9::
     text "Jeg hørte, at"
     line "CLEFAIRY udvikler"
-    line "sig når den"
+    cont "sig når den"
 	cont "udsættes for en"
     cont "MOON STONE."
     done
