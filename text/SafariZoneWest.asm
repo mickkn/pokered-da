@@ -6,13 +6,13 @@ _SafariZoneWestText6::
 	text "REQUEST NOTICE"
 
 	para "Please find the"
-	line "SAFARI WARDEN's"
+	line "SAFARI FORVALTERS's"
 	cont "lost GOLD TEETH."
 	cont "They're around"
 	cont "here somewhere."
 
 	para "Reward offered!"
-	line "Contact: WARDEN"
+	line "Contact: FORVALTER"
 	done
 
 _SafariZoneWestText7::

@@ -1,27 +1,30 @@
 _FuchsiaHouse1Text1::
-	text "SAFARIZONEN's"
-	line "WARDEN is old,"
-	cont "but still active!"
+    text "SAFARIZONEN's"
+    line "FORVALTER er"
+    cont "gammel, men"
+	cont "stadig aktiv!"
 
-	para "All his teeth are"
-	line "false, though."
-	done
+    para "Alle hans tænder"
+    line "er dog falske."
+    done
 
 _FuchsiaHouse1Text2::
-	text "Hmm? You've met"
-	line "BILL?"
+    text "Hmm? Har du mødt"
+    line "BILL?"
 
-	para "He's my grandson!"
+	para "Han er min"
+	line "barnebarn!"
 
-	para "He always liked"
-	line "collecting things"
-	cont "even as a child!"
-	done
+    para "Han har altid"
+    line "kunne lide at"
+    cont "samle ting selv"
+	cont "som barn!"
+    done
 
 _FuchsiaHouse1Text3::
-	text "BILL files his"
-	line "own #MON data"
-	cont "on his PC!"
+    text "BILL gemmer sine"
+    line "egne #MON data"
+    cont "på sin PC!"
 
-	para "Did he show you?"
+	para "Viste han dig?"
 	done

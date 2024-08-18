@@ -1,6 +1,6 @@
 _FuchsiaMeetingRoomText1::
 	text "We nicknamed the"
-	line "WARDEN SLOWPOKE."
+	line "FORVALTER SLOWPOKE."
 
 	para "He and SLOWPOKE"
 	line "both look vacant!"

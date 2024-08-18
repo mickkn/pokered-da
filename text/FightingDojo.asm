@@ -1,130 +1,136 @@
 _FightingDojoText_5ce8e::
 	text "Grunt!"
 
-	para "I am the KARATE"
-	line "MASTER! I am the"
-	cont "LEADER here!"
+    para "Jeg er KARATE"
+    line "MESTEREN! Jeg er"
+    cont "LEDEREN her!"
 
-	para "You wish to"
-	line "challenge us?"
-	cont "Expect no mercy!"
+    para "Ønsker du at"
+    line "udfordre os?"
+    cont "Forvent"
+	cont "ingen nåde!"
 
-	para "Fwaaa!"
-	done
+    para "Fwaaa!"
+    done
 
 _FightingDojoText_5ce93::
-	text "Hwa!"
-	line "Arrgh! Beaten!"
-	prompt
+    text "Hwa!"
+    line "Arrgh! Besejret!"
+    prompt
 
 _FightingDojoText_5ce98::
-	text "Indeed, I have"
-	line "lost!"
+    text "Ja, jeg har"
+    line "tabt!"
 
-	para "But, I beseech"
-	line "you, do not take"
-	cont "our emblem as"
-	cont "your trophy!"
+    para "Men, jeg beder"
+    line "dig, tag ikke"
+    cont "vores emblem som"
+    cont "dit trofæ!"
 
-	para "In return, I will"
-	line "give you a prized"
-	cont "fighting #MON!"
+    para "Som erstatning"
+    line "vil jeg give dig"
+    cont "en værdifuld"
+	cont "kæmpende #MON!"
 
-	para "Choose whichever"
-	line "one you like!"
-	done
+    para "Vælg hvilken"
+    line "som helst,"
+	cont "du kan lide!"
+    done
 
 _FightingDojoText_5ce9d::
-	text "Ho!"
+    text "Ho!"
 
-	para "Stay and train at"
-	line "Karate with us!"
-	done
+    para "Bliv og træn"
+    line "karate med os!"
+    done
 
 _FightingDojoBattleText1::
-	text "Hoargh! Take your"
-	line "shoes off!"
-	done
+    text "Hoargh! Tag dine"
+    line "sko af!"
+    done
 
 _FightingDojoEndBattleText1::
-	text "I give"
-	line "up!"
-	prompt
+    text "Jeg giver"
+    line "op!"
+    prompt
 
 _FightingDojoAfterBattleText1::
-	text "You wait 'til you"
-	line "see our Master!"
+    text "Vent til du"
+    line "ser vores Mester!"
 
-	para "I'm a small fry"
-	line "compared to him!"
-	done
+    para "Jeg er en lille"
+    line "fisk sammenlignet"
+	cont "med ham!"
+    done
 
 _FightingDojoBattleText2::
-	text "I hear you're"
-	line "good! Show me!"
-	done
+    text "Jeg hører, du er"
+    line "god! Vis mig det!"
+    done
 
 _FightingDojoEndBattleText2::
-	text "Judge!"
-	line "1 point!"
-	prompt
+    text "Dommer!"
+    line "1 point!"
+    prompt
 
 _FightingDojoAfterBattleText2::
-	text "Our Master is a"
-	line "pro fighter!"
-	done
+    text "Vores Mester er"
+    line "en professionel"
+	cont "kæmper!"
+    done
 
 _FightingDojoBattleText3::
-	text "Nothing tough"
-	line "frightens me!"
+    text "Intet hårdt"
+    line "skræmmer mig!"
 
-	para "I break boulders"
-	line "for training!"
-	done
+    para "Jeg knuser"
+    line "klipper til"
+	cont "træning!"
+    done
 
 _FightingDojoEndBattleText3::
-	text "Yow!"
-	line "Stubbed fingers!"
-	prompt
+    text "Av! Forstuvet"
+    line "fingre!"
+    prompt
 
 _FightingDojoAfterBattleText3::
-	text "The only thing"
-	line "that frightens us"
-	cont "is psychic power!"
-	done
+    text "Det eneste, der"
+    line "skræmmer os,"
+    cont "er psykisk kraft!"
+    done
 
 _FightingDojoBattleText4::
 	text "Hoohah!"
 
-	para "You're trespassing"
-	line "in our FIGHTING"
-	cont "DOJO!"
+	para "Du er på fremmed"
+	line "grund i vores"
+	cont "KAMPSPORTS DOJO!"
 	done
 
 _FightingDojoEndBattleText4::
-	text "Oof!"
-	line "I give up!"
-	prompt
+    text "Uff!"
+    line "Jeg giver op!"
+    prompt
 
 _FightingDojoAfterBattleText4::
-	text "The prime fighters"
-	line "across the land"
-	cont "train here."
-	done
+    text "De bedste kæmpere"
+    line "fra hele landet"
+    cont "træner her."
+    done
 
 _WantHitmonleeText::
-	text "You want the"
-	line "hard kicking"
-	cont "HITMONLEE?"
-	done
+    text "Vil du have den"
+    line "hårdsparkende"
+    cont "HITMONLEE?"
+    done
 
 _WantHitmonchanText::
-	text "You want the"
-	line "piston punching"
-	cont "HITMONCHAN?"
-	done
+    text "Vil du have den"
+    line "hårdslående"
+    cont "HITMONCHAN?"
+    done
 
 _OtherHitmonText::
-	text "Better not get"
-	line "greedy..."
+	text "Lad vær med at"
+	line "være grådig..."
 	done

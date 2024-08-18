@@ -44,7 +44,7 @@ _FuchsiaCityText13::
 
 _FuchsiaCityText16::
 	text "SAFARIZONEN"
-	line "WARDEN's HOME"
+	line "FORVALTER'ens HJEM"
 	done
 
 _FuchsiaCityText17::
