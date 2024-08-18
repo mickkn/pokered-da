@@ -8,5 +8,5 @@ _Route2GateText2::
     text "Når en #MON"
     line "lærer FLASH, kan"
     cont "du komme igennem"
-    cont "ROCK TUNNEL."
+    cont "STENTUNNELen."
     done

@@ -36,5 +36,5 @@ _Route11GateUpstairsText_494d5::
 	line "get from CERULEAN"
 	cont "CITY to LAVENDER"
 	cont "is by way of the"
-	cont "ROCK TUNNEL."
+	cont "STENTUNNEL."
 	done

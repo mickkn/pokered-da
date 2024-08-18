@@ -1,62 +1,65 @@
 _DayCareIntroText::
-	text "I run a DAYCARE."
-	line "Would you like me"
-	cont "to raise one of"
-	cont "your #MON?"
-	done
+    text "Jeg driver en"
+	line "DAGPLEJE. Vil du"
+    cont "have, at jeg"
+    cont "passer en af"
+    cont "dine #MON?"
+    done
 
 _DayCareWhichMonText::
-	text "Which #MON"
-	line "should I raise?"
-	prompt
+    text "Hvilken #MON"
+    line "skal jeg passe?"
+    prompt
 
 _DayCareWillLookAfterMonText::
-	text "Fine, I'll look"
-	line "after @"
-	text_ram wcd6d
-	text_start
-	cont "for a while."
-	prompt
+    text "Fint, jeg passer"
+    line "@"
+    text_ram wcd6d
+    text_start
+    cont "for en tid."
+    prompt
 
 _DayCareComeSeeMeInAWhileText::
-	text "Come see me in"
-	line "a while."
-	done
+    text "Kom og se mig om"
+    line "lidt tid."
+    done
 
 _DayCareMonHasGrownText::
-	text "Your @"
-	text_ram wcd6d
-	text_start
-	line "has grown a lot!"
+    text "Din @"
+    text_ram wcd6d
+    text_start
+    line "er vokset meget!"
 
-	para "By level, it's"
-	line "grown by @"
+    para "Efter niveau,"
+    line "er den vokset"
+	cont "med @"
 	text_decimal wDayCareNumLevelsGrown, 1, 3
 	text "!"
 
-	para "Aren't I great?"
-	prompt
+    para "Er jeg ikke"
+	line "fantastisk?"
+    prompt
 
 _DayCareOweMoneyText::
-	text "You owe me ¥@"
+    text "Du skylder ¥@"
 	text_bcd wDayCareTotalCost, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text_start
-	line "for the return"
-	cont "of this #MON."
+    line "for leveringen"
+    cont "af denne #MON."
 	done
 
 _DayCareGotMonBackText::
-	text "<PLAYER> got"
-	line "@"
-	text_ram wDayCareMonName
-	text " back!"
-	done
+    text "<PLAYER> fik"
+    line "@"
+    text_ram wDayCareMonName
+    text " tilbage!"
+    done
 
 _DayCareMonNeedsMoreTimeText::
-	text "Back already?"
-	line "Your @"
-	text_ram wcd6d
-	text_start
-	cont "needs some more"
-	cont "time with me."
-	prompt
+    text "Tilbage allerede?"
+    line "Din @"
+    text_ram wcd6d
+    text_start
+    cont "har brug for mere"
+    cont "tid med mig."
+    prompt

@@ -1,34 +1,35 @@
 _DayCareAllRightThenText::
-	text "All right then,"
-	line "@"
-	text_end
+    text "Okay så,"
+    line "@"
+    text_end
 
 _DayCareComeAgainText::
-	text "come again."
+    text "kom igen."
 	done
 
 _DayCareNoRoomForMonText::
-	text "You have no room"
-	line "for this #MON!"
-	done
+    text "Du har ikke plads"
+    line "til denne #MON!"
+    done
 
 _DayCareOnlyHaveOneMonText::
-	text "You only have one"
-	line "#MON with you."
-	done
+    text "Du har kun en"
+    line "#MON med dig."
+    done
 
 _DayCareCantAcceptMonWithHMText::
-	text "I can't accept a"
-	line "#MON that"
-	cont "knows an HM move."
-	done
+    text "Jeg kan ikke"
+	line "acceptere en"
+    cont "#MON der kender"
+    cont "en HM bevægelse."
+    done
 
 _DayCareHeresYourMonText::
-	text "Thank you! Here's"
-	line "your #MON!"
-	prompt
+    text "Tak! Her er"
+    line "din #MON!"
+    prompt
 
 _DayCareNotEnoughMoneyText::
-	text "Hey, you don't"
-	line "have enough ¥!"
-	done
+    text "Hey, du har ikke"
+    line "nok ¥!"
+    done

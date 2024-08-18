@@ -96,12 +96,12 @@ _VermilionCityText7::
 _VermilionCityText8::
 	text "NOTICE!"
 
-	para "ROUTE 12 may be"
+	para "RUTE 12 may be"
 	line "blocked off by a"
 	cont "sleeping #MON."
 
 	para "Detour through"
-	line "ROCK TUNNEL to"
+	line "STENTUNNEL to"
 	cont "LAVENDER TOWN."
 
 	para "VERMILION POLICE"

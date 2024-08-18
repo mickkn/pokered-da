@@ -101,7 +101,7 @@ _Route10AfterBattleText6::
 
 _Route10Text9::
 _Route10Text7::
-	text "ROCK TUNNEL"
+	text "STENTUNNEL"
 	done
 
 _Route10Text10::

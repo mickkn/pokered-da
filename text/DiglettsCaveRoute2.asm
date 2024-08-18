@@ -1,9 +1,10 @@
 _DiglettsCaveRoute2Text1::
-	text "I went to ROCK"
-	line "TUNNEL, but it's"
-	cont "dark and scary."
+    text "Jeg gik til"
+    line "STENTUNNELen, men"
+    cont "den er mørk"
+	cont "skræmmende."
 
-	para "If a #MON's"
-	line "FLASH could light"
-	cont "it up..."
-	done
+    para "Hvis en #MON's"
+    line "FLASH kunne lyse"
+    cont "det op..."
+    done

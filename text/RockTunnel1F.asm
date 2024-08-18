@@ -1,56 +1,60 @@
 _RockTunnel1BattleText1::
-	text "This tunnel goes"
-	line "a long way, kid!"
-	done
+	text "Denne tunnel er"
+    line "lang, knægt!"
+    done
 
 _RockTunnel1EndBattleText1::
 	text "Doh!"
-	line "You win!"
-	prompt
+    line "Du vinder!"
+    prompt
 
 _RockTunnel1AfterBattleText1::
-	text "Watch for ONIX!"
-	line "It can put the"
-	cont "squeeze on you!"
-	done
+    text "Pas på ONIX!"
+    line "Den kan give dig"
+    cont "et godt klem!"
+    done
 
 _RockTunnel1BattleText2::
-	text "Hmm. Maybe I'm"
-	line "lost in here..."
-	done
+    text "Hmm. Måske er"
+    line "jeg faret vild"
+	cont "herinde..."
+    done
 
 _RockTunnel1EndBattleText2::
-	text "Ease up!"
-	line "What am I doing?"
-	cont "Which way is out?"
-	prompt
+	text "Tag det roligt!"
+    line "Hvad laver jeg?"
+    cont "Hvilken vej"
+	cont "er ud?"
+    prompt
 
 _RockTunnel1AfterBattleText2::
-	text "That sleeping"
-	line "#MON on ROUTE"
-	cont "12 forced me to"
-	cont "take this detour."
-	done
+    text "Den sovende"
+    line "#MON på RUTE"
+    cont "12 tvang mig"
+    cont "til at tage"
+	cont "denne omvej."
+    done
 
 _RockTunnel1BattleText3::
-	text "Outsiders like"
-	line "you need to show"
-	cont "me some respect!"
-	done
+    text "Udefrakommende"
+    line "som dig skal"
+    cont "vise mig noget"
+	cont "respekt!"
+    done
 
 _RockTunnel1EndBattleText3::
-	text "I give!"
-	prompt
+    text "Jeg giver op!"
+    prompt
 
 _RockTunnel1AfterBattleText3::
-	text "You're talented"
-	line "enough to hike!"
-	done
+    text "Du er dygtig nok"
+    line "til at vandre!"
+    done
 
 _RockTunnel1BattleText4::
-	text "#MON fight!"
-	line "Ready, go!"
-	done
+    text "#MON kamp!"
+    line "Klar, parat, go!"
+    done
 
 _RockTunnel1EndBattleText4::
 	text "Game"
@@ -58,58 +62,58 @@ _RockTunnel1EndBattleText4::
 	prompt
 
 _RockTunnel1AfterBattleText4::
-	text "Oh well, I'll get"
-	line "a ZUBAT as I go!"
-	done
+    text "Nå, jeg fanger"
+    line "en ZUBAT på vej!"
+    done
 
 _RockTunnel1BattleText5::
-	text "Eek! Don't try"
-	line "anything funny in"
-	cont "the dark!"
-	done
+    text "Åh! Lad være med"
+    line "at lave noget"
+    cont "sjovt i mørket!"
+    done
 
 _RockTunnel1EndBattleText5::
-	text "It"
-	line "was too dark!"
-	prompt
+    text "Det"
+    line "var for mørkt!"
+    prompt
 
 _RockTunnel1AfterBattleText5::
-	text "I saw a MACHOP"
-	line "in this tunnel!"
-	done
+    text "Jeg så en MACHOP"
+    line "i denne tunnel!"
+    done
 
 _RockTunnel1BattleText6::
-	text "I came this far"
-	line "for #MON!"
-	done
+    text "Jeg kom så langt"
+    line "for #MON!"
+    done
 
 _RockTunnel1EndBattleText6::
-	text "I'm"
-	line "out of #MON!"
-	prompt
+    text "Jeg har ikke"
+    line "flere #MON!"
+    prompt
 
 _RockTunnel1AfterBattleText6::
-	text "You looked cute"
-	line "and harmless!"
-	done
+    text "Du så sød"
+    line "og uskadelig ud!"
+    done
 
 _RockTunnel1BattleText7::
-	text "You have #MON!"
-	line "Let's start!"
-	done
+    text "Du har #MON!"
+    line "Lad os starte!"
+    done
 
 _RockTunnel1EndBattleText7::
-	text "You"
-	line "play hard!"
-	prompt
+    text "Du"
+    line "spiller hårdt!"
+    prompt
 
 _RockTunnel1AfterBattleText7::
-	text "Whew! I'm all"
-	line "sweaty now!"
-	done
+    text "Puh! Jeg er helt"
+    line "svedig nu!"
+    done
 
 _RockTunnel1Text8::
-	text "ROCK TUNNEL"
+	text "STENTUNNEL"
 	line "CERULEAN CITY -"
 	cont "LAVENDER TOWN"
 	done
