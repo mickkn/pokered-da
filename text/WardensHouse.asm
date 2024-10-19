@@ -1,5 +1,5 @@
 _WardenGibberishText1::
-	text "FORVALTER: Hif fuff"
+	text "PARKBETJENT: Hif fuff"
 	line "hefifoo!"
 
 	para "Ha lof ha feef ee"
@@ -20,18 +20,18 @@ _WardenGibberishText3::
 _WardenTeethText1::
 	text "<PLAYER> gave the"
 	line "GOLD TEETH to the"
-	cont "FORVALTER!@"
+	cont "PARKBETJENT!@"
 	text_end
 
 _WardenTeethText2::
 	text_start
 
-	para "The FORVALTER popped"
+	para "The PARKBETJENT popped"
 	line "in his teeth!"
 	prompt
 
 _WardenThankYouText::
-	text "FORVALTER: Thanks,"
+	text "PARKBETJENT: Thanks,"
 	line "kid! No one could"
 	cont "understand a word"
 	cont "that I said."
@@ -51,7 +51,7 @@ _ReceivedHM04Text::
 	text_end
 
 _HM04ExplanationText::
-	text "FORVALTER: HM04"
+	text "PARKBETJENT: HM04"
 	line "teaches STRENGTH!"
 
 	para "It lets #MON"

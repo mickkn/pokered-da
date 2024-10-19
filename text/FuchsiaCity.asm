@@ -44,7 +44,8 @@ _FuchsiaCityText13::
 
 _FuchsiaCityText16::
 	text "SAFARIZONEN"
-	line "FORVALTER'ens HJEM"
+	line "PARKBETJENT'ens"
+	cont "HJEM"
 	done
 
 _FuchsiaCityText17::
