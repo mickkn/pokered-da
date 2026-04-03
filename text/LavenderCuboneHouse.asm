@@ -3,23 +3,25 @@ _LavenderHouse2Text1::
 	text_end
 
 _LavenderHouse2Text_1d9dc::
-	text "I hate those"
-	line "horrible ROCKETs!"
+	text "Jeg hader de"
+	line "frygtelige"
+	cont "ROCKETs!"
 
-	para "That poor CUBONE's"
-	line "mother..."
+	para "Den stakkels"
+	line "CUBONEs mor..."
 
-	para "It was killed"
-	line "trying to escape"
-	cont "from TEAM ROCKET!"
+	para "Den blev dræbt"
+	line "da den prøvede"
+	cont "at flygte fra"
+	cont "TEAM ROCKET!"
 	done
 
 _LavenderHouse2Text_1d9e1::
-	text "The GHOST of"
-	line "#MON TOWER is"
-	cont "gone!"
+	text "SPØGELSET i"
+	line "#MON TOWER er"
+	cont "væk!"
 
-	para "Someone must have"
-	line "soothed its"
-	cont "restless soul!"
+	para "Nogen må have"
+	line "beroliget dens"
+	cont "urolige sjæl!"
 	done

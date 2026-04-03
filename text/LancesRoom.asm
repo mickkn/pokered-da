@@ -1,64 +1,67 @@
 _LanceBeforeBattleText::
-	text "Ah! I heard about"
-	line "you <PLAYER>!"
+	text "Ah! Jeg har hørt"
+	line "om dig <PLAYER>!"
 
-	para "I lead the ELITE"
-	line "FOUR! You can"
-	cont "call me LANCE the"
-	cont "dragon trainer!"
+	para "Jeg leder"
+	line "ELITE-FIREN! Du"
+	cont "kan kalde mig"
+	cont "LANCE,"
+	cont "dragetræner!"
 
-	para "You know that"
-	line "dragons are"
-	cont "mythical #MON!"
+	para "Du ved at drager"
+	line "er mytiske"
+	cont "#MON!"
 
-	para "They're hard to"
-	line "catch and raise,"
-	cont "but their powers"
-	cont "are superior!"
+	para "De er svære at"
+	line "fange og træne,"
+	cont "men deres kraft"
+	cont "er overlegen!"
 
-	para "They're virtually"
-	line "indestructible!"
+	para "De er næsten"
+	line "uovervindelige!"
 
-	para "Well, are you"
-	line "ready to lose?"
+	para "Nå, er du klar"
+	line "til at tabe?"
 
-	para "Your LEAGUE"
-	line "challenge ends"
-	cont "with me, <PLAYER>!"
+	para "Din LIGA-"
+	line "udfordring ender"
+	cont "hos mig, <PLAYER>!"
 	done
 
 _LanceEndBattleText::
-	text "That's it!"
+	text "Det var det!"
 
-	para "I hate to admit"
-	line "it, but you are a"
-	cont "#MON master!"
+	para "Jeg hader at"
+	line "indrømme det,"
+	cont "men du er en"
+	cont "#MON-mester!"
 	prompt
 
 _LanceAfterBattleText::
-	text "I still can't"
-	line "believe my"
-	cont "dragons lost to"
-	cont "you, <PLAYER>!"
+	text "Jeg kan stadig"
+	line "ikke tro mine"
+	cont "drager tabte til"
+	cont "dig, <PLAYER>!"
 
-	para "You are now the"
+	para "Du er nu"
 	line "#MON-LIGA"
-	cont "champion!"
+	cont "mesteren!"
 
-	para "...Or, you would"
-	line "have been, but"
-	cont "you have one more"
-	cont "challenge ahead."
+	para "...Eller, det"
+	line "ville du være,"
+	cont "men du har endnu"
+	cont "en udfordring."
 
-	para "You have to face"
-	line "another trainer!"
-	cont "His name is..."
+	para "Du skal møde en"
+	line "anden træner!"
+	cont "Hans navn er..."
 
 	para "<RIVAL>!"
-	line "He beat the ELITE"
-	cont "FOUR before you!"
+	line "Han slog"
+	cont "ELITE-FIREN"
+	cont "før dig!"
 
-	para "He is the real"
+	para "Han er den rigtige"
 	line "#MON-LIGA"
-	cont "champion!@"
+	cont "mester!@"
 	text_end

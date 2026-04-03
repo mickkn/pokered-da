@@ -1,64 +1,65 @@
 _LavenderTownText_4413c::
-	text "Do you believe in"
-	line "GHOSTs?"
+	text "Tror du på"
+	line "SPØGELSER?"
 	done
 
 _LavenderTownText_44141::
-	text "Really? So there"
-	line "are believers..."
+	text "Virkelig? Så der"
+	line "er troende..."
 	done
 
 _LavenderTownText_44146::
-	text "Hahaha, I guess"
-	line "not."
+	text "Hahaha, det"
+	line "tænkte jeg nok."
 
-	para "That white hand"
-	line "on your shoulder,"
-	cont "it's not real."
+	para "Den hvide hånd på"
+	line "din skulder, den"
+	cont "er ikke ægte."
 	done
 
 _LavenderTownText2::
-	text "This town is known"
-	line "as the grave site"
-	cont "of #MON."
+	text "Denne by er kendt"
+	line "som gravplads for"
+	cont "#MON."
 
-	para "Memorial services"
-	line "are held in"
+	para "Mindehøjtider"
+	line "holdes i"
 	cont "#MON TOWER."
 	done
 
 _LavenderTownText3::
-	text "GHOSTs appeared"
-	line "in #MON TOWER."
+	text "SPØGELSER dukkede"
+	line "op i"
+	cont "#MON TOWER."
 
-	para "I think they're"
-	line "the spirits of"
-	cont "#MON that the"
-	cont "ROCKETs killed."
+	para "Jeg tror de er"
+	line "ånderne fra de"
+	cont "#MON ROCKETerne"
+	cont "dræbte."
 	done
 
 _LavenderTownText4::
 	text "LAVENDER TOWN"
-	line "The Noble Purple"
-	cont "Town"
+	line "Den ædle"
+	cont "lilla by"
 	done
 
 _LavenderTownText5::
-	text "New SILPH SCOPE!"
+	text "Ny SILPH SCOPE!"
 
-	para "Make the Invisible"
-	line "Plain to See!"
+	para "Gør det usynlige"
+	line "synligt!"
 
 	para "SILPH CO."
 	done
 
 _LavenderTownText8::
-	text "LAVENDER VOLUNTEER"
-	line "#MON HOUSE"
+	text "LAVENDER FRIVILLIG"
+	line "#MON HJEM"
 	done
 
 _LavenderTownText9::
-	text "May the Souls of"
-	line "#MON Rest Easy"
+	text "Må #MONs sjæle"
+	line "hvile i fred"
 	cont "#MON TOWER"
 	done

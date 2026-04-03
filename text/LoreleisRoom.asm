@@ -1,42 +1,42 @@
 _LoreleiBeforeBattleText::
-	text "Welcome to"
+	text "Velkommen til"
 	line "#MON-LIGAEN!"
 
-	para "I am LORELEI of"
-	line "ELITE-FIREN!"
+	para "Jeg er LORELEI"
+	line "fra ELITE-FIREN!"
 
-	para "No one can best"
-	line "me when it comes"
-	cont "to icy #MON!"
+	para "Ingen kan slå mig"
+	line "når det gælder"
+	cont "is-#MON!"
 
-	para "Freezing moves"
-	line "are powerful!"
+	para "Fryseteknikker"
+	line "er kraftfulde!"
 
-	para "Your #MON will"
-	line "be at my mercy"
-	cont "when they are"
-	cont "frozen solid!"
+	para "Dine #MON vil"
+	line "være prisgivet"
+	cont "når de er frosset"
+	cont "helt stive!"
 
 	para "Hahaha!"
-	line "Are you ready?"
+	line "Er du klar?"
 	done
 
 _LoreleiEndBattleText::
-	text "How"
-	line "dare you!"
+	text "Hvordan"
+	line "vover du!"
 	prompt
 
 _LoreleiAfterBattleText::
-	text "You're better"
-	line "than I thought!"
-	cont "Go on ahead!"
+	text "Du er bedre end"
+	line "jeg troede!"
+	cont "Gå videre!"
 
-	para "You only got a"
-	line "taste of #MON"
-	cont "LEAGUE power!"
+	para "Du har kun fået"
+	line "en smagsprøve på"
+	cont "#MON-LIGA magt!"
 	done
 
 _LoreleiDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Nogens stemme:"
+	line "Løb ikke væk!"
 	done

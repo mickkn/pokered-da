@@ -1,12 +1,12 @@
 _CeladonPrizeRoomText1::
-	text "I sure do fancy"
-	line "that PORYGON!"
+	text "Jeg er helt vild"
+	line "med den PORYGON!"
 
-	para "But, it's hard to"
-	line "win at slots!"
+	para "Men det er svært"
+	line "at vinde i slots!"
 	done
 
 _CeladonPrizeRoomText2::
-	text "I had a major"
-	line "haul today!"
+	text "Jeg scorede stort"
+	line "i dag!"
 	done
