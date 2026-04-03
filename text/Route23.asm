@@ -1,28 +1,28 @@
 _VictoryRoadGuardText1::
-	text "You can pass here"
-	line "only if you have"
-	cont "the @"
+	text "Du kan kun passere"
+	line "her, hvis du har"
+	cont "@"
 	text_ram wcd6d
 	text "!"
 
-	para "You don't have the"
+	para "Du har ikke"
 	line "@"
 	text_ram wcd6d
-	text " yet!"
+	text " endnu!"
 
-	para "You have to have"
-	line "it to get to"
+	para "Du skal have det"
+	line "for at komme til"
 	cont "#MON-LIGAEN!@"
 	text_end
 
 _VictoryRoadGuardText2::
-	text "You can pass here"
-	line "only if you have"
-	cont "the @"
+	text "Du kan kun passere"
+	line "her, hvis du har"
+	cont "@"
 	text_ram wcd6d
 	text "!"
 
-	para "Oh! That is the"
+	para "Åh! Det er"
 	line "@"
 	text_ram wcd6d
 	text "!@"
@@ -31,11 +31,11 @@ _VictoryRoadGuardText2::
 _VictoryRoadGuardText_513a3::
 	text_start
 
-	para "OK then! Please,"
-	line "go right ahead!"
+	para "OK! Værsgo,"
+	line "gå bare videre!"
 	done
 
 _Route23Text8::
-	text "VICTORY ROAD GATE"
+	text "SEJRSVEJENS PORT"
 	line "- #MON-LIGAEN"
 	done

@@ -1,22 +1,22 @@
 _Route22GateText_1e704::
-	text "Only truly skilled"
-	line "trainers are"
-	cont "allowed through."
+	text "Kun virkelig"
+	line "dygtige trænere"
+	cont "kan komme igennem."
 
-	para "You don't have the"
-	line "BOULDEREMBLEM yet!@"
+	para "Du har ikke"
+	line "et BOULDEREMBLEM!@"
 	text_end
 
 _Route22GateText_1e715::
 	text_start
 
-	para "The rules are"
-	line "rules. I can't"
-	cont "let you pass."
+	para "Regler er regler."
+	line "Jeg kan ikke lade"
+	cont "dig passere."
 	done
 
 _Route22GateText_1e71a::
-	text "Oh! That is the"
-	line "BOULDEREMBLEM!"
-	cont "Go right ahead!@"
+	text "Åh! Det er"
+	line "BOULDEREMBLEMET!"
+	cont "Gå bare videre!@"
 	text_end

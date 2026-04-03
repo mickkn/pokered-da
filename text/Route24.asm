@@ -1,67 +1,68 @@
 _Route24Text_51510::
-	text "Congratulations!"
-	line "You beat our 5"
-	cont "contest trainers!@"
+	text "Tillykke!"
+	line "Du slog vores 5"
+	cont "kamptrænere!@"
 	text_end
 
 _Route24Text_51515::
 	text_start
 
-	para "You just earned a"
-	line "fabulous prize!"
+	para "Du har lige vundet"
+	line "en flot præmie!"
 	prompt
 
 _Route24Text_5151a::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> modtog"
+	line "en @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _Route24Text_51521::
-	text "You don't have"
-	line "any room!"
+	text "Du har ikke"
+	line "plads nok!"
 	done
 
 _Route24Text_51526::
-	text "By the way, would"
-	line "you like to join"
+	text "Vil du i øvrigt"
+	line "være med i"
 	cont "TEAM ROCKET?"
 
-	para "We're a group"
-	line "dedicated to evil"
-	cont "using #MON!"
+	para "Vi er en gruppe"
+	line "dedikeret til"
+	cont "ondskab med"
+	cont "#MON!"
 
-	para "Want to join?"
+	para "Vil du med?"
 
-	para "Are you sure?"
+	para "Er du sikker?"
 
-	para "Come on, join us!"
+	para "Kom nu, vær med!"
 
-	para "I'm telling you"
-	line "to join!"
+	para "Jeg siger, du"
+	line "skal være med!"
 
-	para "OK, you need"
-	line "convincing!"
+	para "OK, du skal"
+	line "overbevises!"
 
-	para "I'll make you an"
-	line "offer you can't"
-	cont "refuse!"
+	para "Jeg giver dig et"
+	line "tilbud, du ikke"
+	cont "kan afslå!"
 	done
 
 _Route24Text_5152b::
-	text "Arrgh!"
-	line "You are good!"
+	text "Argh!"
+	line "Du er god!"
 	prompt
 
 _Route24Text_51530::
-	text "With your ability,"
-	line "you could become"
-	cont "a top leader in"
+	text "Med dine evner"
+	line "kunne du blive en"
+	cont "topleder i"
 	cont "TEAM ROCKET!"
 	done
 
 _Route24BattleText1::
-	text "I saw your feat"
-	line "from the grass!"
+	text "Jeg så din dåd"
+	line "fra græsset!"
 	done

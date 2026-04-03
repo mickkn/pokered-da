@@ -1,90 +1,98 @@
 _Route24EndBattleText1::
-	text "I"
-	line "thought not!"
+	text "Det"
+	line "tænkte jeg nok!"
 	prompt
 
 _Route24AfterBattleText1::
-	text "I hid because the"
-	line "people on the"
-	cont "bridge scared me!"
+	text "Jeg gemte mig"
+	line "fordi folkene"
+	cont "på broen"
+	cont "skræmte mig!"
 	done
 
 _Route24BattleText2::
-	text "OK! I'm No. 5!"
-	line "I'll stomp you!"
+	text "OK! Jeg er nr. 5!"
+	line "Jeg knuser dig!"
 	done
 
 _Route24EndBattleText2::
-	text "Whoa!"
-	line "Too much!"
+	text "Hold da op!"
+	line "For meget!"
 	prompt
 
 _Route24AfterBattleText2::
-	text "I did my best, I"
-	line "have no regrets!"
+	text "Jeg gjorde mit"
+	line "bedste, uden"
+	cont "fortrydelse!"
 	done
 
 _Route24BattleText3::
-	text "I'm No. 4!"
-	line "Getting tired?"
+	text "Jeg er nr. 4!"
+	line "Træt allerede?"
 	done
 
 _Route24EndBattleText3::
-	text "I lost"
-	line "too!"
+	text "Jeg tabte"
+	line "også!"
 	prompt
 
 _Route24AfterBattleText3::
-	text "I did my best, so"
-	line "I've no regrets!"
+	text "Jeg gjorde mit"
+	line "bedste, uden"
+	cont "fortrydelse!"
 	done
 
 _Route24BattleText4::
-	text "Here's No. 3!"
-	line "I won't be easy!"
+	text "Her er nr. 3!"
+	line "Jeg er ikke nem!"
 	done
 
 _Route24EndBattleText4::
-	text "Ow!"
-	line "Stomped flat!"
+	text "Av!"
+	line "Helt flad!"
 	prompt
 
 _Route24AfterBattleText4::
-	text "I did my best, I"
-	line "have no regrets!"
+	text "Jeg gjorde mit"
+	line "bedste, uden"
+	cont "fortrydelse!"
 	done
 
 _Route24BattleText5::
-	text "I'm second!"
-	line "Now it's serious!"
+	text "Jeg er nummer to!"
+	line "Nu bli'r det"
+	cont "alvorligt!"
 	done
 
 _Route24EndBattleText5::
-	text "How could I"
-	line "lose?"
+	text "Hvordan kunne"
+	line "jeg tabe?"
 	prompt
 
 _Route24AfterBattleText5::
-	text "I did my best, I"
-	line "have no regrets!"
+	text "Jeg gjorde mit"
+	line "bedste, uden"
+	cont "fortrydelse!"
 	done
 
 _Route24BattleText6::
-	text "This is NUGGET"
-	line "BRIDGE! Beat us 5"
-	cont "trainers and win"
-	cont "a fabulous prize!"
+	text "Her er NUGGET"
+	line "BRIDGE! Slå vores"
+	cont "5 trænere og vind"
+	cont "en flot præmie!"
 
-	para "Think you got"
-	line "what it takes?"
+	para "Tror du, at du"
+	line "har det, der"
+	cont "skal til?"
 	done
 
 _Route24EndBattleText6::
-	text "Whoo!"
-	line "Good stuff!"
+	text "Wuhu!"
+	line "Godt klaret!"
 	prompt
 
 _Route24AfterBattleText6::
-	text "I did my best, I"
-	line "have no regrets!"
+	text "Jeg gjorde mit"
+	line "bedste, uden"
+	cont "fortrydelse!"
 	done

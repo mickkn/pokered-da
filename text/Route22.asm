@@ -2,103 +2,104 @@ _Route22RivalBeforeBattleText1::
 	text "<RIVAL>: Hey!"
 	line "<PLAYER>!"
 
-	para "You're going to"
+	para "Skal du til"
 	line "#MON-LIGAEN?"
 
-	para "Forget it! You"
-	line "probably don't"
-	cont "have any EMBLEMER!"
+	para "Glem det! Du har"
+	line "sikkert ingen"
+	cont "EMBLEMER!"
 
-	para "The guard won't"
-	line "let you through!"
+	para "Vagten lukker dig"
+	line "ikke igennem!"
 
-	para "By the way, did"
-	line "your #MON"
-	cont "get any stronger?"
+	para "Er dine #MON i"
+	line "øvrigt blevet"
+	cont "stærkere?"
 	done
 
 _Route22RivalAfterBattleText1::
-	text "I heard #MON"
-	line "LEAGUE has many"
-	cont "tough trainers!"
+	text "Jeg hørte, at"
+	line "#MON-LIGAEN har"
+	cont "mange stærke"
+	cont "trænere!"
 
-	para "I have to figure"
-	line "out how to get"
-	cont "past them!"
+	para "Jeg skal finde"
+	line "ud af, hvordan"
+	cont "jeg kommer forbi!"
 
-	para "You should quit"
-	line "dawdling and get"
-	cont "a move on!"
+	para "Hold op med at"
+	line "nøle og kom i"
+	cont "gang!"
 	done
 
 _Route22RivalDefeatedText1::
-	text "Awww!"
-	line "You just lucked"
-	cont "out!"
+	text "Argh!"
+	line "Du var bare"
+	cont "heldig!"
 	prompt
 
 _Route22Text_511bc::
-	text "<RIVAL>: What?"
-	line "Why do I have 2"
-	cont "#MON?"
+	text "<RIVAL>: Hvad?"
+	line "Hvorfor har jeg"
+	cont "2 #MON?"
 
-	para "You should catch"
-	cont "some more too!"
+	para "Du burde også"
+	cont "fange flere!"
 	prompt
 
 _Route22RivalBeforeBattleText2::
-	text "<RIVAL>: What?"
-	line "<PLAYER>! What a"
-	cont "surprise to see"
-	cont "you here!"
+	text "<RIVAL>: Hvad?"
+	line "<PLAYER>! Sikke"
+	cont "en overraskelse"
+	cont "at se dig her!"
 
-	para "So you're going to"
+	para "Så du skal til"
 	line "#MON-LIGAEN?"
 
-	para "You collected all"
-	line "the EMBLEMER too?"
-	cont "That's cool!"
+	para "Du samlede også"
+	line "alle EMBLEMER?"
+	cont "Fedt!"
 
-	para "Then I'll whip you"
-	line "<PLAYER> as a"
-	cont "warm up for"
+	para "Så banker jeg dig"
+	line "<PLAYER> som"
+	cont "opvarmning til"
 	cont "#MON-LIGAEN!"
 
-	para "Come on!"
+	para "Kom så!"
 	done
 
 _Route22RivalAfterBattleText2::
-	text "That loosened me"
-	line "up! I'm ready for"
-	cont "#MON-LIGAEN!"
+	text "Det løsnede mig"
+	line "op! Jeg er klar"
+	cont "til #MON-LIGAEN!"
 
-	para "<PLAYER>, you need"
-	line "more practice!"
+	para "<PLAYER>, du skal"
+	line "træne mere!"
 
-	para "But hey, you know"
-	line "that! I'm out of"
-	cont "here. Smell ya!"
+	para "Men det ved du"
+	line "godt! Jeg smutter"
+	cont "nu. Vi ses!"
 	done
 
 _Route22RivalDefeatedText2::
-	text "What!?"
+	text "Hvad!?"
 
-	para "I was just"
-	line "careless!"
+	para "Jeg var bare"
+	line "skødesløs!"
 	prompt
 
 _Route22Text_511d0::
 	text "<RIVAL>: Hahaha!"
-	line "<PLAYER>! That's"
-	cont "your best? You're"
-	cont "nowhere near as"
-	cont "good as me, pal!"
+	line "<PLAYER>! Er det"
+	cont "dit bedste? Du er"
+	cont "ikke i nærheden"
+	cont "af mit niveau!"
 
-	para "Go train some"
-	line "more! You loser!"
+	para "Gå hjem og træn"
+	line "mere, din taber!"
 	prompt
 
 _Route22FrontGateText::
 	text "#MON-LIGA"
-	line "Front Gate"
+	line "Hovedindgang"
 	done
