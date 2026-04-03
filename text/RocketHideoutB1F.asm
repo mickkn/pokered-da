@@ -1,74 +1,75 @@
 _RocketHideout1EndBattleText6::
-	text "Why...?@"
+	text "Hvorfor...?@"
 	text_end
 
 _RocketHideout1BattleText2::
-	text "Who are you? How"
-	line "did you get here?"
+	text "Hvem er du?"
+	line "Hvordan kom du"
+	cont "herind?"
 	done
 
 _RocketHideout1EndBattleText2::
-	text "Oww!"
-	line "Beaten!"
+	text "Av!"
+	line "Besejret!"
 	prompt
 
 _RocketHideout1AfterBattleTxt2::
-	text "Are you dissing"
+	text "Håner du"
 	line "TEAM ROCKET?"
 	done
 
 _RocketHideout1BattleText3::
-	text "You broke into"
-	line "our operation?"
+	text "Du brød ind i"
+	line "vores operation?"
 	done
 
 _RocketHideout1EndBattleText3::
-	text "Burnt!"
+	text "Brændt!"
 	prompt
 
 _RocketHideout1AfterBattleTxt3::
-	text "You're not going"
-	line "to get away with"
-	cont "this, brat!"
+	text "Du slipper ikke"
+	line "afsted med dette,"
+	cont "møgunge!"
 	done
 
 _RocketHideout1BattleText4::
-	text "Intruder alert!"
+	text "Indtrænger alarm!"
 	done
 
 _RocketHideout1EndBattleText4::
-	text "I"
-	line "can't do it!"
+	text "Jeg"
+	line "kan ikke!"
 	prompt
 
 _RocketHideout1AfterBattleTxt4::
 	text "SILPH SCOPE?"
-	line "I don't know"
-	cont "where it is!"
+	line "Jeg ved ikke"
+	cont "hvor det er!"
 	done
 
 _RocketHideout1BattleText5::
-	text "Why did you come"
-	line "here?"
+	text "Hvorfor kom du"
+	line "herhen?"
 	done
 
 _RocketHideout1EndBattleText5::
-	text "This"
-	line "won't do!"
+	text "Det"
+	line "duer ikke!"
 	prompt
 
 _RocketHideout1AfterBattleTxt5::
-	text "OK, I'll talk!"
-	line "Take the elevator"
-	cont "to see my BOSS!"
+	text "OK, jeg taler!"
+	line "Tag elevatoren"
+	cont "til min BOSS!"
 	done
 
 _RocketHideout1BattleText6::
-	text "Are you lost, you"
-	line "little rat?"
+	text "Er du faret vild,"
+	line "din lille rotte?"
 	done
 
 _RocketHideout1AfterBattleTxt6::
-	text "Uh-oh, that fight"
-	line "opened the door!"
+	text "Åh-åh, den kamp"
+	line "åbnede døren!"
 	done

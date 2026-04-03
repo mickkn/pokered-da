@@ -1,74 +1,76 @@
 _RocketHideout4Text_4557a::
-	text "So! I must say, I"
-	line "am impressed you"
-	cont "got here!"
+	text "Så! Jeg må sige,"
+	line "jeg er imponeret"
+	cont "over du at du"
+	cont "kom!"
 	done
 
 _RocketHideout4Text_4557f::
-	text "WHAT!"
-	line "This cannot be!"
+	text "HVAD!"
+	line "Det kan ikke"
+	cont "være rigtigt!"
 	prompt
 
 _RocketHideout4Text_45584::
-	text "I see that you"
-	line "raise #MON"
-	cont "with utmost care."
+	text "Jeg kan se du"
+	line "opfostrer #MON"
+	cont "med største omhu."
 
-	para "A child like you"
-	line "would never"
-	cont "understand what I"
-	cont "hope to achieve."
+	para "Et barn som dig"
+	line "ville aldrig"
+	cont "forstå hvad jeg"
+	cont "ønsker at opnå."
 
-	para "I shall step"
-	line "aside this time!"
+	para "Jeg træder til"
+	line "side denne gang!"
 
-	para "I hope we meet"
-	line "again..."
+	para "Jeg håber vi"
+	line "mødes igen..."
 	done
 
 _RocketHideout4BattleText2::
-	text "I know you! You"
-	line "ruined our plans"
-	cont "at MT.MOON!"
+	text "Jeg kender dig!"
+	line "Du ødelagde vores"
+	cont "planer ved"
+	cont "MT.MOON!"
 	done
 
 _RocketHideout4EndBattleText2::
-	text "Burned"
-	line "again!"
+	text "Brændt"
+	line "igen!"
 	prompt
 
 _RocketHide4AfterBattleText2::
-	text "Do you have"
-	line "something against"
-	cont "TEAM ROCKET?"
+	text "Har du noget imod"
+	line "TEAM ROCKET?"
 	done
 
 _RocketHideout4BattleText3::
-	text "How can you not"
-	line "see the beauty of"
-	cont "our evil?"
+	text "Kan du ikke se"
+	line "skønheden i"
+	cont "vores ondskab?"
 	done
 
 _RocketHideout4EndBattleText3::
-	text "Ayaya!"
+	text "Ajaja!"
 	prompt
 
 _RocketHide4AfterBattleText3::
-	text "BOSS! I'm sorry I"
-	line "failed you!"
+	text "BOSS! Undskyld at"
+	line "jeg svigtede!"
 	done
 
 _RocketHideout4BattleText4::
-	text "The elevator"
-	line "doesn't work? Who"
-	cont "has the LIFT KEY?"
+	text "Elevatoren virker"
+	line "ikke? Hvem har"
+	cont "ELEVATOR-NØGLEN?"
 	done
 
 _RocketHideout4EndBattleText4::
-	text "No!"
+	text "Nej!"
 	prompt
 
 _RocketHideout4Text_455ec::
-	text "Oh no! I dropped"
-	line "the LIFT KEY!"
+	text "Åh nej! Jeg tabte"
+	line "ELEVATOR-NØGLEN!"
 	done

@@ -1,20 +1,20 @@
 _RockTunnel2AfterBattleText8::
-	text "I'll raise my"
-	line "#MON to beat"
-	cont "yours, kid!"
+	text "Jeg træner mine"
+	line "#MON til at slå"
+	cont "dine, knægt!"
 	done
 
 _RockTunnel2BattleText9::
-	text "I draw #MON"
-	line "when I'm home."
+	text "Jeg tegner #MON"
+	line "når jeg er hjemme."
 	done
 
 _RockTunnel2EndBattleText9::
-	text "Whew!"
-	line "I'm exhausted!"
+	text "Pyha!"
+	line "Jeg er udmattet!"
 	prompt
 
 _RockTunnel2AfterBattleText9::
-	text "I'm an artist,"
-	line "not a fighter."
+	text "Jeg er kunstner,"
+	line "ikke en kæmper."
 	done
