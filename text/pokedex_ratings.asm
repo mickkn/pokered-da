@@ -1,117 +1,117 @@
 _DexCompletionText::
-	text "#DEX comp-"
-	line "letion is:"
+	text "#DEX færdig-"
+	line "gørelse:"
 
 	para "@"
 	text_decimal hDexRatingNumMonsSeen, 1, 3
-	text " #MON seen"
+	text " #MON set"
 	line "@"
 	text_decimal hDexRatingNumMonsOwned, 1, 3
-	text " #MON owned"
+	text " #MON ejet"
 
-	para "PROF.OAK's"
-	line "Rating:"
+	para "PROF.OAKs"
+	line "Vurdering:"
 	prompt
 
 _DexRatingText_Own0To9::
-	text "You still have"
-	line "lots to do."
-	cont "Look for #MON"
-	cont "in grassy areas!"
+	text "Du har stadig"
+	line "meget at gøre."
+	cont "Søg efter #MON"
+	cont "i græsområder!"
 	done
 
 _DexRatingText_Own10To19::
-	text "You're on the"
-	line "right track! "
-	cont "Get a FLASH HM"
-	cont "from my AIDE!"
+	text "Du er på rette"
+	line "vej! Få en FLASH"
+	cont "HM fra min"
+	cont "ASSISTENT!"
 	done
 
 _DexRatingText_Own20To29::
-	text "You still need"
-	line "more #MON!"
-	cont "Try to catch"
-	cont "other species!"
+	text "Du mangler stadig"
+	line "flere #MON!"
+	cont "Prøv at fange"
+	cont "andre arter!"
 	done
 
 _DexRatingText_Own30To39::
-	text "Good, you're"
-	line "trying hard!"
-	cont "Get an ITEMFINDER"
-	cont "from my AIDE!"
+	text "Godt, du prøver"
+	line "hårdt! Få en"
+	cont "ITEMFINDER fra"
+	cont "min ASSISTENT!"
 	done
 
 _DexRatingText_Own40To49::
-	text "Looking good!"
-	line "Go find my AIDE"
-	cont "when you get 50!"
+	text "Det ser godt ud!"
+	line "Find min ASSISTENT"
+	cont "når du når 50!"
 	done
 
 _DexRatingText_Own50To59::
-	text "You finally got at"
-	line "least 50 species!"
-	cont "Be sure to get"
-	cont "EXP.ALL from my"
-	cont "AIDE!"
+	text "Du fik endelig"
+	line "mindst 50 arter!"
+	cont "Husk at få"
+	cont "EXP.ALL fra min"
+	cont "ASSISTENT!"
 	done
 
 _DexRatingText_Own60To69::
-	text "Ho! This is geting"
-	line "even better!"
+	text "Ho! Det bliver"
+	line "endnu bedre!"
 	done
 
 _DexRatingText_Own70To79::
-	text "Very good!"
-	line "Go fish for some"
-	cont "marine #MON!"
+	text "Meget godt!"
+	line "Fisk efter nogle"
+	cont "hav-#MON!"
 	done
 
 _DexRatingText_Own80To89::
-	text "Wonderful!"
-	line "Do you like to"
-	cont "collect things?"
+	text "Vidunderligt!"
+	line "Kan du lide at"
+	cont "samle på ting?"
 	done
 
 _DexRatingText_Own90To99::
-	text "I'm impressed!"
-	line "It must have been"
-	cont "difficult to do!"
+	text "Jeg er imponeret!"
+	line "Det må have været"
+	cont "svært at gøre!"
 	done
 
 _DexRatingText_Own100To109::
-	text "You finally got at"
-	line "least 100 species!"
-	cont "I can't believe"
-	cont "how good you are!"
+	text "Du fik endelig"
+	line "mindst 100 arter!"
+	cont "Jeg kan ikke tro"
+	cont "hvor god du er!"
 	done
 
 _DexRatingText_Own110To119::
-	text "You even have the"
-	line "evolved forms of"
-	cont "#MON! Super!"
+	text "Du har endda de"
+	line "udviklede former"
+	cont "af #MON! Super!"
 	done
 
 _DexRatingText_Own120To129::
-	text "Excellent! Trade"
-	line "with friends to"
-	cont "get some more!"
+	text "Fremragende! Byt"
+	line "med venner for at"
+	cont "få endnu flere!"
 	done
 
 _DexRatingText_Own130To139::
-	text "Outstanding!"
-	line "You've become a"
-	cont "real pro at this!"
+	text "Enestående!"
+	line "Du er blevet en"
+	cont "rigtig proff!"
 	done
 
 _DexRatingText_Own140To149::
-	text "I have nothing"
-	line "left to say!"
-	cont "You're the"
-	cont "authority now!"
+	text "Jeg har intet"
+	line "mere at sige!"
+	cont "Du er"
+	cont "autoriteten nu!"
 	done
 
 _DexRatingText_Own150To151::
-	text "Your #DEX is"
-	line "entirely complete!"
-	cont "Congratulations!"
+	text "Dit #DEX er"
+	line "helt komplet!"
+	cont "Tillykke!"
 	done

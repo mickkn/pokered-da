@@ -1,59 +1,61 @@
 _NameRaterText_1dab3::
-	text "Hello, hello!"
-	line "I am the official"
-	cont "NAME RATER!"
+	text "Hej, hej!"
+	line "Jeg er den"
+	cont "officielle"
+	cont "NAVNEBEDØMMER!"
 
-	para "Want me to rate"
-	line "the nicknames of"
-	cont "your #MON?"
+	para "Vil du have mig"
+	line "til at bedømme"
+	cont "dine #MONs"
+	cont "øgenavne?"
 	done
 
 _NameRaterText_1dab8::
-	text "Which #MON"
-	line "should I look at?"
+	text "Hvilken #MON"
+	line "skal jeg se på?"
 	prompt
 
 _NameRaterText_1dabd::
 	text_ram wcd6d
-	text ", is it?"
-	line "That is a decent"
-	cont "nickname!"
+	text ", ikke?"
+	line "Det er et pænt"
+	cont "øgenavn!"
 
-	para "But, would you"
-	line "like me to give"
-	cont "it a nicer name?"
+	para "Men vil du have"
+	line "mig til at give"
+	cont "det et pænere?"
 
-	para "How about it?"
+	para "Hvad siger du?"
 	done
 
 _NameRaterText_1dac2::
-	text "Fine! What should"
-	line "we name it?"
+	text "Fint! Hvad skal"
+	line "den hedde?"
 	prompt
 
 _NameRaterText_1dac7::
-	text "OK! This #MON"
-	line "has been renamed"
+	text "OK! Denne #MON"
+	line "er omdøbt til"
 	cont "@"
 	text_ram wBuffer
 	text "!"
 
-	para "That's a better"
-	line "name than before!"
+	para "Det er et bedre"
+	line "navn end før!"
 	done
 
 _NameRaterText_1dacc::
-	text "Fine! Come any"
-	line "time you like!"
+	text "Fint! Kom når som"
+	line "helst!"
 	done
 
 _NameRaterText_1dad1::
 	text_ram wcd6d
-	text ", is it?"
-	line "That is a truly"
-	cont "impeccable name!"
+	text ", ikke?"
+	line "Det er et helt"
+	cont "perfekt navn!"
 
-	para "Take good care of"
+	para "Pas godt på"
 	line "@"
 	text_ram wcd6d
 	text "!"

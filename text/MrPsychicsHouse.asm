@@ -1,26 +1,27 @@
 _TM29PreReceiveText::
-	text "...Wait! Don't"
-	line "say a word!"
+	text "...Vent! Sig ikke"
+	line "et ord!"
 
-	para "You wanted this!"
+	para "Du ville have"
+	line "dette!"
 	prompt
 
 _ReceivedTM29Text::
-	text "<PLAYER> received"
+	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _TM29ExplanationText::
-	text "TM29 is PSYCHIC!"
+	text "TM29 er PSYCHIC!"
 
-	para "It can lower the"
-	line "target's SPECIAL"
-	cont "abilities."
+	para "Det kan sænke"
+	line "målets SPECIAL-"
+	cont "evner."
 	done
 
 _TM29NoRoomText::
-	text "Where do you plan"
-	line "to put this?"
+	text "Hvor planlægger"
+	line "du at putte det?"
 	done

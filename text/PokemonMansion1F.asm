@@ -1,29 +1,30 @@
 _Mansion1BattleText2::
-	text "Who are you? There"
-	line "shouldn't be"
-	cont "anyone here."
+	text "Hvem er du? Der"
+	line "burde ikke være"
+	cont "nogen her."
 	done
 
 _Mansion1EndBattleText2::
-	text "Ouch!"
+	text "Av!"
 	prompt
 
 _Mansion1AfterBattleText2::
-	text "A key? I don't"
-	line "know what you're"
-	cont "talking about."
+	text "En nøgle? Jeg ved"
+	line "ikke hvad du"
+	cont "taler om."
 	done
 
 _MansionSwitchText::
-	text "A secret switch!"
+	text "En hemmelig"
+	line "kontakt!"
 
-	para "Press it?"
+	para "Trykke på den?"
 	done
 
 _MansionSwitchPressedText::
-	text "Who wouldn't?"
+	text "Hvem ville ikke?"
 	prompt
 
 _MansionSwitchNotPressedText::
-	text "Not quite yet!"
+	text "Ikke lige endnu!"
 	done

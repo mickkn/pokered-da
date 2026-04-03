@@ -1,11 +1,11 @@
 _PewterPokecenterText2::
-	text "What!?"
+	text "Hvad!?"
 
-	para "TEAM ROCKET is"
-	line "at MT.MOON? Huh?"
-	cont "I'm on the phone!"
+	para "TEAM ROCKET er"
+	line "ved MT.MOON? Hva?"
+	cont "Jeg er i telefon!"
 
-	para "Scram!"
+	para "Skrub af!"
 	done
 
 _PewterJigglypuffText::

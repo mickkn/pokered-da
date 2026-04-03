@@ -1,19 +1,19 @@
 _PewterHouse2Text1::
-	text "#MON learn new"
-	line "techniques as"
-	cont "they grow!"
+	text "#MON lærer nye"
+	line "teknikker når de"
+	cont "vokser!"
 
-	para "But, some moves"
-	line "must be taught by"
-	cont "the trainer!"
+	para "Men nogle teknik-"
+	line "ker skal læres af"
+	cont "træneren!"
 	done
 
 _PewterHouse2Text2::
-	text "#MON become"
-	line "easier to catch"
-	cont "when they are"
-	cont "hurt or asleep!"
+	text "#MON er nemmere"
+	line "at fange når de"
+	cont "er sårede eller"
+	cont "sover!"
 
-	para "But, it's not a"
-	line "sure thing!"
+	para "Men det er ingen"
+	line "garanti!"
 	done

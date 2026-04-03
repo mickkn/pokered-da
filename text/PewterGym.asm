@@ -1,18 +1,18 @@
 _BrockPreBattleText::
-	text "I'm BROCK!"
-	line "I'm PEWTER's GYM"
-	cont "LEADER!"
+	text "Jeg er BROCK!"
+	line "Jeg er PEWTERs"
+	cont "GYM LEDER!"
 
-	para "I believe in rock"
-	line "hard defense and"
-	cont "determination!"
+	para "Jeg tror på"
+	line "stenhårdt forsvar"
+	cont "og beslutsomhed!"
 
-	para "That's why my"
-	line "#MON are all"
-	cont "the rock-type!"
+	para "Derfor er alle"
+	line "mine #MON af"
+	cont "sten-typen!"
 
-	para "Do you still want"
-	line "to challenge me?"
-	cont "Fine then! Show"
-	cont "me your best!"
+	para "Vil du stadig"
+	line "udfordre mig?"
+	cont "Fint! Vis mig"
+	cont "dit bedste!"
 	done

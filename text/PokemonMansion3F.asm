@@ -1,37 +1,38 @@
 _Mansion3BattleText1::
-	text "This place is"
-	line "like, huge!"
+	text "Dette sted er"
+	line "altså kæmpestort!"
 	done
 
 _Mansion3EndBattleText1::
-	text "Ayah!"
+	text "Ajaj!"
 	prompt
 
 _Mansion3AfterBattleText1::
-	text "I wonder where"
-	line "my partner went."
+	text "Jeg gad vide hvor"
+	line "min makker gik"
+	cont "hen."
 	done
 
 _Mansion3BattleText2::
-	text "My mentor once"
-	line "lived here."
+	text "Min mentor boede"
+	line "engang her."
 	done
 
 _Mansion3EndBattleText2::
-	text "Whew!"
-	line "Overwhelming!"
+	text "Pyha!"
+	line "Overvældende!"
 	prompt
 
 _Mansion3AfterBattleText2::
-	text "So, you're stuck?"
-	line "Try jumping off"
-	cont "over there!"
+	text "Så, sidder du"
+	line "fast? Prøv at"
+	cont "hoppe ned derovre!"
 	done
 
 _Mansion3Text5::
-	text "Diary: Feb. 6"
-	line "MEW gave birth."
+	text "Dagbog: 6. feb."
+	line "MEW fødte."
 
-	para "We named the"
-	line "newborn MEWTWO."
+	para "Vi kaldte den"
+	line "nyfødte MEWTWO."
 	done

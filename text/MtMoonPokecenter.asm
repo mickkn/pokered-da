@@ -1,46 +1,45 @@
 _MtMoonPokecenterText1::
-	text "I've 6 # BALLs"
-	line "set in my belt."
+	text "Jeg har 6 # BALLs"
+	line "i mit bælte."
 
-	para "At most, you can"
-	line "carry 6 #MON."
+	para "Du kan højst bære"
+	line "6 #MON."
 	done
 
 _MtMoonPokecenterText3::
 	text "TEAM ROCKET"
-	line "attacks CERULEAN"
-	cont "citizens..."
+	line "angriber borgere"
+	cont "i CERULEAN..."
 
-	para "TEAM ROCKET is"
-	line "always in the"
-	cont "news!"
+	para "TEAM ROCKET er"
+	line "altid i"
+	cont "nyhederne!"
 	done
 
 _MagikarpSalesmanText1::
-	text "MAN: Hello, there!"
-	line "Have I got a deal"
-	cont "just for you!"
+	text "MAND: Hej med dig!"
+	line "Jeg har et tilbud"
+	cont "til netop dig!"
 
-	para "I'll let you have"
-	line "a swell MAGIKARP"
-	cont "for just ¥500!"
-	cont "What do you say?"
+	para "Du kan få en flot"
+	line "MAGIKARP for kun"
+	cont "¥500!"
+	cont "Hvad siger du?"
 	done
 
 _MagikarpSalesmanNoText::
-	text "No? I'm only"
-	line "doing this as a"
-	cont "favor to you!"
+	text "Nej? Jeg gør dig"
+	line "kun en tjeneste!"
 	done
 
 _MagikarpSalesmanNoMoneyText::
-	text "You'll need more"
-	line "money than that!"
+	text "Du skal bruge"
+	line "flere penge!"
 	done
 
 _MagikarpSalesmanText2::
-	text "MAN: Well, I don't"
-	line "give refunds!"
+	text "MAND: Jeg giver"
+	line "ingen refusion!"
 	done
 
 _MtMoonPokecenterText5::

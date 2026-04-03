@@ -1,47 +1,49 @@
 _Mansion2BattleText1::
-	text "I can't get out!"
-	line "This old place is"
-	cont "one big puzzle!"
+	text "Jeg kan ikke"
+	line "komme ud! Det"
+	cont "gamle sted er ét"
+	cont "stort puslespil!"
 	done
 
 _Mansion2EndBattleText1::
-	text "Oh no!"
-	line "My bag of loot!"
+	text "Åh nej!"
+	line "Min pose bytte!"
 	prompt
 
 _Mansion2AfterBattleText1::
-	text "Switches open and"
-	line "close alternating"
-	cont "sets of doors!"
+	text "Kontakter åbner"
+	line "og lukker skiften-"
+	cont "de sæt af døre!"
 	done
 
 _Mansion2Text3::
-	text "Diary: July 5"
+	text "Dagbog: 5. juli"
 	line "Guyana,"
-	cont "South America"
+	cont "Sydamerika"
 
-	para "A new #MON was"
-	line "discovered deep"
-	cont "in the jungle."
+	para "En ny #MON blev"
+	line "opdaget dybt i"
+	cont "junglen."
 	done
 
 _Mansion2Text4::
-	text "Diary: July 10"
-	line "We christened the"
-	cont "newly discovered"
-	cont "#MON, MEW."
+	text "Dagbog: 10. juli"
+	line "Vi døbte den nyt"
+	cont "opdagede #MON,"
+	cont "MEW."
 	done
 
 _Mansion2Text_520c2::
-	text "A secret switch!"
+	text "En hemmelig"
+	line "kontakt!"
 
-	para "Press it?"
+	para "Trykke på den?"
 	done
 
 _Mansion2Text_520c7::
-	text "Who wouldn't?"
+	text "Hvem ville ikke?"
 	prompt
 
 _Mansion2Text_520cc::
-	text "Not quite yet!"
+	text "Ikke lige endnu!"
 	done

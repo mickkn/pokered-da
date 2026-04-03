@@ -1,45 +1,48 @@
 _Museum2FText1::
 	text "MOON STONE?"
 
-	para "What's so special"
-	line "about it?"
+	para "Hvad er der så"
+	line "specielt ved den?"
 	done
 
 _Museum2FText2::
-	text "July 20, 1969!"
+	text "20. juli, 1969!"
 
-	para "The 1st lunar"
-	line "landing!"
+	para "Den første"
+	line "månelanding!"
 
-	para "I bought a color"
-	line "TV to watch it!"
+	para "Jeg købte et"
+	line "farve-TV for at"
+	cont "se det!"
 	done
 
 _Museum2FText3::
-	text "We have a space"
-	line "exhibit now."
+	text "Vi har en rum-"
+	line "udstilling nu."
 	done
 
 _Museum2FText4::
-	text "I want a PIKACHU!"
-	line "It's so cute!"
+	text "Jeg vil ha en"
+	line "PIKACHU! Den er"
+	cont "så sød!"
 
-	para "I asked my Daddy"
-	line "to catch me one!"
+	para "Jeg bad min far"
+	line "fange én til mig!"
 	done
 
 _Museum2FText5::
-	text "Yeah, a PIKACHU"
-	line "soon, I promise!"
+	text "Ja, en PIKACHU"
+	line "snart, det lover"
+	cont "jeg!"
 	done
 
 _Museum2FText6::
-	text "SPACE SHUTTLE"
+	text "RUMFÆRGEN"
 	line "COLUMBIA"
 	done
 
 _Museum2FText7::
-	text "Meteorite that"
-	line "fell on MT.MOON."
+	text "Meteorit der"
+	line "faldt på MT.MOON."
 	cont "(MOON STONE?)"
 	done

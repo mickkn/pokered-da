@@ -1,17 +1,17 @@
 _PewterMartText2::
-	text "A shady, old man"
-	line "got me to buy"
-	cont "this really weird"
-	cont "fish #MON!"
+	text "En lyssky, gammel"
+	line "mand fik mig til"
+	cont "at købe en mærklig"
+	cont "fiske-#MON!"
 
-	para "It's totally weak"
-	line "and it cost ¥500!"
+	para "Den er helt svag"
+	line "og den kostede"
+	cont "¥500!"
 	done
 
 _PewterMartText3::
-	text "Good things can"
-	line "happen if you"
-	cont "raise #MON"
-	cont "diligently, even"
-	cont "the weak ones!"
+	text "Gode ting kan ske"
+	line "hvis du træner"
+	cont "#MON flittigt,"
+	cont "selv de svage!"
 	done

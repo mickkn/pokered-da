@@ -1,39 +1,41 @@
 _Mansion4BattleText1::
-	text "Uh-oh. Where am"
-	line "I now?"
+	text "Åh-åh. Hvor er"
+	line "jeg nu?"
 	done
 
 _Mansion4EndBattleText1::
-	text "Awooh!"
+	text "Auuuh!"
 	prompt
 
 _Mansion4AfterBattleText1::
-	text "You can find stuff"
-	line "lying around."
+	text "Du kan finde ting"
+	line "der ligger rundt"
+	cont "omkring."
 	done
 
 _Mansion4BattleText2::
-	text "This place is"
-	line "ideal for a lab."
+	text "Dette sted er"
+	line "ideelt til et lab."
 	done
 
 _Mansion4EndBattleText2::
-	text "What"
-	line "was that for?"
+	text "Hvad skulle"
+	line "det til for?"
 	prompt
 
 _Mansion4AfterBattleText2::
-	text "I like it here!"
-	line "It's conducive to"
-	cont "my studies!"
+	text "Jeg kan lide det"
+	line "her! Det fremmer"
+	cont "mine studier!"
 	done
 
 _Mansion4Text7::
-	text "Diary; Sept. 1"
-	line "MEWTWO is far too"
-	cont "powerful."
+	text "Dagbog; 1. sept."
+	line "MEWTWO er alt for"
+	cont "kraftfuld."
 
-	para "We have failed to"
-	line "curb its vicious"
-	cont "tendencies..."
+	para "Vi har ikke"
+	line "kunnet dæmpe dens"
+	cont "ondskabsfulde"
+	cont "tendenser..."
 	done

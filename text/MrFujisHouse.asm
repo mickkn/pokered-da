@@ -1,30 +1,33 @@
 _LavenderHouse1Text_1d8d1::
-	text "That's odd, MR.FUJI"
-	line "isn't here."
-	cont "Where'd he go?"
+	text "Det er mærkeligt,"
+	line "MR.FUJI er ikke"
+	cont "her. Hvor gik"
+	cont "han hen?"
 	done
 
 _LavenderHouse1Text_1d8d6::
-	text "MR.FUJI had been"
-	line "praying alone for"
-	cont "CUBONE's mother."
+	text "MR.FUJI har bedt"
+	line "alene for CUBONEs"
+	cont "mor."
 	done
 
 _LavenderHouse1Text_1d8f4::
-	text "This is really"
-	line "MR.FUJI's house."
+	text "Dette er virkelig"
+	line "MR.FUJIs hus."
 
-	para "He's really kind!"
+	para "Han er virkelig"
+	line "venlig!"
 
-	para "He looks after"
-	line "abandoned and"
-	cont "orphaned #MON!"
+	para "Han passer på"
+	line "forladte og"
+	cont "forældreløse"
+	cont "#MON!"
 	done
 
 _LavenderHouse1Text_1d8f9::
-	text "It's so warm!"
-	line "#MON are so"
-	cont "nice to hug!"
+	text "Det er så varmt!"
+	line "#MON er så rare"
+	cont "at kramme!"
 	done
 
 _LavenderHouse1Text3::
@@ -38,18 +41,19 @@ _LavenderHouse1Text4::
 _LavenderHouse1Text_1d94c::
 	text "MR.FUJI: <PLAYER>."
 
-	para "Your #DEX quest"
-	line "may fail without"
-	cont "love for your"
-	cont "#MON."
+	para "Dit #DEX kan"
+	line "fejle uden"
+	cont "kærlighed til"
+	cont "dine #MON."
 
-	para "I think this may"
-	line "help your quest."
+	para "Jeg tror dette"
+	line "kan hjælpe din"
+	cont "rejse."
 	prompt
 
 _ReceivedFluteText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> modtog"
+	line "en @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -57,33 +61,32 @@ _ReceivedFluteText::
 _FluteExplanationText::
 	text_start
 
-	para "Upon hearing #"
-	line "FLUTE, sleeping"
-	cont "#MON will"
-	cont "spring awake."
+	para "Ved at høre"
+	line "# FLUTE vågner"
+	cont "sovende #MON."
 
-	para "It works on all"
-	line "sleeping #MON."
+	para "Det virker på"
+	line "alle sovende"
+	cont "#MON."
 	done
 
 _FluteNoRoomText::
-	text "You must make"
-	line "room for this!"
+	text "Du skal skabe"
+	line "plads til dette!"
 	done
 
 _MrFujiAfterFluteText::
-	text "MR.FUJI: Has my"
-	line "FLUTE helped you?"
+	text "MR.FUJI: Har min"
+	line "FLUTE hjulpet?"
 	done
 
 _LavenderHouse1Text6::
-	text "#MON Monthly"
-	line "Grand Prize"
-	cont "Drawing!"
+	text "#MON Månedligt"
+	line "Storpræmie-"
+	cont "lodtrækning!"
 
-	para "The application"
-	line "form is..."
+	para "Ansøgningen er..."
 
-	para "Gone! It's been"
-	line "clipped out!"
+	para "Væk! Den er"
+	line "klippet ud!"
 	done
