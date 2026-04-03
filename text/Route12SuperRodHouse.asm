@@ -1,23 +1,23 @@
 _Route12HouseText_564c0::
-	text "I'm the FISHING"
-	line "GURU's brother!"
+	text "Jeg er FISKE-"
+	line "GURUENS bror!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "Jeg eeelsker at"
+	line "fiske!"
 
-	para "Do you like to"
-	line "fish?"
+	para "Kan du lide at"
+	line "fiske?"
 	done
 
 _Route12HouseText_564c5::
-	text "Grand! I like"
-	line "your style!"
+	text "Storartet! Jeg"
+	line "kan lide din stil!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "Tag denne og"
+	line "fisk, unge ven!"
 
-	para "<PLAYER> received"
-	line "a @"
+	para "<PLAYER> modtog"
+	line "en @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -25,38 +25,38 @@ _Route12HouseText_564c5::
 _Route12HouseText_564ca::
 	text_start
 
-	para "Fishing is a way"
-	line "of life!"
+	para "Fiskeri er en"
+	line "livsstil!"
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one!"
+	para "Fra havene til"
+	line "floderne, tag ud"
+	cont "og fang den"
+	cont "store!"
 	done
 
 _Route12HouseText_564cf::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Åh... Det er så"
+	line "skuffende..."
 	done
 
 _Route12HouseText_564d4::
-	text "Hello there,"
+	text "Hej med dig,"
 	line "<PLAYER>!"
 
-	para "Use the SUPER ROD"
-	line "in any water!"
-	cont "You can catch"
-	cont "different kinds"
-	cont "of #MON."
+	para "Brug SUPER STANGEN"
+	line "i alt vand!"
+	cont "Du kan fange"
+	cont "forskellige"
+	cont "slags #MON."
 
-	para "Try fishing"
-	line "wherever you can!"
+	para "Prøv at fiske"
+	line "overalt!"
 	done
 
 _Route12HouseText_564d9::
-	text "Oh no!"
+	text "Åh nej!"
 
-	para "I had a gift for"
-	line "you, but you have"
-	cont "no room for it!"
+	para "Jeg havde en gave"
+	line "til dig, men du"
+	cont "har ikke plads!"
 	done

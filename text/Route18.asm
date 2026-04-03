@@ -1,58 +1,60 @@
 _Route18BattleText1::
-	text "I always check"
-	line "every grassy area"
-	cont "for new #MON."
+	text "Jeg tjekker altid"
+	line "alle græsområder"
+	cont "for nye #MON."
 	done
 
 _Route18EndBattleText1::
-	text "Tch!"
+	text "Tsk!"
 	prompt
 
 _Route18AfterBattleText1::
-	text "I wish I had a"
-	line "BIKE!"
+	text "Jeg ville ønske"
+	line "jeg havde en"
+	cont "CYKEL!"
 	done
 
 _Route18BattleText2::
 	text "Kurukkoo!"
-	line "How do you like"
-	cont "my bird call?"
+	line "Hvad synes du om"
+	cont "mit fuglekald?"
 	done
 
 _Route18EndBattleText2::
-	text "I"
-	line "had to bug you!"
+	text "Jeg"
+	line "måtte plage dig!"
 	prompt
 
 _Route18AfterBattleText2::
-	text "I also collect sea"
-	line "#MON on"
-	cont "weekends!"
+	text "Jeg samler også"
+	line "vand-#MON i"
+	cont "weekenden!"
 	done
 
 _Route18BattleText3::
-	text "This is my turf!"
-	line "Get out of here!"
+	text "Det her er mit"
+	line "territorium!"
+	cont "Forsvind herfra!"
 	done
 
 _Route18EndBattleText3::
-	text "Darn!"
+	text "Pokkers!"
 	prompt
 
 _Route18AfterBattleText3::
-	text "This is my fave"
-	line "#MON hunting"
-	cont "area!"
+	text "Det her er mit"
+	line "yndlings #MON"
+	cont "jagtområde!"
 	done
 
 _Route18Text4::
-	text "ROUTE 18"
+	text "RUTE 18"
 	line "CELADON CITY -"
 	cont "FUCHSIA CITY"
 	done
 
 _Route18Text5::
 	text "CYKELVEJEN"
-	line "No pedestrians"
-	cont "permitted!"
+	line "Ingen fodgængere"
+	cont "tilladt!"
 	done

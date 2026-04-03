@@ -1,22 +1,22 @@
 _Route16GateText_49777::
-	text "No pedestrians"
-	line "are allowed on"
-	cont "CYKELVEJEN!"
+	text "Ingen fodgængere"
+	line "på CYKELVEJEN!"
 	done
 
 _Route16GateText_4977c::
-	text "CYKELVEJEN is a"
-	line "downhill course"
-	cont "by the sea. It's"
-	cont "a great ride."
+	text "CYKELVEJEN er en"
+	line "nedadgående"
+	cont "cykelrute langs"
+	cont "havet. Det er en"
+	cont "skøn tur."
 	done
 
 _Route16GateText_49781::
-	text "Excuse me! Wait"
-	line "up please!"
+	text "Undskyld! Vent"
+	line "venligst!"
 	done
 
 _Route16GateText2::
-	text "How'd you get in?"
-	line "Good effort!"
+	text "Hvordan kom du"
+	line "ind? Flot klaret!"
 	done

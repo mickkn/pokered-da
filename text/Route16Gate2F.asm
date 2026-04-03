@@ -1,26 +1,25 @@
 _Route16GateUpstairsText_49820::
-	text "I'm going for a"
-	line "ride with my girl"
-	cont "friend!"
+	text "Jeg tager en tur"
+	line "med min kæreste!"
 	done
 
 _Route16GateUpstairsText_4982f::
-	text "We're going"
-	line "riding together!"
+	text "Vi skal cykle"
+	line "sammen!"
 	done
 
 _Route16GateUpstairsText_4983b::
-	text "Looked into the"
-	line "binoculars."
+	text "Kiggede i"
+	line "kikkerten."
 
-	para "It's CELADON VARE-"
-	line "HUS!"
+	para "Det er CELADON"
+	line "VAREHUS!"
 	done
 
 _Route16GateUpstairsText_49847::
-	text "Looked into the"
-	line "binoculars."
+	text "Kiggede i"
+	line "kikkerten."
 
-	para "There's a long"
-	line "path over water!"
+	para "Der er en lang"
+	line "sti over vandet!"
 	done

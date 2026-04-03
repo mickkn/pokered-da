@@ -1,172 +1,175 @@
 _Route15BattleText1::
-	text "Let me try out the"
-	line "#MON I just"
-	cont "got in a trade!"
+	text "Lad mig prøve den"
+	line "#MON jeg lige"
+	cont "fik i et bytte!"
 	done
 
 _Route15EndBattleText1::
-	text "Not"
-	line "good enough!"
+	text "Ikke"
+	line "godt nok!"
 	prompt
 
 _Route15AfterBattleText1::
-	text "You can't change"
-	line "the nickname of"
-	cont "any #MON you"
-	cont "get in a trade."
+	text "Du kan ikke ændre"
+	line "øgenavnet på"
+	cont "#MON du får"
+	cont "via bytte."
 
-	para "Only the Original"
-	line "Trainer can."
+	para "Kun den originale"
+	line "træner kan."
 	done
 
 _Route15BattleText2::
-	text "You look gentle,"
-	line "so I think I can"
-	cont "beat you!"
+	text "Du ser blid ud,"
+	line "så jeg tror jeg"
+	cont "kan vinde!"
 	done
 
 _Route15EndBattleText2::
-	text "No,"
-	line "wrong!"
+	text "Nej,"
+	line "forkert!"
 	prompt
 
 _Route15AfterBattleText2::
-	text "I'm afraid of"
-	line "BIKERs, they look"
-	cont "so ugly and mean!"
+	text "Jeg er bange for"
+	line "BIKERs, de ser"
+	cont "grimme og ondsin-"
+	cont "dede ud!"
 	done
 
 _Route15BattleText3::
-	text "When I whistle, I"
-	line "can summon bird"
-	cont "#MON!"
+	text "Når jeg fløjter,"
+	line "kan jeg tilkalde"
+	cont "fugle-#MON!"
 	done
 
 _Route15EndBattleText3::
-	text "Ow!"
-	line "That's tragic!"
+	text "Av!"
+	line "Hvor tragisk!"
 	prompt
 
 _Route15AfterBattleText3::
-	text "Maybe I'm not cut"
-	line "out for battles."
+	text "Måske er kampe"
+	line "ikke for mig."
 	done
 
 _Route15BattleText4::
-	text "Hmm? My birds are"
-	line "shivering! You're"
-	cont "good, aren't you?"
+	text "Hmm? Mine fugle"
+	line "ryster! Du er god,"
+	cont "ikke?"
 	done
 
 _Route15EndBattleText4::
-	text "Just"
-	line "as I thought!"
+	text "Præcis"
+	line "som jeg troede!"
 	prompt
 
 _Route15AfterBattleText4::
-	text "Did you know moves"
-	line "like EARTHQUAKE"
-	cont "don't have any"
-	cont "effect on birds?"
+	text "Vidste du angreb"
+	line "som EARTHQUAKE"
+	cont "ikke virker på"
+	cont "fugle?"
 	done
 
 _Route15BattleText5::
-	text "Oh, you're a"
-	line "little cutie!"
+	text "Åh, du er en"
+	line "lille sød en!"
 	done
 
 _Route15EndBattleText5::
-	text "You looked"
-	line "so cute too!"
+	text "Du så også"
+	line "så sød ud!"
 	prompt
 
 _Route15AfterBattleText5::
-	text "I forgive you!"
-	line "I can take it!"
+	text "Jeg tilgiver dig!"
+	line "Jeg kan klare det!"
 	done
 
 _Route15BattleText6::
-	text "I raise #MON"
-	line "because I live"
-	cont "alone!"
+	text "Jeg har #MON"
+	line "fordi jeg bor"
+	cont "alene!"
 	done
 
 _Route15EndBattleText6::
-	text "I didn't"
-	line "ask for this!"
+	text "Det bad"
+	line "jeg ikke om!"
 	prompt
 
 _Route15AfterBattleText6::
-	text "I just like going"
-	line "home to be with"
-	cont "my #MON!"
+	text "Jeg kan bare lide"
+	line "at komme hjem til"
+	cont "mine #MON!"
 	done
 
 _Route15BattleText7::
-	text "Hey kid! C'mon!"
-	line "I just got these!"
+	text "Hej knægt! Kom!"
+	line "Jeg har lige"
+	cont "fået dem!"
 	done
 
 _Route15EndBattleText7::
-	text "Why"
-	line "not?"
+	text "Hvorfor"
+	line "ikke?"
 	prompt
 
 _Route15AfterBattleText7::
-	text "You only live"
-	line "once, so I live"
-	cont "as an outlaw!"
-	cont "TEAM ROCKET RULES!"
+	text "Man lever kun én"
+	line "gang, så jeg"
+	cont "lever udenfor"
+	cont "loven! TEAM"
+	cont "ROCKET STYRER!"
 	done
 
 _Route15BattleText8::
-	text "Fork over all your"
-	line "cash when you"
-	cont "lose to me, kid!"
+	text "Aflever alle dine"
+	line "penge når du"
+	cont "taber, knægt!"
 	done
 
 _Route15EndBattleText8::
-	text "That"
-	line "can't be true!"
+	text "Det"
+	line "passer ikke!"
 	prompt
 
 _Route15AfterBattleText8::
-	text "I was just joking"
-	line "about the money!"
+	text "Jeg lavede sjov"
+	line "med pengene!"
 	done
 
 _Route15BattleText9::
-	text "What's cool?"
-	line "Trading #MON!"
+	text "Hvad er fedt?"
+	line "At bytte #MON!"
 	done
 
 _Route15EndBattleText9::
-	text "I"
-	line "said trade!"
+	text "Jeg"
+	line "sagde bytte!"
 	prompt
 
 _Route15AfterBattleText9::
-	text "I trade #MON"
-	line "with my friends!"
+	text "Jeg bytter #MON"
+	line "med mine venner!"
 	done
 
 _Route15BattleText10::
-	text "Want to play with"
-	line "my #MON?"
+	text "Vil du lege med"
+	line "mine #MON?"
 	done
 
 _Route15EndBattleText10::
-	text "I was"
-	line "too impatient!"
+	text "Jeg var"
+	line "for utålmodig!"
 	prompt
 
 _Route15AfterBattleText10::
-	text "I'll go train with"
-	line "weaker people.@"
+	text "Jeg træner med"
+	line "svagere folk.@"
 	text_end
 
 _Route15Text12::
-	text "ROUTE 15"
-	line "West to FUCHSIA"
+	text "RUTE 15"
+	line "Vest til FUCHSIA"
 	cont "CITY"
 	done

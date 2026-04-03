@@ -1,51 +1,52 @@
 _Route19BattleText1::
-	text "Have to warm up"
-	line "before my swim!"
+	text "Skal varme op før"
+	line "min svømmetur!"
 	done
 
 _Route19EndBattleText1::
-	text "All"
-	line "warmed up!"
+	text "Helt"
+	line "varm nu!"
 	prompt
 
 _Route19AfterBattleText1::
-	text "Thanks, kid! I'm"
-	line "ready for a swim!"
+	text "Tak, knægt! Jeg"
+	line "er klar til at"
+	cont "svømme!"
 	done
 
 _Route19BattleText2::
-	text "Wait! You'll have"
-	line "a heart attack!"
+	text "Vent! Du får et"
+	line "hjerteanfald!"
 	done
 
 _Route19EndBattleText2::
-	text "Ooh!"
-	line "That's chilly!"
+	text "Uha!"
+	line "Det er koldt!"
 	prompt
 
 _Route19AfterBattleText2::
-	text "Watch out for"
+	text "Pas på"
 	line "TENTACOOL!"
 	done
 
 _Route19BattleText3::
-	text "I love swimming!"
-	line "What about you?"
+	text "Jeg elsker at"
+	line "svømme! Dig?"
 	done
 
 _Route19EndBattleText3::
-	text "Belly"
-	line "flop!"
+	text "Mave-"
+	line "plask!"
 	prompt
 
 _Route19AfterBattleText3::
-	text "I can beat #MON"
-	line "at swimming!"
+	text "Jeg kan slå #MON"
+	line "i svømning!"
 	done
 
 _Route19BattleText4::
-	text "What's beyond the"
-	line "horizon?"
+	text "Hvad er hinsides"
+	line "horisonten?"
 	done
 
 _Route19EndBattleText4::
@@ -53,101 +54,104 @@ _Route19EndBattleText4::
 	prompt
 
 _Route19AfterBattleText4::
-	text "I see a couple of"
-	line "islands!"
+	text "Jeg kan se et par"
+	line "øer!"
 	done
 
 _Route19BattleText5::
-	text "I tried diving"
-	line "for #MON, but"
-	cont "it was a no go!"
+	text "Jeg prøvede at"
+	line "dykke efter"
+	cont "#MON, men det"
+	cont "gik ikke!"
 	done
 
 _Route19EndBattleText5::
-	text "Help!"
+	text "Hjælp!"
 	prompt
 
 _Route19AfterBattleText5::
-	text "You have to fish"
-	line "for sea #MON!"
+	text "Du må fiske efter"
+	line "vand-#MON!"
 	done
 
 _Route19BattleText6::
-	text "I look at the"
-	line "sea to forget!"
+	text "Jeg ser på havet"
+	line "for at glemme!"
 	done
 
 _Route19EndBattleText6::
-	text "Ooh!"
-	line "Traumatic!"
+	text "Uha!"
+	line "Traumatisk!"
 	prompt
 
 _Route19AfterBattleText6::
-	text "I'm looking at the"
-	line "sea to forget!"
+	text "Jeg ser på havet"
+	line "for at glemme!"
 	done
 
 _Route19BattleText7::
-	text "Oh, I just love"
-	line "your ride! Can I"
-	cont "have it if I win?"
+	text "Åh, jeg elsker"
+	line "din cykel! Kan jeg"
+	cont "få den hvis jeg"
+	cont "vinder?"
 	done
 
 _Route19EndBattleText7::
-	text "Oh!"
-	line "I lost!"
+	text "Åh!"
+	line "Jeg tabte!"
 	prompt
 
 _Route19AfterBattleText7::
-	text "It's still a long"
-	line "way to go to"
+	text "Der er stadig"
+	line "langt til"
 	cont "SEAFOAM ISLANDS."
 	done
 
 _Route19BattleText8::
-	text "Swimming's great!"
-	line "Sunburns aren't!"
+	text "Svømning er fedt!"
+	line "Solskoldning"
+	cont "er ik!"
 	done
 
 _Route19EndBattleText8::
-	text "Shocker!"
+	text "Chokerende!"
 	prompt
 
 _Route19AfterBattleText8::
-	text "My boy friend"
-	line "wanted to swim to"
+	text "Min kæreste ville"
+	line "svømme til"
 	cont "SEAFOAM ISLANDS."
 	done
 
 _Route19BattleText9::
-	text "These waters are"
-	line "treacherous!"
+	text "Disse farvande er"
+	line "farlige!"
 	done
 
 _Route19EndBattleText9::
-	text "Ooh!"
-	line "Dangerous!"
+	text "Uha!"
+	line "Farligt!"
 	prompt
 
 _Route19AfterBattleText9::
-	text "I got a cramp!"
+	text "Jeg fik krampe!"
 	line "Glub, glub..."
 	done
 
 _Route19BattleText10::
-	text "I swam here, but"
-	line "I'm tired."
+	text "Jeg svømmede her,"
+	line "men jeg er træt."
 	done
 
 _Route19EndBattleText10::
-	text "I'm"
-	line "exhausted..."
+	text "Jeg"
+	line "er udmattet..."
 	prompt
 
 _Route19AfterBattleText10::
-	text "LAPRAS is so big,"
-	line "it must keep you"
-	cont "dry on water."
+	text "LAPRAS er så stor,"
+	line "den holder dig"
+	cont "tør på vandet."
 	done
 
 _Route19Text11::

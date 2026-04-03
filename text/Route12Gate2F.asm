@@ -1,43 +1,45 @@
 _TM39PreReceiveText::
-	text "My #MON's"
-	line "ashes are stored"
-	cont "in #MON TOWER."
+	text "Min #MONs aske"
+	line "opbevares i"
+	cont "#MON TOWER."
 
-	para "You can have this"
-	line "TM. I don't need"
-	cont "it any more..."
+	para "Du kan få denne"
+	line "TM. Jeg har ikke"
+	cont "brug for den..."
 	prompt
 
 _ReceivedTM39Text::
-	text "<PLAYER> received"
+	text "<PLAYER> modtog"
 	line "TM39!@"
 	text_end
 
 _TM39ExplanationText::
-	text "TM39 is a move"
-	line "called SWIFT."
+	text "TM39 er et angreb"
+	line "kaldet SWIFT."
 
-	para "It's very accurate,"
-	line "so use it during"
-	cont "battles you can't"
-	cont "afford to lose."
+	para "Det er meget"
+	line "præcist, så brug"
+	cont "det i kampe du"
+	cont "ikke har råd til"
+	cont "at tabe."
 	done
 
 _TM39NoRoomText::
-	text "You don't have"
-	line "room for this."
+	text "Du har ikke plads"
+	line "til dette."
 	done
 
 _Route12GateUpstairsText_495b8::
-	text "Looked into the"
-	line "binoculars."
+	text "Kiggede i"
+	line "kikkerten."
 
-	para "A man fishing!"
+	para "En mand fisker!"
 	done
 
 _Route12GateUpstairsText_495c4::
-	text "Looked into the"
-	line "binoculars."
+	text "Kiggede i"
+	line "kikkerten."
 
-	para "It's #MON TOWER!"
+	para "Det er #MON"
+	line "TOWER!"
 	done

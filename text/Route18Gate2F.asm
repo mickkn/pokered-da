@@ -1,15 +1,15 @@
 _Route18GateUpstairsText_49993::
-	text "Looked into the"
-	line "binoculars."
+	text "Kiggede i"
+	line "kikkerten."
 
-	para "PALLET TOWN is in"
-	line "the west!"
+	para "PALLET TOWN er"
+	line "mod vest!"
 	done
 
 _Route18GateUpstairsText_4999f::
-	text "Looked into the"
-	line "binoculars."
+	text "Kiggede i"
+	line "kikkerten."
 
-	para "There are people"
-	line "swimming!"
+	para "Der er folk der"
+	line "svømmer!"
 	done

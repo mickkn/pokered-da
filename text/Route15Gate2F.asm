@@ -1,24 +1,24 @@
 _Route15GateUpstairsText_4968c::
-	text "EXP.ALL gives"
-	line "EXP points to all"
-	cont "the #MON with"
-	cont "you, even if they"
-	cont "don't fight."
+	text "EXP.ALL giver EXP"
+	line "point til alle"
+	cont "#MON du har"
+	cont "med, selv hvis"
+	cont "de ikke kæmper."
 
-	para "It does, however,"
-	line "reduce the amount"
-	cont "of EXP for each"
-	cont "#MON."
+	para "Det reducerer dog"
+	line "mængden af EXP"
+	cont "for hver #MON."
 
-	para "If you don't need"
-	line "it, you should "
-	cont "store it via PC."
+	para "Hvis du ikke"
+	line "behøver den, bør"
+	cont "du opbevare den"
+	cont "via PC."
 	done
 
 _Route15GateUpstairsText_49698::
-	text "Looked into the"
-	line "binoculars."
+	text "Kiggede i"
+	line "kikkerten."
 
-	para "It looks like a"
-	line "small island!"
+	para "Det ligner en"
+	line "lille ø!"
 	done

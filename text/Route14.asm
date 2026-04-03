@@ -1,173 +1,173 @@
 _Route14BattleText1::
-	text "You need to use"
-	line "TMs to teach good"
-	cont "moves to #MON!"
+	text "Du skal bruge TMs"
+	line "til at lære gode"
+	cont "angreb til #MON!"
 	done
 
 _Route14EndBattleText1::
-	text "Not"
-	line "good enough!"
+	text "Ikke"
+	line "godt nok!"
 	prompt
 
 _Route14AfterBattleText1::
-	text "You have some HMs"
-	line "right? #MON"
-	cont "can't ever forget"
-	cont "those moves."
+	text "Du har HMs, ikke?"
+	line "#MON kan aldrig"
+	cont "glemme de"
+	cont "evner."
 	done
 
 _Route14BattleText2::
-	text "My bird #MON"
-	line "should be ready"
-	cont "for battle."
+	text "Mine fugle-#MON"
+	line "burde være klar"
+	cont "til kamp."
 	done
 
 _Route14EndBattleText2::
-	text "Not"
-	line "ready yet!"
+	text "Ikke"
+	line "klar endnu!"
 	prompt
 
 _Route14AfterBattleText2::
-	text "They need to learn"
-	line "better moves."
+	text "De skal lære"
+	line "bedre angreb."
 	done
 
 _Route14BattleText3::
-	text "TMs are on sale"
-	line "in CELADON!"
-	cont "But, only a few"
-	cont "people have HMs!"
+	text "TMs er til salg"
+	line "i CELADON!"
+	cont "Men kun få har"
+	cont "HMs!"
 	done
 
 _Route14EndBattleText3::
-	text "Aww,"
-	line "bummer!"
+	text "Åhh,"
+	line "ærgerligt!"
 	prompt
 
 _Route14AfterBattleText3::
-	text "Teach #MON"
-	line "moves of the same"
-	cont "element type for"
-	cont "more power."
+	text "Lær #MON angreb"
+	line "af samme element"
+	cont "for mere kraft."
 	done
 
 _Route14BattleText4::
-	text "Have you taught"
-	line "your bird #MON"
-	cont "how to FLY?"
+	text "Har du lært dine"
+	line "fugle-#MON at"
+	cont "FLYVE?"
 	done
 
 _Route14EndBattleText4::
-	text "Shot"
-	line "down in flames!"
+	text "Skudt"
+	line "ned i flammer!"
 	prompt
 
 _Route14AfterBattleText4::
-	text "Bird #MON are"
-	line "my true love!"
+	text "Fugle-#MON er"
+	line "min store"
+	cont "kærlighed!"
 	done
 
 _Route14BattleText5::
-	text "Have you heard of"
-	line "the legendary"
+	text "Har du hørt om de"
+	line "legendariske"
 	cont "#MON?"
 	done
 
 _Route14EndBattleText5::
-	text "Why?"
-	line "Why'd I lose?"
+	text "Hvorfor?"
+	line "Hvorfor tabte jeg?"
 	prompt
 
 _Route14AfterBattleText5::
-	text "The 3 legendary"
-	line "#MON are all"
-	cont "birds of prey."
+	text "De 3 legendariske"
+	line "#MON er alle"
+	cont "rovfugle."
 	done
 
 _Route14BattleText6::
-	text "I'm not into it,"
-	line "but OK! Let's go!"
+	text "Jeg er ikke til"
+	line "det, men OK!"
 	done
 
 _Route14EndBattleText6::
-	text "I"
-	line "knew it!"
+	text "Jeg"
+	line "vidste det!"
 	prompt
 
 _Route14AfterBattleText6::
-	text "Winning, losing,"
-	line "it doesn't matter"
-	cont "in the long run!"
+	text "Vinde, tabe, det"
+	line "betyder intet i"
+	cont "det lange løb!"
 	done
 
 _Route14BattleText7::
-	text "C'mon, c'mon."
-	line "Let's go, let's"
-	cont "go, let's go!"
+	text "Kom nu, kom nu."
+	line "Lad os gå, lad"
+	cont "os gå, lad os gå!"
 	done
 
 _Route14EndBattleText7::
 	text "Arrg!"
-	line "Lost! Get lost!"
+	line "Tabt! Forsvind!"
 	prompt
 
 _Route14AfterBattleText7::
-	text "What, what, what?"
-	line "What do you want?"
+	text "Hvad, hvad, hvad?"
+	line "Hvad vil du?"
 	done
 
 _Route14BattleText8::
-	text "Perfect! I need to"
-	line "burn some time!"
+	text "Perfekt! Jeg skal"
+	line "slå tiden ihjel!"
 	done
 
 _Route14EndBattleText8::
-	text "What?"
-	line "You!?"
+	text "Hvad?"
+	line "Dig!?"
 	prompt
 
 _Route14AfterBattleText8::
-	text "Raising #MON"
-	line "is a drag, man."
+	text "At træne #MON"
+	line "er et slid, mand."
 	done
 
 _Route14BattleText9::
-	text "We ride out here"
-	line "because there's"
-	cont "more room!"
+	text "Vi kører herude"
+	line "fordi der er mere"
+	cont "plads!"
 	done
 
 _Route14EndBattleText9::
-	text "Wipe out!"
+	text "Udslettet!"
 	prompt
 
 _Route14AfterBattleText9::
-	text "It's cool you"
-	line "made your #MON"
-	cont "so strong!"
+	text "Fedt at du har"
+	line "gjort dine #MON"
+	cont "så stærke!"
 
-	para "Might is right!"
-	line "And you know it!"
+	para "Magt er ret!"
+	line "Og du ved det!"
 	done
 
 _Route14BattleText10::
-	text "#MON fight?"
-	line "Cool! Rumble!"
+	text "#MON kamp?"
+	line "Fedt! Slagsmål!"
 	done
 
 _Route14EndBattleText10::
-	text "Blown"
-	line "away!"
+	text "Blæst"
+	line "væk!"
 	prompt
 
 _Route14AfterBattleText10::
-	text "You know who'd"
-	line "win, you and me"
-	cont "one on one!"
+	text "Du ved hvem der"
+	line "ville vinde, dig"
+	cont "og mig alene!"
 	done
 
 _Route14Text11::
-	text "ROUTE 14"
-	line "West to FUCHSIA"
+	text "RUTE 14"
+	line "Vest til FUCHSIA"
 	cont "CITY"
 	done

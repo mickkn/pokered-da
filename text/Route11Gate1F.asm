@@ -1,14 +1,15 @@
 _Route11GateText1::
-	text "When you catch"
-	line "lots of #MON,"
-	cont "isn't it hard to"
-	cont "think up names?"
+	text "Når du fanger"
+	line "mange #MON, er"
+	cont "det svært at"
+	cont "finde på navne?"
 
-	para "In LAVENDER TOWN,"
-	line "there's a man who"
-	cont "rates #MON"
-	cont "nicknames."
+	para "I LAVENDER TOWN"
+	line "er der en mand"
+	cont "der bedømmer"
+	cont "#MON øgenavne."
 
-	para "He'll help you"
-	line "rename them too!"
+	para "Han hjælper dig"
+	line "også med at"
+	cont "omdøbe dem!"
 	done

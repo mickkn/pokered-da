@@ -1,139 +1,140 @@
 _Route12Text1::
-	text "A sleeping #MON"
-	line "blocks the way!"
+	text "En sovende #MON"
+	line "blokerer vejen!"
 	done
 
 _Route12Text13::
-	text "SNORLAX woke up!"
+	text "SNORLAX vågnede!"
 
-	para "It attacked in a"
-	line "grumpy rage!"
+	para "Den angreb i et"
+	line "gnavent humør!"
 	done
 
 _Route12Text14::
-	text "SNORLAX calmed"
-	line "down! With a big"
-	cont "yawn, it returned"
-	cont "to the mountains!"
+	text "SNORLAX faldt til"
+	line "ro! Med et stort"
+	cont "gab vendte den"
+	cont "tilbage til"
+	cont "bjergene!"
 	done
 
 _Route12BattleText1::
-	text "Yeah! I got a"
-	line "bite, here!"
+	text "Yeah! Jeg fik bid"
+	line "her!"
 	done
 
 _Route12EndBattleText1::
-	text "Tch!"
-	line "Just a small fry!"
+	text "Tsk!"
+	line "Bare en lille fisk!"
 	prompt
 
 _Route12AfterBattleText1::
-	text "Hang on! My line's"
-	line "snagged!"
+	text "Vent! Min line er"
+	line "gået i kludder!"
 	done
 
 _Route12BattleText2::
-	text "Be patient!"
-	line "Fishing is a"
-	cont "waiting game!"
+	text "Vær tålmodig!"
+	line "Fiskeri er et"
+	cont "ventespil!"
 	done
 
 _Route12EndBattleText2::
-	text "That"
-	line "one got away!"
+	text "Den"
+	line "slap væk!"
 	prompt
 
 _Route12AfterBattleText2::
-	text "With a better ROD,"
-	line "I could catch"
-	cont "better #MON!"
+	text "Med en bedre STANG"
+	line "kunne jeg fange"
+	cont "bedre #MON!"
 	done
 
 _Route12BattleText3::
-	text "Have you found a"
+	text "Har du fundet en"
 	line "MOON STONE?"
 	done
 
 _Route12EndBattleText3::
-	text "Oww!"
+	text "Av!"
 	prompt
 
 _Route12AfterBattleText3::
-	text "I could have made"
-	line "my #MON evolve"
-	cont "with MOON STONE!"
+	text "Jeg kunne have"
+	line "fået min #MON"
+	cont "til at udvikle"
+	cont "med MOON STONE!"
 	done
 
 _Route12BattleText4::
-	text "Electricity is my"
-	line "specialty!"
+	text "Elektricitet er"
+	line "min specialitet!"
 	done
 
 _Route12EndBattleText4::
-	text "Unplugged!"
+	text "Afkoblet!"
 	prompt
 
 _Route12AfterBattleText4::
-	text "Water conducts"
-	line "electricity, so"
-	cont "you should zap"
-	cont "sea #MON!"
+	text "Vand leder strøm,"
+	line "så du bør zappe"
+	cont "vand-#MON!"
 	done
 
 _Route12BattleText5::
-	text "The FISHING FOOL"
-	line "vs. #MON KID!"
+	text "FISKEFJOLS mod"
+	line "#MON KNÆGT!"
 	done
 
 _Route12EndBattleText5::
-	text "Too"
-	line "much!"
+	text "For"
+	line "meget!"
 	prompt
 
 _Route12AfterBattleText5::
-	text "You beat me at"
-	line "#MON, but I'm"
-	cont "good at fishing!"
+	text "Du slog mig i"
+	line "#MON, men jeg er"
+	cont "god til at fiske!"
 	done
 
 _Route12BattleText6::
-	text "I'd rather be"
-	line "working!"
+	text "Jeg ville hellere"
+	line "arbejde!"
 	done
 
 _Route12EndBattleText6::
-	text "It's"
-	line "not easy..."
+	text "Det"
+	line "er ikke let..."
 	prompt
 
 _Route12AfterBattleText6::
-	text "It's all right."
-	line "Losing doesn't"
-	cont "bug me any more."
+	text "Det er i orden."
+	line "At tabe generer"
+	cont "mig ikke længere."
 	done
 
 _Route12BattleText7::
-	text "You never know"
-	line "what you could"
-	cont "catch!"
+	text "Man ved aldrig"
+	line "hvad man kan"
+	cont "fange!"
 	done
 
 _Route12EndBattleText7::
-	text "Lost"
-	line "it!"
+	text "Mistede"
+	line "den!"
 	prompt
 
 _Route12AfterBattleText7::
-	text "I catch MAGIKARP"
-	line "all the time, but"
-	cont "they're so weak!"
+	text "Jeg fanger altid"
+	line "MAGIKARP, men de"
+	cont "er så svage!"
 	done
 
 _Route12Text11::
-	text "ROUTE 12 "
-	line "North to LAVENDER"
+	text "RUTE 12"
+	line "Nord til LAVENDER"
 	done
 
 _Route12Text12::
-	text "SPORT FISHING AREA"
+	text "SPORTSFISKEROMRÅDE"
 	done
