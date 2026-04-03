@@ -1,44 +1,44 @@
 _FuchsiaHouse3Text_561bd::
-	text "I'm the FISHING"
-	line "GURU's older"
-	cont "brother!"
+	text "Jeg er FISKE-"
+	line "GURUENS ældre"
+	cont "bror!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "Jeg eeelsker at"
+	line "fiske!"
 
-	para "Do you like to"
-	line "fish?"
+	para "Kan du lide at"
+	line "fiske?"
 	done
 
 _FuchsiaHouse3Text_561c2::
-	text "Grand! I like"
-	line "your style!"
+	text "Storartet! Jeg"
+	line "kan lide din stil!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "Tag denne og"
+	line "fisk, unge ven!"
 
-	para "<PLAYER> received"
-	line "a @"
+	para "<PLAYER> modtog"
+	line "en @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _FuchsiaHouse3Text_56212::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Åh... Det er så"
+	line "skuffende..."
 	done
 
 _FuchsiaHouse3Text_56217::
-	text "Hello there,"
+	text "Hej med dig,"
 	line "<PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "Hvordan bider"
+	line "fiskene?"
 	done
 
 _FuchsiaHouse3Text_5621c::
-	text "Oh no!"
+	text "Åh nej!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "Du har ikke plads"
+	line "til min gave!"
 	done

@@ -1,26 +1,26 @@
 _KogaBeforeBattleText::
 	text "KOGA: Fwahahaha!"
 
-	para "A mere child like"
-	line "you dares to"
-	cont "challenge me?"
+	para "Et simpelt barn"
+	line "som dig vover at"
+	cont "udfordre mig?"
 
-	para "Very well, I"
-	line "shall show you"
-	cont "true terror as a"
-	cont "ninja master!"
+	para "Udmærket, jeg"
+	line "skal vise dig"
+	cont "sand rædsel som"
+	cont "ninjamester!"
 
-	para "You shall feel"
-	line "the despair of"
-	cont "poison and sleep"
-	cont "techniques!"
+	para "Du skal mærke"
+	line "fortvivlelsen"
+	cont "fra gift- og"
+	cont "søvnteknikker!"
 	done
 
 _ReceivedSoulBadgeText::
-	text "Humph!"
-	line "You have proven"
-	cont "your worth!"
+	text "Hmph!"
+	line "Du har bevist"
+	cont "dit værd!"
 
-	para "Here! Take the"
-	line "SOULEMBLEM!"
+	para "Her! Tag"
+	line "SOULEMBLEM'et!"
 	prompt

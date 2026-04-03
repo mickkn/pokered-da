@@ -1,14 +1,14 @@
 _FuchsiaMartText2::
-	text "Do you have a"
-	line "SAFARIZONEN flag?"
+	text "Har du et"
+	line "SAFARIZONEN-flag?"
 
-	para "What about cards"
-	line "or calendars?"
+	para "Hvad med kort"
+	line "eller kalendere?"
 	done
 
 _FuchsiaMartText3::
-	text "Did you try X"
-	line "SPEED? It speeds"
-	cont "up a #MON in"
-	cont "battle!"
+	text "Har du prøvet X"
+	line "SPEED? Det gør en"
+	cont "#MON hurtigere"
+	cont "i kamp!"
 	done

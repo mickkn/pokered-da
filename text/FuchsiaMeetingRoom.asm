@@ -1,26 +1,29 @@
 _FuchsiaMeetingRoomText1::
-	text "We nicknamed the"
-	line "FORVALTER SLOWPOKE."
+	text "Vi gav FORVALTEREN"
+	line "øgenavnet"
+	cont "SLOWPOKE."
 
-	para "He and SLOWPOKE"
-	line "both look vacant!"
+	para "Han og SLOWPOKE"
+	line "ser begge"
+	cont "fraværende ud!"
 	done
 
 _FuchsiaMeetingRoomText2::
-	text "SLOWPOKE is very"
-	line "knowledgeable"
-	cont "about #MON!"
+	text "SLOWPOKE ved"
+	line "utrolig meget om"
+	cont "#MON!"
 
-	para "He even has some"
-	line "fossils of rare,"
-	cont "extinct #MON!"
+	para "Han har endda"
+	line "fossiler af"
+	cont "sjældne, uddøde"
+	cont "#MON!"
 	done
 
 _FuchsiaMeetingRoomText3::
-	text "SLOWPOKE came in,"
-	line "but I couldn't"
-	cont "understand him."
+	text "SLOWPOKE kom ind,"
+	line "men jeg kunne"
+	cont "ikke forstå ham."
 
-	para "I think he's got"
-	line "a speech problem!"
+	para "Jeg tror han har"
+	line "et taleproblem!"
 	done

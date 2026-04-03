@@ -1,49 +1,49 @@
 _BlainePreBattleText::
 	text "Hah!"
 
-	para "I am BLAINE! I"
-	line "am the LEADER of"
+	para "Jeg er BLAINE!"
+	line "Jeg er LEDEREN af"
 	cont "CINNABAR GYM!"
 
-	para "My fiery #MON"
-	line "will incinerate"
-	cont "all challengers!"
+	para "Mine ild-#MON"
+	line "vil brænde alle"
+	cont "udfordrere op!"
 
-	para "Hah! You better"
-	line "have BURN HEAL!"
+	para "Hah! Du bør have"
+	line "BURN HEAL med!"
 	done
 
 _ReceivedVolcanoBadgeText::
-	text "I have"
-	line "burnt out!"
+	text "Jeg er"
+	line "brændt ud!"
 
-	para "You have earned"
-	line "the VOLCANOEMBLEM!@"
+	para "Du har fortjent"
+	line "VOLCANOEMBLEM'et!@"
 	text_end
 
 _BlainePostBattleAdviceText::
-	text "FIRE BLAST is the"
-	line "ultimate fire"
-	cont "technique!"
+	text "FIRE BLAST er den"
+	line "ultimative"
+	cont "ild-teknik!"
 
-	para "Don't waste it on"
-	line "water #MON!"
+	para "Spild det ikke"
+	line "på vand-#MON!"
 	done
 
 _BlaineVolcanoBadgeInfoText::
 	text "Hah!"
 
-	para "The VOLCANOEMBLEM"
-	line "heightens the"
-	cont "SPECIAL abilities"
-	cont "of your #MON!"
+	para "VOLCANOEMBLEM'et"
+	line "øger SPECIAL-"
+	cont "evnerne hos dine"
+	cont "#MON!"
 
-	para "Here, you can"
-	line "have this too!"
+	para "Her, du kan også"
+	line "få denne!"
 	done
 
 _ReceivedTM38Text::
-	text "<PLAYER> received"
+	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -52,161 +52,168 @@ _ReceivedTM38Text::
 _TM38ExplanationText::
 	text_start
 
-	para "TM38 contains"
+	para "TM38 indeholder"
 	line "FIRE BLAST!"
 
-	para "Teach it to fire-"
-	line "type #MON!"
+	para "Lær det til"
+	line "ild-type #MON!"
 
-	para "CHARMELEON or"
-	line "PONYTA would be"
-	cont "good bets!"
+	para "CHARMELEON eller"
+	line "PONYTA er gode"
+	cont "valg!"
 	done
 
 _TM38NoRoomText::
-	text "Make room for my"
-	line "gift!"
+	text "Skab plads til"
+	line "min gave!"
 	done
 
 _CinnabarGymBattleText2::
-	text "Do you know how"
-	line "hot #MON fire"
-	cont "breath can get?"
+	text "Ved du hvor varmt"
+	line "ild-åndedræt fra"
+	cont "#MON kan være?"
 	done
 
 _CinnabarGymEndBattleText2::
-	text "Yow!"
-	line "Hot, hot, hot!"
+	text "Av!"
+	line "Varmt, varmt!"
 	prompt
 
 _CinnabarGymAfterBattleText2::
-	text "Fire, or to be"
-	line "more precise,"
-	cont "combustion..."
+	text "Ild, eller mere"
+	line "præcist,"
+	cont "forbrænding..."
 
-	para "Blah, blah, blah,"
-	line "blah..."
+	para "Bla, bla, bla,"
+	line "bla..."
 	done
 
 _CinnabarGymBattleText1::
-	text "I was a thief, but"
-	line "I became straight"
-	cont "as a trainer!"
+	text "Jeg var en tyv,"
+	line "men jeg blev"
+	cont "ærlig som træner!"
 	done
 
 _CinnabarGymEndBattleText1::
-	text "I"
-	line "surrender!"
+	text "Jeg"
+	line "overgiver mig!"
 	prompt
 
 _CinnabarGymAfterBattleText1::
-	text "I can't help"
-	line "stealing other"
-	cont "people's #MON!"
+	text "Jeg kan ikke lade"
+	line "være med at"
+	cont "stjæle andres"
+	cont "#MON!"
 	done
 
 _CinnabarGymBattleText3::
-	text "You can't win!"
-	line "I have studied"
-	cont "#MON totally!"
+	text "Du kan ikke vinde!"
+	line "Jeg har studeret"
+	cont "#MON totalt!"
 	done
 
 _CinnabarGymEndBattleText3::
 	text "Waah!"
-	line "My studies!"
+	line "Mine studier!"
 	prompt
 
 _CinnabarGymAfterBattleText3::
-	text "My theories are"
-	line "too complicated"
-	cont "for you!"
+	text "Mine teorier er"
+	line "for komplicerede"
+	cont "for dig!"
 	done
 
 _CinnabarGymBattleText4::
-	text "I just like using"
-	line "fire #MON!"
+	text "Jeg kan bare lide"
+	line "at bruge"
+	cont "ild-#MON!"
 	done
 
 _CinnabarGymEndBattleText4::
-	text "Too hot"
-	line "to handle!"
+	text "For varmt"
+	line "at håndtere!"
 	prompt
 
 _CinnabarGymAfterBattleText4::
-	text "I wish there was"
-	line "a thief #MON!"
-	cont "I'd use that!"
+	text "Jeg ville ønske"
+	line "der var en tyv"
+	cont "#MON! Den ville"
+	cont "jeg bruge!"
 	done
 
 _CinnabarGymBattleText5::
-	text "I know why BLAINE"
-	line "became a trainer!"
+	text "Jeg ved hvorfor"
+	line "BLAINE blev"
+	cont "træner!"
 	done
 
 _CinnabarGymEndBattleText5::
-	text "Ow!"
+	text "Av!"
 	prompt
 
 _CinnabarGymAfterBattleText5::
-	text "BLAINE was lost"
-	line "in the mountains"
-	cont "when a fiery bird"
-	cont "#MON appeared."
+	text "BLAINE var faret"
+	line "vild i bjergene"
+	cont "da en brændende"
+	cont "fugle-#MON"
+	cont "dukkede op."
 
-	para "Its light enabled"
-	line "BLAINE to find"
-	cont "his way down!"
+	para "Dens lys hjalp"
+	line "BLAINE med at"
+	cont "finde vej ned!"
 	done
 
 _CinnabarGymBattleText6::
-	text "I've been to many"
-	line "GYMs, but this is"
-	cont "my favorite!"
+	text "Jeg har været i"
+	line "mange GYMs, men"
+	cont "dette er min"
+	cont "favorit!"
 	done
 
 _CinnabarGymEndBattleText6::
-	text "Yowza!"
-	line "Too hot!"
+	text "Av da!"
+	line "For varmt!"
 	prompt
 
 _CinnabarGymAfterBattleText6::
-	text "Us fire #MON"
-	line "fans like PONYTA"
-	cont "and NINETALES!"
+	text "Vi ild-#MON"
+	line "fans kan lide"
+	cont "PONYTA og"
+	cont "NINETALES!"
 	done
 
 _CinnabarGymBattleText7::
-	text "Fire is weak"
-	line "against H2O!"
+	text "Ild er svag"
+	line "mod H2O!"
 	done
 
 _CinnabarGymEndBattleText7::
-	text "Oh!"
-	line "Snuffed out!"
+	text "Åh!"
+	line "Slukket!"
 	prompt
 
 _CinnabarGymAfterBattleText7::
-	text "Water beats fire!"
-	line "But, fire melts"
-	cont "ice #MON!"
+	text "Vand slår ild!"
+	line "Men ild smelter"
+	cont "is-#MON!"
 	done
 
 _CinnabarGymGuidePreBattleText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Hej! Kommende"
+	line "mester!"
 
-	para "The hot-headed"
-	line "BLAINE is a fire"
-	cont "#MON pro!"
+	para "Den hidsige"
+	line "BLAINE er en"
+	cont "ild-#MON pro!"
 
-	para "Douse his spirits"
-	line "with water!"
+	para "Dæmp hans ild"
+	line "med vand!"
 
-	para "You better take"
-	line "some BURN HEALs!"
+	para "Du bør tage"
+	line "BURN HEALs med!"
 	done
 
 _CinnabarGymGuidePostBattleText::
-	text "<PLAYER>! You beat"
-	line "that fire brand!"
+	text "<PLAYER>! Du slog"
+	line "ildmesteren!"
 	done
