@@ -1,5 +1,5 @@
 PikachuFanText::
-	text "Vil du ikke beundre"
+	text "Vil du ikke se"
 	line "min PIKACHUs"
 	cont "yndige hale?"
 	done

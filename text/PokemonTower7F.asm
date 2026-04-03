@@ -1,78 +1,79 @@
 _TowerRescueFujiText::
-	text "MR.FUJI: Heh? You"
-	line "came to save me?"
+	text "MR.FUJI: Heh? Du"
+	line "kom for at redde"
+	cont "mig?"
 
-	para "Thank you. But, I"
-	line "came here of my"
-	cont "own free will."
+	para "Tak. Men jeg kom"
+	line "her af egen fri"
+	cont "vilje."
 
-	para "I came to calm"
-	line "the soul of"
-	cont "CUBONE's mother."
+	para "Jeg kom for at"
+	line "berolige sjælen"
+	cont "af CUBONEs mor."
 
-	para "I think MAROWAK's"
-	line "spirit has gone"
-	cont "to the afterlife."
+	para "Jeg tror MAROWAKs"
+	line "ånd er draget"
+	cont "til det hinsides."
 
-	para "I must thank you"
-	line "for your kind"
-	cont "concern!"
+	para "Jeg må takke dig"
+	line "for din venlige"
+	cont "omsorg!"
 
-	para "Follow me to my"
-	line "home, #MON"
-	cont "HOUSE at the foot"
-	cont "of this tower."
+	para "Følg mig til mit"
+	line "hjem, #MON"
+	cont "HJEM ved foden"
+	cont "af dette tårn."
 	done
 
 _PokemonTower7BattleText1::
-	text "What do you want?"
-	line "Why are you here?"
+	text "Hvad vil du?"
+	line "Hvorfor er du her?"
 	done
 
 _PokemonTower7EndBattleText1::
-	text "I give up!"
+	text "Jeg giver op!"
 	prompt
 
 _PokemonTower7AfterBattleText1::
-	text "I'm not going to"
-	line "forget this!"
+	text "Jeg glemmer ikke"
+	line "dette!"
 	done
 
 _PokemonTower7BattleText2::
-	text "This old guy came"
-	line "and complained"
-	cont "about us harming"
-	cont "useless #MON!"
+	text "Den gamle fyr kom"
+	line "og klagede over"
+	cont "at vi skader"
+	cont "ubrugelige #MON!"
 
-	para "We're talking it"
-	line "over as adults!"
+	para "Vi diskuterer"
+	line "det som voksne!"
 	done
 
 _PokemonTower7EndBattleText2::
-	text "Please!"
-	line "No more!"
+	text "Vær sød!"
+	line "Ikke mere!"
 	prompt
 
 _PokemonTower7AfterBattleText2::
-	text "#MON are only"
-	line "good for making"
-	cont "money!"
+	text "#MON er kun"
+	line "gode til at tjene"
+	cont "penge!"
 
-	para "Stay out of our"
-	line "business!"
+	para "Hold dig fra"
+	line "vores forretning!"
 	done
 
 _PokemonTower7BattleText3::
-	text "You're not saving"
-	line "anyone, kid!"
+	text "Du redder ingen,"
+	line "knægt!"
 	done
 
 _PokemonTower7EndBattleText3::
-	text "Don't"
-	line "fight us ROCKETs!"
+	text "Kæmp"
+	line "ikke mod os!"
 	prompt
 
 _PokemonTower7AfterBattleText3::
-	text "You're not getting"
-	line "away with this!"
+	text "Du slipper ikke"
+	line "afsted med dette!"
 	done

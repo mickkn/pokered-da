@@ -1,57 +1,58 @@
 _PokemonTower2Text_6062d::
-	text "<RIVAL>: Hey,"
-	line "<PLAYER>! What"
-	cont "brings you here?"
-	cont "Your #MON"
-	cont "don't look dead!"
+	text "<RIVAL>: Hej,"
+	line "<PLAYER>! Hvad"
+	cont "laver du her?"
+	cont "Dine #MON ser"
+	cont "ikke døde ud!"
 
-	para "I can at least"
-	line "make them faint!"
-	cont "Let's go, pal!"
+	para "Jeg kan i det"
+	line "mindste besejre"
+	cont "dem! Kom så, ven!"
 	done
 
 _PokemonTower2Text_60632::
-	text "What?"
-	line "You stinker!"
+	text "Hvad?"
+	line "Din stinker!"
 
-	para "I took it easy on"
-	line "you too!"
+	para "Jeg gav dig endda"
+	line "en chance!"
 	prompt
 
 _PokemonTower2Text_60637::
-	text "<RIVAL>: Well,"
-	line "look at all your"
-	cont "wimpy #MON!"
+	text "<RIVAL>: Tja,"
+	line "se alle dine"
+	cont "svage #MON!"
 
-	para "Toughen them up a"
-	line "bit more!"
+	para "Gør dem lidt"
+	line "stærkere!"
 	prompt
 
 _PokemonTower2Text_6063c::
-	text "How's your #DEX"
-	line "coming, pal?"
-	cont "I just caught a"
-	cont "CUBONE!"
+	text "Hvordan går dit"
+	line "#DEX, makker?"
+	cont "Jeg fangede lige"
+	cont "en CUBONE!"
 
-	para "I can't find the"
-	line "grown-up MAROWAK"
-	cont "yet!"
+	para "Jeg kan ikke"
+	line "finde den voksne"
+	cont "MAROWAK endnu!"
 
-	para "I doubt there are"
-	line "any left! Well, I"
-	cont "better get going!"
-	cont "I've got a lot to"
-	cont "accomplish, pal!"
+	para "Jeg tvivler på"
+	line "der er nogen!"
+	cont "Nå, jeg må videre!"
+	cont "Jeg har meget at"
+	cont "nå, makker!"
 
-	para "Smell ya later!"
+	para "Lugtes ved!"
 	done
 
 _PokemonTower2Text2::
-	text "Even we could not"
-	line "identify the"
-	cont "wayward GHOSTs!"
+	text "Selv vi kunne"
+	line "ikke identificere"
+	cont "de vildfarne"
+	cont "SPØGELSEr!"
 
-	para "A SILPH SCOPE"
-	line "might be able to"
-	cont "unmask them."
+	para "Et SILPH SCOPE"
+	line "kan måske afsløre"
+	cont "dem."
 	done

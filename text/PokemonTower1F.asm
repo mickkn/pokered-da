@@ -1,31 +1,33 @@
 _PokemonTower1Text1::
-	text "#MON TOWER was"
-	line "erected in the"
-	cont "memory of #MON"
-	cont "that had died."
+	text "#MON TOWER blev"
+	line "rejst til minde"
+	cont "om #MON der"
+	cont "var døde."
 	done
 
 _PokemonTower1Text2::
-	text "Did you come to"
-	line "pay respects?"
-	cont "Bless you!"
+	text "Kom du for at"
+	line "vise respekt?"
+	cont "Velsigne dig!"
 	done
 
 _PokemonTower1Text3::
-	text "I came to pray"
-	line "for my CLEFAIRY."
+	text "Jeg kom for at"
+	line "bede for min"
+	cont "CLEFAIRY."
 
-	para "Sniff! I can't"
-	line "stop crying..."
+	para "Snøft! Jeg kan"
+	line "ikke stoppe med"
+	cont "at græde..."
 	done
 
 _PokemonTower1Text4::
-	text "My GROWLITHE..."
-	line "Why did you die?"
+	text "Min GROWLITHE..."
+	line "Hvorfor døde du?"
 	done
 
 _PokemonTower1Text5::
-	text "I am a CHANNELER!"
-	line "There are spirits"
-	cont "up to mischief!"
+	text "Jeg er CHANNELER!"
+	line "Der er ånder der"
+	cont "laver ballade!"
 	done
