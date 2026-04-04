@@ -24,7 +24,7 @@ _ViridianMartClerkParcelQuestText::
 _ViridianMartYoungsterText::
 	text "Denne butik"
 	line "sælger mange"
-	cont "MODGIFTer."
+	cont "MODGIFTe."
 	done
 
 _ViridianMartCooltrainerMText::

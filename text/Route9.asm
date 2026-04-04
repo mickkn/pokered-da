@@ -29,7 +29,7 @@ _Route9CooltrainerM1EndBattleText::
 
 _Route9CooltrainerM1AfterBattleText::
     text "Bliv ved med"
-	cont "at gå!"
+	line "at gå!"
     done
 
 _Route9CooltrainerM2BattleText::

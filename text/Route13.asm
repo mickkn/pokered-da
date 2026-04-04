@@ -31,7 +31,7 @@ _Route13CooltrainerF1AfterBattleText::
 	done
 
 _Route13CooltrainerF2BattleText::
-	text "Wow! Dine EMBLEMER"
+	text "Wow! Dine MÆRKER"
 	line "er for seje!"
 	done
 
@@ -41,7 +41,7 @@ _Route13CooltrainerF2EndBattleText::
 	prompt
 
 _Route13CooltrainerF2AfterBattleText::
-	text "Du fik EMBLEMERNE"
+	text "Du fik MÆRKERNE"
 	line "fra GYM LEDERe."
 	cont "Det ved jeg!"
 	done

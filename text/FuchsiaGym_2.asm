@@ -12,7 +12,7 @@ _FuchsiaGymKogaPostBattleAdviceText::
 
 _FuchsiaGymKogaSoulBadgeInfoText::
 	text "Nu hvor du har"
-	line "SOULEMBLEM'et,"
+	line "SJÆLMÆRKET,"
 	cont "øges dine"
 	cont "#MONs FORSVAR!"
 

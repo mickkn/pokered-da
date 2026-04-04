@@ -110,7 +110,7 @@ _OaksLabOak1ParcelThanksText::
 	text_start
 	para "Ah! Dette er den"
 	line "tilpassede"
-	cont " # BALL jeg"
+	cont "# BALL jeg"
 	cont "bestilte! Tak!"
 	done
 
@@ -298,7 +298,7 @@ _OaksLabRivalSmellYouLaterText::
 
 _OaksLabRivalGrampsText::
 	text "<RIVAL>:"
-	cont "Bedstefar!"
+	line "Bedstefar!"
 	done
 
 _OaksLabRivalWhatDidYouCallMeForText::
@@ -318,9 +318,9 @@ _OaksLabOakMyInventionPokedexText::
 	cont "opfindelse,"
 	cont "#DEX!"
 
-	para "Det gemmer"
+	para "Den gemmer"
 	line "automatisk data"
-	cont "om #MON du"
+	cont "om #MON I"
 	cont "har set eller"
 	cont "fanget!"
 
@@ -331,7 +331,7 @@ _OaksLabOakMyInventionPokedexText::
 _OaksLabOakGotPokedexText::
 	text "OAK: <PLAYER> og"
 	line "<RIVAL>! Tag"
-	cont "disse med dig!"
+	cont "disse med jer!"
 
 	para "<PLAYER> fik"
 	line "#DEX af OAK!@"

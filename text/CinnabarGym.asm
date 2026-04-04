@@ -18,7 +18,7 @@ _CinnabarGymBlaineReceivedVolcanoBadgeText::
 	line "brændt ud!"
 
 	para "Du har fortjent"
-	line "VOLCANOEMBLEM'et!@"
+	line "VULKANMÆRKET!@"
 	text_end
 
 _CinnabarGymBlainePostBattleAdviceText::
@@ -33,7 +33,7 @@ _CinnabarGymBlainePostBattleAdviceText::
 _CinnabarGymBlaineVolcanoBadgeInfoText::
 	text "Hah!"
 
-	para "VOLCANOEMBLEM'et"
+	para "VULKANMÆRKET"
 	line "øger SPECIAL-"
 	cont "evnerne hos dine"
 	cont "#MON!"

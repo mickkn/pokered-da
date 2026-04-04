@@ -22,5 +22,5 @@ _FuchsiaGymKogaReceivedSoulBadgeText::
 	cont "dit værd!"
 
 	para "Her! Tag"
-	line "SOULEMBLEM'et!"
+	line "SJÆLMÆRKET!"
 	prompt

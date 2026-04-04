@@ -26,7 +26,7 @@ _CeruleanGymMistyTM11ExplanationText::
     done
 
 _CeruleanGymMistyCascadeBadgeInfoText::
-    text "CASCADEEMBLEMET"
+    text "KASKADEMÆRKET"
     line "gør at alle #MON"
     cont "op til"
 	cont "L30 adlyder!"
@@ -65,7 +65,7 @@ _CeruleanGymMistyReceivedCascadeBadgeText::
     para "Okay!"
 
     para "Du kan få"
-    line "CASCADEEMBLEMET"
+    line "KASKADEMÆRKET"
 	cont "for at vise, at"
     cont "du slog mig!@"
 	text_end

@@ -100,25 +100,25 @@ BadgeTextPointers:
 	dw EarthBadgeText
 
 EarthBadgeText:
-	db "EARTHBADGE@"
+	db "JORDMÆRKE@"
 
 VolcanoBadgeText:
-	db "VOLCANOBADGE@"
+	db "VULKANMÆRKE@"
 
 MarshBadgeText:
-	db "MARSHBADGE@"
+	db "SUMPMÆRKE@"
 
 SoulBadgeText:
-	db "SOULBADGE@"
+	db "SJÆLMÆRKE@"
 
 RainbowBadgeText:
-	db "RAINBOWBADGE@"
+	db "REGNBUEMÆRKE@"
 
 ThunderBadgeText:
-	db "THUNDERBADGE@"
+	db "TORDENMÆRKE@"
 
 CascadeBadgeText:
-	db "CASCADEBADGE@"
+	db "KASKADEMÆRKE@"
 
 Route23MovePlayerDownScript:
 	ld a, $1

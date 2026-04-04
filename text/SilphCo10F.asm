@@ -1,6 +1,6 @@
 _SilphCo10FSilphWorkerFImScaredText::
 	text "Vaaaaa!"
-	cont "Jeg er bange!"
+	line "Jeg er bange!"
 	done
 
 _SilphCo10FSilphWorkerFQuietAboutMyCryingText::

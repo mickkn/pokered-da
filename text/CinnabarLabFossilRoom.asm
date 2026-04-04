@@ -14,7 +14,7 @@ _CinnabarLabFossilRoomScientist1Text::
 
 _CinnabarLabFossilRoomScientist1NoFossilsText::
     text "Nej! Det er for"
-	cont "dårligt!"
+	line "dårligt!"
     done
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText::
@@ -27,7 +27,7 @@ _CinnabarLabFossilRoomScientist1GoForAWalkText::
 
 _CinnabarLabFossilRoomScientist1FossilIsBackToLifeText::
     text "Hvor har du"
-	cont "været?"
+	line "været?"
 
     para "Dit fossil er"
     line "bragt til live!"
@@ -48,7 +48,7 @@ _CinnabarLabFossilRoomScientist1SeesFossilText::
     line "@"
     text_ram wStringBuffer
     text ", en"
-    cont "#MON der"
+    line "#MON der"
     cont "allerede"
 	cont "er uddød!"
 

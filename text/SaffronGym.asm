@@ -32,7 +32,7 @@ _SaffronGymSabrinaReceivedMarshBadgeText::
 	cont "at vinde!"
 
 	para "Du har fortjent"
-	line "MARSHEMBLEMET!@"
+	line "SUMPMÆRKET!@"
 	text_end
 
 _SaffronGymSabrinaPostBattleAdviceText::
@@ -43,7 +43,7 @@ _SaffronGymSabrinaPostBattleAdviceText::
 	done
 
 _SaffronGymSabrinaMarshBadgeInfoText::
-	text "MARSHEMBLEMET får"
+	text "SUMPMÆRKET får"
 	line "#MON op til L70"
 	cont "til at lystre!"
 

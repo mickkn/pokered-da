@@ -37,7 +37,7 @@ _CeladonGymErikaReceivedRainbowBadgeText::
 	line "værdig stærk"
 
 	para "Jeg tildeler dig"
-	line "et RAINBOWEMBLEM."
+	line "et REGNBUEEMBLEM."
 	prompt
 
 _CeladonGymErikaPostBattleAdviceText::
@@ -54,7 +54,7 @@ _CeladonGymErikaPostBattleAdviceText::
 	done
 
 _CeladonGymRainbowBadgeInfoText::
-	text "Et RAINBOWEMBLEM"
+	text "Et REGNBUEEMBLEM"
 	line "vil få #MON til"
 	cont "at lytte til"
 	cont "kommandoer op"

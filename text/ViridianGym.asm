@@ -26,7 +26,7 @@ _ViridianGymGiovanniReceivedEarthBadgeText::
 	cont "kamp! Du har"
 	cont "vundet! Som"
 	cont "bevis her er"
-	cont "JORDEMBLEMET!@"
+	cont "JORDMÆRKET!@"
 	text_end
 
 _ViridianGymGiovanniPostBattleAdviceText::
@@ -47,7 +47,7 @@ _ViridianGymGiovanniPostBattleAdviceText::
 	text_end
 
 _ViridianGymGiovanniEarthBadgeInfoText::
-	text "JORDEMBLEMET får"
+	text "JORDMÆRKET får"
 	line "#MON af alle"
 	cont "niveauer til at"
 	cont "lystre!"

@@ -4,7 +4,7 @@ _Route22GateGuardNoBoulderbadgeText::
 	cont "kan komme igennem."
 
 	para "Du har ikke"
-	line "et BOULDEREMBLEM!@"
+	line "et STENMÆRKE!@"
 	text_end
 
 _Route22GateGuardICantLetYouPassText::
@@ -17,6 +17,6 @@ _Route22GateGuardICantLetYouPassText::
 
 _Route22GateGuardGoRightAheadText::
 	text "Åh! Det er"
-	line "BOULDEREMBLEMET!"
+	line "STENMÆRKET!"
 	cont "Gå bare videre!@"
 	text_end

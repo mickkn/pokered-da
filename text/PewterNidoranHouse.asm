@@ -21,5 +21,5 @@ _PewterNidoranHouseMiddleAgedManText::
 	cont "træner i kamp!"
 
 	para "Bare vi havde"
-	line "nogle EMBLEMER..."
+	line "nogle MÆRKER..."
 	done

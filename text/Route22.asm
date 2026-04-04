@@ -7,7 +7,7 @@ _Route22RivalBeforeBattleText1::
 
 	para "Glem det! Du har"
 	line "sikkert ingen"
-	cont "EMBLEMER!"
+	cont "MÆRKER!"
 
 	para "Vagten lukker dig"
 	line "ikke igennem!"
@@ -57,7 +57,7 @@ _Route22RivalBeforeBattleText2::
 	line "#MON-LIGAEN?"
 
 	para "Du samlede også"
-	line "alle EMBLEMER?"
+	line "alle MÆRKER?"
 	cont "Fedt!"
 
 	para "Så banker jeg dig"

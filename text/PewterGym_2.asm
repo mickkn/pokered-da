@@ -55,10 +55,10 @@ _PewterGymBrockReceivedBoulderBadgeText::
 
 	para "Som bevis på din"
 	line "sejr, her er"
-	cont "BOULDEREMBLEMET!"
+	cont "STENMÆRKET!"
 
 	para "<PLAYER> modtog"
-	line "BOULDEREMBLEMET!@"
+	line "STENMÆRKET!@"
 	text_end
 
 _PewterGymBrockBoulderBadgeInfoText::
@@ -67,7 +67,7 @@ _PewterGymBrockBoulderBadgeInfoText::
 	para "Det er et"
 	line "officielt"
 	cont "#MON-LIGA"
-	cont "EMBLEM!"
+	cont "MÆRKE!"
 
 	para "Bærerens #MON"
 	line "bliver mere"
