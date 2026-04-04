@@ -1,35 +1,37 @@
 _UGPathRoute7EntranceUnusedText_5d773::
-	text "I want to shop at"
-	line "the dept. store"
-	cont "in CELADON but..."
+	text "Jeg vil handle i"
+	line "stormagasinet i"
+	cont "CELADON, men..."
 
-	para "There are so many"
-	line "rough looking"
-	cont "people there."
+	para "Der er så mange"
+	line "barske typer"
+	cont "derinde."
 	done
 
 _UGPathRoute7EntranceUnusedText_5d778::
-	text "TEAM ROCKET had a"
-	line "secret hideout in"
+	text "TEAM ROCKET havde"
+	line "et hemmeligt"
+	cont "tilholdssted i"
 	cont "CELADON CITY?"
 	done
 
 _UGPathRoute7EntranceUnusedText_5d77d::
-	text "You're here to"
-	line "shop in CELADON?"
+	text "Er du her for at"
+	line "handle i CELADON?"
 
-	para "Just step outside"
-	line "and head west!"
+	para "Gå bare udenfor"
+	line "og gå mod vest!"
 	done
 
 _UGPathRoute7EntranceUnusedText_5d782::
-	text "The UNDERGROUND"
-	line "PATH goes beneath"
-	cont "SAFFRON and leads"
-	cont "to LAVENDER."
+	text "Den UNDERJORDISKE"
+	line "VEJ går under"
+	cont "SAFFRON og fører"
+	cont "til LAVENDER."
 
-	para "If you're heading"
-	line "to CERULEAN, go"
-	cont "to the building"
-	cont "across the road."
+	para "Hvis du skal til"
+	line "CERULEAN, gå til"
+	cont "bygningen på den"
+	cont "anden side af"
+	cont "vejen."
 	done
