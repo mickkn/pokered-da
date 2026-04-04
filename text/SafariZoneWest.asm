@@ -7,13 +7,14 @@ _SafariZoneWestText6::
 
 	para "Find venligst"
 	line "SAFARI-"
-	cont "FORVALTERENS"
+	cont "PARKBETJENTENS"
 	cont "tabte GULDTÆNDER."
 	cont "De er et sted"
 	cont "herude."
 
 	para "Belønning udloves!"
-	line "Kontakt: FORVALTER"
+	line "Kontakt:"
+	cont "PARKBETJENTEN"
 	done
 
 _SafariZoneWestText7::

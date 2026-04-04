@@ -18,33 +18,34 @@ _WardenGibberishText3::
 	done
 
 _WardenTeethText1::
-	text "<PLAYER> gave the"
-	line "GOLD TEETH to the"
-	cont "PARKBETJENT!@"
+	text "<PLAYER> gav"
+	line "GULDTÆNDERNE til"
+	cont "PARKBETJENTEN!@"
 	text_end
 
 _WardenTeethText2::
 	text_start
 
-	para "The PARKBETJENT popped"
-	line "in his teeth!"
+	para "PARKBETJENTEN "
+	line "satte tænderne"
+	cont "ind!"
 	prompt
 
 _WardenThankYouText::
-	text "PARKBETJENT: Thanks,"
-	line "kid! No one could"
-	cont "understand a word"
-	cont "that I said."
+	text "PARKBETJENT: Tak,"
+	line "knægt! Ingen"
+	cont "kunne forstå et"
+	cont "ord jeg sagde."
 
-	para "I couldn't work"
-	line "that way."
-	cont "Let me give you"
-	cont "something for"
-	cont "your trouble."
+	para "Jeg kunne ikke"
+	line "arbejde på den"
+	cont "måde. Lad mig"
+	cont "give dig noget"
+	cont "for ulejligheden."
 	prompt
 
 _ReceivedHM04Text::
-	text "<PLAYER> received"
+	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -52,35 +53,36 @@ _ReceivedHM04Text::
 
 _HM04ExplanationText::
 	text "PARKBETJENT: HM04"
-	line "teaches STRENGTH!"
+	line "lærer STRENGTH!"
 
-	para "It lets #MON"
-	line "move boulders"
-	cont "when you're out-"
-	cont "side of battle."
+	para "Den lader #MON"
+	line "flytte klippe-"
+	cont "blokke når du er"
+	cont "uden for kamp."
 
-	para "Oh yes, did you"
-	line "find SECRET HOUSE"
-	cont "in SAFARIZONEN?"
+	para "Nå ja, fandt du"
+	line "det HEMMELIGE HUS"
+	cont "i SAFARIZONEN?"
 
-	para "If you do, you"
-	line "win an HM!"
+	para "Hvis du gør,"
+	line "vinder du en HM!"
 
-	para "I hear it's the"
-	line "rare SURF HM."
+	para "Jeg hører det er"
+	line "den sjældne"
+	cont "SURF HM."
 	done
 
 _HM04NoRoomText::
-	text "Your pack is"
-	line "stuffed full!"
+	text "Din taske er"
+	line "proppet fuld!"
 	done
 
 _FuchsiaHouse2Text_75176::
-	text "#MON photos"
-	line "and fossils."
+	text "#MON-fotos"
+	line "og fossiler."
 	done
 
 _FuchsiaHouse2Text_7517b::
-	text "Old #MON"
+	text "Gammelt #MON-"
 	line "merchandise."
 	done

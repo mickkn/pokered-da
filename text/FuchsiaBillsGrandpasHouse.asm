@@ -1,6 +1,6 @@
 _FuchsiaHouse1Text1::
     text "SAFARIZONEN's"
-    line "FORVALTER er"
+    line "PARKBETJENT er"
     cont "gammel, men"
 	cont "stadig aktiv!"
 

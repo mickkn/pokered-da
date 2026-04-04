@@ -1,6 +1,7 @@
 _FuchsiaMeetingRoomText1::
-	text "Vi gav FORVALTEREN"
-	line "øgenavnet"
+	text "Vi gav"
+	line "PARKBETJENTEN"
+	cont "øgenavnet"
 	cont "SLOWPOKE."
 
 	para "Han og SLOWPOKE"
