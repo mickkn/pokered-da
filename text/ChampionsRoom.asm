@@ -105,7 +105,7 @@ _ChampionsRoomOakCongratulatesPlayerText::
     line "meget siden du"
     cont "rejste med"
     cont "@"
-    text_ram wStringBuffer
+    text_ram wNameBuffer
     text "!"
 
     para "<PLAYER>, du er"

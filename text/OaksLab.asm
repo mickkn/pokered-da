@@ -55,7 +55,7 @@ _OaksLabMonEnergeticText::
 _OaksLabReceivedMonText::
 	text "<PLAYER> modtog"
 	line "en @"
-	text_ram wStringBuffer
+	text_ram wNameBuffer
 	text "!@"
 	text_end
 
@@ -257,7 +257,7 @@ _OaksLabRivalIllTakeThisOneText::
 _OaksLabRivalReceivedMonText::
 	text "<RIVAL> modtog"
 	line "en @"
-	text_ram wStringBuffer
+	text_ram wNameBuffer
 	text "!@"
 	text_end
 
