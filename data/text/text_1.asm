@@ -55,7 +55,7 @@ _MartSignText::
 	done
 
 _PokeCenterSignText::
-	text "helbred dine"
+	text "Helbred dine"
 	line "#MON!"
 	cont "#MON CENTER"
 	done

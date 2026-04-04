@@ -147,7 +147,7 @@ _GymStatueText2::
 	text_ram wGymCityName
 	text_start
 	line "#MON GYM"
-	cont "LEADER: @"
+	cont "LEDER: @"
 	text_ram wGymLeaderName
 	text_start
 
@@ -283,7 +283,7 @@ _SaffronCityPokecenterGuyText2::
 	line "afsted! Vi kan"
 	cont "nu gå ud"
 	cont "sikkert igen!"
-	cont "That's great!"
+	cont "Det er dejligt!"
 	done
 
 _CeladonCityHotelText::
@@ -580,17 +580,17 @@ _ViridianSchoolNotebookText4::
 	prompt
 
 _EnemiesOnEverySideText::
-	text "Enemies on every"
-	line "side!"
+	text "Fjender på alle"
+	line "sider!"
 	done
 
 _WhatGoesAroundComesAroundText::
-	text "What goes around"
-	line "comes around!"
+	text "Hvad man sår, må"
+	line "man høste!"
 	done
 
 _FightingDojoText::
-	text "FIGHTING DOJO"
+	text "KAMPSPORT DOJO"
 	done
 
 _IndigoPlateauHQText::
@@ -1087,7 +1087,7 @@ _ConfusedNoMoreText::
 
 _SavingEnergyText::
 	text "<USER>"
-	line "is saving energy!"
+	line "gemmer energi!"
 	prompt
 
 _UnleashedEnergyText::
@@ -1517,11 +1517,11 @@ _AccessedSomeonesPCText::
 
 _AccessedMyPCText::
 	text "Fik adgang til"
-	line "nogens PC."
+	line "min PC."
 
 	para "Fik adgang til"
-	line "lagersystemet"
-	cont "for genstande."
+	line "Genstands-"
+	cont "lagersystemet."
 	prompt
 
 _TurnedOnPC2Text::
