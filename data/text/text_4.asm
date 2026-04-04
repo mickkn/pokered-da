@@ -159,8 +159,9 @@ _HMCantDeleteText::
 	prompt
 
 _PokemonCenterWelcomeText::
-	text "elkommen til vores"
-	line "#MON CENTER!"
+	text "Velkommen"
+	line "til vores"
+	cont "#MON CENTER!"
 
 	para "Vi heler dine"
 	line "#MON tilbage til"

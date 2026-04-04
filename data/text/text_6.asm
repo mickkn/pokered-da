@@ -37,7 +37,7 @@ _ItemUseBallText05::
 _ItemUseBallText07::
 	text_ram wBoxMonNicks
 	text " blev"
-	line "overført to"
+	line "overført til"
 	cont "BILL's PC!"
 	prompt
 
