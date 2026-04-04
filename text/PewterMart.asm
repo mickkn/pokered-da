@@ -1,4 +1,4 @@
-﻿_PewterMartYoungsterText::
+_PewterMartYoungsterText::
 	text "En lyssky, gammel"
 	line "mand fik mig til"
 	cont "at købe en mærklig"

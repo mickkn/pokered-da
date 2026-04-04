@@ -1,4 +1,4 @@
-﻿_ViridianForestSouthGateGirlText::
+_ViridianForestSouthGateGirlText::
 	text "Skal du ind i"
 	line "VIRIDIAN FOREST?"
 	cont "Pas på, det er"

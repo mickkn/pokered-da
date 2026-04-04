@@ -1,4 +1,4 @@
-﻿_SaffronPidgeyHouseBrunetteGirlText::
+_SaffronPidgeyHouseBrunetteGirlText::
 	text "Tak fordi du"
 	line "skrev. Jeg håber"
 	cont "at se dig snart!"

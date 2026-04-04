@@ -1,4 +1,4 @@
-﻿_FightingDojoKarateMasterText::
+_FightingDojoKarateMasterText::
 	text "Grunt!"
 
     para "Jeg er KARATE"

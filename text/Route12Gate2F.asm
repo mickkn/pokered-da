@@ -1,4 +1,4 @@
-﻿_Route12Gate2FBrunetteGirlYouCanHaveThisText::
+_Route12Gate2FBrunetteGirlYouCanHaveThisText::
 	text "Min #MONs aske"
 	line "opbevares i"
 	cont "#MON TOWER."

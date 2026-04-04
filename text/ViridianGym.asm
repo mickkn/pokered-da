@@ -1,4 +1,4 @@
-﻿_ViridianGymGiovanniPreBattleText::
+_ViridianGymGiovanniPreBattleText::
 	text "Fwahahaha! Det"
 	line "her er mit"
 	cont "tilholdssted!"

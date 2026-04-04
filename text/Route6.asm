@@ -1,4 +1,4 @@
-﻿_Route6CooltrainerM1BattleText::
+_Route6CooltrainerM1BattleText::
     text "Hvem er der?"
     line "Hold op med at"
     cont "lytte til os!"

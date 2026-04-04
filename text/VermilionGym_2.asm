@@ -1,4 +1,4 @@
-﻿_VermilionGymLTSurgePostBattleAdviceText::
+_VermilionGymLTSurgePostBattleAdviceText::
 	text "Et lille godt råd,"
 	line "knægt!"
 

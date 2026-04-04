@@ -1,4 +1,4 @@
-﻿_UndergroundPathRoute6GirlText::
+_UndergroundPathRoute6GirlText::
 	text "Folk mister tit"
 	line "ting i den"
 	cont "UNDERJORDISKE VEJ."

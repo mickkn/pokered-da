@@ -1,4 +1,4 @@
-﻿_PokemonMansionB1FBurglarBattleText::
+_PokemonMansionB1FBurglarBattleText::
 	text "Åh-åh. Hvor er"
 	line "jeg nu?"
 	done

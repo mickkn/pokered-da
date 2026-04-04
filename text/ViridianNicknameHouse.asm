@@ -1,4 +1,4 @@
-﻿_ViridianNicknameHouseBaldingGuyText::
+_ViridianNicknameHouseBaldingGuyText::
 	text "At finde på"
 	line "kælenavne er"
 	cont "sjovt, men svært."

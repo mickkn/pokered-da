@@ -1,4 +1,4 @@
-﻿_MtMoonB2FDomeFossilYouWantText::
+_MtMoonB2FDomeFossilYouWantText::
 	text "Vil du have"
 	line "DOME FOSSIL?"
 	done

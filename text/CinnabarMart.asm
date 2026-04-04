@@ -1,4 +1,4 @@
-﻿_CinnabarMartSilphWorkerFText::
+_CinnabarMartSilphWorkerFText::
     text "Har de ikke X"
     line "ANGREB? Det er"
     cont "godt til kampe!"

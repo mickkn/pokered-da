@@ -1,4 +1,4 @@
-﻿_SafariZoneSecretHouseFishingGuruYouHaveWonText::
+_SafariZoneSecretHouseFishingGuruYouHaveWonText::
 	text "Ah! Endelig!"
 
 	para "Du er den første"

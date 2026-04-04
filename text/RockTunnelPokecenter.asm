@@ -1,4 +1,4 @@
-﻿_RockTunnelPokecenterGentlemanText::
+_RockTunnelPokecenterGentlemanText::
 	text "Elementtyperne"
 	line "hos #MON gør"
 	cont "dem stærkere mod"

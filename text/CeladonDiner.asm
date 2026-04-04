@@ -1,4 +1,4 @@
-﻿_CeladonDinerCookText::
+_CeladonDinerCookText::
 	text "Hej!"
 
 	para "Vi holder lige en"

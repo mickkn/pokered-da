@@ -1,4 +1,4 @@
-﻿_UndergroundPathRoute8GirlText::
+_UndergroundPathRoute8GirlText::
 	text "Stormagasinet i"
 	line "CELADON har et"
 	cont "kæmpe udvalg!"

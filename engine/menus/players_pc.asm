@@ -241,10 +241,10 @@ PlayerPCToss:
 	jp .loop
 
 PlayersPCMenuEntries:
-	db   "WITHDRAW ITEM"
-	next "DEPOSIT ITEM"
-	next "TOSS ITEM"
-	next "LOG OFF@"
+	db   "TAG GENSTAND"
+	next "GEM GENSTAND"
+	next "SMID GENSTAND"
+	next "LOG AF@"
 
 TurnedOnPC2Text:
 	text_far _TurnedOnPC2Text

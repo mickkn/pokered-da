@@ -1,4 +1,4 @@
-﻿_Route24CooltrainerM1YouBeatOurContestText::
+_Route24CooltrainerM1YouBeatOurContestText::
 	text "Tillykke!"
 	line "Du slog vores 5"
 	cont "kamptrænere!@"

@@ -34,7 +34,7 @@ _BrunoAfterBattleText::
 	cont "udfordring!"
 	done
 
-_BrunoDontRunAwayText::
+_BrunosRoomBrunoDontRunAwayText::
 	text "En stemme siger:"
 	line "Løb ikke væk!"
 	done

@@ -1,4 +1,4 @@
-﻿_Route24CooltrainerM2EndBattleText::
+_Route24CooltrainerM2EndBattleText::
 	text "Det"
 	line "tænkte jeg nok!"
 	prompt

@@ -1,4 +1,4 @@
-﻿_Route16FlyHouseBrunetteGirlText::
+_Route16FlyHouseBrunetteGirlText::
 	text "Åh, du fandt mit"
 	line "hemmelige tilhold!"
 

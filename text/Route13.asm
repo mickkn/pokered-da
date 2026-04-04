@@ -1,4 +1,4 @@
-﻿_Route13CooltrainerM1BattleText::
+_Route13CooltrainerM1BattleText::
 	text "Mine fugle-#MON"
 	line "vil slås!"
 	done

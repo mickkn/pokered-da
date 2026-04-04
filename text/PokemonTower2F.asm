@@ -1,4 +1,4 @@
-﻿_PokemonTower2FRivalWhatBringsYouHereText::
+_PokemonTower2FRivalWhatBringsYouHereText::
 	text "<RIVAL>: Hej,"
 	line "<PLAYER>! Hvad"
 	cont "laver du her?"

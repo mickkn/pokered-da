@@ -1,4 +1,4 @@
-﻿_FuchsiaPokecenterRockerText::
+_FuchsiaPokecenterRockerText::
 	text "Du kan ikke vinde"
 	line "med kun én stærk"
 	cont "#MON."

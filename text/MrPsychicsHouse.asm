@@ -1,4 +1,4 @@
-﻿_MrPsychicsHouseMrPsychicYouWantedThisText::
+_MrPsychicsHouseMrPsychicYouWantedThisText::
 	text "...Vent! Sig ikke"
 	line "et ord!"
 

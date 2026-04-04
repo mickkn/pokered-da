@@ -1,4 +1,4 @@
-﻿_CopycatsHouse1FMiddleAgedWomanText::
+_CopycatsHouse1FMiddleAgedWomanText::
     text "Min datter er så"
     line "selvcentreret."
     cont "Hun har kun nogle"

@@ -1,4 +1,4 @@
-﻿_DiglettsCaveRoute11GamblerText::
+_DiglettsCaveRoute11GamblerText::
     text "Sikke en"
 	line "overraskelse!"
     cont "DIGLETTs gravede"

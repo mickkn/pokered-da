@@ -1,4 +1,4 @@
-﻿_CeladonMart3FClerkTM18PreReceiveText::
+_CeladonMart3FClerkTM18PreReceiveText::
 	text "Oh hej! Jeg er"
 	line "endelig færdig"
 	cont "med #MON!"

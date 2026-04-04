@@ -1,4 +1,4 @@
-﻿_Route8SuperNerd1BattleText::
+_Route8SuperNerd1BattleText::
 	text "Du virker god til"
 	line "#MON, men hvordan"
 	cont "er jeres kemi?"

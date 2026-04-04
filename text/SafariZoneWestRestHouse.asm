@@ -1,4 +1,4 @@
-﻿_SafariZoneWestRestHouseScientistText::
+_SafariZoneWestRestHouseScientistText::
 	text "At kaste STEN"
 	line "efter #MON kan"
 	cont "få dem til at"

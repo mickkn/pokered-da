@@ -1,4 +1,4 @@
-﻿_CeladonMart1FReceptionistText::
+_CeladonMart1FReceptionistText::
 	text "Hej! Velkommen til"
 	line "CELADON VAREHUS."
 

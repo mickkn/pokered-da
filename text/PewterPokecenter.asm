@@ -1,4 +1,4 @@
-﻿_PewterPokecenterGentlemanText::
+_PewterPokecenterGentlemanText::
 	text "Hvad!?"
 
 	para "TEAM ROCKET er"

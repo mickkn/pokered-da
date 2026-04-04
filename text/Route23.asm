@@ -1,13 +1,13 @@
-﻿_Route23YouDontHaveTheBadgeYetText::
+_Route23YouDontHaveTheBadgeYetText::
 	text "Du kan kun passere"
 	line "her, hvis du har"
 	cont "@"
-	text_ram wcd6d
+	text_ram wStringBuffer
 	text "!"
 
 	para "Du har ikke"
 	line "@"
-	text_ram wcd6d
+	text_ram wStringBuffer
 	text " endnu!"
 
 	para "Du skal have det"
@@ -19,7 +19,7 @@ _Route23OhThatIsTheBadgeText::
 	text "Du kan kun passere"
 	line "her, hvis du har"
 	cont "@"
-	text_ram wcd6d
+	text_ram wStringBuffer
 	text "!"
 
 	para "Åh! Det er"

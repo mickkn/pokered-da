@@ -1,4 +1,4 @@
-﻿_Route21Fisher1BattleText::
+_Route21Fisher1BattleText::
 	text "Vil du gerne vide,"
 	line "om fiskene bider?"
 	done

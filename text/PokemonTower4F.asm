@@ -1,4 +1,4 @@
-﻿_PokemonTower4FChanneler1BattleText::
+_PokemonTower4FChanneler1BattleText::
 	text "SPØGELSE! Nej!"
 	line "Kwaaah!"
 	done

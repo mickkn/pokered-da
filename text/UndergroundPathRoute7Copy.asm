@@ -1,4 +1,4 @@
-﻿_UndergroundPathRoute7CopyUnusedGirlText::
+_UndergroundPathRoute7CopyUnusedGirlText::
 	text "Jeg vil handle i"
 	line "stormagasinet i"
 	cont "CELADON, men..."

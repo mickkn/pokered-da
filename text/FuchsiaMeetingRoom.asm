@@ -1,4 +1,4 @@
-﻿_FuchsiaMeetingRoomSafariZoneWorker1::
+_FuchsiaMeetingRoomSafariZoneWorker1::
 	text "Vi gav"
 	line "PARKBETJENTEN"
 	cont "øgenavnet"

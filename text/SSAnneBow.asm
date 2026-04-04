@@ -1,4 +1,4 @@
-﻿_SSAnneBowSuperNerdText::
+_SSAnneBowSuperNerdText::
 	text "Festen er slut."
 	line "Skibet afgår"
 	cont "snart."

@@ -1,4 +1,4 @@
-﻿_CeladonPokecenterGentlemanText::
+_CeladonPokecenterGentlemanText::
     text "# FLØJTE vækker"
     line "#MON med en"
     cont "lyd, som kun"

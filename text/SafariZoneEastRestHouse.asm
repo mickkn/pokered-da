@@ -1,4 +1,4 @@
-﻿_SafariZoneEastRestHouseScientistText::
+_SafariZoneEastRestHouseScientistText::
 	text "Hvor mange fangede"
 	line "du? Jeg er helt"
 	cont "udmattet!"

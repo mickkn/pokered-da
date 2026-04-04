@@ -1,4 +1,4 @@
-﻿_SaffronGymSabrinaText::
+_SaffronGymSabrinaText::
 	text "Jeg havde en"
 	line "forudsigelse om"
 	cont "din ankomst!"

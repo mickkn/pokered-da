@@ -1,4 +1,4 @@
-﻿_CeladonMartRoofLittleGirlGiveHerWhichDrinkText::
+_CeladonMartRoofLittleGirlGiveHerWhichDrinkText::
 	text "Giv hende hvad"
 	line "at drikke?"
 	done

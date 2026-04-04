@@ -1,4 +1,4 @@
-﻿_Route18Gate2FLeftBinocularsText::
+_Route18Gate2FLeftBinocularsText::
 	text "Kiggede i"
 	line "kikkerten."
 

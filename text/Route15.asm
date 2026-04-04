@@ -1,4 +1,4 @@
-﻿_Route15CooltrainerF1BattleText::
+_Route15CooltrainerF1BattleText::
 	text "Lad mig prøve den"
 	line "#MON jeg lige"
 	cont "fik i et bytte!"

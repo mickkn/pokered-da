@@ -1,4 +1,4 @@
-﻿_DaycareGentlemanIntroText::
+_DaycareGentlemanIntroText::
     text "Jeg driver en"
 	line "DAGPLEJE. Vil du"
     cont "have, at jeg"
@@ -14,7 +14,7 @@ _DaycareGentlemanWhichMonText::
 _DaycareGentlemanWillLookAfterMonText::
     text "Fint, jeg passer"
     line "@"
-    text_ram wcd6d
+    text_ram wStringBuffer
     text_start
     cont "for en tid."
     prompt
@@ -26,7 +26,7 @@ _DaycareGentlemanComeSeeMeInAWhileText::
 
 _DaycareGentlemanMonHasGrownText::
     text "Din @"
-    text_ram wcd6d
+    text_ram wStringBuffer
     text_start
     line "er vokset meget!"
 
@@ -58,7 +58,7 @@ _DaycareGentlemanGotMonBackText::
 _DaycareGentlemanMonNeedsMoreTimeText::
     text "Tilbage allerede?"
     line "Din @"
-    text_ram wcd6d
+    text_ram wStringBuffer
     text_start
     cont "har brug for mere"
     cont "tid med mig."

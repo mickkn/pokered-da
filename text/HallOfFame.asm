@@ -1,4 +1,4 @@
-﻿_HallOfFameOakText::
+_HallOfFameOakText::
 	text "OAK: Øh-hem!"
 	line "Tillykke"
 	cont "<PLAYER>!"

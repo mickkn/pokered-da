@@ -1,4 +1,4 @@
-﻿_Route15Gate1FGuardText::
+_Route15Gate1FGuardText::
 	text "Arbejder du på"
 	line "et #DEX?"
 

@@ -1,4 +1,4 @@
-﻿_Route18Gate1FGuardYouNeedABicycleText::
+_Route18Gate1FGuardYouNeedABicycleText::
 	text "Du skal have en"
 	line "CYKEL til"
 	cont "CYKELVEJEN!"

@@ -1,4 +1,4 @@
-﻿_RockTunnelB1FHiker3AfterBattleText::
+_RockTunnelB1FHiker3AfterBattleText::
 	text "Jeg træner mine"
 	line "#MON til at slå"
 	cont "dine, knægt!"

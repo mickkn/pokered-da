@@ -1,4 +1,4 @@
-﻿_MtMoonPokecenterYoungsterText::
+_MtMoonPokecenterYoungsterText::
 	text "Jeg har 6 # BALLs"
 	line "i mit bælte."
 

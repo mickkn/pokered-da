@@ -1,4 +1,4 @@
-﻿_VermilionMartCooltrainerMText::
+_VermilionMartCooltrainerMText::
 	text "Der er onde"
 	line "mennesker som vil"
 	cont "bruge #MON til"

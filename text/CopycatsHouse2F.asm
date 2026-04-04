@@ -1,4 +1,4 @@
-﻿_CopycatsHouse2FCopycatDoYouLikePokemonText::
+_CopycatsHouse2FCopycatDoYouLikePokemonText::
     text "<PLAYER>: Hej!"
     line "Kan du lide #MON?"
 

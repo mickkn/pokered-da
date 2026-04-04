@@ -1,4 +1,4 @@
-﻿_Route10SuperNerd1BattleText::
+_Route10SuperNerd1BattleText::
 	text "Wow, er du også"
 	line "#MANIAC?"
 	cont "Vil du se min"

@@ -1,4 +1,4 @@
-﻿_RocketHideoutB3FRocket1BattleText::
+_RocketHideoutB3FRocket1BattleText::
 	text "Stop med at blande"
 	line "dig i TEAM"
 	cont "ROCKETs sager!"

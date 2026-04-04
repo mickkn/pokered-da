@@ -1,4 +1,4 @@
-﻿_RocketHideoutB1FRocket5EndBattleText::
+_RocketHideoutB1FRocket5EndBattleText::
 	text "Hvorfor...?@"
 	text_end
 

@@ -1,4 +1,4 @@
-﻿_ViridianPokecenterGentlemanText::
+_ViridianPokecenterGentlemanText::
 	text "Du kan bruge den"
 	line "PC i hjørnet."
 

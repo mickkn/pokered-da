@@ -1,4 +1,4 @@
-﻿_PokemonMansion3FSuperNerdBattleText::
+_PokemonMansion3FSuperNerdBattleText::
 	text "Dette sted er"
 	line "altså kæmpestort!"
 	done

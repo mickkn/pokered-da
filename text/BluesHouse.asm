@@ -1,11 +1,11 @@
-_DaisyInitialText::
+_BluesHouseDaisyRivalAtLabText::
 	text "Hej <PLAYER>!"
 	line "<RIVAL> er ude"
 	cont "ved bedstefars"
 	cont "laboratorium."
 	done
 
-_DaisyOfferMapText::
+_BluesHouseDaisyOfferMapText::
 	text "Skal du løbe et"
 	line "ærinde for"
 	cont "bedstefar? Her,"
@@ -20,12 +20,12 @@ _GotMapText::
 	text "!@"
 	text_end
 
-_DaisyBagFullText::
+_BluesHouseDaisyBagFullText::
 	text "Du har for meget"
 	line "med dig."
 	done
 
-_DaisyUseMapText::
+_BluesHouseDaisyUseMapText::
 	text "Brug BYKORTET"
 	line "til at finde ud"
 	cont "af, hvor du er."

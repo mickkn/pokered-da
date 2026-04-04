@@ -1,4 +1,4 @@
-﻿_Route16Gate1FGuardNoPedestriansAllowedText::
+_Route16Gate1FGuardNoPedestriansAllowedText::
 	text "Ingen fodgængere"
 	line "på CYKELVEJEN!"
 	done

@@ -1,4 +1,4 @@
-﻿_RocketHideoutB4FGiovanniImpressedYouGotHereText::
+_RocketHideoutB4FGiovanniImpressedYouGotHereText::
 	text "Så! Jeg må sige,"
 	line "jeg er imponeret"
 	cont "over du at du"

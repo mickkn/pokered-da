@@ -1,4 +1,4 @@
-﻿_SSAnneKitchenCook1Text::
+_SSAnneKitchenCook1Text::
 	text "Du der, mon petit!"
 	line "Vi har travlt her!"
 	cont "Flyt dig!"

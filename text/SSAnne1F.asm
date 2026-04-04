@@ -1,4 +1,4 @@
-﻿_SSAnne1FWaiterText::
+_SSAnne1FWaiterText::
 	text "Bonjour!"
 	line "Jeg er le tjener"
 	cont "på dette skib!"

@@ -1,4 +1,4 @@
-﻿_Route22GateGuardNoBoulderbadgeText::
+_Route22GateGuardNoBoulderbadgeText::
 	text "Kun virkelig"
 	line "dygtige trænere"
 	cont "kan komme igennem."

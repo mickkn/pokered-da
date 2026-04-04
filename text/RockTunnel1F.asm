@@ -1,4 +1,4 @@
-﻿_RockTunnel1FHiker1BattleText::
+_RockTunnel1FHiker1BattleText::
 	text "Denne tunnel er"
     line "lang, knægt!"
     done

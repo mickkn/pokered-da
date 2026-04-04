@@ -1,4 +1,4 @@
-﻿_CeladonMansion3FProgrammerText::
+_CeladonMansion3FProgrammerText::
 	text "Mig? Jeg er"
 	line "den danske"
 	cont "oversætter! Kan"

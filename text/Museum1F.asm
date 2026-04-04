@@ -1,4 +1,4 @@
-﻿_Museum1FScientist1ComeAgainText::
+_Museum1FScientist1ComeAgainText::
 	text "Kom igen!"
 	done
 

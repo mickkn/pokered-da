@@ -1,4 +1,4 @@
-﻿_Route18CooltrainerM1BattleText::
+_Route18CooltrainerM1BattleText::
 	text "Jeg tjekker altid"
 	line "alle græsområder"
 	cont "for nye #MON."

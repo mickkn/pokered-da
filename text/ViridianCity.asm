@@ -1,4 +1,4 @@
-﻿_ViridianCityYoungster1Text::
+_ViridianCityYoungster1Text::
 	text "De # BALLs"
 	line "i dit bælte!"
 	cont "Du har #MON!"

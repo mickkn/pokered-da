@@ -1,4 +1,4 @@
-﻿_Museum2FYoungsterText::
+_Museum2FYoungsterText::
 	text "MOON STONE?"
 
 	para "Hvad er der så"

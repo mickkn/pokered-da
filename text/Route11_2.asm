@@ -1,4 +1,4 @@
-﻿_Route11SuperNerd2EndBattleText::
+_Route11SuperNerd2EndBattleText::
 	text "Wow!"
 	line "Din krudtugle!"
 	prompt

@@ -1,4 +1,4 @@
-﻿_PewterGymBrockPostBattleAdviceText::
+_PewterGymBrockPostBattleAdviceText::
 	text "Der er alle slags"
 	line "trænere i verden!"
 

@@ -1,4 +1,4 @@
-﻿_UndergroundPathRoute7MiddleAgedManText::
+_UndergroundPathRoute7MiddleAgedManText::
 	text "Jeg hørte at en"
 	line "søvnig #MON"
 	cont "dukkede op nær"

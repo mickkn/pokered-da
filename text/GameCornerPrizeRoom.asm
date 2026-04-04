@@ -1,4 +1,4 @@
-﻿_GameCornerPrizeRoomBaldingGuyText::
+_GameCornerPrizeRoomBaldingGuyText::
 	text "Jeg er helt vild"
 	line "med den PORYGON!"
 

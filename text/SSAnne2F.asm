@@ -1,4 +1,4 @@
-﻿_SSAnne2FWaiterText::
+_SSAnne2FWaiterText::
 	text "Dette skib er en"
 	line "luksusliner for"
 	cont "trænere!"

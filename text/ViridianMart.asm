@@ -1,4 +1,4 @@
-﻿_ViridianMartClerkSayHiToOakText::
+_ViridianMartClerkSayHiToOakText::
 	text "OK! Sig hej til"
 	line "PROF.OAK fra mig!"
 	done

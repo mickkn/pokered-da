@@ -1,4 +1,4 @@
-﻿_SeafoamIslandsB4FArticunoBattleText::
+_SeafoamIslandsB4FArticunoBattleText::
 	text "Gyaoo!@"
 	text_end
 

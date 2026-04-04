@@ -1,4 +1,4 @@
-﻿_VictoryRoad1FCooltrainerFBattleText::
+_VictoryRoad1FCooltrainerFBattleText::
 	text "Mon du er god"
 	line "nok til mig!"
 	done

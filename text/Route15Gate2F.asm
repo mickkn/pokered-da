@@ -1,4 +1,4 @@
-﻿_Route15Gate2FOaksAideExpAllText::
+_Route15Gate2FOaksAideExpAllText::
 	text "EXP.ALL giver EXP"
 	line "point til alle"
 	cont "#MON du har"

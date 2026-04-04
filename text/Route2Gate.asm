@@ -1,4 +1,4 @@
-﻿_Route2GateOaksAideFlashExplanationText::
+_Route2GateOaksAideFlashExplanationText::
     text "HM FLASH"
     line "oplyser selv de"
     cont "mørkeste huler."

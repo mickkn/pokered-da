@@ -1,4 +1,4 @@
-﻿_PokemonTower7FMrFujiRescueText::
+_PokemonTower7FMrFujiRescueText::
 	text "MR.FUJI: Heh? Du"
 	line "kom for at redde"
 	cont "mig?"

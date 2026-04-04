@@ -1,4 +1,4 @@
-﻿_RockTunnelB1FCooltrainerF1BattleText::
+_RockTunnelB1FCooltrainerF1BattleText::
 	text "Vandrere bruger"
 	line "kviste som"
 	cont "stimarkører."

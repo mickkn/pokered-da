@@ -1,4 +1,4 @@
-﻿_VermilionCityBeautyText::
+_VermilionCityBeautyText::
 	text "Vi er forsigtige"
 	line "med forurening!"
 

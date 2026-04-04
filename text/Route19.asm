@@ -1,4 +1,4 @@
-﻿_Route19CooltrainerM1BattleText::
+_Route19CooltrainerM1BattleText::
 	text "Skal varme op før"
 	line "min svømmetur!"
 	done

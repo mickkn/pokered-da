@@ -1,4 +1,4 @@
-﻿_CinnabarPokecenterCooltrainerFText::
+_CinnabarPokecenterCooltrainerFText::
     text "Du kan annullere"
     line "udvikling."
 

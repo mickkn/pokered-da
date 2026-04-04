@@ -1,4 +1,4 @@
-﻿_CeladonMart5FGentlemanText::
+_CeladonMart5FGentlemanText::
 	text "#MON evnefor-"
 	line "bedringer kan kun"
 	cont "købes her."

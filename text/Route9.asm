@@ -1,4 +1,4 @@
-﻿_Route9CooltrainerF1BattleText::
+_Route9CooltrainerF1BattleText::
     text "Du har #MON"
     line "med dig!"
     cont "Du er min!"

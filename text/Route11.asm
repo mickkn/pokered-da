@@ -1,4 +1,4 @@
-﻿_Route11Gambler1BattleText::
+_Route11Gambler1BattleText::
 	text "Vind, tab eller"
 	line "uafgjort!"
 	done

@@ -1,4 +1,4 @@
-﻿_PokemonTower1FReceptionistText::
+_PokemonTower1FReceptionistText::
 	text "#MON TOWER blev"
 	line "rejst til minde"
 	cont "om #MON der"

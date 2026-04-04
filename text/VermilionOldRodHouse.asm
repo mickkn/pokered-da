@@ -1,4 +1,4 @@
-﻿_VermilionOldRodHouseFishingGuruDoYouLikeToFishText::
+_VermilionOldRodHouseFishingGuruDoYouLikeToFishText::
 	text "Jeg er FISKERI-"
 	line "GURUEN!"
 

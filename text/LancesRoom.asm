@@ -1,4 +1,4 @@
-﻿_LancesRoomLanceBeforeBattleText::
+_LancesRoomLanceBeforeBattleText::
 	text "Ah! Jeg har hørt"
 	line "om dig <PLAYER>!"
 

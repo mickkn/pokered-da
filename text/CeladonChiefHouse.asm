@@ -1,4 +1,4 @@
-﻿_CeladonChiefHouseChiefText::
+_CeladonChiefHouseChiefText::
 	text "Hehehe!"
 	line "Spillemaskinerne"
 	cont "hive bare penge"

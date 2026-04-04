@@ -1,4 +1,4 @@
-﻿_PokemonTower6FGhostWasCubonesMotherText::
+_PokemonTower6FGhostWasCubonesMotherText::
 	text "SPØGELSET var den"
 	line "urolige sjæl af"
 	cont "CUBONEs mor!"

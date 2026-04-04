@@ -1,4 +1,4 @@
-﻿_SafariZoneCenterRestHouseSignText::
+_SafariZoneCenterRestHouseSignText::
 	text "HVILEHJEM"
 	done
 

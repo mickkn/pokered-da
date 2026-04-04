@@ -1,4 +1,4 @@
-﻿_VermilionPidgeyHouseYoungsterText::
+_VermilionPidgeyHouseYoungsterText::
 	text "Jeg får min PIDGEY"
 	line "til at flyve med"
 	cont "et brev til"

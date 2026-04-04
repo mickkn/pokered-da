@@ -1,4 +1,4 @@
-﻿_SSAnneB1FRoomsMachokeText::
+_SSAnneB1FRoomsMachokeText::
 	text "MACHOKE: Gwoh!"
 	line "Goggoh!@"
 	text_end

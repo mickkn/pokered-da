@@ -1,4 +1,4 @@
-﻿_Route25Youngster1BattleText::
+_Route25Youngster1BattleText::
 	text "Lokale trænere"
 	line "kommer her for"
 	cont "at øve sig!"

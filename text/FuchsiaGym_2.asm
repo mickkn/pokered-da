@@ -1,4 +1,4 @@
-﻿_FuchsiaGymKogaPostBattleAdviceText::
+_FuchsiaGymKogaPostBattleAdviceText::
 	text "Når man rammes af"
 	line "TOXIC, lider ens"
 	cont "#MON mere og"

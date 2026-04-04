@@ -1,4 +1,4 @@
-﻿_CeladonMart4FSuperNerdText::
+_CeladonMart4FSuperNerdText::
 	text "Jeg skal købe en"
 	line "# DOLL til min"
 	cont "kæreste!"

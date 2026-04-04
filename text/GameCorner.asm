@@ -1,4 +1,4 @@
-﻿_GameCornerBeauty1Text::
+_GameCornerBeauty1Text::
 	text "Velkommen!"
 
 	para "Du kan bytte dine"

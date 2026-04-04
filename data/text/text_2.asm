@@ -1762,7 +1762,7 @@ _LinkCanceledText::
 _OakSpeechText1::
 	text "Hej der!"
 	line "Velkommen til"
-	cont "verdenen af"
+	cont "en verden af"
 	cont "#MON!"
 
 	para "Mit navn er OAK!"

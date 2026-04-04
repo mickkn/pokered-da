@@ -1,4 +1,4 @@
-﻿_VictoryRoad2FMoltresBattleText::
+_VictoryRoad2FMoltresBattleText::
 	text "Gyaoo!@"
 	text_end
 

@@ -1,4 +1,4 @@
-﻿_FuchsiaGoodRodHouseFishingGuruText::
+_FuchsiaGoodRodHouseFishingGuruText::
 	text "Jeg er FISKE-"
 	line "GURUENS ældre"
 	cont "bror!"

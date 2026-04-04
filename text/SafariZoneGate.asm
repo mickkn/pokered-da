@@ -1,4 +1,4 @@
-﻿_SafariZoneGateSafariZoneWorker1Text::
+_SafariZoneGateSafariZoneWorker1Text::
 	text "Velkommen til"
 	line "SAFARIZONEN!"
 	done

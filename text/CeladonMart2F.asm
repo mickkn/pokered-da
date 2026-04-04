@@ -1,4 +1,4 @@
-﻿_CeladonMart2FMiddleAgedManText::
+_CeladonMart2FMiddleAgedManText::
 	text "SUPER REPEL"
 	line "holder svage"
 	cont "#MON på"

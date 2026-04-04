@@ -1,4 +1,4 @@
-﻿_Route4CooltrainerF1Text::
+_Route4CooltrainerF1Text::
     text "Av! Jeg snublede"
     line "over en stenet"
     cont "#MON, GEODUDE!"

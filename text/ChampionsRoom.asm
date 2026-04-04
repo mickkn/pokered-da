@@ -1,4 +1,4 @@
-﻿_ChampionsRoomRivalIntroText::
+_ChampionsRoomRivalIntroText::
 	text "<RIVAL>: Hey!"
 
     para "Jeg har set"
@@ -105,7 +105,7 @@ _ChampionsRoomOakCongratulatesPlayerText::
     line "meget siden du"
     cont "rejste med"
     cont "@"
-    text_ram wcd6d
+    text_ram wStringBuffer
     text "!"
 
     para "<PLAYER>, du er"

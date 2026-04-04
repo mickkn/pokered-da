@@ -1,4 +1,4 @@
-﻿_NameRatersHouseNameRaterWantMeToRateText::
+_NameRatersHouseNameRaterWantMeToRateText::
 	text "Hej, hej!"
 	line "Jeg er den"
 	cont "officielle"
@@ -16,7 +16,7 @@ _NameRatersHouseNameRaterWhichPokemonText::
 	prompt
 
 _NameRatersHouseNameRaterGiveItANiceNameText::
-	text_ram wcd6d
+	text_ram wStringBuffer
 	text ", ikke?"
 	line "Det er et pænt"
 	cont "øgenavn!"
@@ -50,7 +50,7 @@ _NameRatersHouseNameRaterComeAnyTimeYouLikeText::
 	done
 
 _NameRatersHouseNameRaterATrulyImpeccableNameText::
-	text_ram wcd6d
+	text_ram wStringBuffer
 	text ", ikke?"
 	line "Det er et helt"
 	cont "perfekt navn!"

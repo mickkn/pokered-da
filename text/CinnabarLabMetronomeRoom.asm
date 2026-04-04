@@ -1,4 +1,4 @@
-﻿_CinnabarLabMetronomeRoomScientist1Text::
+_CinnabarLabMetronomeRoomScientist1Text::
 	text "Tch-tch-tch!"
     line "Jeg lavede en"
 	cont "sej TM!"

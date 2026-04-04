@@ -1,4 +1,4 @@
-﻿_PokemonFanClubPikachuFanNormalText::
+_PokemonFanClubPikachuFanNormalText::
 	text "Vil du ikke se"
 	line "min PIKACHUs"
 	cont "yndige hale?"

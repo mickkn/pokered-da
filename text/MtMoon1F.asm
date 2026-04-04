@@ -1,4 +1,4 @@
-﻿_MtMoon1FHikerBattleText::
+_MtMoon1FHikerBattleText::
 	text "WOW! Du chokerede"
 	line "mig! Åh, du er"
 	cont "bare et barn!"

@@ -1,4 +1,4 @@
-﻿_RocketHideoutB2FRocketBattleText::
+_RocketHideoutB2FRocketBattleText::
 	text "BOSSEN sagde du"
 	line "kan se SPØGELSER"
 	cont "med SILPH SCOPE!"

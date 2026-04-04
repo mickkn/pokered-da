@@ -1,4 +1,4 @@
-﻿_SafariZoneCenterRestHouseGirlText::
+_SafariZoneCenterRestHouseGirlText::
 	text "SARA: Hvor blev"
 	line "min kæreste,"
 	cont "ERIK, af?"

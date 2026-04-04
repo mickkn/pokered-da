@@ -1,4 +1,4 @@
-﻿_ViridianSchoolHouseBrunetteGirlText::
+_ViridianSchoolHouseBrunetteGirlText::
 	text "Pyha! Jeg prøver"
 	line "at lære alle mine"
 	cont "noter udenad."

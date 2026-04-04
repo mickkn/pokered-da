@@ -1,4 +1,4 @@
-﻿_SaffronCityRocket1Text::
+_SaffronCityRocket1Text::
 	text "Hvad vil du?"
 	line "Skrub af!"
 	done

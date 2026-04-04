@@ -1,4 +1,4 @@
-﻿_Route12SnorlaxText::
+_Route12SnorlaxText::
 	text "En sovende #MON"
 	line "blokerer vejen!"
 	done

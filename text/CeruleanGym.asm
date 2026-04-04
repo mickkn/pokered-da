@@ -1,4 +1,4 @@
-﻿_CeruleanGymMistyPreBattleText::
+_CeruleanGymMistyPreBattleText::
     text "Hej, du er et nyt"
     line "ansigt!"
 

@@ -1,4 +1,4 @@
-﻿_CeladonHotelGrannyText::
+_CeladonHotelGrannyText::
 	text "#MON? Nej, dette"
 	line "er et hotel for"
 	cont "mennesker."

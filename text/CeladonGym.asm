@@ -1,4 +1,4 @@
-﻿_CeladonGymErikaPreBattleText::
+_CeladonGymErikaPreBattleText::
 	text "Hej. Dejligt"
 	line "vejr, ik' sandt?"
 	cont "Det er så"

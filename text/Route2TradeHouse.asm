@@ -1,4 +1,4 @@
-﻿_Route2TradeHouseScientistText::
+_Route2TradeHouseScientistText::
     text "En besvimet #MON"
     line "kan ikke kæmpe."
 	cont "Men, den kan"

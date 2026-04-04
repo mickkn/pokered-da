@@ -1,4 +1,4 @@
-﻿_CeladonMansion1FMeowthText::
+_CeladonMansion1FMeowthText::
 	text "MEOWTH: Meow!@"
 	text_end
 

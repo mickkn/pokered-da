@@ -1,4 +1,4 @@
-﻿_ViridianForestNorthGateSuperNerdText::
+_ViridianForestNorthGateSuperNerdText::
 	text "Mange #MON lever"
 	line "kun i skove"
 	cont "og huler."

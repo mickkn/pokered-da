@@ -1,4 +1,4 @@
-﻿_Route16Biker1BattleText::
+_Route16Biker1BattleText::
 	text "Hvad vil du?"
 	done
 

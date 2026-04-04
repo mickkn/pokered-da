@@ -1,4 +1,4 @@
-﻿_SSAnne3FSailorText::
+_SSAnne3FSailorText::
 	text "Vores KAPTAJN er"
 	line "en sværdmester!"
 

@@ -1,4 +1,4 @@
-﻿_CeladonCityLittleGirlText::
+_CeladonCityLittleGirlText::
 	text "Jeg fik min"
 	line "KOFFING i"
 	cont "CINNABAR!"

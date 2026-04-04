@@ -1,4 +1,4 @@
-﻿_FuchsiaCityYoungster1Text::
+_FuchsiaCityYoungster1Text::
 	text "Har du prøvet"
 	line "SAFARI SPILLET?"
 	cont "Nogle #MON"

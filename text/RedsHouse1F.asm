@@ -1,4 +1,4 @@
-﻿_RedsHouse1FMomWakeUpText::
+_RedsHouse1FMomWakeUpText::
     text "MOR: Rigtigt."
     cont "forlader hjemmet"
 	cont "en dag. Det sagde"

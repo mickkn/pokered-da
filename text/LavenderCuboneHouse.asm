@@ -1,4 +1,4 @@
-﻿_LavenderCuboneHouseCuboneText::
+_LavenderCuboneHouseCuboneText::
 	text "CUBONE: Kyarugoo!@"
 	text_end
 

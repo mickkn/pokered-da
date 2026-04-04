@@ -1,4 +1,4 @@
-﻿_FuchsiaBillsGrandpasHouseMiddleAgedWomanText::
+_FuchsiaBillsGrandpasHouseMiddleAgedWomanText::
     text "SAFARIZONEN's"
     line "PARKBETJENT er"
     cont "gammel, men"

@@ -1,4 +1,4 @@
-﻿_PokemonTower5FChanneler1Text::
+_PokemonTower5FChanneler1Text::
 	text "Kom, barn! Jeg"
 	line "forseglede dette"
 	cont "rum med hvid magi!"

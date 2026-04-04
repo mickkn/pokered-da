@@ -1,4 +1,4 @@
-﻿_PewterNidoranHouseNidoranText::
+_PewterNidoranHouseNidoranText::
 	text "NIDORAN: Bowbow!@"
 	text_end
 

@@ -1,4 +1,4 @@
-﻿_WardensHouseWardenGibberish1Text::
+_WardensHouseWardenGibberish1Text::
 	text "PARKBETJENT: Hif fuff"
 	line "hefifoo!"
 

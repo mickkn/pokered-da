@@ -1,4 +1,4 @@
-﻿_FuchsiaMartMiddleAgedManText::
+_FuchsiaMartMiddleAgedManText::
 	text "Har du et"
 	line "SAFARIZONEN-flag?"
 

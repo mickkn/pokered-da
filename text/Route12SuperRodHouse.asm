@@ -1,4 +1,4 @@
-﻿_Route12SuperRodHouseFishingGuruDoYouLikeToFishText::
+_Route12SuperRodHouseFishingGuruDoYouLikeToFishText::
 	text "Jeg er FISKE-"
 	line "GURUENS bror!"
 

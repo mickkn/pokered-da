@@ -1,4 +1,4 @@
-﻿_LavenderPokecenterGentlemanText::
+_LavenderPokecenterGentlemanText::
 	text "TEAM ROCKET gør"
 	line "alt for guldets"
 	cont "skyld!"

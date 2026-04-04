@@ -1,4 +1,4 @@
-﻿_Route20Swimmer1BattleText::
+_Route20Swimmer1BattleText::
 	text "Vandet er lavt"
 	line "herude."
 	done

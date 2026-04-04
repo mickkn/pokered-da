@@ -1,4 +1,4 @@
-﻿_VictoryRoad3FCooltrainerM1BattleText::
+_VictoryRoad3FCooltrainerM1BattleText::
 	text "Jeg hørte rygter"
 	line "om et vidunderbarn!"
 	done

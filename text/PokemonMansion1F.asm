@@ -1,4 +1,4 @@
-﻿_PokemonMansion1FScientistBattleText::
+_PokemonMansion1FScientistBattleText::
 	text "Hvem er du? Der"
 	line "burde ikke være"
 	cont "nogen her."

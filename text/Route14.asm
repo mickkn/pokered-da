@@ -1,4 +1,4 @@
-﻿_Route14CooltrainerM1BattleText::
+_Route14CooltrainerM1BattleText::
 	text "Du skal bruge TMs"
 	line "til at lære gode"
 	cont "angreb til #MON!"

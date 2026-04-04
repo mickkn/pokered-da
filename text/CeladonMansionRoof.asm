@@ -1,3 +1,3 @@
-﻿_CeladonMansionRoofHouseSignText::
+_CeladonMansionRoofHouseSignText::
 	text "JEG VED ALT!"
 	done

@@ -1,4 +1,4 @@
-﻿_MrFujisHouseSuperNerdMrFujiIsntHereText::
+_MrFujisHouseSuperNerdMrFujiIsntHereText::
 	text "Det er mærkeligt,"
 	line "MR.FUJI er ikke"
 	cont "her. Hvor gik"

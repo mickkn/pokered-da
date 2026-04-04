@@ -1,4 +1,4 @@
-﻿_VermilionPokecenterFishingGuruText::
+_VermilionPokecenterFishingGuruText::
 	text "Selv om de er"
 	line "samme niveau, kan"
 	cont "#MON have"

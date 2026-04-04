@@ -1,4 +1,4 @@
-﻿_LavenderTownLittleGirlDoYouBelieveInGhostsText::
+_LavenderTownLittleGirlDoYouBelieveInGhostsText::
 	text "Tror du på"
 	line "SPØGELSER?"
 	done

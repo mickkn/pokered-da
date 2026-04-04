@@ -1,4 +1,4 @@
-﻿_CinnabarIslandDoorIsLockedText::
+_CinnabarIslandDoorIsLockedText::
     text "Døren er"
     line "låst..."
     done

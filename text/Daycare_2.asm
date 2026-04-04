@@ -1,4 +1,4 @@
-﻿_DaycareGentlemanAllRightThenText::
+_DaycareGentlemanAllRightThenText::
     text "Okay så,"
     line "@"
     text_end

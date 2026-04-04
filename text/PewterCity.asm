@@ -1,4 +1,4 @@
-﻿_PewterCityCooltrainerFText::
+_PewterCityCooltrainerFText::
 	text "Der går rygter om"
 	line "at CLEFAIRYs kom"
 	cont "fra månen!"

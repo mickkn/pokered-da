@@ -1,4 +1,4 @@
-﻿_CeruleanMartCooltrainerMText::
+_CeruleanMartCooltrainerMText::
 	text "Brug REPEL til"
 	line "at holde insekter"
 	line "og svage"

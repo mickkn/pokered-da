@@ -1,4 +1,4 @@
-﻿_LoreleisRoomLoreleiBeforeBattleText::
+_LoreleisRoomLoreleiBeforeBattleText::
 	text "Velkommen til"
 	line "#MON-LIGAEN!"
 

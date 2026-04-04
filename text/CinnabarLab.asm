@@ -1,4 +1,4 @@
-﻿_CinnabarLabFishingGuruText::
+_CinnabarLabFishingGuruText::
     text "Vi studerer #MON"
     line "indgående her."
 

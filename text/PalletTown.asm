@@ -1,4 +1,4 @@
-﻿_PalletTownOakHeyWaitDontGoOutText::
+_PalletTownOakHeyWaitDontGoOutText::
 	text "OAK: Vent lige!"
 	line "Gå ikke ud!@"
 	text_end

@@ -1,4 +1,4 @@
-﻿_IndigoPlateauLobbyGymGuideText::
+_IndigoPlateauLobbyGymGuideText::
 	text "Hej! Kommende"
 	line "mester!"
 

@@ -1,4 +1,4 @@
-﻿_OaksLabRivalGrampsIsntAroundText::
+_OaksLabRivalGrampsIsntAroundText::
 	text "<RIVAL>: Yo"
 	line "<PLAYER>!"
 	cont "Bedstefar er"
@@ -55,7 +55,7 @@ _OaksLabMonEnergeticText::
 _OaksLabReceivedMonText::
 	text "<PLAYER> modtog"
 	line "en @"
-	text_ram wcd6d
+	text_ram wStringBuffer
 	text "!@"
 	text_end
 
@@ -257,7 +257,7 @@ _OaksLabRivalIllTakeThisOneText::
 _OaksLabRivalReceivedMonText::
 	text "<RIVAL> modtog"
 	line "en @"
-	text_ram wcd6d
+	text_ram wStringBuffer
 	text "!@"
 	text_end
 

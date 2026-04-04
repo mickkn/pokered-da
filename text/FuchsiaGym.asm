@@ -1,4 +1,4 @@
-﻿_FuchsiaGymKogaBeforeBattleText::
+_FuchsiaGymKogaBeforeBattleText::
 	text "KOGA: Fwahahaha!"
 
 	para "Et simpelt barn"

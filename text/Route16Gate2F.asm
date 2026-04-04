@@ -1,4 +1,4 @@
-﻿_Route16Gate2FLittleBoyText::
+_Route16Gate2FLittleBoyText::
 	text "Jeg tager en tur"
 	line "med min kæreste!"
 	done

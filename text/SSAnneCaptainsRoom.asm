@@ -1,4 +1,4 @@
-﻿_SSAnneCaptainsRoomRubCaptainsBackText::
+_SSAnneCaptainsRoomRubCaptainsBackText::
 	text "KAPTAJN: Ooargh..."
 	line "Jeg har det"
 	cont "forfærdeligt..."

@@ -1,4 +1,4 @@
-﻿_PewterSpeechHouseGamblerText::
+_PewterSpeechHouseGamblerText::
 	text "#MON lærer nye"
 	line "teknikker når de"
 	cont "vokser!"

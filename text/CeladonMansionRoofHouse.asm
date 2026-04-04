@@ -1,4 +1,4 @@
-﻿_CeladonMansionRoofHouseHikerText::
+_CeladonMansionRoofHouseHikerText::
 	text "Jeg ved alt om"
 	line "verdenen af"
 	cont "#MON i din"

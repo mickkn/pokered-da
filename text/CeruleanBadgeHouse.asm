@@ -1,4 +1,4 @@
-﻿_CeruleanBadgeHouseMiddleAgedManText::
+_CeruleanBadgeHouseMiddleAgedManText::
     text "#MON EMBLEMER"
     line "ejes kun af"
     cont "dygtige trænere."

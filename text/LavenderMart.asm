@@ -1,4 +1,4 @@
-﻿_LavenderMartBaldingGuyText::
+_LavenderMartBaldingGuyText::
 	text "Jeg leder efter"
 	line "ting der øger"
 	cont "evnerne hos"

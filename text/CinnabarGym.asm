@@ -1,4 +1,4 @@
-﻿_CinnabarGymBlainePreBattleText::
+_CinnabarGymBlainePreBattleText::
 	text "Hah!"
 
 	para "Jeg er BLAINE!"

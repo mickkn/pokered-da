@@ -1,4 +1,4 @@
-﻿_CeruleanPokecenterSuperNerdText::
+_CeruleanPokecenterSuperNerdText::
     text "Den BILL!"
 
     para "Jeg har hørt, at"

@@ -1,4 +1,4 @@
-﻿_PokemonMansion2FSuperNerdBattleText::
+_PokemonMansion2FSuperNerdBattleText::
 	text "Jeg kan ikke"
 	line "komme ud! Det"
 	cont "gamle sted er ét"

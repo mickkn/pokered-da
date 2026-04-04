@@ -1,4 +1,4 @@
-﻿_Route11Gate2FOaksAideItemfinderDescriptionText::
+_Route11Gate2FOaksAideItemfinderDescriptionText::
 	text "Der er ting på"
 	line "jorden der ikke"
 	cont "kan ses."
