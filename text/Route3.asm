@@ -1,4 +1,4 @@
-﻿_Route3Text1::
+_Route3Text1::
     text "Puh... Jeg må nok"
     line "tage en pause..."
     cont "Suk..."

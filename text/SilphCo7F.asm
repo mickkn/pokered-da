@@ -1,4 +1,4 @@
-﻿_SilphCo7FSilphWorkerM1HaveThisPokemonText::
+_SilphCo7FSilphWorkerM1HaveThisPokemonText::
 	text "Åh! Hej! Du er"
 	line "ikke en ROCKET!"
 	cont "Er du kommet for"

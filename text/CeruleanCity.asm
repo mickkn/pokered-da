@@ -1,4 +1,4 @@
-﻿_CeruleanCityRivalPreBattleText::
+_CeruleanCityRivalPreBattleText::
 	text "<RIVAL>: Hej!"
 	line "<PLAYER>!"
 

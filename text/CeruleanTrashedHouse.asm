@@ -1,4 +1,4 @@
-﻿_CeruleanTrashedHouseFishingGuruTheyStoleATMText::
+_CeruleanTrashedHouseFishingGuruTheyStoleATMText::
     text "De elendige"
     line "ROCKETs!"
 

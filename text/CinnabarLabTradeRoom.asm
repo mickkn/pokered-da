@@ -1,4 +1,4 @@
-﻿_CinnabarLabTradeRoomSuperNerdText::
+_CinnabarLabTradeRoomSuperNerdText::
     text "Jeg fandt dette"
 	line "meget mærkelige"
     cont "fossil i"

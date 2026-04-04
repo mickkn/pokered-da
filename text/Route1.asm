@@ -1,4 +1,4 @@
-﻿_Route1Youngster1MartSampleText::
+_Route1Youngster1MartSampleText::
     text "Hej! Jeg arbejder"
     line "i en #MON MART."
 

@@ -1,4 +1,4 @@
-﻿_Route17Biker1BattleText::
+_Route17Biker1BattleText::
 	text "Der er ingen"
 	line "penge i at slås"
 	cont "mod børn!"
