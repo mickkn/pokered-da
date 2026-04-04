@@ -1,69 +1,71 @@
 _VermilionCityText1::
-	text "We're careful"
-	line "about pollution!"
+	text "Vi er forsigtige"
+	line "med forurening!"
 
-	para "We've heard GRIMER"
-	line "multiplies in"
-	cont "toxic sludge!"
+	para "Vi har hørt at"
+	line "GRIMER formerer"
+	cont "sig i giftigt"
+	cont "slam!"
 	done
 
 _VermilionCityTextDidYouSee::
-	text "Did you see S.S."
-	line "ANNE moored in"
-	cont "the harbor?"
+	text "Så du S.S.ANNE"
+	line "fortøjet i"
+	cont "havnen?"
 	done
 
 _VermilionCityTextSSAnneDeparted::
-	text "So, S.S.ANNE has"
-	line "departed!"
+	text "Så er S.S.ANNE"
+	line "sejlet!"
 
-	para "She'll be back in"
-	line "about a year."
+	para "Det kommer"
+	line "tilbage om"
+	cont "cirka et år."
 	done
 
 _SSAnneWelcomeText4::
-	text "Welcome to S.S."
-	line "ANNE!"
-	done
-
-_SSAnneWelcomeText9::
-	text "Welcome to S.S."
-	line "ANNE!"
-
-	para "Excuse me, do you"
-	line "have a ticket?"
-	prompt
-
-_SSAnneFlashedTicketText::
-	text "<PLAYER> flashed"
-	line "the S.S.TICKET!"
-
-	para "Great! Welcome to"
+	text "Velkommen til"
 	line "S.S.ANNE!"
 	done
 
+_SSAnneWelcomeText9::
+	text "Velkommen til"
+	line "S.S.ANNE!"
+
+	para "Undskyld, har du"
+	line "en billet?"
+	prompt
+
+_SSAnneFlashedTicketText::
+	text "<PLAYER> viste"
+	line "S.S.BILLETTEN!"
+
+	para "Fint! Velkommen"
+	line "til S.S.ANNE!"
+	done
+
 _SSAnneNoTicketText::
-	text "<PLAYER> doesn't"
-	line "have the needed"
-	cont "S.S.TICKET."
+	text "<PLAYER> har ikke"
+	line "den nødvendige"
+	cont "S.S.BILLET."
 
-	para "Sorry!"
+	para "Beklager!"
 
-	para "You need a ticket"
-	line "to get aboard."
+	para "Du skal bruge en"
+	line "billet for at"
+	cont "komme om bord."
 	done
 
 _SSAnneNotHereText::
-	text "The ship set sail."
+	text "Skibet er sejlet."
 	done
 
 _VermilionCityText4::
-	text "I'm putting up a"
-	line "building on this"
-	cont "plot of land."
+	text "Jeg bygger på"
+	line "denne grund."
 
-	para "My #MON is"
-	line "tamping the land."
+	para "Min #MON"
+	line "stamper jorden."
 	done
 
 _VermilionCityText5::
@@ -73,55 +75,56 @@ _VermilionCityText5::
 
 _VermilionCityText14::
 	text_start
-	para "A MACHOP is"
-	line "stomping the land"
-	cont "flat."
+	para "En MACHOP stamper"
+	line "jorden flad."
 	done
 
 _VermilionCityText6::
-	text "S.S.ANNE is a"
-	line "famous luxury"
-	cont "cruise ship."
+	text "S.S.ANNE er et"
+	line "berømt luksus-"
+	cont "krydstogtskib."
 
-	para "We visit VERMILION"
-	line "once a year."
+	para "Vi besøger"
+	line "VERMILION én"
+	cont "gang om året."
 	done
 
 _VermilionCityText7::
 	text "VERMILION CITY"
-	line "The Port of"
-	cont "Exquisite Sunsets"
+	line "Havnen med de"
+	cont "Udsøgte"
+	cont "Solnedgange"
 	done
 
 _VermilionCityText8::
-	text "NOTICE!"
+	text "MEDDELELSE!"
 
-	para "RUTE 12 may be"
-	line "blocked off by a"
-	cont "sleeping #MON."
+	para "RUTE 12 kan være"
+	line "blokeret af en"
+	cont "sovende #MON."
 
-	para "Detour through"
-	line "STENTUNNEL to"
+	para "Omvej gennem"
+	line "STENTUNNEL til"
 	cont "LAVENDER TOWN."
 
-	para "VERMILION POLICE"
+	para "VERMILION POLITI"
 	done
 
 _VermilionCityText11::
-	text "#MON FAN CLUB"
-	line "All #MON fans"
-	cont "welcome!"
+	text "#MON FANKLUB"
+	line "Alle #MON-fans"
+	cont "er velkomne!"
 	done
 
 _VermilionCityText12::
 	text "VERMILION CITY"
 	line "#MON GYM"
-	cont "LEADER: LT.SURGE"
+	cont "LEDER: LT.SURGE"
 
-	para "The Lightning "
-	line "American!"
+	para "Den Lynende"
+	line "Amerikaner!"
 	done
 
 _VermilionCityText13::
-	text "VERMILION HARBOR"
+	text "VERMILION HAVN"
 	done

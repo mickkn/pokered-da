@@ -1,21 +1,21 @@
 _LTSurgePreBattleText::
-	text "Hey, kid! What do"
-	line "you think you're"
-	cont "doing here?"
+	text "Hej, knægt! Hvad"
+	line "tror du, du laver"
+	cont "her?"
 
-	para "You won't live"
-	line "long in combat!"
-	cont "That's for sure!"
+	para "Du overlever ikke"
+	line "længe i kamp!"
+	cont "Det er sikkert!"
 
-	para "I tell you kid,"
-	line "electric #MON"
-	cont "saved me during"
-	cont "the war!"
+	para "Jeg siger dig,"
+	line "knægt, elektriske"
+	cont "#MON reddede"
+	cont "mig under krigen!"
 
-	para "They zapped my"
-	line "enemies into"
-	cont "paralysis!"
+	para "De lammede mine"
+	line "fjender med"
+	cont "paralyse!"
 
-	para "The same as I'll"
-	line "do to you!"
+	para "Det samme gør"
+	line "jeg ved dig!"
 	done

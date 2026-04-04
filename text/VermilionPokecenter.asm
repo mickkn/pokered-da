@@ -1,19 +1,19 @@
 _VermilionPokecenterText2::
-	text "Even if they are"
-	line "the same level,"
-	cont "#MON can have"
-	cont "very different"
-	cont "abilities."
+	text "Selv om de er"
+	line "samme niveau, kan"
+	cont "#MON have"
+	cont "meget forskellige"
+	cont "evner."
 
-	para "A #MON raised"
-	line "by a trainer is"
-	cont "stronger than one"
-	cont "in the wild."
+	para "En #MON opdrættet"
+	line "af en træner er"
+	cont "stærkere end en"
+	cont "i naturen."
 	done
 
 _VermilionPokecenterText3::
-	text "My #MON was"
-	line "poisoned! It"
-	cont "fainted while we"
-	cont "were walking!"
+	text "Min #MON blev"
+	line "forgiftet! Den"
+	cont "besvimede mens"
+	cont "vi gik!"
 	done

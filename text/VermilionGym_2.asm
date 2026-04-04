@@ -1,30 +1,32 @@
 _LTSurgePostBattleAdviceText::
-	text "A little word of"
-	line "advice, kid!"
+	text "Et lille godt råd,"
+	line "knægt!"
 
-	para "Electricity is"
-	line "sure powerful!"
+	para "Elektricitet er"
+	line "virkelig kraftig!"
 
-	para "But, it's useless"
-	line "against ground-"
-	cont "type #MON!"
+	para "Men den er nytteløs"
+	line "mod jord-type"
+	cont "#MON!"
 	done
 
 _LTSurgeThunderBadgeInfoText::
-	text "The THUNDEREMBLEM"
-	line "cranks up your"
-	cont "#MON's SPEED!"
+	text "LYNMÆRKET øger"
+	line "dine #MONs"
+	cont "HASTIGHED!"
 
-	para "It also lets your"
-	line "#MON FLY any"
-	cont "time, kid!"
+	para "Det lader også"
+	line "dine #MON FLYVE"
+	cont "når som helst,"
+	cont "knægt!"
 
-	para "You're special,"
-	line "kid! Take this!"
+	para "Du er speciel,"
+	line "knægt! Tag den"
+	cont "her!"
 	done
 
 _ReceivedTM24Text::
-	text "<PLAYER> received "
+	text "<PLAYER> modtog "
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -33,113 +35,116 @@ _ReceivedTM24Text::
 _TM24ExplanationText::
 	text_start
 
-	para "TM24 contains"
+	para "TM24 indeholder"
 	line "THUNDERBOLT!"
 
-	para "Teach it to an"
-	line "electric #MON!"
+	para "Lær den til en"
+	line "elektrisk #MON!"
 	done
 
 _TM24NoRoomText::
-	text "Yo kid, make room"
-	line "in your pack!"
+	text "Yo knægt, gør"
+	line "plads i tasken!"
 	done
 
 _ReceivedThunderBadgeText::
 	text "Whoa!"
 
-	para "You're the real"
-	line "deal, kid!"
+	para "Du er den ægte"
+	line "vare, knægt!"
 
-	para "Fine then, take"
-	line "the THUNDEREMBLEM!"
+	para "Fint, tag"
+	line "LYNMÆRKET!"
 	prompt
 
 _VermilionGymBattleText1::
-	text "When I was in the"
-	line "Army, LT.SURGE"
-	cont "was my strict CO!"
+	text "Da jeg var i"
+	line "hæren, var"
+	cont "LT.SURGE min"
+	cont "strenge officer!"
 	done
 
 _VermilionGymEndBattleText1::
 	text "Stop!"
-	line "You're very good!"
+	line "Du er meget god!"
 	prompt
 
 _VermilionGymAfterBattleText1::
-	text "The door won't"
-	line "open?"
+	text "Døren vil ikke"
+	line "åbne?"
 
-	para "LT.SURGE always"
-	line "was cautious!"
+	para "LT.SURGE har"
+	line "altid været"
+	cont "forsigtig!"
 	done
 
 _VermilionGymBattleText2::
-	text "I'm a lightweight,"
-	line "but I'm good with"
-	cont "electricity!"
+	text "Jeg er letvægt,"
+	line "men god med"
+	cont "elektricitet!"
 	done
 
 _VermilionGymEndBattleText2::
-	text "Fried!"
+	text "Stegt!"
 	prompt
 
 _VermilionGymAfterBattleText2::
-	text "OK, I'll talk!"
+	text "OK, jeg snakker!"
 
-	para "LT.SURGE said he"
-	line "hid door switches"
-	cont "inside something!"
+	para "LT.SURGE sagde"
+	line "han gemte dør-"
+	cont "kontakter inde i"
+	cont "noget!"
 	done
 
 _VermilionGymBattleText3::
-	text "This is no place"
-	line "for kids!"
+	text "Dette er ikke et"
+	line "sted for børn!"
 	done
 
 _VermilionGymEndBattleText3::
 	text "Wow!"
-	line "Surprised me!"
+	line "Overraskede mig!"
 	prompt
 
 _VermilionGymAfterBattleText3::
-	text "LT.SURGE set up"
-	line "double locks!"
-	cont "Here's a hint!"
+	text "LT.SURGE satte"
+	line "dobbeltlåse op!"
+	cont "Her er et hint!"
 
-	para "When you open the"
-	line "1st lock, the 2nd"
-	cont "lock is right"
-	cont "next to it!"
+	para "Når du åbner den"
+	line "1. lås, er den"
+	cont "2. lås lige"
+	cont "ved siden af!"
 	done
 
 _VermilionGymGuidePreBattleText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Yo! Kommende"
+	line "mester!"
 
-	para "LT.SURGE has a"
-	line "nickname. People"
-	cont "refer to him as"
-	cont "the Lightning"
-	cont "American!"
+	para "LT.SURGE har et"
+	line "kælenavn. Folk"
+	cont "kalder ham den"
+	cont "Lynende"
+	cont "Amerikaner!"
 
-	para "He's an expert on"
-	line "electric #MON!"
+	para "Han er ekspert i"
+	line "elektriske #MON!"
 
-	para "Birds and water"
-	line "#MON are at"
-	cont "risk! Beware of"
-	cont "paralysis too!"
+	para "Fugle- og vand-"
+	line "#MON er i fare!"
+	cont "Pas også på"
+	cont "paralyse!"
 
-	para "LT.SURGE is very"
-	line "cautious!"
+	para "LT.SURGE er meget"
+	line "forsigtig!"
 
-	para "You'll have to"
-	line "break a code to"
-	cont "get to him!"
+	para "Du skal knække en"
+	line "kode for at nå"
+	cont "ham!"
 	done
 
 _VermilionGymGuidePostBattleText::
-	text "Whew! That match"
-	line "was electric!"
+	text "Pyha! Den kamp"
+	line "var elektrisk!"
 	done

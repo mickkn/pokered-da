@@ -1,8 +1,8 @@
 _VermilionHouse1Text1::
-	text "I'm getting my"
-	line "PIDGEY to fly a"
-	cont "letter to SAFFRON"
-	cont "in the north!"
+	text "Jeg får min PIDGEY"
+	line "til at flyve med"
+	cont "et brev til"
+	cont "SAFFRON mod nord!"
 	done
 
 _VermilionHouse1Text2::
@@ -10,13 +10,15 @@ _VermilionHouse1Text2::
 	text_end
 
 _VermilionHouse1Text3::
-	text "Dear PIPPI, I hope"
-	line "to see you soon."
+	text "Kære PIPPI, jeg"
+	line "håber at se dig"
+	cont "snart."
 
-	para "I heard SAFFRON"
-	line "has problems with"
+	para "Jeg hørte SAFFRON"
+	line "har problemer med"
 	cont "TEAM ROCKET."
 
-	para "VERMILION appears"
-	line "to be safe."
+	para "VERMILION ser ud"
+	line "til at være"
+	cont "sikkert."
 	done

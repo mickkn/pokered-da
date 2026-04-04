@@ -1,23 +1,24 @@
 _VermilionMartText2::
-	text "There are evil"
-	line "people who will"
-	cont "use #MON for"
-	cont "criminal acts."
+	text "Der er onde"
+	line "mennesker som vil"
+	cont "bruge #MON til"
+	cont "kriminelle ting."
 
 	para "TEAM ROCKET"
-	line "traffics in rare"
-	cont "#MON."
+	line "handler med"
+	cont "sjældne #MON."
 
-	para "They also abandon"
-	line "#MON that they"
-	cont "consider not to"
-	cont "be popular or"
-	cont "useful."
+	para "De efterlader"
+	line "også #MON som"
+	cont "de ikke anser"
+	cont "for populære"
+	cont "eller nyttige."
 	done
 
 _VermilionMartText3::
-	text "I think #MON"
-	line "can be good or"
-	cont "evil. It depends"
-	cont "on the trainer."
+	text "Jeg tror #MON"
+	line "kan være gode"
+	cont "eller onde."
+	cont "Det afhænger af"
+	cont "træneren."
 	done

@@ -1,23 +1,23 @@
 _VermilionHouse2Text_560b1::
-	text "I'm the FISHING"
-	line "GURU!"
+	text "Jeg er FISKERI-"
+	line "GURUEN!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "Jeg eeeelsker"
+	line "bare at fiske!"
 
-	para "Do you like to"
-	line "fish?"
+	para "Kan du lide at"
+	line "fiske?"
 	done
 
 _VermilionHouse2Text_560b6::
-	text "Grand! I like"
-	line "your style!"
+	text "Fint! Jeg kan"
+	line "lide din stil!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "Tag denne og"
+	line "fisk, unge ven!"
 
-	para "<PLAYER> received"
-	line "an @"
+	para "<PLAYER> modtog"
+	line "en @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -25,31 +25,31 @@ _VermilionHouse2Text_560b6::
 _VermilionHouse2Text_560bb::
 	text_start
 
-	para "Fishing is a way"
-	line "of life!"
+	para "Fiskeri er en"
+	line "livsstil!"
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one, young one!"
+	para "Fra havene til"
+	line "floderne, gå ud"
+	cont "og fang den store"
+	cont "fisk, unge ven!"
 	done
 
 _VermilionHouse2Text_560c0::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Åh... Det er så"
+	line "skuffende..."
 	done
 
 _VermilionHouse2Text_560c5::
-	text "Hello there,"
+	text "Hej med dig,"
 	line "<PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "Hvordan bider"
+	line "fiskene?"
 	done
 
 _VermilionHouse2Text_560ca::
-	text "Oh no!"
+	text "Åh nej!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "Du har ikke plads"
+	line "til min gave!"
 	done
