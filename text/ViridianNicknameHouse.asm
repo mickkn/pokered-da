@@ -1,16 +1,16 @@
 _ViridianHouseText1::
-	text "Coming up with"
-	line "nicknames is fun,"
-	cont "but hard."
+	text "At finde på"
+	line "kælenavne er"
+	cont "sjovt, men svært."
 
-	para "Simple names are"
-	line "the easiest to"
-	cont "remember."
+	para "Simple navne er"
+	line "de nemmeste at"
+	cont "huske."
 	done
 
 _ViridianHouseText2::
-	text "My Daddy loves"
-	line "#MON too."
+	text "Min far elsker"
+	line "også #MON."
 	done
 
 _ViridianHouseText_1d5b1::
@@ -19,5 +19,5 @@ _ViridianHouseText_1d5b1::
 
 _ViridianHouseText4::
 	text "SPEAROW"
-	line "Name: SPEARY"
+	line "Navn: SPEARY"
 	done

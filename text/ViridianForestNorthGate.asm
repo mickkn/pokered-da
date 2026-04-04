@@ -1,19 +1,19 @@
 _ViridianForestExitText1::
-	text "Many #MON live"
-	line "only in forests "
-	cont "and caves."
+	text "Mange #MON lever"
+	line "kun i skove"
+	cont "og huler."
 
-	para "You need to look"
-	line "everywhere to get"
-	cont "different kinds!"
+	para "Du skal lede alle"
+	line "steder for at få"
+	cont "forskellige slags!"
 	done
 
 _ViridianForestExitText2::
-	text "Have you noticed"
-	line "the bushes on the"
-	cont "roadside?"
+	text "Har du lagt mærke"
+	line "til buskene langs"
+	cont "vejen?"
 
-	para "They can be cut"
-	line "down by a special"
-	cont "#MON move."
+	para "De kan skæres ned"
+	line "med en specielt"
+	cont "#MON-evne."
 	done

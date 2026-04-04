@@ -1,13 +1,13 @@
 _SchoolText1::
-	text "Whew! I'm trying"
-	line "to memorize all"
-	cont "my notes."
+	text "Pyha! Jeg prøver"
+	line "at lære alle mine"
+	cont "noter udenad."
 	done
 
 _SchoolText2::
-	text "Okay!"
+	text "OK!"
 
-	para "Be sure to read"
-	line "the blackboard"
-	cont "carefully!"
+	para "Sørg for at læse"
+	line "tavlen"
+	cont "grundigt!"
 	done

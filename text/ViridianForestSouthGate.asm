@@ -1,13 +1,14 @@
 _ViridianForestEntranceText1::
-	text "Are you going to"
+	text "Skal du ind i"
 	line "VIRIDIAN FOREST?"
-	cont "Be careful, it's"
-	cont "a natural maze!"
+	cont "Pas på, det er"
+	cont "en naturlig"
+	cont "labyrint!"
 	done
 
 _ViridianForestEntranceText2::
-	text "RATTATA may be"
-	line "small, but its"
-	cont "bite is wicked!"
-	cont "Did you get one?"
+	text "RATTATA er måske"
+	line "lille, men dens"
+	cont "bid er slemt!"
+	cont "Har du fanget en?"
 	done

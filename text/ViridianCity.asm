@@ -1,172 +1,176 @@
 _ViridianCityText1::
-	text "Those # BALLs"
-	line "at your waist!"
-	cont "You have #MON!"
+	text "De # BALLs"
+	line "i dit bælte!"
+	cont "Du har #MON!"
 
-	para "It's great that"
-	line "you can carry and"
-	cont "use #MON any"
-	cont "time, anywhere!"
+	para "Det er fedt at"
+	line "man kan bære og"
+	cont "bruge #MON når"
+	cont "som helst, hvor"
+	cont "som helst!"
 	done
 
 _ViridianCityText_19122::
-	text "This #MON GYM"
-	line "is always closed."
+	text "Dette #MON GYM"
+	line "er altid lukket."
 
-	para "I wonder who the"
-	line "LEADER is?"
+	para "Hvem mon LEDEREN"
+	line "er?"
 	done
 
 _ViridianCityText_19127::
-	text "VIRIDIAN GYM's"
-	line "LEADER returned!"
+	text "VIRIDIAN GYMs"
+	line "LEDER er vendt"
+	cont "tilbage!"
 	done
 
 _ViridianCityText_1914d::
-	text "You want to know"
-	line "about the 2 kinds"
-	cont "of caterpillar"
-	cont "#MON?"
+	text "Vil du vide noget"
+	line "om de 2 slags"
+	cont "larve-#MON?"
 	done
 
 _ViridianCityText_19152::
-	text "Oh, OK then!"
+	text "Nå, OK da!"
 	done
 
 _ViridianCityText_19157::
-	text "CATERPIE has no"
-	line "poison, but"
-	cont "WEEDLE does."
+	text "CATERPIE har"
+	line "ingen gift, men"
+	cont "WEEDLE har."
 
-	para "Watch out for its"
+	para "Pas på dens"
 	line "POISON STING!"
 	done
 
 _ViridianCityText_19175::
-	text "Oh Grandpa! Don't"
-	line "be so mean!"
-	cont "He hasn't had his"
-	cont "coffee yet."
+	text "Åh bedstefar! Lad"
+	line "nu være med at"
+	cont "være så sur!"
+	cont "Han har ikke fået"
+	cont "sin kaffe endnu."
 	done
 
 _ViridianCityText_1917a::
-	text "When I go shop in"
-	line "PEWTER CITY, I"
-	cont "have to take the"
-	cont "winding trail in"
-	cont "VIRIDIAN FOREST."
+	text "Når jeg handler i"
+	line "PEWTER CITY, skal"
+	cont "jeg tage den"
+	cont "snoede sti"
+	cont "i VIRIDIAN FOREST."
 	done
 
 _ViridianCityText_19191::
-	text "You can't go"
-	line "through here!"
+	text "Du kan ikke gå"
+	line "igennem her!"
 
-	para "This is private"
-	line "property!"
+	para "Det her er privat"
+	line "ejendom!"
 	done
 
 _ViridianCityText_191ca::
-	text "Yawn!"
-	line "I must have dozed"
-	cont "off in the sun."
+	text "Gaaaab!"
+	line "Jeg må have"
+	cont "døset hen i"
+	cont "solen."
 
-	para "I had this dream"
-	line "about a DROWZEE"
-	cont "eating my dream."
-	cont "What's this?"
-	cont "Where did this TM"
-	cont "come from?"
+	para "Jeg drømte at en"
+	line "DROWZEE spiste"
+	cont "min drøm."
+	cont "Hvad er det her?"
+	cont "Hvor kom denne"
+	cont "TM fra?"
 
-	para "This is spooky!"
-	line "Here, you can"
-	cont "have this TM."
+	para "Det er uhyggeligt!"
+	line "Her, du kan få"
+	cont "denne TM."
 	prompt
 
 _ReceivedTM42Text::
-	text "<PLAYER> received"
+	text "<PLAYER> modtog"
 	line "TM42!@"
 	text_end
 
 _TM42Explanation::
-	text "TM42 contains"
+	text "TM42 indeholder"
 	line "DREAM EATER..."
-	cont "...Snore..."
+	cont "...Snork..."
 	done
 
 _TM42NoRoomText::
-	text "You have too much"
-	line "stuff already."
+	text "Du har for mange"
+	line "ting allerede."
 	done
 
 _ViridianCityText_1920a::
-	text "Ahh, I've had my"
-	line "coffee now and I"
-	cont "feel great!"
+	text "Ahh, jeg har fået"
+	line "min kaffe nu og"
+	cont "har det godt!"
 
-	para "Sure you can go"
-	line "through!"
+	para "Selvfølgelig kan"
+	line "du gå igennem!"
 
-	para "Are you in a"
-	line "hurry?"
+	para "Har du travlt?"
 	done
 
 _ViridianCityText_1920f::
-	text "I see you're using"
-	line "a #DEX."
+	text "Jeg kan se du"
+	line "bruger en #DEX."
 
-	para "When you catch a"
-	line "#MON, #DEX"
-	cont "is automatically"
-	cont "updated."
+	para "Når du fanger en"
+	line "#MON, opdateres"
+	cont "#DEX"
+	cont "automatisk."
 
-	para "What? Don't you"
-	line "know how to catch"
+	para "Hvad? Ved du ikke"
+	line "hvordan man fanger"
 	cont "#MON?"
 
-	para "I'll show you"
-	line "how to then."
+	para "Jeg viser dig"
+	line "hvordan."
 	done
 
 _ViridianCityText_19214::
-	text "Time is money..."
-	line "Go along then."
+	text "Tid er penge..."
+	line "Gå du bare."
 	done
 
 _ViridianCityText_19219::
-	text "First, you need"
-	line "to weaken the"
-	cont "target #MON."
+	text "Først skal du"
+	line "svække den #MON"
+	cont "du går efter."
 	done
 
 _ViridianCityText8::
 	text "VIRIDIAN CITY "
-	line "The Eternally"
-	cont "Green Paradise"
+	line "Det Evigt Grønne"
+	cont "Paradis"
 	done
 
 _ViridianCityText9::
-	text "TRAINER TIPS"
+	text "TRÆNERTIPS"
 
-	para "Catch #MON"
-	line "and expand your"
-	cont "collection!"
+	para "Fang #MON og"
+	line "udvid din"
+	cont "samling!"
 
-	para "The more you have,"
-	line "the easier it is"
-	cont "to fight!"
+	para "Jo flere du har,"
+	line "jo nemmere er"
+	cont "det at kæmpe!"
 	done
 
 _ViridianCityText10::
-	text "TRAINER TIPS"
+	text "TRÆNERTIPS"
 
-	para "The battle moves"
-	line "of #MON are"
-	cont "limited by their"
-	cont "POWER POINTs, PP."
+	para "Kamptrækkene for"
+	line "#MON er"
+	cont "begrænset af"
+	cont "deres POWER"
+	cont "POINTs, PP."
 
-	para "To replenish PP,"
-	line "rest your tired"
-	cont "#MON at a"
+	para "For at genopfylde"
+	line "PP, lad dine"
+	cont "trætte #MON"
+	cont "hvile på et"
 	cont "#MON CENTER!"
 	done
 
@@ -176,6 +180,6 @@ _ViridianCityText13::
 	done
 
 _ViridianCityText14::
-	text "The GYM's doors"
-	line "are locked..."
+	text "GYMets døre er"
+	line "låst..."
 	done

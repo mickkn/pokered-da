@@ -1,123 +1,122 @@
 _ViridianForestText1::
-	text "I came here with"
-	line "some friends!"
+	text "Jeg kom hertil med"
+	line "nogle venner!"
 
-	para "They're out for"
-	line "#MON fights!"
+	para "De er ude og"
+	line "kæmpe med #MON!"
 	done
 
 _ViridianForestBattleText1::
-	text "Hey! You have"
-	line "#MON! Come on!"
-	cont "Let's battle'em!"
+	text "Hej! Du har"
+	line "#MON! Kom!"
+	cont "Lad os kæmpe!"
 	done
 
 _ViridianForestEndBattleText1::
-	text "No!"
-	line "CATERPIE can't"
-	cont "cut it!"
+	text "Nej!"
+	line "CATERPIE klarer"
+	cont "det ikke!"
 	prompt
 
 _ViridianFrstAfterBattleText1::
-	text "Ssh! You'll scare"
-	line "the bugs away!"
+	text "Shh! Du skræmmer"
+	line "insekterne væk!"
 	done
 
 _ViridianForestBattleText2::
-	text "Yo! You can't jam"
-	line "out if you're a"
-	cont "#MON trainer!"
+	text "Yo! Du kan ikke"
+	line "bare stikke af"
+	cont "som #MON-træner!"
 	done
 
 _ViridianForestEndBattleText2::
-	text "Huh?"
-	line "I ran out of"
+	text "Hvad?"
+	line "Jeg løb tør for"
 	cont "#MON!"
 	prompt
 
 _ViridianFrstAfterBattleText2::
-	text "Darn! I'm going"
-	line "to catch some"
-	cont "stronger ones!"
+	text "Pøj! Jeg fanger"
+	line "nogle stærkere!"
 	done
 
 _ViridianForestBattleText3::
-	text "Hey, wait up!"
-	line "What's the hurry?"
+	text "Hej, vent lidt!"
+	line "Hvorfor så travlt?"
 	done
 
 _ViridianForestEndBattleText3::
-	text "I"
-	line "give! You're good"
-	cont "at this!"
+	text "Jeg"
+	line "giver op! Du er"
+	cont "god til det!"
 	prompt
 
 _ViridianFrstAfterBattleText3::
-	text "Sometimes, you"
-	line "can find stuff on"
-	cont "the ground!"
+	text "Sommetider kan"
+	line "man finde ting"
+	cont "på jorden!"
 
-	para "I'm looking for"
-	line "the stuff I"
-	cont "dropped!"
+	para "Jeg leder efter"
+	line "det jeg tabte!"
 	done
 
 _ViridianForestText8::
-	text "I ran out of #"
-	line "BALLs to catch"
-	cont "#MON with!"
+	text "Jeg løb tør for"
+	line "# BALLs til at"
+	cont "fange #MON med!"
 
-	para "You should carry"
-	line "extras!"
+	para "Du bør have"
+	line "ekstra med!"
 	done
 
 _ViridianForestText9::
-	text "TRAINER TIPS"
+	text "TRÆNERTIPS"
 
-	para "If you want to"
-	line "avoid battles,"
-	cont "stay away from"
-	cont "grassy areas!"
+	para "Hvis du vil undgå"
+	line "kampe, hold dig"
+	cont "væk fra"
+	cont "græsområder!"
 	done
 
 _ViridianForestText10::
-	text "For poison, use"
-	line "ANTIDOTE! Get it"
-	cont "at #MON MARTs!"
+	text "Mod forgiftning,"
+	line "brug MODGIFT! Køb"
+	cont "den i #MON"
+	cont "MARTs!"
 	done
 
 _ViridianForestText11::
-	text "TRAINER TIPS"
+	text "TRÆNERTIPS"
 
-	para "Contact PROF.OAK"
-	line "via PC to get"
-	cont "your #DEX"
-	cont "evaluated!"
+	para "Kontakt PROF.OAK"
+	line "via PC for at få"
+	cont "din #DEX"
+	cont "vurderet!"
 	done
 
 _ViridianForestText12::
-	text "TRAINER TIPS"
+	text "TRÆNERTIPS"
 
-	para "No stealing of"
-	line "#MON from"
-	cont "other trainers!"
-	cont "Catch only wild"
-	cont "#MON!"
+	para "Man må ikke"
+	line "stjæle #MON"
+	cont "fra andre"
+	cont "trænere! Fang kun"
+	cont "vilde #MON!"
 	done
 
 _ViridianForestText13::
-	text "TRAINER TIPS"
+	text "TRÆNERTIPS"
 
-	para "Weaken #MON"
-	line "before attempting"
-	cont "capture!"
+	para "Svæk #MON før"
+	line "du forsøger at"
+	cont "fange dem!"
 
-	para "When healthy,"
-	line "they may escape!"
+	para "Når de er sunde,"
+	line "kan de flygte!"
 	done
 
 _ViridianForestText14::
-	text "LEAVING"
+	text "FORLADER"
 	line "VIRIDIAN FOREST"
-	cont "PEWTER CITY AHEAD"
+	cont "PEWTER CITY FORUDE"
 	done
