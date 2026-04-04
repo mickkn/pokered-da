@@ -160,7 +160,8 @@
 	charmap "Æ",         $c0		 
 	charmap "Ø",         $c1
 	charmap "Å",         $c2
-	
+	charmap "É",         $c3
+
 	charmap "æ",         $d0
 	charmap "ø",         $d1
 	charmap "å",         $d2

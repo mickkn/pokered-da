@@ -361,7 +361,7 @@ _CinnabarQuizQuestionsText2::
 	text "Der er 9"
 	line "certificerede"
 	cont "#MON"
-	cont "LIGA-EMBLEMER?"
+	cont "LIGA-MÆRKER?"
 	done
 
 _CinnabarQuizQuestionsText3::
@@ -878,13 +878,14 @@ _EnemyRanText::
 	prompt
 
 _HurtByPoisonText::
-	text "<USER> tog skade"
-	line "af giften!"
+	text "<USER> tog"
+	line "skade af giften!"
 	prompt
 
 _HurtByBurnText::
-	text "<USER> tog skade"
-	line "af forbrændingen!"
+	text "<USER> tog"
+	line "skade af"
+	cont "forbrændingen!"
 	prompt
 
 _HurtByLeechSeedText::

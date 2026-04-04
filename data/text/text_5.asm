@@ -56,7 +56,7 @@ _NotHealthyEnoughText::
 	prompt
 
 _NewBadgeRequiredText::
-	text "Nej! Et nyt EMBLEM"
+	text "Nej! Et nyt MÆRKE"
 	line "er påkrævet."
 	prompt
 

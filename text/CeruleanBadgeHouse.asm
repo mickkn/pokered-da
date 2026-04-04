@@ -1,12 +1,12 @@
 _CeruleanBadgeHouseMiddleAgedManText::
-    text "#MON EMBLEMER"
+    text "#MON MÆRKER"
     line "ejes kun af"
     cont "dygtige trænere."
 
     para "Jeg kan se, at du"
     line "har mindst én."
 
-    para "Disse EMBLEMER har"
+    para "Disse MÆRKER har"
     line "fantastiske"
 	cont "hemmeligheder!"
     prompt
@@ -15,7 +15,7 @@ _CeruleanBadgeHouseMiddleAgedManWhichBadgeText::
     text "Nu så..."
 
     para "Hvilken af de 8"
-    line "EMBLEMER skal jeg"
+    line "MÆRKER skal jeg"
     cont "beskrive?"
     done
 

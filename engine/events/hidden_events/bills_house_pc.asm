@@ -127,7 +127,7 @@ BillsMonListText:
 	next "FLAREON"
 	next "JOLTEON"
 	next "VAPOREON"
-	next "FORTRYD@"
+	next "AFBRYD@"
 
 BillsHousePokemonListText2:
 	text_far _BillsHousePokemonListText2

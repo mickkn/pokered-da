@@ -87,7 +87,7 @@ _ChampionsRoomRivalAfterBattleText::
 
     para "Selvom jeg ikke"
     line "kan lide at"
-	cont "indrømme det."
+	line "indrømme det."
     done
 
 _ChampionsRoomOakText::

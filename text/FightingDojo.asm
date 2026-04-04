@@ -24,7 +24,7 @@ _FightingDojoKarateMasterIWillGiveYouAPokemonText::
 
     para "Men, jeg beder"
     line "dig, tag ikke"
-    cont "vores emblem som"
+    cont "vores mærke som"
     cont "dit trofæ!"
 
     para "Som erstatning"

@@ -352,7 +352,7 @@ NewGameText:
 CableClubOptionsText:
 	db   "BYTTECENTRAL"
 	next "KOLOSSEUM"
-	next "FORTRYD@"
+	next "AFBRYD@"
 
 DisplayContinueGameInfo:
 	xor a
@@ -436,7 +436,7 @@ PrintPlayTime:
 
 SaveScreenInfoText:
 	db   "NAVN "
-	next "EMBLEMER  "
+	next "MÆRKER  "
 	next "#DEX    "
 	next "TID@"
 
@@ -607,7 +607,7 @@ BattleStyleOptionText:
 	next " SHIFT    SET@"
 
 OptionMenuCancelText:
-	db "FORTRYD@"
+	db "AFBRYD@"
 
 ; sets the options variable according to the current placement of the menu cursors in the options menu
 SetOptionsFromCursorPositions:

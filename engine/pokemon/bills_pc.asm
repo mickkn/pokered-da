@@ -450,7 +450,7 @@ DepositPCText:  db "DEPOSIT@"
 WithdrawPCText: db "WITHDRAW@"
 StatsCancelPCText:
 	db   "STATS"
-	next "FORTRYD@"
+	next "AFBRYD@"
 
 SwitchOnText:
 	text_far _SwitchOnText

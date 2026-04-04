@@ -81,7 +81,7 @@ BikeShopClerkText:
 
 BikeShopMenuText:
 	db   "CYKEL"
-	next "FORTRYD@"
+	next "AFBRYD@"
 
 BikeShopMenuPrice:
 	db "¥1000000@"
