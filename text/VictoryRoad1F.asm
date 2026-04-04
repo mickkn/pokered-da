@@ -1,31 +1,30 @@
 _VictoryRoad1BattleText1::
-	text "I wonder if you"
-	line "are good enough"
-	cont "for me!"
+	text "Mon du er god"
+	line "nok til mig!"
 	done
 
 _VictoryRoad1EndBattleText1::
-	text "I"
-	line "lost out!"
+	text "Jeg"
+	line "tabte!"
 	prompt
 
 _VictoryRoad1AfterBattleText1::
-	text "I never wanted to"
-	line "lose to anybody!"
+	text "Jeg ville aldrig"
+	line "tabe til nogen!"
 	done
 
 _VictoryRoad1BattleText2::
-	text "I can see you're"
-	line "good! Let me see"
-	cont "exactly how good!"
+	text "Jeg kan se du er"
+	line "god! Lad mig se"
+	cont "hvor god!"
 	done
 
 _VictoryRoad1EndBattleText2::
-	text "I"
-	line "had a chance..."
+	text "Jeg"
+	line "havde en chance..."
 	prompt
 
 _VictoryRoad1AfterBattleText2::
-	text "I concede, you're"
-	line "better than me!"
+	text "Jeg indrømmer, du"
+	line "er bedre end mig!"
 	done

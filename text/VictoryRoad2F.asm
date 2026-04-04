@@ -3,9 +3,9 @@ _MoltresBattleText::
 	text_end
 
 _VictoryRoad2BattleText1::
-	text "VICTORY ROAD is"
-	line "the final test"
-	cont "for trainers!"
+	text "SEJRENS VEJ er"
+	line "den sidste prøve"
+	cont "for trænere!"
 	done
 
 _VictoryRoad2EndBattleText1::
@@ -13,74 +13,74 @@ _VictoryRoad2EndBattleText1::
 	prompt
 
 _VictoryRoad2AfterBattleText1::
-	text "If you get stuck,"
-	line "try moving some"
-	cont "boulders around!"
+	text "Hvis du sidder"
+	line "fast, prøv at"
+	cont "flytte nogle"
+	cont "klippeblokke!"
 	done
 
 _VictoryRoad2BattleText2::
-	text "Ah, so you wish"
-	line "to challenge the"
+	text "Ah, så du ønsker"
+	line "at udfordre"
 	cont "ELITE-FIREN?"
 	done
 
 _VictoryRoad2EndBattleText2::
-	text "You"
-	line "got me!"
+	text "Du"
+	line "fik mig!"
 	prompt
 
 _VictoryRoad2AfterBattleText2::
-	text "<RIVAL> also came"
-	line "through here!"
+	text "<RIVAL> kom også"
+	line "igennem her!"
 	done
 
 _VictoryRoad2BattleText3::
-	text "Come on!"
-	line "I'll whip you!"
+	text "Kom så!"
+	line "Jeg tæver dig!"
 	done
 
 _VictoryRoad2EndBattleText3::
-	text "I got"
-	line "whipped!"
+	text "Jeg blev"
+	line "tævet!"
 	prompt
 
 _VictoryRoad2AfterBattleText3::
-	text "You earned the"
-	line "right to be on"
-	cont "VICTORY ROAD!"
+	text "Du har fortjent"
+	line "at være på"
+	cont "SEJRENS VEJ!"
 	done
 
 _VictoryRoad2BattleText4::
-	text "If you can get"
-	line "through here, you"
-	cont "can go meet the"
+	text "Hvis du kan komme"
+	line "igennem her, kan"
+	cont "du møde"
 	cont "ELITE-FIREN!"
 	done
 
 _VictoryRoad2EndBattleText4::
-	text "No!"
-	line "Unbelievable!"
+	text "Nej!"
+	line "Utroligt!"
 	prompt
 
 _VictoryRoad2AfterBattleText4::
-	text "I can beat you"
-	line "when it comes to"
-	cont "knowledge about"
+	text "Jeg kan slå dig"
+	line "når det handler"
+	cont "om viden om"
 	cont "#MON!"
 	done
 
 _VictoryRoad2BattleText5::
-	text "Is VICTORY ROAD"
-	line "too tough?"
+	text "Er SEJRENS VEJ"
+	line "for svær?"
 	done
 
 _VictoryRoad2EndBattleText5::
-	text "Well"
-	line "done!"
+	text "Godt"
+	line "klaret!"
 	prompt
 
 _VictoryRoad2AfterBattleText5::
-	text "Many trainers give"
-	line "up the challenge"
-	cont "here."
+	text "Mange trænere"
+	line "giver op her."
 	done

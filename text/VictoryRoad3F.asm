@@ -1,63 +1,64 @@
 _VictoryRoad3BattleText2::
-	text "I heard rumors of"
-	line "a child prodigy!"
+	text "Jeg hørte rygter"
+	line "om et vidunderbarn!"
 	done
 
 _VictoryRoad3EndBattleText2::
-	text "The"
-	line "rumors were true!"
+	text "Rygterne"
+	line "var sande!"
 	prompt
 
 _VictoryRoad3AfterBattleText2::
-	text "You beat GIOVANNI"
-	line "of TEAM ROCKET?"
+	text "Du slog GIOVANNI"
+	line "fra TEAM ROCKET?"
 	done
 
 _VictoryRoad3BattleText3::
-	text "I'll show you just"
-	line "how good you are!"
+	text "Jeg viser dig"
+	line "hvor god du er!"
 	done
 
 _VictoryRoad3EndBattleText3::
-	text "I'm"
-	line "furious!"
+	text "Jeg er"
+	line "rasende!"
 	prompt
 
 _VictoryRoad3AfterBattleText3::
-	text "You showed me just"
-	line "how good I was!"
+	text "Du viste mig hvor"
+	line "god jeg var!"
 	done
 
 _VictoryRoad3BattleText4::
-	text "Only the chosen"
-	line "can pass here!"
+	text "Kun de udvalgte"
+	line "må passere her!"
 	done
 
 _VictoryRoad3EndBattleText4::
-	text "I"
-	line "don't believe it!"
+	text "Jeg"
+	line "kan ikke tro det!"
 	prompt
 
 _VictoryRoad3AfterBattleText4::
-	text "All trainers here"
-	line "are headed to the"
-	cont "#MON-LIGA!"
-	cont "Be careful!"
+	text "Alle trænere her"
+	line "er på vej til"
+	cont "#MON-LIGAEN!"
+	cont "Pas på!"
 	done
 
 _VictoryRoad3BattleText5::
-	text "Trainers live to"
-	line "seek stronger"
-	cont "opponents!"
+	text "Trænere lever for"
+	line "at søge stærkere"
+	cont "modstandere!"
 	done
 
 _VictoryRoad3EndBattleText5::
-	text "Oh!"
-	line "So strong!"
+	text "Åh!"
+	line "Så stærk!"
 	prompt
 
 _VictoryRoad3AfterBattleText5::
-	text "By fighting tough"
-	line "battles, you get"
-	cont "stronger!"
+	text "Ved at kæmpe"
+	line "hårde kampe"
+	cont "bliver du"
+	cont "stærkere!"
 	done
