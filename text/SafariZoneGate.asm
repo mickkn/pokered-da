@@ -46,7 +46,7 @@ _SafariZoneGateSafariZoneWorker1NotEnoughMoneyText::
 	done
 
 _SafariZoneGateSafariZoneWorker1LeavingEarlyText::
-	text "Smutter du tidligt?@"
+	text "Går du tidligt?@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1ReturnSafariBallsText::

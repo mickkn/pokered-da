@@ -1,6 +1,7 @@
 _VictoryRoad3FCooltrainerM1BattleText::
-	text "Jeg hørte rygter"
-	line "om et vidunderbarn!"
+	text "Jeg hørte"
+	line "rygter om et"
+	cont "vidunderbarn!"
 	done
 
 _VictoryRoad3FCooltrainerM1EndBattleText::

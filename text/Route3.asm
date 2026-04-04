@@ -1,4 +1,4 @@
-_Route3Text1::
+﻿_Route3Text1::
     text "Puh... Jeg må nok"
     line "tage en pause..."
     cont "Suk..."
@@ -28,7 +28,7 @@ _Route3Youngster1AfterBattleText::
 _Route3Youngster2BattleText::
     text "Hej! Jeg kan lide"
 	line "shorts! De er"
-    line "behagelige og"
+    cont "behagelige og"
     cont "rare at have på!"
     done
 

@@ -66,10 +66,10 @@ StartMenuPokemonText:
 	db "POKéMON@"
 
 StartMenuItemText:
-	db "ITEM@"
+	db "TING@"
 
 StartMenuSaveText:
-	db "SAVE@"
+	db "GEM@"
 
 StartMenuResetText:
 	db "RESET@"

@@ -1,4 +1,4 @@
-_CeruleanCityRivalPreBattleText::
+﻿_CeruleanCityRivalPreBattleText::
 	text "<RIVAL>: Hej!"
 	line "<PLAYER>!"
 
@@ -13,7 +13,7 @@ _CeruleanCityRivalPreBattleText::
 
     para "Her, lad mig se"
     line "hvad du har"
-    line "fanget,"
+    cont "fanget,"
 	cont "<PLAYER>!"
     done
 
@@ -79,7 +79,8 @@ _CeruleanCityRocketIBetterGetMovingText::
 
     para "Jeg må hellere"
     line "komme i gang!"
-	line "Farvel!@"
+	cont "Farvel!"
+	done
     text_end
 
 _CeruleanCityRocketTM28NoRoomText::
@@ -88,20 +89,20 @@ _CeruleanCityRocketTM28NoRoomText::
 
     para "Jeg kan ikke løbe,"
     line "før jeg giver"
-	line "det til dig!"
+	cont "det til dig!"
     done
 
 _CeruleanCityRocketIGiveUpText::
     text "Stop!"
     line "Jeg giver op! Jeg"
-	line "forlader stedet"
+	cont "forlader stedet"
     cont "stille og roligt!"
     prompt
 
 _CeruleanCityRocketIllReturnTheTMText::
     text "OK! Jeg vil"
     line "returnere den TM"
-	line "jeg stjal!"
+	cont "jeg stjal!"
 	prompt
 
 _CeruleanCityCooltrainerMText::
@@ -157,8 +158,8 @@ _CeruleanCityCooltrainerF1SlowbroPunchText::
 _CeruleanCityCooltrainerF1SlowbroWithdrawText::
     text "SLOWBRO,"
 	line "TRÆK DIG TILBAGE!"
-    line "Nej! Det"
-	line "er forkert!"
+    cont "Nej! Det"
+	cont "er forkert!"
 
     para "Det er så svært at"
     line "kontrollere #MON!"
@@ -187,25 +188,25 @@ _CeruleanCitySlowbroTurnedAwayText::
 _CeruleanCitySlowbroIgnoredOrdersText::
     text "SLOWBRO"
     line "ignorerede"
-	line "ordrer..."
+	cont "ordrer..."
 	done
 
 _CeruleanCityCooltrainerF2Text::
     text "Jeg vil have en"
     line "lysende rød"
-	line "CYKEL!"
+	cont "CYKEL!"
 
     para "Jeg vil beholde"
     line "den hjemme, så"
-    line "den ikke bliver"
+    cont "den ikke bliver"
     cont "beskidt!"
 	done
 
 _CeruleanCitySuperNerd3Text::
     text "Dette er CERULEAN"
     line "GROTTEN!"
-    line "Der lever"
-    line "forfærdeligt"
+    cont "Der lever"
+    cont "forfærdeligt"
     cont "stærke #MON"
     cont "derinde!"
 

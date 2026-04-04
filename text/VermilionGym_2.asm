@@ -1,13 +1,13 @@
-_VermilionGymLTSurgePostBattleAdviceText::
+﻿_VermilionGymLTSurgePostBattleAdviceText::
 	text "Et lille godt råd,"
 	line "knægt!"
 
 	para "Elektricitet er"
 	line "virkelig kraftig!"
 
-	para "Men den er nytteløs"
-	line "mod jord-type"
-	cont "#MON!"
+	para "Men den er"
+	line "nytteløs mod"
+	cont "jord-type #MON!"
 	done
 
 _VermilionGymLTSurgeThunderBadgeInfoText::

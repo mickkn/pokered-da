@@ -7,7 +7,7 @@ _ChampionsRoomRivalIntroText::
 
     para "Min rival skal"
     line "være stærk for"
-	line "at holde"
+	cont "at holde"
     cont "mig skarp!"
 
     para "Mens jeg trænede"
@@ -39,28 +39,28 @@ _ChampionsRoomRivalIntroText::
 _RivalDefeatedText::
     text "NEJ!"
     line "Det kan ikke ske!"
-	line "Du slog min"
+	cont "Du slog min"
     cont "bedste!"
 
     para "Efter alt det"
     line "arbejde for"
-    line "at blive"
+    cont "at blive"
 	cont "LIGA-mester?"
 
     para "Min regeringstid"
     line "er allerede"
-	line "forbi?"
+	cont "forbi?"
     cont "Det er ikke fair!"
     prompt
 
 _RivalVictoryText::
     text "Hahaha!"
     line "Jeg vandt,"
-	line "jeg vandt!"
+	cont "jeg vandt!"
 
     para "Jeg er for god"
     line "til dig,"
-	line "<PLAYER>!"
+	cont "<PLAYER>!"
 
 	para "Du gjorde det"
 	line "godt bare at nå"
@@ -87,7 +87,7 @@ _ChampionsRoomRivalAfterBattleText::
 
     para "Selvom jeg ikke"
     line "kan lide at"
-	line "indrømme det."
+	cont "indrømme det."
     done
 
 _ChampionsRoomOakText::

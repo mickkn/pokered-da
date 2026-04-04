@@ -1,4 +1,4 @@
-_SaffronCityRocket1Text::
+﻿_SaffronCityRocket1Text::
 	text "Hvad vil du?"
 	line "Skrub af!"
 	done
@@ -50,9 +50,9 @@ _SaffronCitySilphWorkerMText::
 	done
 
 _SaffronCitySilphWorkerFText::
-	text "Folk burde strømme"
-	line "tilbage til"
-	cont "SAFFRON nu."
+	text "Folk burde"
+	line "strømme tilbage"
+	cont "til SAFFRON nu."
 	done
 
 _SaffronCityGentlemanText::
@@ -68,7 +68,7 @@ _SaffronCityGentlemanText::
 	done
 
 _SaffronCityPidgeotText::
-	text "PIDGEOT: Bi bibii!@"
+	text "PIDGEOT: Bi bib!@"
 	text_end
 
 _SaffronCityRockerText::

@@ -1,4 +1,4 @@
-_PokemonFanClubPikachuFanNormalText::
+﻿_PokemonFanClubPikachuFanNormalText::
 	text "Vil du ikke se"
 	line "min PIKACHUs"
 	cont "yndige hale?"
@@ -62,7 +62,7 @@ _PokemonFanClubChairmanStoryText::
 
 	para "Den...sød..."
 	line "dejlig...klog..."
-	cont "plus...fantastisk."
+	cont "plus...fantastisk"
 	cont "synes du?..."
 	cont "åh ja...den..."
 	cont "betagende..."
@@ -74,13 +74,15 @@ _PokemonFanClubChairmanStoryText::
 	cont "og nusset..."
 	cont "spektakulær..."
 	cont "henrivende..."
-	cont "...Ups! Se klokken!"
+	cont "...Ups!"
+	cont "Se klokken!"
 	cont "Jeg holdt dig"
 	cont "for længe!"
 
-	para "Tak fordi du hørte"
-	line "på mig! Jeg vil"
-	cont "give dig dette!"
+	para "Tak fordi du"
+	line "hørte på mig!"
+	cont "Jeg vil give"
+	cont "dig dette!"
 	prompt
 
 _PokemonFanClubReceivedBikeVoucherText::
@@ -140,6 +142,7 @@ _PokemonFanClubSign1Text::
 	done
 
 _PokemonFanClubSign2Text::
-	text "Hvis nogen praler,"
-	line "pral lige tilbage!"
+	text "Hvis nogen"
+	line "praler, så pral"
+	cont "lige tilbage!"
 	done

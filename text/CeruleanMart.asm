@@ -1,7 +1,7 @@
-_CeruleanMartCooltrainerMText::
+﻿_CeruleanMartCooltrainerMText::
 	text "Brug REPEL til"
 	line "at holde insekter"
-	line "og svage"
+	cont "og svage"
 	cont "#MON away."
 
 	para "Sæt din stærkeste"

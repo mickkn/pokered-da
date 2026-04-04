@@ -1,6 +1,6 @@
 _WardensHouseWardenGibberish1Text::
-	text "PARKBETJENT: Hif fuff"
-	line "hefifoo!"
+	text "PARKBETJENT: Hif"
+	line "fuff hefifoo!"
 
 	para "Ha lof ha feef ee"
 	line "hafahi ho. Heff"

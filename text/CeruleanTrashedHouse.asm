@@ -1,4 +1,4 @@
-_CeruleanTrashedHouseFishingGuruTheyStoleATMText::
+﻿_CeruleanTrashedHouseFishingGuruTheyStoleATMText::
     text "De elendige"
     line "ROCKETs!"
 
@@ -17,7 +17,7 @@ _CeruleanTrashedHouseFishingGuruTheyStoleATMText::
 _CeruleanTrashedHouseFishingGuruWhatsLostIsLostText::
     text "Jeg tænker, hvad"
     line "der er tabt,"
-	line "er tabt!"
+	cont "er tabt!"
 
     para "Jeg besluttede at"
     line "lære DIGLETT at"
@@ -34,5 +34,5 @@ _CeruleanTrashedHouseGirlText::
 _CeruleanTrashedHouseWallHoleText::
     text "TEAM ROCKET"
     line "efterlod en"
-	line "vej ud!"
+	cont "vej ud!"
 	done

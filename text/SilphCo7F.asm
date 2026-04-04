@@ -1,4 +1,4 @@
-_SilphCo7FSilphWorkerM1HaveThisPokemonText::
+﻿_SilphCo7FSilphWorkerM1HaveThisPokemonText::
 	text "Åh! Hej! Du er"
 	line "ikke en ROCKET!"
 	cont "Er du kommet for"
@@ -131,12 +131,13 @@ _SilphCo7FRocket2EndBattleText::
 
 _SilphCo7FRocket2AfterBattleText::
 	text "Det gør ikke"
-	line "noget. Mine brødre"
+	line "noget."
+	cont "Mine brødre"
 	cont "gengælder det!"
 	done
 
 _SilphCo7FRocket3BattleText::
-	text "En barneindtrænger?"
+	text "En indtrænger?"
 	line "Det må være dig!"
 	done
 

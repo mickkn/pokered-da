@@ -1,6 +1,7 @@
-_Route17Biker1BattleText::
-	text "Der er ingen penge"
-	line "i at slås mod børn!"
+﻿_Route17Biker1BattleText::
+	text "Der er ingen"
+	line "penge i at slås"
+	cont "mod børn!"
 	done
 
 _Route17Biker1EndBattleText::
@@ -41,7 +42,8 @@ _Route17Biker3EndBattleText::
 
 _Route17Biker3AfterBattleText::
 	text "Jeg elsker at"
-	line "køre ned ad bakke!"
+	line "køre ned"
+	cont "ad bakke!"
 	done
 
 _Route17Biker4BattleText::
@@ -103,8 +105,8 @@ _Route17Biker7EndBattleText::
 	prompt
 
 _Route17Biker7AfterBattleText::
-	text "Jeg tabte mig helt"
-	line "sikkert der!"
+	text "Jeg tabte mig"
+	line "helt sikkert der!"
 	done
 
 _Route17Biker8BattleText::
@@ -123,7 +125,8 @@ _Route17Biker8AfterBattleText::
 
 _Route17Biker9BattleText::
 	text "Fed CYKEL!"
-	line "Hvordan kører den?"
+	line "Hvordan"
+	cont "kører den?"
 	done
 
 _Route17Biker9EndBattleText::

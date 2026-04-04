@@ -1,15 +1,15 @@
-_Route1Youngster1MartSampleText::
+﻿_Route1Youngster1MartSampleText::
     text "Hej! Jeg arbejder"
     line "i en #MON MART."
 
     para "Det er en bekvem"
-    line "butik, så besøg os"
+    line "butik, besøg os"
     cont "venligst i"
     cont "VIRIDIAN CITY."
 
     para "Jeg ved det, jeg"
 	line "vil give dig en"
-    line "prøve!"
+    cont "prøve!"
     cont "Her, værsgo!"
     prompt
 

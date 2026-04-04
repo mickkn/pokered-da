@@ -1,4 +1,4 @@
-_Route8SuperNerd1BattleText::
+﻿_Route8SuperNerd1BattleText::
 	text "Du virker god til"
 	line "#MON, men hvordan"
 	cont "er jeres kemi?"
@@ -17,7 +17,7 @@ _Route8SuperNerd1AfterBattleText::
 _Route8Gambler1BattleText::
     text "Okay! Lad"
 	line "os kaste"
-    line "terningerne!"
+    cont "terningerne!"
     done
 
 _Route8Gambler1EndBattleText::
@@ -33,7 +33,7 @@ _Route8Gambler1AfterBattleText::
 _Route8SuperNerd2BattleText::
     text "Du har brug for"
 	line "en strategi"
-    line "for at vinde!"
+    cont "for at vinde!"
     done
 
 _Route8SuperNerd2EndBattleText::
@@ -50,7 +50,7 @@ _Route8SuperNerd2AfterBattleText::
 _Route8CooltrainerF1BattleText::
     text "Jeg kan lide"
 	line "NIDORAN, så"
-    line "jeg samler dem!"
+    cont "jeg samler dem!"
     done
 
 _Route8CooltrainerF1EndBattleText::
@@ -61,7 +61,7 @@ _Route8CooltrainerF1EndBattleText::
 _Route8CooltrainerF1AfterBattleText::
     text "Når #MON vokser"
     line "op, bliver de"
-	line "grimme!"
+	cont "grimme!"
     cont "De burde ikke"
     cont "udvikle sig!"
     done
@@ -69,7 +69,7 @@ _Route8CooltrainerF1AfterBattleText::
 _Route8SuperNerd3BattleText::
     text "Skolen er sjov,"
 	line "men det er"
-    line "#MON også."
+    cont "#MON også."
     done
 
 _Route8SuperNerd3EndBattleText::
@@ -80,7 +80,7 @@ _Route8SuperNerd3EndBattleText::
 _Route8SuperNerd3AfterBattleText::
     text "Vi sidder fast"
     line "her på grund af"
-    line "portene ved"
+    cont "portene ved"
 	cont "SAFFRON."
     done
 
@@ -113,7 +113,7 @@ _Route8CooltrainerF3EndBattleText::
 _Route8CooltrainerF3AfterBattleText::
     text "SAFFRONs port-"
     line "vagt lader os"
-    line "ikke komme"
+    cont "ikke komme"
     cont "igennem."
 	cont "Han er så ond!"
     done
@@ -121,7 +121,7 @@ _Route8CooltrainerF3AfterBattleText::
 _Route8Gambler2BattleText::
     text "Jeg er en"
 	line "omvandrende,"
-    line "spillelysten fyr!"
+    cont "spillelysten fyr!"
     done
 
 _Route8Gambler2EndBattleText::
@@ -132,7 +132,7 @@ _Route8Gambler2EndBattleText::
 _Route8Gambler2AfterBattleText::
     text "Spil og"
     line "#MON er som at"
-    line "spise peanuts!"
+    cont "spise peanuts!"
     cont "Kan bare"
 	cont "ikke stoppe!"
     done

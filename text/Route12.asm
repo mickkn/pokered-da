@@ -1,4 +1,4 @@
-_Route12SnorlaxText::
+﻿_Route12SnorlaxText::
 	text "En sovende #MON"
 	line "blokerer vejen!"
 	done
@@ -24,8 +24,8 @@ _Route12Fisher1BattleText::
 	done
 
 _Route12Fisher1EndBattleText::
-	text "Tsk!"
-	line "Bare en lille fisk!"
+	text "Tsk! Bare"
+	line "en lille fisk!"
 	prompt
 
 _Route12Fisher1AfterBattleText::
@@ -45,9 +45,9 @@ _Route12Fisher2EndBattleText::
 	prompt
 
 _Route12Fisher2AfterBattleText::
-	text "Med en bedre STANG"
-	line "kunne jeg fange"
-	cont "bedre #MON!"
+	text "Med en bedre"
+	line "STANG kunne jeg"
+	cont "fange bedre #MON!"
 	done
 
 _Route12CooltrainerMBattleText::
