@@ -1,4 +1,4 @@
-_SSAnne7RubText::
+﻿_SSAnneCaptainsRoomRubCaptainsBackText::
 	text "KAPTAJN: Ooargh..."
 	line "Jeg har det"
 	cont "forfærdeligt..."
@@ -12,7 +12,7 @@ _SSAnne7RubText::
 	line "Gnid-gnid...@"
 	text_end
 
-_ReceivingHM01Text::
+_SSAnneCaptainsRoomCaptainIFeelMuchBetterText::
 	text "KAPTAJN: Pyha!"
 	line "Tak! Jeg har"
 	cont "det meget bedre!"
@@ -33,14 +33,14 @@ _ReceivingHM01Text::
 	cont "når som helst!"
 	prompt
 
-_ReceivedHM01Text::
+_SSAnneCaptainsRoomCaptainReceivedHM01Text::
 	text "<PLAYER> fik"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
-_SSAnne7Text_61932::
+_SSAnneCaptainsRoomCaptainNotSickAnymoreText::
 	text "KAPTAJN: Pyha!"
 
 	para "Nu hvor jeg ikke"
@@ -48,18 +48,18 @@ _SSAnne7Text_61932::
 	cont "det vist tid."
 	done
 
-_HM01NoRoomText::
+_SSAnneCaptainsRoomCaptainHM01NoRoomText::
 	text "Åh nej! Du har"
 	line "ikke plads til"
 	cont "dette!"
 	done
 
-_SSAnne7Text2::
+_SSAnneCaptainsRoomTrashText::
 	text "Fy! Skulle ikke"
 	line "have kigget!"
 	done
 
-_SSAnne7Text3::
+_SSAnneCaptainsRoomSeasickBookText::
 	text "Sådan overvinder"
 	line "du søsyge..."
 	cont "KAPTAJNENs"

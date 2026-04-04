@@ -1,4 +1,4 @@
-_SSAnne2Text1::
+﻿_SSAnne2FWaiterText::
 	text "Dette skib er en"
 	line "luksusliner for"
 	cont "trænere!"
@@ -9,7 +9,7 @@ _SSAnne2Text1::
 	cont "trænere!"
 	done
 
-_SSAnneRivalBeforeBattleText::
+_SSAnne2FRivalText::
 	text "<RIVAL>: Bonjour!"
 	line "<PLAYER>!"
 
@@ -33,7 +33,7 @@ _SSAnneRivalBeforeBattleText::
 	line "græsområder!"
 	done
 
-_SSAnneRivalDefeatedText::
+_SSAnne2FRivalDefeatedText::
 	text "Hmf!"
 
 	para "Du opdrætter i"
@@ -41,7 +41,7 @@ _SSAnneRivalDefeatedText::
 	cont "#MON!"
 	prompt
 
-_SSAnneRivalWonText::
+_SSAnne2FRivalVictoryText::
 	text "<PLAYER>! Er du"
 	line "søsyg?"
 
@@ -49,7 +49,7 @@ _SSAnneRivalWonText::
 	line "sammen, makker!"
 	prompt
 
-_SSAnneRivalCaptainText::
+_SSAnne2FRivalCutMasterText::
 	text "<RIVAL>: Jeg hørte"
 	line "der var en CUT-"
 	cont "mester om bord."

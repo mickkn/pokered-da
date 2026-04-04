@@ -1,4 +1,4 @@
-_Route12GateText1::
+﻿_Route12Gate1FGuardText::
 	text "Der er en udsigts-"
 	line "plads ovenpå."
 	done

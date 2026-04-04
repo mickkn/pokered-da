@@ -1,4 +1,4 @@
-_WardenGibberishText1::
+﻿_WardensHouseWardenGibberish1Text::
 	text "PARKBETJENT: Hif fuff"
 	line "hefifoo!"
 
@@ -7,23 +7,23 @@ _WardenGibberishText1::
 	cont "hee fwee!"
 	done
 
-_WardenGibberishText2::
+_WardensHouseWardenGibberish2Text::
 	text "Ah howhee ho hoo!"
 	line "Eef ee hafahi ho!"
 	done
 
-_WardenGibberishText3::
+_WardensHouseWardenGibberish3Text::
 	text "Ha? He ohay heh"
 	line "ha hoo ee haheh!"
 	done
 
-_WardenTeethText1::
+_WardensHouseWardenGaveTheGoldTeethText::
 	text "<PLAYER> gav"
 	line "GULDTÆNDERNE til"
 	cont "PARKBETJENTEN!@"
 	text_end
 
-_WardenTeethText2::
+_WardensHouseWardenTeethPoppedInHisTeethText::
 	text_start
 
 	para "PARKBETJENTEN "
@@ -31,7 +31,7 @@ _WardenTeethText2::
 	cont "ind!"
 	prompt
 
-_WardenThankYouText::
+_WardensHouseWardenThanksText::
 	text "PARKBETJENT: Tak,"
 	line "knægt! Ingen"
 	cont "kunne forstå et"
@@ -44,14 +44,14 @@ _WardenThankYouText::
 	cont "for ulejligheden."
 	prompt
 
-_ReceivedHM04Text::
+_WardensHouseWardenReceivedHM04Text::
 	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
-_HM04ExplanationText::
+_WardensHouseWardenHM04ExplanationText::
 	text "PARKBETJENT: HM04"
 	line "lærer STRENGTH!"
 
@@ -72,17 +72,17 @@ _HM04ExplanationText::
 	cont "SURF HM."
 	done
 
-_HM04NoRoomText::
+_WardensHouseWardenHM04NoRoomText::
 	text "Din taske er"
 	line "proppet fuld!"
 	done
 
-_FuchsiaHouse2Text_75176::
+_WardensHouseDisplayPhotosAndFossilsText::
 	text "#MON-fotos"
 	line "og fossiler."
 	done
 
-_FuchsiaHouse2Text_7517b::
+_WardensHouseDisplayMerchandiseText::
 	text "Gammelt #MON-"
 	line "merchandise."
 	done

@@ -1,4 +1,4 @@
-_SilphCo1Text1::
+﻿_SilphCo1FLinkReceptionistText::
 	text "Velkommen!"
 
 	para "PRÆSIDENTEN er i"

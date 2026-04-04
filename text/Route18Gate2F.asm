@@ -1,4 +1,4 @@
-_Route18GateUpstairsText_49993::
+﻿_Route18Gate2FLeftBinocularsText::
 	text "Kiggede i"
 	line "kikkerten."
 
@@ -6,7 +6,7 @@ _Route18GateUpstairsText_49993::
 	line "mod vest!"
 	done
 
-_Route18GateUpstairsText_4999f::
+_Route18Gate2FRightBinocularsText::
 	text "Kiggede i"
 	line "kikkerten."
 

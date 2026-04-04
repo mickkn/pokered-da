@@ -1,64 +1,64 @@
-_Route8BattleText1::
+﻿_Route8SuperNerd1BattleText::
 	text "Du virker god til"
 	line "#MON, men hvordan"
 	cont "er jeres kemi?"
 	done
 
-_Route8EndBattleText1::
+_Route8SuperNerd1EndBattleText::
     text "Av!"
     line "Nedsmeltning!"
     prompt
 
-_Route8AfterBattleText1::
+_Route8SuperNerd1AfterBattleText::
     text "Jeg er bedre i"
     line "skolen end dette!"
     done
 
-_Route8BattleText2::
+_Route8Gambler1BattleText::
     text "Okay! Lad"
 	line "os kaste"
     line "terningerne!"
     done
 
-_Route8EndBattleText2::
+_Route8Gambler1EndBattleText::
     text "Pokkers!"
     line "Kom til kort!"
     prompt
 
-_Route8AfterBattleText2::
+_Route8Gambler1AfterBattleText::
 	text "Lady Luck's er"
 	line "ik med mig idag!"
 	done
 
-_Route8BattleText3::
+_Route8SuperNerd2BattleText::
     text "Du har brug for"
 	line "en strategi"
     line "for at vinde!"
     done
 
-_Route8EndBattleText3::
+_Route8SuperNerd2EndBattleText::
     text "Det er"
     line "ikke logisk!"
     prompt
 
-_Route8AfterBattleText3::
+_Route8SuperNerd2AfterBattleText::
     text "Start med GRIMER"
     line "først...og..."
     cont "...og...så..."
     done
 
-_Route8BattleText4::
+_Route8CooltrainerF1BattleText::
     text "Jeg kan lide"
 	line "NIDORAN, så"
     line "jeg samler dem!"
     done
 
-_Route8EndBattleText4::
+_Route8CooltrainerF1EndBattleText::
     text "Hvorfor?"
 	line "Hvorfor??"
     prompt
 
-_Route8AfterBattleText4::
+_Route8CooltrainerF1AfterBattleText::
     text "Når #MON vokser"
     line "op, bliver de"
 	line "grimme!"
@@ -66,51 +66,51 @@ _Route8AfterBattleText4::
     cont "udvikle sig!"
     done
 
-_Route8BattleText5::
+_Route8SuperNerd3BattleText::
     text "Skolen er sjov,"
 	line "men det er"
     line "#MON også."
     done
 
-_Route8EndBattleText5::
+_Route8SuperNerd3EndBattleText::
     text "Jeg vil"
     line "blive i skolen."
     prompt
 
-_Route8AfterBattleText5::
+_Route8SuperNerd3AfterBattleText::
     text "Vi sidder fast"
     line "her på grund af"
     line "portene ved"
 	cont "SAFFRON."
     done
 
-_Route8BattleText6::
+_Route8CooltrainerF2BattleText::
     text "MEOWTH er så sød,"
     line "miav, miav, miav!"
     done
 
-_Route8EndBattleText6::
+_Route8CooltrainerF2EndBattleText::
     text "Miav!"
     prompt
 
-_Route8AfterBattleText6::
+_Route8CooltrainerF2AfterBattleText::
     text "Jeg synes PIDGEY"
     line "og RATTATA"
     cont "er søde også!"
     done
 
-_Route8BattleText7::
+_Route8CooltrainerF3BattleText::
     text "Vi må se fjollede"
     line "ud ved at stå"
     cont "her sådan!"
     done
 
-_Route8EndBattleText7::
+_Route8CooltrainerF3EndBattleText::
     text "Se hvad"
     line "du gjorde!"
     prompt
 
-_Route8AfterBattleText7::
+_Route8CooltrainerF3AfterBattleText::
     text "SAFFRONs port-"
     line "vagt lader os"
     line "ikke komme"
@@ -118,18 +118,18 @@ _Route8AfterBattleText7::
 	cont "Han er så ond!"
     done
 
-_Route8BattleText8::
+_Route8Gambler2BattleText::
     text "Jeg er en"
 	line "omvandrende,"
     line "spillelysten fyr!"
     done
 
-_Route8EndBattleText8::
+_Route8Gambler2EndBattleText::
     text "Missede den"
     line "store gevinst!"
     prompt
 
-_Route8AfterBattleText8::
+_Route8Gambler2AfterBattleText::
     text "Spil og"
     line "#MON er som at"
     line "spise peanuts!"
@@ -137,20 +137,20 @@ _Route8AfterBattleText8::
 	cont "ikke stoppe!"
     done
 
-_Route8BattleText9::
+_Route8CooltrainerF4BattleText::
     text "Hvad er en sød,"
     line "rund og fluffy"
     cont "#MON?"
     done
 
-_Route8EndBattleText9::
+_Route8CooltrainerF4EndBattleText::
     text "Stop!"
 
     para "Vær ikke så ond"
     line "mod min CLEFAIRY!"
     prompt
 
-_Route8AfterBattleText9::
+_Route8CooltrainerF4AfterBattleText::
     text "Jeg hørte, at"
     line "CLEFAIRY udvikler"
     cont "sig når den"
@@ -158,7 +158,7 @@ _Route8AfterBattleText9::
     cont "MOON STONE."
     done
 
-_Route8Text10::
+_Route8UndergroundSignText::
 	text "UNDERGRUNDSSTI"
 	line "CELADON CITY -"
 	cont "LAVENDER TOWN"

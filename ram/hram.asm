@@ -16,7 +16,7 @@ hPreviousTileset::
 hRLEByteValue::
 	db
 
-hSpriteIndexOrTextID:: ; DisplayTextID's argument
+hTextID:: ; DisplayTextID's argument
 hPartyMonIndex::
 	db
 
@@ -85,10 +85,10 @@ hSpriteScreenX:: db
 hSpriteScreenY:: db
 
 NEXTU
-hFF8F:: db
-hFF90:: db
-hFF91:: db
-hFF92:: db
+hCollidingSpriteOffset:: db
+hCollidingSpriteTempYValue:: db
+hCollidingSpriteTempXValue:: db
+hCollidingSpriteAdjustedDistance:: db
 ENDU
 
 hTilePlayerStandingOn:: db
@@ -173,7 +173,7 @@ hMoney:: ds 3 ; BCD number
 NEXTU
 ; some code zeroes this for no reason when writing a coin amount
 hUnusedCoinsByte:: db
-hCoins:: ds 2 ; BCD number
+hCoins:: dw ; BCD number
 ENDU
 
 hDivideBCDDivisor::
@@ -325,13 +325,10 @@ hItemToRemoveIndex:: db
 NEXTU
 hItemCounter::
 hSavedCoordIndex::
-hMissableObjectIndex::
+hToggleableObjectIndex::
 hGymTrashCanRandNumMask::
+hInteractedWithBookshelf::
 	db
-
-NEXTU
-hFFDB:: db
-hFFDC:: db
 ENDU
 
 	ds 1
@@ -353,7 +350,7 @@ hDivisor2::  db
 hQuotient2:: db
 
 NEXTU
-hIsHiddenMissableObject:: db
+hIsToggleableObjectOff:: db
 ENDU
 
 hMapROMBank:: db
@@ -373,7 +370,7 @@ hSpriteMapXCoord::    db
 NEXTU
 hItemAlreadyFound:: db
 	ds 2
-hDidntFindAnyHiddenObject:: db
+hDidntFindAnyHiddenEvent:: db
 
 NEXTU
 	ds 1
@@ -391,6 +388,7 @@ hClearLetterPrintingDelayFlags:: db
 
 ; bit 0: draw HP fraction to the right of bar instead of below (for party menu)
 ; bit 1: menu is double spaced
+; bit 2: text is single spaced
 hUILayoutFlags:: db
 
 hFieldMoveMonMenuTopMenuItemX:: db
@@ -400,3 +398,5 @@ hJoyInput:: db
 hDisableJoypadPolling:: db
 
 	ds 5
+
+ENDSECTION

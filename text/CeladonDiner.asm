@@ -1,24 +1,24 @@
-_CeladonDinerText1::
+﻿_CeladonDinerCookText::
 	text "Hej!"
 
 	para "Vi holder lige en"
 	line "pause nu."
 	done
 
-_CeladonDinerText2::
+_CeladonDinerMiddleAgedWomanText::
 	text "Mine #MON er"
 	line "svage, så jeg må"
 	cont "ofte gå på"
 	cont "APOTEKET."
 	done
 
-_CeladonDinerText3::
+_CeladonDinerMiddleAgedManText::
 	text "Psst! Der er en"
 	line "kælder under"
 	cont "SPILLEHJØRNET"
 	done
 
-_CeladonDinerText4::
+_CeladonDinerFisherText::
 	text "Munch..."
 
 	para "Manden ved det"
@@ -27,7 +27,7 @@ _CeladonDinerText4::
 	cont "automaterne."
 	done
 
-_CeladonDinerText_491a7::
+_CeladonDinerGymGuideImFlatOutBustedText::
 	text "Gå videre! Grin!"
 
 	para "Jeg er helt"
@@ -43,18 +43,18 @@ _CeladonDinerText_491a7::
 	cont "mere!"
 	prompt
 
-_ReceivedCoinCaseText::
+_CeladonDinerGymGuideReceivedCoinCaseText::
 	text "<PLAYER> modtog"
 	line "en @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
-_CoinCaseNoRoomText::
+_CeladonDinerGymGuideCoinCaseNoRoomText::
 	text "Lav plads til den!"
 	done
 
-_CeladonDinerText_491b7::
+_CeladonDinerGymGuideWinItBackText::
 	text "Jeg har hele tiden"
 	line "troet, at jeg"
 	cont "ville vinde det"

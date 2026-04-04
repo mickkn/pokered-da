@@ -1,4 +1,4 @@
-_SaffronGateText_1dfe7::
+_SaffronGateGuardGeeImThirstyText::
 	text "Jeg er på vagt."
 	line "Puha, jeg er"
 	cont "tørstig!"
@@ -7,7 +7,7 @@ _SaffronGateText_1dfe7::
 	line "er spærret."
 	done
 
-_SaffronGateText_8aaa9::
+_SaffronGateGuardImParchedText::
 	text "Hold da op!"
 	line "Jeg er udtørret!"
 	cont "..."
@@ -16,7 +16,7 @@ _SaffronGateText_8aaa9::
 	cont "Tak skal du have!@"
 	text_end
 
-_SaffronGateText_1dff1::
+_SaffronGateGuardYouCanGoOnThroughText::
 	text_start
 
 	para "..."
@@ -32,7 +32,7 @@ _SaffronGateText_1dff1::
 	cont "andre vagter!"
 	done
 
-_SaffronGateText_1dff6::
+_SaffronGateGuardThanksForTheDrinkText::
 	text "Hej, tak for de"
 	line "lækre drinks!"
 	done

@@ -1,4 +1,4 @@
-_KogaBeforeBattleText::
+﻿_FuchsiaGymKogaBeforeBattleText::
 	text "KOGA: Fwahahaha!"
 
 	para "Et simpelt barn"
@@ -16,7 +16,7 @@ _KogaBeforeBattleText::
 	cont "søvnteknikker!"
 	done
 
-_ReceivedSoulBadgeText::
+_FuchsiaGymKogaReceivedSoulBadgeText::
 	text "Hmph!"
 	line "Du har bevist"
 	cont "dit værd!"

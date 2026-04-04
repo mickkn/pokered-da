@@ -1,4 +1,4 @@
-_SecretHouseText_4a350::
+﻿_SafariZoneSecretHouseFishingGuruYouHaveWonText::
 	text "Ah! Endelig!"
 
 	para "Du er den første"
@@ -15,14 +15,14 @@ _SecretHouseText_4a350::
 	line "Du har vundet!"
 	prompt
 
-_ReceivedHM03Text::
+_SafariZoneSecretHouseFishingGuruReceivedHM03Text::
 	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
-_HM03ExplanationText::
+_SafariZoneSecretHouseFishingGuruHM03ExplanationText::
 	text "HM03 er SURF!"
 
 	para "#MON vil kunne"
@@ -41,7 +41,7 @@ _HM03ExplanationText::
 	cont "præmie!"
 	done
 
-_HM03NoRoomText::
+_SafariZoneSecretHouseFishingGuruHM03NoRoomText::
 	text "Du har ikke plads"
 	line "til denne"
 	cont "fantastiske"

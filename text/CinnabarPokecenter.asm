@@ -1,4 +1,4 @@
-_CinnabarPokecenterText2::
+﻿_CinnabarPokecenterCooltrainerFText::
     text "Du kan annullere"
     line "udvikling."
 
@@ -9,7 +9,7 @@ _CinnabarPokecenterText2::
 	cont "som den er."
     done
 
-_CinnabarPokecenterText3::
+_CinnabarPokecenterGentlemanText::
     text "Har du nogle"
     line "venner?"
 

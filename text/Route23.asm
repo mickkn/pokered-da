@@ -1,4 +1,4 @@
-_VictoryRoadGuardText1::
+﻿_Route23YouDontHaveTheBadgeYetText::
 	text "Du kan kun passere"
 	line "her, hvis du har"
 	cont "@"
@@ -15,7 +15,7 @@ _VictoryRoadGuardText1::
 	cont "#MON-LIGAEN!@"
 	text_end
 
-_VictoryRoadGuardText2::
+_Route23OhThatIsTheBadgeText::
 	text "Du kan kun passere"
 	line "her, hvis du har"
 	cont "@"
@@ -24,18 +24,18 @@ _VictoryRoadGuardText2::
 
 	para "Åh! Det er"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "!@"
 	text_end
 
-_VictoryRoadGuardText_513a3::
+_Route23GoRightAheadText::
 	text_start
 
 	para "OK! Værsgo,"
 	line "gå bare videre!"
 	done
 
-_Route23Text8::
+_Route23VictoryRoadGateSignText::
 	text "SEJRSVEJENS PORT"
 	line "- #MON-LIGAEN"
 	done

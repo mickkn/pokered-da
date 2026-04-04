@@ -8,13 +8,13 @@ _CableClubNPCMakingPreparationsText::
 	done
 
 _UsedStrengthText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " brugte"
 	line "STRENGTH.@"
 	text_end
 
 _CanMoveBouldersText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " kan"
 	line "flytte sten."
 	prompt
@@ -40,13 +40,13 @@ _WarpToLastPokemonCenterText::
 	done
 
 _CannotUseTeleportNowText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " kan ikke"
 	line "bruge TELEPORT nu."
 	prompt
 
 _CannotFlyHereText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " kan ikke"
 	line "FLY her."
 	prompt
@@ -73,7 +73,7 @@ _CannotGetOffHereText::
 _GotMonText::
 	text "<PLAYER> fik"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "!@"
 	text_end
 

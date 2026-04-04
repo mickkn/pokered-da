@@ -29,8 +29,8 @@ _GotOffBicycleText2::
 _ThrewAwayItemText::
 	text "Kastede"
 	line "@"
-	text_ram wcd6d
-	text " væk."
+	text_ram wNameBuffer
+	text "."
 	prompt
 
 _IsItOKToTossItemText::
@@ -46,7 +46,7 @@ _TooImportantToTossText::
 	prompt
 
 _AlreadyKnowsText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " kender"
 	line "@"
 	text_ram wStringBuffer
@@ -196,7 +196,7 @@ _NothingToCutText::
 	prompt
 
 _UsedCutText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " hakkede"
 	line "væk med CUT!"
 	prompt

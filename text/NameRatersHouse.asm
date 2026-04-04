@@ -1,4 +1,4 @@
-_NameRaterText_1dab3::
+﻿_NameRatersHouseNameRaterWantMeToRateText::
 	text "Hej, hej!"
 	line "Jeg er den"
 	cont "officielle"
@@ -10,12 +10,12 @@ _NameRaterText_1dab3::
 	cont "øgenavne?"
 	done
 
-_NameRaterText_1dab8::
+_NameRatersHouseNameRaterWhichPokemonText::
 	text "Hvilken #MON"
 	line "skal jeg se på?"
 	prompt
 
-_NameRaterText_1dabd::
+_NameRatersHouseNameRaterGiveItANiceNameText::
 	text_ram wcd6d
 	text ", ikke?"
 	line "Det er et pænt"
@@ -28,12 +28,12 @@ _NameRaterText_1dabd::
 	para "Hvad siger du?"
 	done
 
-_NameRaterText_1dac2::
+_NameRatersHouseNameRaterWhatShouldWeNameItText::
 	text "Fint! Hvad skal"
 	line "den hedde?"
 	prompt
 
-_NameRaterText_1dac7::
+_NameRatersHouseNameRaterPokemonHasBeenRenamedText::
 	text "OK! Denne #MON"
 	line "er omdøbt til"
 	cont "@"
@@ -44,12 +44,12 @@ _NameRaterText_1dac7::
 	line "navn end før!"
 	done
 
-_NameRaterText_1dacc::
+_NameRatersHouseNameRaterComeAnyTimeYouLikeText::
 	text "Fint! Kom når som"
 	line "helst!"
 	done
 
-_NameRaterText_1dad1::
+_NameRatersHouseNameRaterATrulyImpeccableNameText::
 	text_ram wcd6d
 	text ", ikke?"
 	line "Det er et helt"
@@ -57,6 +57,6 @@ _NameRaterText_1dad1::
 
 	para "Pas godt på"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "!"
 	done

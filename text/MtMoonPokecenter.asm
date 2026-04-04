@@ -1,4 +1,4 @@
-_MtMoonPokecenterText1::
+﻿_MtMoonPokecenterYoungsterText::
 	text "Jeg har 6 # BALLs"
 	line "i mit bælte."
 
@@ -6,7 +6,7 @@ _MtMoonPokecenterText1::
 	line "6 #MON."
 	done
 
-_MtMoonPokecenterText3::
+_MtMoonPokecenterGentlemanText::
 	text "TEAM ROCKET"
 	line "angriber borgere"
 	cont "i CERULEAN..."
@@ -16,7 +16,7 @@ _MtMoonPokecenterText3::
 	cont "nyhederne!"
 	done
 
-_MagikarpSalesmanText1::
+_MtMoonPokecenterMagikarpSalesmanIGotADealText::
 	text "MAND: Hej med dig!"
 	line "Jeg har et tilbud"
 	cont "til netop dig!"
@@ -27,21 +27,21 @@ _MagikarpSalesmanText1::
 	cont "Hvad siger du?"
 	done
 
-_MagikarpSalesmanNoText::
+_MtMoonPokecenterMagikarpSalesmanNoText::
 	text "Nej? Jeg gør dig"
 	line "kun en tjeneste!"
 	done
 
-_MagikarpSalesmanNoMoneyText::
+_MtMoonPokecenterMagikarpSalesmanNoMoneyText::
 	text "Du skal bruge"
 	line "flere penge!"
 	done
 
-_MagikarpSalesmanText2::
+_MtMoonPokecenterMagikarpSalesmanNoRefundsText::
 	text "MAND: Jeg giver"
 	line "ingen refusion!"
 	done
 
-_MtMoonPokecenterText5::
+_MtMoonPokecenterClipboardText::
 	text_start
 	done

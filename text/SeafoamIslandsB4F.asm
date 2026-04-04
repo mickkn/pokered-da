@@ -1,14 +1,14 @@
-_ArticunoBattleText::
+﻿_SeafoamIslandsB4FArticunoBattleText::
 	text "Gyaoo!@"
 	text_end
 
-_SeafoamIslands5Text4::
+_SeafoamIslandsB4FBouldersSignText::
 	text "Klippeblokke kan"
 	line "ændre vandets"
 	cont "strømning!"
 	done
 
-_SeafoamIslands5Text5::
+_SeafoamIslandsB4FDangerSignText::
 	text "FARE"
 	line "Stærk strøm!"
 	done

@@ -42,7 +42,7 @@ _AgathaAfterBattleText::
 	cont "af sted, barn!"
 	done
 
-_AgathaDontRunAwayText::
+_AgathasRoomAgathaDontRunAwayText::
 	text "Nogens stemme:"
 	line "Løb ikke væk!"
 	done

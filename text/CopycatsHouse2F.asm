@@ -1,4 +1,4 @@
-_CopycatsHouse2FText_5ccd4::
+﻿_CopycatsHouse2FCopycatDoYouLikePokemonText::
     text "<PLAYER>: Hej!"
     line "Kan du lide #MON?"
 
@@ -16,7 +16,7 @@ _CopycatsHouse2FText_5ccd4::
     line "yndlingshobby!"
     prompt
 
-_TM31PreReceiveText::
+_CopycatsHouse2FCopycatTM31PreReceiveText::
     text "Åh wow!"
     line "En # DUKKE!"
 
@@ -27,14 +27,14 @@ _TM31PreReceiveText::
     line "denne her!"
     prompt
 
-_ReceivedTM31Text::
+_CopycatsHouse2FCopycatReceivedTM31Text::
     text "<PLAYER> modtog"
     line "@"
     text_ram wStringBuffer
     text "!@"
     text_end
 
-_TM31ExplanationText1::
+_CopycatsHouse2FCopycatTM31Explanation1Text::
     text_start
 
     para "TM31 indeholder"
@@ -45,7 +45,7 @@ _TM31ExplanationText1::
     line "god #MON!@"
     text_end
 
-_TM31ExplanationText2::
+_CopycatsHouse2FCopycatTM31Explanation2Text::
     text "<PLAYER>: Hej!"
     line "Tak for TM31!"
 
@@ -61,12 +61,12 @@ _TM31ExplanationText2::
     cont "hylende morsomt!"
     done
 
-_TM31NoRoomText::
+_CopycatsHouse2FCopycatTM31NoRoomText::
     text "Vil du ikke have"
     line "denne?@"
     text_end
 
-_CopycatsHouse2FText2::
+_CopycatsHouse2FDoduoText::
 	text "DODUO: Giiih!"
 
     para "SPEJL SPEJL PÅ"
@@ -75,20 +75,20 @@ _CopycatsHouse2FText2::
     cont "AF DEM ALLE?"
     done
 
-_CopycatsHouse2FText3::
+_CopycatsHouse2FRareDollText::
     text "Dette er en"
     line "sjælden #MON!"
 	cont "Huh? Det er kun"
     cont "en dukke!"
     done
 
-_CopycatsHouse2FText6::
+_CopycatsHouse2FSNESText::
     text "Et spil med MARIO"
     line "med en spand"
     cont "på hovedet!"
     done
 
-_CopycatsHouse2FText_5cd17::
+_CopycatsHouse2FPCMySecretsText::
     text "..."
 
     para "Mine"
@@ -102,6 +102,6 @@ _CopycatsHouse2FText_5cd17::
     cont "CLEFAIRY!"
     done
 
-_CopycatsHouse2FText_5cd1c::
+_CopycatsHouse2FPCCantSeeText::
     text "Huh? Kan ikke se!"
     done

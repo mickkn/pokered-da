@@ -1,8 +1,8 @@
-_SafariZoneEastText5::
+﻿_SafariZoneEastRestHouseSignText::
 	text "HVILEHJEM"
 	done
 
-_SafariZoneEastText6::
+_SafariZoneEastTrainerTipsText::
 	text "TRÆNERTIPS"
 
 	para "Den resterende tid"
@@ -10,7 +10,7 @@ _SafariZoneEastText6::
 	cont "du går!"
 	done
 
-_SafariZoneEastText7::
+_SafariZoneEastSignText::
 	text "CENTEROMRÅDE"
 	line "NORD: OMRÅDE 2"
 	done

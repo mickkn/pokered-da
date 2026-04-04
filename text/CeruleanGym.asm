@@ -1,4 +1,4 @@
-_MistyPreBattleText::
+﻿_CeruleanGymMistyPreBattleText::
     text "Hej, du er et nyt"
     line "ansigt!"
 
@@ -17,7 +17,7 @@ _MistyPreBattleText::
     cont "#MON!"
     done
 
-_TM11ExplanationText::
+_CeruleanGymMistyTM11ExplanationText::
     text "TM11 lærer"
     line "BUBBLEBEAM!"
 
@@ -25,7 +25,7 @@ _TM11ExplanationText::
     line "vand #MON!"
     done
 
-_MistyCascadeBadgeInfoText::
+_CeruleanGymMistyCascadeBadgeInfoText::
     text "CASCADEEMBLEMET"
     line "gør at alle #MON"
     cont "op til"
@@ -47,18 +47,18 @@ _MistyCascadeBadgeInfoText::
     line "min yndlings TM!"
     done
 
-_ReceivedTM11Text::
+_CeruleanGymMistyReceivedTM11Text::
     text "<PLAYER> modtog"
     line "TM11!@"
 	text_end
 
-_TM11NoRoomText::
+_CeruleanGymMistyTM11NoRoomText::
     text "Du må hellere"
     line "lave plads til"
 	cont "dette!"
 	done
 
-_ReceivedCascadeBadgeText::
+_CeruleanGymMistyReceivedCascadeBadgeText::
     text "Wow!"
     line "Du er for stærk!"
 
@@ -111,7 +111,7 @@ _CeruleanGymAfterBattleText2::
 	line "til en som dig!"
 	done
 
-_CeruleanGymGuidePreBattleText::
+_CeruleanGymGymGuideChampInMakingText::
 	text "Yo! Kommende"
 	line "mester!"
 
@@ -130,7 +130,7 @@ _CeruleanGymGuidePreBattleText::
 	line "elektricitet!"
 	done
 
-_CeruleanGymGuidePostBattleText::
+_CeruleanGymGymGuideBeatMistyText::
 	text "Du slog MISTY!"
 	line "Hvad sagde jeg?"
 

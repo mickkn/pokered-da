@@ -1,35 +1,35 @@
-_Mansion4BattleText1::
+﻿_PokemonMansionB1FBurglarBattleText::
 	text "Åh-åh. Hvor er"
 	line "jeg nu?"
 	done
 
-_Mansion4EndBattleText1::
+_PokemonMansionB1FBurglarEndBattleText::
 	text "Auuuh!"
 	prompt
 
-_Mansion4AfterBattleText1::
+_PokemonMansionB1FBurglarAfterBattleText::
 	text "Du kan finde ting"
 	line "der ligger rundt"
 	cont "omkring."
 	done
 
-_Mansion4BattleText2::
+_PokemonMansionB1FScientistBattleText::
 	text "Dette sted er"
 	line "ideelt til et lab."
 	done
 
-_Mansion4EndBattleText2::
+_PokemonMansionB1FScientistEndBattleText::
 	text "Hvad skulle"
 	line "det til for?"
 	prompt
 
-_Mansion4AfterBattleText2::
+_PokemonMansionB1FScientistAfterBattleText::
 	text "Jeg kan lide det"
 	line "her! Det fremmer"
 	cont "mine studier!"
 	done
 
-_Mansion4Text7::
+_PokemonMansionB1FDiaryText::
 	text "Dagbog; 1. sept."
 	line "MEWTWO er alt for"
 	cont "kraftfuld."

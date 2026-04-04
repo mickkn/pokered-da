@@ -1,55 +1,55 @@
-_SSAnne8Text8::
+_SSAnne1FRoomsWigglytuffText::
 	text "WIGGLYTUFF: Puup"
 	line "pupuu!@"
 	text_end
 
-_SSAnne8BattleText1::
+_SSAnne1FRoomsGentleman1BattleText::
 	text "Jeg rejser alene"
-	line "på mine rejser!"
+	line "på mine eventyr!"
 
 	para "Mine #MON er"
 	line "mine eneste"
 	cont "venner!"
 	done
 
-_SSAnne8EndBattleText1::
+_SSAnne1FRoomsGentleman1EndBattleText::
 	text "Mine, mine"
 	line "venner..."
 	prompt
 
-_SSAnne8AfterBattleText1::
+_SSAnne1FRoomsGentleman1AfterBattleText::
 	text "Man bør være sød"
 	line "mod sine venner!"
 	done
 
-_SSAnne8BattleText2::
+_SSAnne1FRoomsGentleman2BattleText::
 	text "Din hvalp! Hvordan"
 	line "vover du at"
 	cont "bryde ind!"
 	done
 
-_SSAnne8EndBattleText2::
+_SSAnne1FRoomsGentleman2EndBattleText::
 	text "Hmf!"
 	line "Dit uhøflige barn!"
 	prompt
 
-_SSAnne8AfterBattleText2::
+_SSAnne1FRoomsGentleman2AfterBattleText::
 	text "Jeg ønsker at"
 	line "være alene!"
 	cont "Forsvind!"
 	done
 
-_SSAnne8BattleText3::
+_SSAnne1FRoomsYoungsterBattleText::
 	text "Jeg elsker #MON!"
 	line "Gør du?"
 	done
 
-_SSAnne8EndBattleText3::
+_SSAnne1FRoomsYoungsterEndBattleText::
 	text "Wow! "
 	line "Du er fantastisk!"
 	prompt
 
-_SSAnne8AfterBattleText3::
+_SSAnne1FRoomsYoungsterAfterBattleText::
 	text "Lad mig være din"
 	line "ven, OK?"
 
@@ -57,19 +57,19 @@ _SSAnne8AfterBattleText3::
 	line "#MON!"
 	done
 
-_SSAnne8BattleText4::
+_SSAnne1FRoomsCooltrainerFBattleText::
 	text "Jeg samlede disse"
 	line "#MON fra hele"
 	cont "verden!"
 	done
 
-_SSAnne8EndBattleText4::
+_SSAnne1FRoomsCooltrainerFEndBattleText::
 	text "Åh nej!"
 	line "Jeg rejste rundt"
 	cont "i verden for dem!"
 	prompt
 
-_SSAnne8AfterBattleText4::
+_SSAnne1FRoomsCooltrainerFAfterBattleText::
 	text "Du sårede mine"
 	line "stakkels #MON!"
 
@@ -78,29 +78,29 @@ _SSAnne8AfterBattleText4::
 	cont "et #MON CENTER!"
 	done
 
-_SSAnne8Text5::
+_SSAnne1FRoomsGirl1Text::
 	text "Tjener, jeg vil"
 	line "gerne have en"
 	cont "kirsebærtærte!"
 	done
 
-_SSAnne8Text6::
+_SSAnne1FRoomsMiddleAgedManText::
 	text "Et krydstogt er"
 	line "så elegant men"
 	cont "hyggeligt!"
 	done
 
-_SSAnne8Text7::
+_SSAnne1FRoomsLittleGirlText::
 	text "Jeg rejser altid"
 	line "med WIGGLYTUFF!"
 	done
 
-_SSAnne8Text9::
+_SSAnne1FRoomsGirl2Text::
 	text "Vi sejler rundt"
 	line "i verden."
 	done
 
-_SSAnne8Text11::
+_SSAnne1FRoomsGentleman3Text::
 	text "Ssh! Jeg er fra"
 	line "GLOBALPOLITIET!"
 

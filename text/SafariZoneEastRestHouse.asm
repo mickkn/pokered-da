@@ -1,10 +1,10 @@
-_SafariZoneRestHouse3Text1::
+﻿_SafariZoneEastRestHouseScientistText::
 	text "Hvor mange fangede"
 	line "du? Jeg er helt"
 	cont "udmattet!"
 	done
 
-_SafariZoneRestHouse3Text2::
+_SafariZoneEastRestHouseRockerText::
 	text "Jeg fangede en"
 	line "CHANSEY!"
 
@@ -12,7 +12,7 @@ _SafariZoneRestHouse3Text2::
 	line "værd!"
 	done
 
-_SafariZoneRestHouse3Text3::
+_SafariZoneEastRestHouseSilphWorkerMText::
 	text "Pyha! Jeg er træt"
 	line "af al sjovheden!"
 	done

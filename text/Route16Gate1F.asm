@@ -1,9 +1,9 @@
-_Route16GateText_49777::
+﻿_Route16Gate1FGuardNoPedestriansAllowedText::
 	text "Ingen fodgængere"
 	line "på CYKELVEJEN!"
 	done
 
-_Route16GateText_4977c::
+_Route16Gate1FGuardCyclingRoadExplanationText::
 	text "CYKELVEJEN er en"
 	line "nedadgående"
 	cont "cykelrute langs"
@@ -11,12 +11,12 @@ _Route16GateText_4977c::
 	cont "skøn tur."
 	done
 
-_Route16GateText_49781::
+_Route16Gate1FGuardWaitUpText::
 	text "Undskyld! Vent"
 	line "venligst!"
 	done
 
-_Route16GateText2::
+_Route16Gate1FGamblerText::
 	text "Hvordan kom du"
 	line "ind? Flot klaret!"
 	done

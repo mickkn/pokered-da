@@ -1,9 +1,9 @@
-_CeladonMartRoofText_484ee::
+﻿_CeladonMartRoofLittleGirlGiveHerWhichDrinkText::
 	text "Giv hende hvad"
 	line "at drikke?"
 	done
 
-_CeladonMartRoofText_484f3::
+_CeladonMartRoofLittleGirlYayFreshWaterText::
 	text "Hurra!"
 
 	para "FRISK VAND!"
@@ -14,14 +14,14 @@ _CeladonMartRoofText_484f3::
 	line "fra mig!@"
 	text_end
 
-_CeladonMartRoofText_484f9::
+_CeladonMartRoofLittleGirlReceivedTM13Text::
 	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
-_CeladonMartRoofText_484fe::
+_CeladonMartRoofLittleGirlTM13ExplanationText::
 	text_start
 
 	para "@"
@@ -34,7 +34,7 @@ _CeladonMartRoofText_484fe::
 	cont "gange!@"
 	text_end
 
-_CeladonMartRoofText_48504::
+_CeladonMartRoofLittleGirlYaySodaPopText::
 	text "Hurra!"
 
 	para "SODAVAND!"
@@ -45,14 +45,14 @@ _CeladonMartRoofText_48504::
 	line "fra mig!@"
 	text_end
 
-_CeladonMartRoofText_4850a::
+_CeladonMartRoofLittleGirlReceivedTM48Text::
 	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
-_CeladonMartRoofText_4850f::
+_CeladonMartRoofLittleGirlTM48ExplanationText::
 	text_start
 
 	para "@"
@@ -65,7 +65,7 @@ _CeladonMartRoofText_4850f::
 	cont "gange!@"
 	text_end
 
-_CeladonMartRoofText_48515::
+_CeladonMartRoofLittleGirlYayLemonadeText::
 	text "Hurra!"
 
 	para "LEMONADE!"
@@ -76,31 +76,31 @@ _CeladonMartRoofText_48515::
 	line "fra mig!@"
 	text_end
 
-_ReceivedTM49Text::
+_CeladonMartRoofLittleGirlReceivedTM49Text::
 	text "<PLAYER> modtog"
 	line "TM49!@"
 	text_end
 
-_CeladonMartRoofText_48520::
+_CeladonMartRoofLittleGirlTM49ExplanationText::
 	text_start
 
 	para "TM49 indeholder"
 	line "TRI ATTACK!@"
 	text_end
 
-_CeladonMartRoofText_48526::
+_CeladonMartRoofLittleGirlNoRoomText::
 	text "Du har ikke"
 	line "plads til den!@"
 	text_end
 
-_CeladonMartRoofText_4852c::
+_CeladonMartRoofLittleGirlImNotThirstyText::
 	text "Nej tak!"
 	line "Jeg er ikke"
 	cont "tørstig"
 	cont "alligevel!!@"
 	text_end
 
-_CeladonMartRoofText1::
+_CeladonMartRoofSuperNerdText::
 	text "Min søster er en"
 	line "træner, tro det"
 	cont "eller ej."
@@ -111,13 +111,13 @@ _CeladonMartRoofText1::
 	cont "vanvid!"
 	done
 
-_CeladonMartRoofText_48598::
+_CeladonMartRoofLittleGirlImThirstyText::
 	text "Jeg er tørstig!"
 	line "Jeg vil have noget"
 	cont "at drikke!"
 	done
 
-_CeladonMartRoofText4::
+_CeladonMartRoofLittleGirlGiveHerADrinkText::
 	text "Jeg er tørstig!"
 	line "Jeg vil have"
 	cont "noget at drikke!"
@@ -126,7 +126,7 @@ _CeladonMartRoofText4::
 	cont "drikke?"
 	done
 
-_CeladonMartRoofText6::
+_CeladonMartRoofCurrentFloorSignText::
 	text "TAGTERRASSE:"
 	line "SODAVANDSMASKINER"
 	done

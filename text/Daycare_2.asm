@@ -1,35 +1,35 @@
-_DayCareAllRightThenText::
+﻿_DaycareGentlemanAllRightThenText::
     text "Okay så,"
     line "@"
     text_end
 
-_DayCareComeAgainText::
+_DaycareGentlemanComeAgainText::
     text "kom igen."
 	done
 
-_DayCareNoRoomForMonText::
+_DaycareGentlemanNoRoomForMonText::
     text "Du har ikke plads"
     line "til denne #MON!"
     done
 
-_DayCareOnlyHaveOneMonText::
+_DaycareGentlemanOnlyHaveOneMonText::
     text "Du har kun en"
     line "#MON med dig."
     done
 
-_DayCareCantAcceptMonWithHMText::
+_DaycareGentlemanCantAcceptMonWithHMText::
     text "Jeg kan ikke"
 	line "acceptere en"
     cont "#MON der kender"
     cont "en HM bevægelse."
     done
 
-_DayCareHeresYourMonText::
+_DaycareGentlemanHeresYourMonText::
     text "Tak! Her er"
     line "din #MON!"
     prompt
 
-_DayCareNotEnoughMoneyText::
+_DaycareGentlemanNotEnoughMoneyText::
     text "Hey, du har ikke"
     line "nok ¥!"
     done

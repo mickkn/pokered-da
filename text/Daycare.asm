@@ -1,4 +1,4 @@
-_DayCareIntroText::
+﻿_DaycareGentlemanIntroText::
     text "Jeg driver en"
 	line "DAGPLEJE. Vil du"
     cont "have, at jeg"
@@ -6,12 +6,12 @@ _DayCareIntroText::
     cont "dine #MON?"
     done
 
-_DayCareWhichMonText::
+_DaycareGentlemanWhichMonText::
     text "Hvilken #MON"
     line "skal jeg passe?"
     prompt
 
-_DayCareWillLookAfterMonText::
+_DaycareGentlemanWillLookAfterMonText::
     text "Fint, jeg passer"
     line "@"
     text_ram wcd6d
@@ -19,12 +19,12 @@ _DayCareWillLookAfterMonText::
     cont "for en tid."
     prompt
 
-_DayCareComeSeeMeInAWhileText::
+_DaycareGentlemanComeSeeMeInAWhileText::
     text "Kom og se mig om"
     line "lidt tid."
     done
 
-_DayCareMonHasGrownText::
+_DaycareGentlemanMonHasGrownText::
     text "Din @"
     text_ram wcd6d
     text_start
@@ -40,7 +40,7 @@ _DayCareMonHasGrownText::
 	line "fantastisk?"
     prompt
 
-_DayCareOweMoneyText::
+_DaycareGentlemanOweMoneyText::
     text "Du skylder ¥@"
 	text_bcd wDayCareTotalCost, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text_start
@@ -48,14 +48,14 @@ _DayCareOweMoneyText::
     cont "af denne #MON."
 	done
 
-_DayCareGotMonBackText::
+_DaycareGentlemanGotMonBackText::
     text "<PLAYER> fik"
     line "@"
     text_ram wDayCareMonName
     text " tilbage!"
     done
 
-_DayCareMonNeedsMoreTimeText::
+_DaycareGentlemanMonNeedsMoreTimeText::
     text "Tilbage allerede?"
     line "Din @"
     text_ram wcd6d

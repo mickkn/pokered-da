@@ -1,9 +1,9 @@
-_OakAppearsText::
+﻿_PalletTownOakHeyWaitDontGoOutText::
 	text "OAK: Vent lige!"
 	line "Gå ikke ud!@"
 	text_end
 
-_OakWalksUpText::
+_PalletTownOakItsUnsafeText::
 	text "OAK: Det er"
 	line "farligt! Vilde"
 	cont "#MON lever"
@@ -18,7 +18,7 @@ _OakWalksUpText::
 	para "Kom med mig!"
 	done
 
-_PalletTownText2::
+_PalletTownGirlText::
 	text "Jeg opdrætter også"
 	line "#MON!"
 
@@ -27,7 +27,7 @@ _PalletTownText2::
 	cont "beskytte mig!"
 	done
 
-_PalletTownText3::
+_PalletTownFisherText::
 	text "Teknologien er"
 	line "fantastisk!"
 
@@ -37,21 +37,21 @@ _PalletTownText3::
 	cont "data via en PC!"
 	done
 
-_PalletTownText4::
+_PalletTownOaksLabSignText::
 	text "OAK #MON"
 	line "FORSKNINGSLAB"
 	done
 
-_PalletTownText5::
+_PalletTownSignText::
 	text "PALLET TOWN"
 	line "Din rejse"
 	cont "venter forude!"
 	done
 
-_PalletTownText6::
+_PalletTownPlayersHouseSignText::
 	text "<PLAYER>s hus "
 	done
 
-_PalletTownText7::
+_PalletTownRivalsHouseSignText::
 	text "<RIVAL>s hus "
 	done

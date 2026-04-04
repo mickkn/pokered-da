@@ -1,10 +1,10 @@
-_LavenderPokecenterText2::
+﻿_LavenderPokecenterGentlemanText::
 	text "TEAM ROCKET gør"
 	line "alt for guldets"
 	cont "skyld!"
 	done
 
-_LavenderPokecenterText3::
+_LavenderPokecenterLittleGirlText::
 	text "Jeg så CUBONEs"
 	line "mor dø mens hun"
 	cont "prøvede at flygte"

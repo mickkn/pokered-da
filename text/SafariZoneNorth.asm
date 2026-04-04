@@ -1,19 +1,19 @@
-_SafariZoneNorthText3::
+﻿_SafariZoneNorthRestHouseSignText::
 	text "HVILEHJEM"
 	done
 
-_SafariZoneNorthText4::
+_SafariZoneNorthTrainerTips1Text::
 	text "TRÆNERTIPS"
 
 	para "Det HEMMELIGE HUS"
 	line "er stadig forude!"
 	done
 
-_SafariZoneNorthText5::
+_SafariZoneNorthSignText::
 	text "OMRÅDE 2"
 	done
 
-_SafariZoneNorthText6::
+_SafariZoneNorthTrainerTips2Text::
 	text "TRÆNERTIPS"
 
 	para "#MON gemmer sig"
@@ -24,7 +24,7 @@ _SafariZoneNorthText6::
 	cont "for at finde dem."
 	done
 
-_SafariZoneNorthText7::
+_SafariZoneNorthTrainerTips3Text::
 	text "TRÆNERTIPS"
 
 	para "Vind en gratis HM"

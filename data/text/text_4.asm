@@ -4,7 +4,7 @@ _PokemartGreetingText::
 	done
 
 _PokemonFaintedText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text_start
 	line "besvimede!"
 	done
@@ -147,7 +147,7 @@ _ForgotAndText::
 	text_ram wLearnMoveMonName
 	text " glemte"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "!"
 
 	para "Og..."
@@ -219,7 +219,7 @@ IF DEF(_RED_VC) || DEF(_BLUE_VC)
 	text "Kom venligst igen!"
 	done
 	text_start
-	text "Lukket på grund"
+	db   "Lukket på grund"
 	cont "af inaktivitet."
 ELSE
 	text "Forbindelsen er"

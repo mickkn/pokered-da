@@ -1,11 +1,11 @@
-_OaksLabGaryText1::
+﻿_OaksLabRivalGrampsIsntAroundText::
 	text "<RIVAL>: Yo"
 	line "<PLAYER>!"
 	cont "Bedstefar er"
 	cont "her ikke!"
 	done
 
-_OaksLabText40::
+_OaksLabRivalGoAheadAndChooseText::
 	text "<RIVAL>: Heh, jeg"
 	line "behøver ikke være"
 	cont "grisk som dig!"
@@ -14,33 +14,33 @@ _OaksLabText40::
 	line "<PLAYER>!"
 	done
 
-_OaksLabText41::
+_OaksLabRivalMyPokemonLooksStrongerText::
 	text "<RIVAL>: Min"
 	line "#MON ser ud"
 	cont "til at være"
 	cont "stærkere."
 	done
 
-_OaksLabText39::
+_OaksLabThoseArePokeBallsText::
 	text "Det her er #"
 	line "BALLs. De"
 	cont "indeholder"
 	cont "#MON!"
 	done
 
-_OaksLabCharmanderText::
+_OaksLabYouWantCharmanderText::
 	text "Så! Du vælger den"
 	line "ild #MON,"
 	cont "CHARMANDER?"
 	done
 
-_OaksLabSquirtleText::
+_OaksLabYouWantSquirtleText::
 	text "Så! Du vælger den"
 	line "vand #MON,"
 	cont "SQUIRTLE?"
 	done
 
-_OaksLabBulbasaurText::
+_OaksLabYouWantBulbasaurText::
 	text "Så! Du vælger den"
 	line "græs #MON,"
 	cont "BULBASAUR?"
@@ -64,27 +64,27 @@ _OaksLabLastMonText::
 	line "sidste #MON!"
 	done
 
-_OaksLabText_1d2f0::
+_OaksLabOak1WhichPokemonDoYouWantText::
 	text "OAK: Ok, <PLAYER>,"
 	line "hvilken #MON"
 	cont "vil du have?"
 	done
 
-_OaksLabText_1d2f5::
+_OaksLabOak1YourPokemonCanFightText::
 	text "OAK: Hvis en vild"
 	line "#MON kommer,"
 	cont "kan din #MON"
 	cont "kæmpe imod den!"
 	done
 
-_OaksLabText_1d2fa::
+_OaksLabOak1RaiseYourYoungPokemonText::
 	text "OAK: <PLAYER>,"
 	line "træn din unge"
 	cont "#MON ved at"
 	cont "lade den kæmpe!"
 	done
 
-_OaksLabDeliverParcelText1::
+_OaksLabOak1DeliverParcelText::
 	text "OAK: Oh, <PLAYER>!"
 
 	para "Hvordan går det"
@@ -106,7 +106,7 @@ _OaksLabDeliverParcelText1::
 	line "OAK's PAKKE.@"
 	text_end
 
-_OaksLabDeliverParcelText2::
+_OaksLabOak1ParcelThanksText::
 	text_start
 	para "Ah! Dette er den"
 	line "tilpassede"
@@ -114,14 +114,14 @@ _OaksLabDeliverParcelText2::
 	cont "bestilte! Tak!"
 	done
 
-_OaksLabAroundWorldText::
+_OaksLabOak1PokemonAroundTheWorldText::
 	text "#MON over hele"
 	line "verdenen venter"
 	cont "på dig,"
 	cont "<PLAYER>!"
 	done
 
-_OaksLabGivePokeballsText1::
+_OaksLabOak1ReceivedPokeballsText::
 	text "OAK: Du kan ikke"
 	line "få detaljerede"
 	cont "data om #MON ved" 
@@ -136,7 +136,7 @@ _OaksLabGivePokeballsText1::
 	line "# BALLs!@"
 	text_end
 
-_OaksLabGivePokeballsText2::
+_OaksLabGivePokeballsExplanationText::
 	text_start
 	para "Når en vild"
 	line "#MON viser"
@@ -144,7 +144,7 @@ _OaksLabGivePokeballsText2::
 	cont "fair spil."
 
 	para "Smid en # BALL" 
-	line "på den og prøv" 
+	line "på den og prøv"
 	cont "at fange den!"
 
 	para "Dette vil ikke"
@@ -156,7 +156,7 @@ _OaksLabGivePokeballsText2::
 	cont "skal være heldig!"
 	done
 
-_OaksLabPleaseVisitText::
+_OaksLabOak1ComeSeeMeSometimesText::
 	text "OAK: Kom og besøg"
 	line "mig engang"
 	cont "imellem."
@@ -167,7 +167,7 @@ _OaksLabPleaseVisitText::
 	cont "udvikler sig."
 	done
 
-_OaksLabText_1d31d::
+_OaksLabOak1HowIsYourPokedexComingText::
 	text "OAK: Godt at se"
 	line "dig! Hvordan går"
 	cont "det med dit"
@@ -175,17 +175,17 @@ _OaksLabText_1d31d::
 	cont "mig se på det!"
 	prompt
 
-_OaksLabText_1d32c::
+_OaksLabPokedexText::
 	text "Det er en slags"
 	line "leksikon, men"
 	cont "siderne er tomme!"
 	done
 
-_OaksLabText8::
+_OaksLabOak2Text::
 	text "?"
 	done
 
-_OaksLabText_1d340::
+_OaksLabGirlText::
 	text "PROF.OAK er"
 	line "myndigheden når"
 	cont "det gælder"
@@ -196,13 +196,13 @@ _OaksLabText_1d340::
 	cont "op til ham!"
 	done
 
-_OaksLabRivalWaitingText::
+_OaksLabRivalFedUpWithWaitingText::
 	text "<RIVAL>:"
 	line "Bedstefar! Jeg er"
 	cont "træt af at vente!"
 	done
 
-_OaksLabChooseMonText::
+_OaksLabOakChooseMonText::
 	text "OAK: <RIVAL>?"
 	line "Lad mig tænke..."
 
@@ -232,24 +232,24 @@ _OaksLabChooseMonText::
 	cont "kan få en! Vælg!"
 	done
 
-_OaksLabRivalInterjectionText::
+_OaksLabRivalWhatAboutMeText::
 	text "<RIVAL>: Hey!"
 	line "Bedstefar! Hvad"
 	cont "med mig?"
 	done
 
-_OaksLabBePatientText::
+_OaksLabOakBePatientText::
 	text "OAK: Vær tålmodig!"
 	line "<RIVAL>, du kan"
 	cont "også få en!"
 	done
 
-_OaksLabLeavingText::
+_OaksLabOakDontGoAwayYetText::
 	text "OAK: Hej! Tag ikke"
 	line "afsted endnu!"
 	done
 
-_OaksLabRivalPickingMonText::
+_OaksLabRivalIllTakeThisOneText::
 	text "<RIVAL>: Jeg tager"
 	line "denne her, så!"
 	done
@@ -261,7 +261,7 @@ _OaksLabRivalReceivedMonText::
 	text "!@"
 	text_end
 
-_OaksLabRivalChallengeText::
+_OaksLabRivalIllTakeYouOnText::
 	text "<RIVAL>: Vent"
 	line "<PLAYER>!"
 	cont "Lad os se på"
@@ -271,19 +271,19 @@ _OaksLabRivalChallengeText::
 	line "dig ned!"
 	done
 
-_OaksLabText_1d3be::
+_OaksLabRivalIPickedTheWrongPokemonText::
 	text "HVAD?"
 	line "Ubegribeligt!"
 	cont "Jeg valgte den"
 	cont "forkerte #MON!"
 	prompt
 
-_OaksLabText_1d3c3::
+_OaksLabRivalAmIGreatOrWhatText::
 	text "<RIVAL>: Ja! Er"
 	line "jeg ikke god?"
 	prompt
 
-_OaksLabRivalToughenUpText::
+_OaksLabRivalSmellYouLaterText::
 	text "<RIVAL>: Okay!"
 	line "Jeg får min"
 	cont "#MON til at"
@@ -296,23 +296,23 @@ _OaksLabRivalToughenUpText::
 	cont "Vi lugtes ved!"
 	done
 
-_OaksLabText21::
+_OaksLabRivalGrampsText::
 	text "<RIVAL>:"
 	cont "Bedstefar!"
 	done
 
-_OaksLabText22::
+_OaksLabRivalWhatDidYouCallMeForText::
 	text "<RIVAL>: Hvad vil"
 	line "du have mig til?"
 	done
 
-_OaksLabText23::
+_OaksLabOakIHaveARequestText::
 	text "OAK: Okay, jeg har"
 	line "en opgave til"
 	cont "jer to."
 	done
 
-_OaksLabText24::
+_OaksLabOakMyInventionPokedexText::
 	text "På skrivebordet"
 	line "ligger min"
 	cont "opfindelse,"
@@ -328,7 +328,7 @@ _OaksLabText24::
 	line "tech leksikon!"
 	done
 
-_OaksLabText25::
+_OaksLabOakGotPokedexText::
 	text "OAK: <PLAYER> og"
 	line "<RIVAL>! Tag"
 	cont "disse med dig!"
@@ -337,7 +337,7 @@ _OaksLabText25::
 	line "#DEX af OAK!@"
 	text_end
 
-_OaksLabText26::
+_OaksLabOakThatWasMyDreamText::
 	text "For at lave en"
 	line "komplet guide om"
 	cont "alle #MON i"
@@ -362,7 +362,7 @@ _OaksLabText26::
 	cont "historien!"
 	done
 
-_OaksLabText27::
+_OaksLabRivalLeaveItAllToMeText::
 	text "<RIVAL>: Okay,"
 	line "Bedstefar! Lad"
 	cont "alt være op til"
@@ -386,7 +386,7 @@ _OaksLabText27::
 	cont "Hahaha!"
 	done
 
-_OaksLabText_1d405::
+_OaksLabScientistText::
 	text "Jeg studerer"
 	line "Pokémon som"
 	cont "PROF.OAK's AIDE."

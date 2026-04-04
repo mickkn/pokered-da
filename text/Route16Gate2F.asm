@@ -1,14 +1,14 @@
-_Route16GateUpstairsText_49820::
+﻿_Route16Gate2FLittleBoyText::
 	text "Jeg tager en tur"
 	line "med min kæreste!"
 	done
 
-_Route16GateUpstairsText_4982f::
+_Route16Gate2FLittleGirlText::
 	text "Vi skal cykle"
 	line "sammen!"
 	done
 
-_Route16GateUpstairsText_4983b::
+_Route16Gate2FLeftBinocularsText::
 	text "Kiggede i"
 	line "kikkerten."
 
@@ -16,7 +16,7 @@ _Route16GateUpstairsText_4983b::
 	line "VAREHUS!"
 	done
 
-_Route16GateUpstairsText_49847::
+_Route16Gate2FRightBinocularsText::
 	text "Kiggede i"
 	line "kikkerten."
 

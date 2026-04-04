@@ -1,4 +1,4 @@
-_SSAnne1Text1::
+﻿_SSAnne1FWaiterText::
 	text "Bonjour!"
 	line "Jeg er le tjener"
 	cont "på dette skib!"
@@ -11,7 +11,7 @@ _SSAnne1Text1::
 	line "tavse type!"
 	done
 
-_SSAnne1Text2::
+_SSAnne1FSailorText::
 	text "Passagererne er"
 	line "rastløse!"
 

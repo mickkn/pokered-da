@@ -1,11 +1,11 @@
-_CopycatsHouse1FText1::
+﻿_CopycatsHouse1FMiddleAgedWomanText::
     text "Min datter er så"
     line "selvcentreret."
     cont "Hun har kun nogle"
     cont "få venner."
     done
 
-_CopycatsHouse1FText2::
+_CopycatsHouse1FMiddleAgedManText::
     text "Min datter kan"
     line "lide at"
 	cont "efterligne folk."
@@ -18,7 +18,7 @@ _CopycatsHouse1FText2::
     cont "omkring!"
     done
 
-_CopycatsHouse1FText3::
+_CopycatsHouse1FChanseyText::
     text "CHANSEY: Chaan!"
     line "Sii!@"
     text_end

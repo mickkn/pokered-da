@@ -1,4 +1,4 @@
-_CeladonMart5Text1::
+﻿_CeladonMart5FGentlemanText::
 	text "#MON evnefor-"
 	line "bedringer kan kun"
 	cont "købes her."
@@ -11,7 +11,7 @@ _CeladonMart5Text1::
 	line "øge SPEED."
 	done
 
-_CeladonMart5Text2::
+_CeladonMart5FSailorText::
 	text "Jeg er kommet"
 	line "efter #MON"
 	cont "evneforbedringer."
@@ -23,6 +23,6 @@ _CeladonMart5Text2::
 	line "FORSVAR!"
 	done
 
-_CeladonMart5Text5::
+_CeladonMart5FCurrentFloorSignText::
 	text "5F: APOTEK"
 	done

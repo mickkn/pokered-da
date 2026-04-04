@@ -1,8 +1,8 @@
-_SafariZoneCenterText2::
+﻿_SafariZoneCenterRestHouseSignText::
 	text "HVILEHJEM"
 	done
 
-_SafariZoneCenterText3::
+_SafariZoneCenterTrainerTipsSignText::
 	text "TRÆNERTIPS"
 
 	para "Tryk på START-"

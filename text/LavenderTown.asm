@@ -1,14 +1,14 @@
-_LavenderTownText_4413c::
+﻿_LavenderTownLittleGirlDoYouBelieveInGhostsText::
 	text "Tror du på"
 	line "SPØGELSER?"
 	done
 
-_LavenderTownText_44141::
+_LavenderTownLittleGirlSoThereAreBelieversText::
 	text "Virkelig? Så der"
 	line "er troende..."
 	done
 
-_LavenderTownText_44146::
+_LavenderTownLittleGirlHaHaGuessNotText::
 	text "Hahaha, det"
 	line "tænkte jeg nok."
 
@@ -17,7 +17,7 @@ _LavenderTownText_44146::
 	cont "er ikke ægte."
 	done
 
-_LavenderTownText2::
+_LavenderTownCooltrainerMText::
 	text "Denne by er kendt"
 	line "som gravplads for"
 	cont "#MON."
@@ -27,7 +27,7 @@ _LavenderTownText2::
 	cont "#MON TOWER."
 	done
 
-_LavenderTownText3::
+_LavenderTownSuperNerdText::
 	text "SPØGELSER dukkede"
 	line "op i"
 	cont "#MON TOWER."
@@ -38,13 +38,13 @@ _LavenderTownText3::
 	cont "dræbte."
 	done
 
-_LavenderTownText4::
+_LavenderTownSignText::
 	text "LAVENDER TOWN"
 	line "Den ædle"
 	cont "lilla by"
 	done
 
-_LavenderTownText5::
+_LavenderTownSilphScopeSignText::
 	text "Ny SILPH SCOPE!"
 
 	para "Gør det usynlige"
@@ -53,12 +53,12 @@ _LavenderTownText5::
 	para "SILPH CO."
 	done
 
-_LavenderTownText8::
+_LavenderTownPokemonHouseSignText::
 	text "LAVENDER FRIVILLIG"
 	line "#MON HJEM"
 	done
 
-_LavenderTownText9::
+_LavenderTownPokemonTowerSignText::
 	text "Må #MONs sjæle"
 	line "hvile i fred"
 	cont "#MON TOWER"

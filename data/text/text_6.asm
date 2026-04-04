@@ -60,7 +60,7 @@ _ItemUseBallText06::
 _SurfingGotOnText::
 	text "<PLAYER> kom op på"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "!"
 	prompt
 
@@ -70,7 +70,7 @@ _SurfingNoPlaceToGetOffText::
 	prompt
 
 _VitaminStatRoseText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "'s"
 	line "@"
 	text_ram wStringBuffer
@@ -176,9 +176,9 @@ _TeachMachineMoveText::
 	done
 
 _MonCannotLearnMachineMoveText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " er ikke"
-	line "kompatibelt med"
+	line "kompatibel med"
 	cont "@"
 	text_ram wStringBuffer
 	text "."
@@ -222,7 +222,7 @@ _NoCyclingAllowedHereText::
 _NoSurfingHereText::
 	text "Ingen SURFing på"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " her!"
 	prompt
 

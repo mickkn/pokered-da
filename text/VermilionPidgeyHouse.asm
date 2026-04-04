@@ -1,15 +1,15 @@
-_VermilionHouse1Text1::
+﻿_VermilionPidgeyHouseYoungsterText::
 	text "Jeg får min PIDGEY"
 	line "til at flyve med"
 	cont "et brev til"
 	cont "SAFFRON mod nord!"
 	done
 
-_VermilionHouse1Text2::
+_VermilionPidgeyHousePidgeyText::
 	text "PIDGEY: Kurukkoo!@"
 	text_end
 
-_VermilionHouse1Text3::
+_VermilionPidgeyHouseLetterText::
 	text "Kære PIPPI, jeg"
 	line "håber at se dig"
 	cont "snart."

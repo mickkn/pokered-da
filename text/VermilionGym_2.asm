@@ -1,4 +1,4 @@
-_LTSurgePostBattleAdviceText::
+﻿_VermilionGymLTSurgePostBattleAdviceText::
 	text "Et lille godt råd,"
 	line "knægt!"
 
@@ -10,7 +10,7 @@ _LTSurgePostBattleAdviceText::
 	cont "#MON!"
 	done
 
-_LTSurgeThunderBadgeInfoText::
+_VermilionGymLTSurgeThunderBadgeInfoText::
 	text "LYNMÆRKET øger"
 	line "dine #MONs"
 	cont "HASTIGHED!"
@@ -25,7 +25,7 @@ _LTSurgeThunderBadgeInfoText::
 	cont "her!"
 	done
 
-_ReceivedTM24Text::
+_VermilionGymLTSurgeReceivedTM24Text::
 	text "<PLAYER> modtog "
 	line "@"
 	text_ram wStringBuffer
@@ -42,12 +42,12 @@ _TM24ExplanationText::
 	line "elektrisk #MON!"
 	done
 
-_TM24NoRoomText::
+_VermilionGymLTSurgeTM24NoRoomText::
 	text "Yo knægt, gør"
 	line "plads i tasken!"
 	done
 
-_ReceivedThunderBadgeText::
+_VermilionGymLTSurgeReceivedThunderBadgeText::
 	text "Whoa!"
 
 	para "Du er den ægte"
@@ -57,19 +57,19 @@ _ReceivedThunderBadgeText::
 	line "LYNMÆRKET!"
 	prompt
 
-_VermilionGymBattleText1::
+_VermilionGymGentlemanBattleText::
 	text "Da jeg var i"
 	line "hæren, var"
 	cont "LT.SURGE min"
 	cont "strenge officer!"
 	done
 
-_VermilionGymEndBattleText1::
+_VermilionGymGentlemanEndBattleText::
 	text "Stop!"
 	line "Du er meget god!"
 	prompt
 
-_VermilionGymAfterBattleText1::
+_VermilionGymGentlemanAfterBattleText::
 	text "Døren vil ikke"
 	line "åbne?"
 
@@ -78,17 +78,17 @@ _VermilionGymAfterBattleText1::
 	cont "forsigtig!"
 	done
 
-_VermilionGymBattleText2::
+_VermilionGymSuperNerdBattleText::
 	text "Jeg er letvægt,"
 	line "men god med"
 	cont "elektricitet!"
 	done
 
-_VermilionGymEndBattleText2::
+_VermilionGymSuperNerdEndBattleText::
 	text "Stegt!"
 	prompt
 
-_VermilionGymAfterBattleText2::
+_VermilionGymSuperNerdAfterBattleText::
 	text "OK, jeg snakker!"
 
 	para "LT.SURGE sagde"
@@ -97,17 +97,17 @@ _VermilionGymAfterBattleText2::
 	cont "noget!"
 	done
 
-_VermilionGymBattleText3::
+_VermilionGymSailorBattleText::
 	text "Dette er ikke et"
 	line "sted for børn!"
 	done
 
-_VermilionGymEndBattleText3::
+_VermilionGymSailorEndBattleText::
 	text "Wow!"
 	line "Overraskede mig!"
 	prompt
 
-_VermilionGymAfterBattleText3::
+_VermilionGymSailorAfterBattleText::
 	text "LT.SURGE satte"
 	line "dobbeltlåse op!"
 	cont "Her er et hint!"
@@ -118,7 +118,7 @@ _VermilionGymAfterBattleText3::
 	cont "ved siden af!"
 	done
 
-_VermilionGymGuidePreBattleText::
+_VermilionGymGymGuideChampInMakingText::
 	text "Yo! Kommende"
 	line "mester!"
 
@@ -144,7 +144,7 @@ _VermilionGymGuidePreBattleText::
 	cont "ham!"
 	done
 
-_VermilionGymGuidePostBattleText::
+_VermilionGymGymGuideBeatLTSurgeText::
 	text "Pyha! Den kamp"
 	line "var elektrisk!"
 	done

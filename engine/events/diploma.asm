@@ -6,12 +6,12 @@ DisplayDiploma::
 	call ClearScreen
 	xor a
 	ld [wUpdateSpritesEnabled], a
-	ld hl, wd730
-	set 6, [hl]
+	ld hl, wStatusFlags5
+	set BIT_NO_TEXT_DELAY, [hl]
 	call DisableLCD
 	ld hl, CircleTile
 	ld de, vChars2 tile CIRCLE_TILE_ID
-	ld bc, $10
+	ld bc, TILE_SIZE
 	ld a, BANK(CircleTile)
 	call FarCopyData2
 	hlcoord 0, 0
@@ -65,21 +65,21 @@ DisplayDiploma::
 	ld a, $90
 	ldh [rOBP0], a
 	call WaitForTextScrollButtonPress
-	ld hl, wd730
-	res 6, [hl]
+	ld hl, wStatusFlags5
+	res BIT_NO_TEXT_DELAY, [hl]
 	call GBPalWhiteOutWithDelay3
 	call RestoreScreenTilesAndReloadTilePatterns
 	call Delay3
 	jp GBPalNormal
 
 UnusedPlayerNameLengthFunc:
-; Unused function that does a calculation involving the length of the player's
-; name.
+; Unused function that performs bc = -(player name's length)
+; leftover from the JPN versions
 	ld hl, wPlayerName
 	lb bc, $ff, $00
 .loop
 	ld a, [hli]
-	cp "@"
+	cp '@'
 	ret z
 	dec c
 	jr .loop

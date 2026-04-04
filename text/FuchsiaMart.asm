@@ -1,4 +1,4 @@
-_FuchsiaMartText2::
+﻿_FuchsiaMartMiddleAgedManText::
 	text "Har du et"
 	line "SAFARIZONEN-flag?"
 
@@ -6,7 +6,7 @@ _FuchsiaMartText2::
 	line "eller kalendere?"
 	done
 
-_FuchsiaMartText3::
+_FuchsiaMartCooltrainerFText::
 	text "Har du prøvet X"
 	line "SPEED? Det gør en"
 	cont "#MON hurtigere"

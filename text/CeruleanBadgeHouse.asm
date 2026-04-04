@@ -1,4 +1,4 @@
-_CeruleanHouse2Text_74e77::
+﻿_CeruleanBadgeHouseMiddleAgedManText::
     text "#MON EMBLEMER"
     line "ejes kun af"
     cont "dygtige trænere."
@@ -11,7 +11,7 @@ _CeruleanHouse2Text_74e77::
 	cont "hemmeligheder!"
     prompt
 
-_CeruleanHouse2Text_74e7c::
+_CeruleanBadgeHouseMiddleAgedManWhichBadgeText::
     text "Nu så..."
 
     para "Hvilken af de 8"
@@ -19,12 +19,12 @@ _CeruleanHouse2Text_74e7c::
     cont "beskrive?"
     done
 
-_CeruleanHouse2Text_74e81::
+_CeruleanBadgeHouseMiddleAgedManVisitAnyTimeText::
     text "Besøg mig når som"
     line "helst du ønsker."
     done
 
-_CeruleanHouse2Text_74e96::
+_CeruleanBadgeHouseBoulderBadgeText::
     text "ANGREBET fra alle"
     line "#MON stiger en"
     cont "smule."
@@ -35,7 +35,7 @@ _CeruleanHouse2Text_74e96::
     cont "når som helst."
     prompt
 
-_CeruleanHouse2Text_74e9b::
+_CeruleanBadgeHouseCascadeBadgeText::
     text "#MON op til L30"
     line "vil adlyde dig."
 
@@ -49,7 +49,7 @@ _CeruleanHouse2Text_74e9b::
     cont "for kamp."
 	prompt
 
-_CeruleanHouse2Text_74ea0::
+_CeruleanBadgeHouseThunderBadgeText::
     text "HASTIGHEDEN for"
     line "alle #MON"
     cont "stiger en smule."
@@ -60,7 +60,7 @@ _CeruleanHouse2Text_74ea0::
     cont "kamp."
 	prompt
 
-_CeruleanHouse2Text_74ea5::
+_CeruleanBadgeHouseRainbowBadgeText::
     text "#MON op til L50"
     line "vil adlyde dig."
 
@@ -74,7 +74,7 @@ _CeruleanHouse2Text_74ea5::
     cont "for kamp."
     prompt
 
-_CeruleanHouse2Text_74eaa::
+_CeruleanBadgeHouseSoulBadgeText::
     text "FORSVARET for alle"
     line "#MON stiger"
     cont "en smule."
@@ -85,7 +85,7 @@ _CeruleanHouse2Text_74eaa::
     cont "for kamp."
 	prompt
 
-_CeruleanHouse2Text_74eaf::
+_CeruleanBadgeHouseMarshBadgeText::
     text "#MON op til L70"
     line "vil adlyde dig."
 
@@ -94,13 +94,13 @@ _CeruleanHouse2Text_74eaf::
 	cont "ustyrlige!"
 	prompt
 
-_CeruleanHouse2Text_74eb4::
+_CeruleanBadgeHouseVolcanoBadgeText::
     text "Din #MON's"
     line "SPECIAL evner"
     cont "stiger en smule."
 	prompt
 
-_CeruleanHouse2Text_74eb9::
+_CeruleanBadgeHouseEarthBadgeText::
     text "Alle #MON vil"
     line "adlyde dig!"
 	prompt

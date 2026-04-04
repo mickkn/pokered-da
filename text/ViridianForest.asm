@@ -1,4 +1,4 @@
-_ViridianForestText1::
+_ViridianForestYoungster1Text::
 	text "Jeg kom hertil med"
 	line "nogle venner!"
 
@@ -6,52 +6,52 @@ _ViridianForestText1::
 	line "kæmpe med #MON!"
 	done
 
-_ViridianForestBattleText1::
+_ViridianForestYoungster2BattleText::
 	text "Hej! Du har"
 	line "#MON! Kom!"
 	cont "Lad os kæmpe!"
 	done
 
-_ViridianForestEndBattleText1::
+_ViridianForestYoungster2EndBattleText::
 	text "Nej!"
 	line "CATERPIE klarer"
 	cont "det ikke!"
 	prompt
 
-_ViridianFrstAfterBattleText1::
+_ViridianForestYoungster2AfterBattleText::
 	text "Shh! Du skræmmer"
 	line "insekterne væk!"
 	done
 
-_ViridianForestBattleText2::
+_ViridianForestYoungster3BattleText::
 	text "Yo! Du kan ikke"
 	line "bare stikke af"
 	cont "som #MON-træner!"
 	done
 
-_ViridianForestEndBattleText2::
+_ViridianForestYoungster3EndBattleText::
 	text "Hvad?"
 	line "Jeg løb tør for"
 	cont "#MON!"
 	prompt
 
-_ViridianFrstAfterBattleText2::
+_ViridianForestYoungster3AfterBattleText::
 	text "Pøj! Jeg fanger"
 	line "nogle stærkere!"
 	done
 
-_ViridianForestBattleText3::
+_ViridianForestYoungster4BattleText::
 	text "Hej, vent lidt!"
 	line "Hvorfor så travlt?"
 	done
 
-_ViridianForestEndBattleText3::
+_ViridianForestYoungster4EndBattleText::
 	text "Jeg"
 	line "giver op! Du er"
 	cont "god til det!"
 	prompt
 
-_ViridianFrstAfterBattleText3::
+_ViridianForestYoungster4AfterBattleText::
 	text "Sommetider kan"
 	line "man finde ting"
 	cont "på jorden!"
@@ -60,7 +60,7 @@ _ViridianFrstAfterBattleText3::
 	line "det jeg tabte!"
 	done
 
-_ViridianForestText8::
+_ViridianForestYoungster5Text::
 	text "Jeg løb tør for"
 	line "# BALLs til at"
 	cont "fange #MON med!"
@@ -69,7 +69,7 @@ _ViridianForestText8::
 	line "ekstra med!"
 	done
 
-_ViridianForestText9::
+_ViridianForestTrainerTips1Text::
 	text "TRÆNERTIPS"
 
 	para "Hvis du vil undgå"
@@ -78,14 +78,14 @@ _ViridianForestText9::
 	cont "græsområder!"
 	done
 
-_ViridianForestText10::
+_ViridianForestUseAntidoteSignText::
 	text "Mod forgiftning,"
 	line "brug MODGIFT! Køb"
 	cont "den i #MON"
 	cont "MARTs!"
 	done
 
-_ViridianForestText11::
+_ViridianForestTrainerTips2Text::
 	text "TRÆNERTIPS"
 
 	para "Kontakt PROF.OAK"
@@ -94,7 +94,7 @@ _ViridianForestText11::
 	cont "vurderet!"
 	done
 
-_ViridianForestText12::
+_ViridianForestTrainerTips3Text::
 	text "TRÆNERTIPS"
 
 	para "Man må ikke"
@@ -104,7 +104,7 @@ _ViridianForestText12::
 	cont "vilde #MON!"
 	done
 
-_ViridianForestText13::
+_ViridianForestTrainerTips4Text::
 	text "TRÆNERTIPS"
 
 	para "Svæk #MON før"
@@ -115,7 +115,7 @@ _ViridianForestText13::
 	line "kan de flygte!"
 	done
 
-_ViridianForestText14::
+_ViridianForestLeavingSignText::
 	text "FORLADER"
 	line "VIRIDIAN FOREST"
 	cont "PEWTER CITY FORUDE"

@@ -1,4 +1,4 @@
-_CeladonHotelText1::
+﻿_CeladonHotelGrannyText::
 	text "#MON? Nej, dette"
 	line "er et hotel for"
 	cont "mennesker."
@@ -7,7 +7,7 @@ _CeladonHotelText1::
 	line "booket."
 	done
 
-_CeladonHotelText2::
+_CeladonHotelBeautyText::
 	text "Jeg er på ferie"
 	line "med min bror"
 	cont "og kæreste."
@@ -16,7 +16,7 @@ _CeladonHotelText2::
 	line "en smuk by!"
 	done
 
-_CeladonHotelText3::
+_CeladonHotelSuperNerdText::
 	text "Hvorfor tog hun"
 	line "sin bror med?"
 	done

@@ -1,45 +1,45 @@
-_PokemonTower4BattleText1::
+﻿_PokemonTower4FChanneler1BattleText::
 	text "SPØGELSE! Nej!"
 	line "Kwaaah!"
 	done
 
-_PokemonTower4EndBattleText1::
+_PokemonTower4FChanneler1EndBattleText::
 	text "Hvor"
 	line "er SPØGELSET?"
 	prompt
 
-_PokemonTower4AfterBattleText1::
+_PokemonTower4FChanneler1AfterBattleText::
 	text "Jeg må have"
 	line "drømt..."
 	done
 
-_PokemonTower4BattleText2::
+_PokemonTower4FChanneler2BattleText::
 	text "Bliv forbandet"
 	line "med mig! Kwaaah!"
 	done
 
-_PokemonTower4EndBattleText2::
+_PokemonTower4FChanneler2EndBattleText::
 	text "Hvad!"
 	prompt
 
-_PokemonTower4AfterBattleText2::
+_PokemonTower4FChanneler2AfterBattleText::
 	text "Vi kan ikke"
 	line "afsløre"
 	cont "SPØGELSErnes"
 	cont "identitet."
 	done
 
-_PokemonTower4BattleText3::
+_PokemonTower4FChanneler3BattleText::
 	text "Huhuhu..."
 	line "Slå mig ikke!"
 	done
 
-_PokemonTower4EndBattleText3::
+_PokemonTower4FChanneler3EndBattleText::
 	text "Hvad?"
 	line "Hvem? Hvad?"
 	prompt
 
-_PokemonTower4AfterBattleText3::
+_PokemonTower4FChanneler3AfterBattleText::
 	text "Må de afdøde"
 	line "#MON sjæle"
 	cont "hvile i fred..."

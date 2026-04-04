@@ -1,4 +1,4 @@
-_SaffronHouse1Text1::
+﻿_SaffronPidgeyHouseBrunetteGirlText::
 	text "Tak fordi du"
 	line "skrev. Jeg håber"
 	cont "at se dig snart!"
@@ -8,17 +8,17 @@ _SaffronHouse1Text1::
 	cont "brev!"
 	done
 
-_SaffronHouse1Text2::
+_SaffronPidgeyHousePidgeyText::
 	text "PIDGEY: Kurukkoo!@"
 	text_end
 
-_SaffronHouse1Text3::
+_SaffronPidgeyHouseYoungsterText::
 	text "COPYCAT er sød!"
 	line "Jeg giver hende"
 	cont "en # DUKKE!"
 	done
 
-_SaffronHouse1Text4::
+_SaffronPidgeyHousePaperText::
 	text "Jeg fik en PP"
 	line "UP i gave."
 

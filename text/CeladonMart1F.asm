@@ -1,4 +1,4 @@
-_CeladonMart1Text1::
+﻿_CeladonMart1FReceptionistText::
 	text "Hej! Velkommen til"
 	line "CELADON VAREHUS."
 
@@ -7,7 +7,7 @@ _CeladonMart1Text1::
 	cont "oversigten."
 	done
 
-_CeladonMart1Text2::
+_CeladonMart1FDirectorySignText::
 	text "1F: SERVICE-"
 	line "    SKRANKE"
 
@@ -24,7 +24,7 @@ _CeladonMart1Text2::
 	line "SODAVANDSMASKINER"
 	done
 
-_CeladonMart1Text3::
+_CeladonMart1FCurrentFloorSignText::
 	text "1F: SERVICE-"
 	line "    SKRANKE"
 	done

@@ -1,4 +1,4 @@
-_Route11GateUpstairsText_494a3::
+﻿_Route11Gate2FOaksAideItemfinderDescriptionText::
 	text "Der er ting på"
 	line "jorden der ikke"
 	cont "kan ses."
@@ -13,7 +13,7 @@ _Route11GateUpstairsText_494a3::
 	cont "selv lede!"
 	done
 
-_BinocularsSnorlaxText::
+_Route11Gate2FLeftBinocularsSnorlaxText::
 	text "Kiggede i"
 	line "kikkerten."
 
@@ -21,7 +21,7 @@ _BinocularsSnorlaxText::
 	line "sover på en vej!"
 	done
 
-_BinocularsNoSnorlaxText::
+_Route11Gate2FLeftBinocularsNoSnorlaxText::
 	text "Kiggede i"
 	line "kikkerten."
 
@@ -29,7 +29,7 @@ _BinocularsNoSnorlaxText::
 	line "udsigt!"
 	done
 
-_Route11GateUpstairsText_494d5::
+_Route11Gate2FRightBinocularsText::
 	text "Kiggede i"
 	line "kikkerten."
 

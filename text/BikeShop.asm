@@ -1,4 +1,4 @@
-_BikeShopText_1d810::
+_BikeShopClerkWelcomeText::
 	text "Hej! Velkommen til"
 	line "vores CYKELBUTIK."
 
@@ -7,7 +7,7 @@ _BikeShopText_1d810::
 	cont "CYKEL til dig!"
 	prompt
 
-_BikeShopText_1d815::
+_BikeShopClerkDoYouLikeItText::
 	text "Det er en cool"
 	line "CYKEL! Vil du"
 	cont "have den?"
@@ -18,7 +18,7 @@ _BikeShopCantAffordText::
 	line "ikke råd til den!"
 	prompt
 
-_BikeShopText_1d81f::
+_BikeShopClerkOhThatsAVoucherText::
 	text "Åh, det er..."
 
 	para "EN CYKELVOUCHER!"
@@ -26,7 +26,7 @@ _BikeShopText_1d81f::
 	para "OK! Værsgo!"
 	prompt
 
-_BikeShopText_1d824::
+_BikeShopExchangedVoucherText::
 	text "<PLAYER> byttede"
 	line "CYKELVOUCHEREN"
 	cont "for en CYKEL.@"
@@ -37,7 +37,7 @@ _BikeShopComeAgainText::
 	line "gang!"
 	done
 
-_BikeShopText_1d82f::
+_BikeShopClerkHowDoYouLikeYourBicycleText::
 	text "Kan du lide din"
 	line "nye CYKEL?"
 
@@ -46,12 +46,12 @@ _BikeShopText_1d82f::
 	cont "og i huler!"
 	done
 
-_BikeShopText_1d834::
+_BikeShopBagFullText::
 	text "Du må hellere lave"
 	line "plads til den"
 	done
 
-_BikeShopText_1d843::
+_BikeShopMiddleAgedWomanText::
 	text "En simpel BYCYKEL"
 	line "er god nok"
 	cont "til mig!"
@@ -61,13 +61,13 @@ _BikeShopText_1d843::
 	cont "på en MTB!"
 	done
 
-_BikeShopText_1d85c::
+_BikeShopYoungsterTheseBikesAreExpensiveText::
 	text "Disse CYKLER er"
 	line "cool, men de er"
 	cont "meget dyre!"
 	done
 
-_BikeShopText_1d861::
+_BikeShopYoungsterCoolBikeText::
 	text "Wow. Din CYKEL er"
 	line "virkelig cool!"
 	done

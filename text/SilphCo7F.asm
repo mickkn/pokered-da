@@ -1,4 +1,4 @@
-_MeetLaprasGuyText::
+﻿_SilphCo7FSilphWorkerM1HaveThisPokemonText::
 	text "Åh! Hej! Du er"
 	line "ikke en ROCKET!"
 	cont "Er du kommet for"
@@ -10,7 +10,7 @@ _MeetLaprasGuyText::
 	cont "at redde os."
 	prompt
 
-_HeresYourLaprasText::
+_SilphCo7FSilphWorkerM1LaprasDescriptionText::
 	text "Det er LAPRAS."
 	line "Den er meget"
 	cont "intelligent."
@@ -29,7 +29,7 @@ _HeresYourLaprasText::
 	cont "dig et lift!"
 	done
 
-_LaprasGuyText::
+_SilphCo7FSilphWorkerM1IsOurPresidentOkText::
 	text "TEAM ROCKETs CHEF"
 	line "gik til bestyrel-"
 	cont "seslokalet! Har"
@@ -37,26 +37,26 @@ _LaprasGuyText::
 	cont "det godt?"
 	done
 
-_LaprasGuySavedText::
+_SilphCo7FSilphWorkerM1SavedText::
 	text "Endelig reddet!"
 	line "Tak!"
 	done
 
-_SilphCo7Text_51e00::
+_SilphCo7FSilphWorkerM2AfterTheMasterBallText::
 	text "TEAM ROCKET var"
 	line "ude efter MASTER"
 	cont "BALL som fanger"
 	cont "enhver #MON!"
 	done
 
-_CanceledMasterBallText::
+_SilphCo7FSilphWorkerM2CancelledMasterBallText::
 	text "Vi aflyste MASTER"
 	line "BALL-projektet"
 	cont "på grund af"
 	cont "TEAM ROCKET."
 	done
 
-_SilphCo7Text_51e23::
+_SilphCo7FSilphWorkerM3ItWouldBeBadText::
 	text "Det ville være"
 	line "slemt hvis TEAM"
 	cont "ROCKET overtog"
@@ -64,13 +64,13 @@ _SilphCo7Text_51e23::
 	cont "#MON!"
 	done
 
-_SilphCo7Text_51e28::
+_SilphCo7FSilphWorkerM3YouChasedOffTeamRocketText::
 	text "Wow! Du jagede"
 	line "TEAM ROCKET væk"
 	cont "helt alene?"
 	done
 
-_SilphCo7Text_51e46::
+_SilphCo7FSilphWorkerM4ItsReallyDangerousHereText::
 	text "Dig! Det er"
 	line "virkelig"
 	cont "farligt her!"
@@ -79,84 +79,84 @@ _SilphCo7Text_51e46::
 	cont "Det kan du ikke!"
 	done
 
-_SilphCo7Text_51e4b::
+_SilphCo7FSilphWorkerM4SafeAtLastText::
 	text "Endelig i"
 	line "sikkerhed!"
 	cont "Åh, tak!"
 	done
 
-_SilphCo7BattleText1::
+_SilphCo7FRocket1BattleText::
 	text "Oh ho! Jeg lugter"
 	line "en lille rotte!"
 	done
 
-_SilphCo7EndBattleText1::
+_SilphCo7FRocket1EndBattleText::
 	text "Lyset"
 	line "slukket!"
 	prompt
 
-_SilphCo7AfterBattleText1::
+_SilphCo7FRocket1AfterBattleText::
 	text "Du finder ikke"
 	line "min CHEF bare ved"
 	cont "at løbe rundt!"
 	done
 
-_SilphCo7BattleText2::
+_SilphCo7FScientistBattleText::
 	text "Heheh!"
 
 	para "Troede du jeg var"
 	line "en SILPH-ansat?"
 	done
 
-_SilphCo7EndBattleText2::
+_SilphCo7FScientistEndBattleText::
 	text "Jeg"
 	line "er færdig!"
 	prompt
 
-_SilphCo7AfterBattleText2::
+_SilphCo7FScientistAfterBattleText::
 	text "Trods din alder"
 	line "er du en dygtig"
 	cont "træner!"
 	done
 
-_SilphCo7BattleText3::
+_SilphCo7FRocket2BattleText::
 	text "Jeg er én af de 4"
 	line "ROCKET-BRØDRE!"
 	done
 
-_SilphCo7EndBattleText3::
+_SilphCo7FRocket2EndBattleText::
 	text "Aak!"
 	line "Brødre, jeg tabte!"
 	prompt
 
-_SilphCo7AfterBattleText3::
+_SilphCo7FRocket2AfterBattleText::
 	text "Det gør ikke"
 	line "noget. Mine brødre"
 	cont "gengælder det!"
 	done
 
-_SilphCo7BattleText4::
+_SilphCo7FRocket3BattleText::
 	text "En barneindtrænger?"
 	line "Det må være dig!"
 	done
 
-_SilphCo7EndBattleText4::
+_SilphCo7FRocket3EndBattleText::
 	text "Fint!"
 	line "Jeg tabte!"
 	prompt
 
-_SilphCo7AfterBattleText4::
+_SilphCo7FRocket3AfterBattleText::
 	text "Gå hjem før min"
 	line "CHEF bliver sur!"
 	done
 
-_SilphCo7Text_51ebe::
+_SilphCo7FRivalText::
 	text "<RIVAL>: Hvad tog"
 	line "dig så lang tid,"
 	cont "<PLAYER>?"
 	done
 
-_SilphCo7Text_51ec3::
+_SilphCo7FRivalWaitedHereText::
 	text "<RIVAL>: Hahaha!"
 	line "Jeg troede nok du"
 	cont "ville dukke op"
@@ -175,13 +175,13 @@ _SilphCo7Text_51ec3::
 	cont "bedre!"
 	done
 
-_SilphCo7Text_51ec8::
+_SilphCo7FRivalDefeatedText::
 	text "Oh ho!"
 	line "Så du er klar"
 	cont "til CHEF ROCKET!"
 	prompt
 
-_SilphCo7Text_51ecd::
+_SilphCo7FRivalVictoryText::
 	text "<RIVAL>: Hvordan"
 	line "skal jeg sige"
 	cont "det?"
@@ -191,7 +191,7 @@ _SilphCo7Text_51ecd::
 	cont "med os store!"
 	prompt
 
-_SilphCo7Text_51ed2::
+_SilphCo7FRivalGoodLuckToYouText::
 	text "Nå, <PLAYER>!"
 
 	para "Jeg går fremad"

@@ -1,4 +1,4 @@
-_TM35PreReceiveText::
+﻿_CinnabarLabMetronomeRoomScientist1Text::
 	text "Tch-tch-tch!"
     line "Jeg lavede en"
 	cont "sej TM!"
@@ -8,14 +8,14 @@ _TM35PreReceiveText::
     cont "sjove ting!"
     prompt
 
-_ReceivedTM35Text::
+_CinnabarLabMetronomeRoomScientist1ReceivedTM35Text::
     text "<PLAYER> modtog "
     line "@"
     text_ram wStringBuffer
     text "!@"
     text_end
 
-_TM35ExplanationText::
+_CinnabarLabMetronomeRoomScientist1TM35ExplanationText::
     text "Tch-tch-tch!"
     line "Det er lyden"
     cont "af en METRONOME!"
@@ -27,18 +27,18 @@ _TM35ExplanationText::
 	cont "ikke kender!"
     done
 
-_TM35NoRoomText::
+_CinnabarLabMetronomeRoomScientist1TM35NoRoomText::
     text "Din taske er"
     line "propfuld!"
     done
 
-_Lab3Text2::
+_CinnabarLabMetronomeRoomScientist2Text::
     text "EEVEE kan udvikle"
     line "sig til 1 af 3"
     cont "slags #MON."
     done
 
-_Lab3Text3::
+_CinnabarLabMetronomeRoomPCText::
     text "Der er en e-mail"
     line "besked!"
 
@@ -63,6 +63,6 @@ _Lab3Text3::
     para "..."
     done
 
-_Lab3Text5::
+_CinnabarLabMetronomeRoomAmberPipeText::
 	text "Et ravrør!"
 	done

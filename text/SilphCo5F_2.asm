@@ -1,32 +1,32 @@
-_SilphCo5EndBattleText4::
+_SilphCo5FRockerEndBattleText::
 	text "Åh"
 	line "du milde!"
 	prompt
 
-_SilphCo5AfterBattleText4::
+_SilphCo5FRockerAfterBattleText::
 	text "Du er kun på 5F."
 	line "Der er langt til"
 	cont "min CHEF!"
 	done
 
-_SilphCo5BattleText5::
+_SilphCo5FRocket2BattleText::
 	text "Vis TEAM ROCKET"
 	line "lidt respekt!"
 	done
 
-_SilphCo5EndBattleText5::
+_SilphCo5FRocket2EndBattleText::
 	text "Host..."
 	line "Host..."
 	prompt
 
-_SilphCo5AfterBattleText5::
+_SilphCo5FRocket2AfterBattleText::
 	text "Apropos det."
 
 	para "KOFFING udvikler"
 	line "sig til WEEZING!"
 	done
 
-_SilphCo5Text9::
+_SilphCo5FPokemonReport1Text::
 	text "Det er en #MON-"
 	line "RAPPORT!"
 
@@ -37,7 +37,7 @@ _SilphCo5Text9::
 	cont "#MON."
 	done
 
-_SilphCo5Text10::
+_SilphCo5FPokemonReport2Text::
 	text "Det er en #MON-"
 	line "RAPPORT!"
 
@@ -46,7 +46,7 @@ _SilphCo5Text10::
 	cont "blevet bekræftet."
 	done
 
-_SilphCo5Text11::
+_SilphCo5FPokemonReport3Text::
 	text "Det er en #MON-"
 	line "RAPPORT!"
 

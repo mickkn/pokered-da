@@ -1,29 +1,29 @@
-_Route11EndBattleText9::
+﻿_Route11SuperNerd2EndBattleText::
 	text "Wow!"
 	line "Din krudtugle!"
 	prompt
 
-_Route11AfterBattleText9::
+_Route11SuperNerd2AfterBattleText::
 	text "Nå, tilbage"
 	line "til arbejdet."
 	done
 
-_Route11BattleText10::
+_Route11Youngster4BattleText::
 	text "Mine #MON burde"
 	line "være klar nu!"
 	done
 
-_Route11EndBattleText10::
+_Route11Youngster4EndBattleText::
 	text "For"
 	line "meget, for ung!"
 	prompt
 
-_Route11AfterBattleText10::
+_Route11Youngster4AfterBattleText::
 	text "Jeg må hellere"
 	line "finde nogle"
 	cont "stærkere nogen!"
 	done
 
-_Route11Text11::
+_Route11DiglettsCaveSignText::
 	text "DIGLETT's CAVE"
 	done

@@ -1,8 +1,8 @@
-_LavenderHouse2Text1::
+﻿_LavenderCuboneHouseCuboneText::
 	text "CUBONE: Kyarugoo!@"
 	text_end
 
-_LavenderHouse2Text_1d9dc::
+_LavenderCuboneHouseBrunetteGirlPoorCubonesMotherText::
 	text "Jeg hader de"
 	line "frygtelige"
 	cont "ROCKETs!"
@@ -16,7 +16,7 @@ _LavenderHouse2Text_1d9dc::
 	cont "TEAM ROCKET!"
 	done
 
-_LavenderHouse2Text_1d9e1::
+_LavenderCuboneHouseBrunetteGirlGhostIsGoneText::
 	text "SPØGELSET i"
 	line "#MON TOWER er"
 	cont "væk!"

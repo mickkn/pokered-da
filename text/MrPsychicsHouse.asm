@@ -1,4 +1,4 @@
-_TM29PreReceiveText::
+﻿_MrPsychicsHouseMrPsychicYouWantedThisText::
 	text "...Vent! Sig ikke"
 	line "et ord!"
 
@@ -6,14 +6,14 @@ _TM29PreReceiveText::
 	line "dette!"
 	prompt
 
-_ReceivedTM29Text::
+_MrPsychicsHouseMrPsychicReceivedTM29Text::
 	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
-_TM29ExplanationText::
+_MrPsychicsHouseMrPsychicTM29ExplanationText::
 	text "TM29 er PSYCHIC!"
 
 	para "Det kan sænke"
@@ -21,7 +21,7 @@ _TM29ExplanationText::
 	cont "evner."
 	done
 
-_TM29NoRoomText::
+_MrPsychicsHouseMrPsychicTM29NoRoomText::
 	text "Hvor planlægger"
 	line "du at putte det?"
 	done

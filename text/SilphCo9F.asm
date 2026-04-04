@@ -1,63 +1,63 @@
-_SilphCo9Text_5d8e5::
+SilphCo9FNurseYouLookTiredText::
 	text "Du ser træt ud!"
 	line "Du burde tage en"
 	cont "hurtig lur!"
 	prompt
 
-_SilphCo9Text_5d8ea::
+SilphCo9FNurseDontGiveUpText::
 	text "Giv ikke op!"
 	done
 
-_SilphCo9Text_5d8ef::
+SilphCo9FNurseThankYouText::
 	text "Tusind tak!"
 	done
 
-_SilphCo9BattleText1::
+_SilphCo9FRocket1BattleText::
 	text "Dine #MON ser"
 	line "ud til at elske"
 	cont "dig, knægt!"
 	done
 
-_SilphCo9EndBattleText1::
+_SilphCo9FRocket1EndBattleText::
 	text "Ghaaah!"
 	prompt
 
-_SilphCo9AfterBattleText1::
+_SilphCo9FRocket1AfterBattleText::
 	text "Hvis jeg var"
 	line "startet som"
 	cont "træner i din"
 	cont "alder..."
 	done
 
-_SilphCo9BattleText2::
+_SilphCo9FScientistBattleText::
 	text "Dine #MON har"
 	line "svage punkter!"
 	cont "Jeg kan ramme dem!"
 	done
 
-_SilphCo9EndBattleText2::
+_SilphCo9FScientistEndBattleText::
 	text "Du"
 	line "hamrede mig!"
 	prompt
 
-_SilphCo9AfterBattleText2::
+_SilphCo9FScientistAfterBattleText::
 	text "At udnytte svage"
 	line "punkter virker!"
 	cont "Tænk over"
 	cont "elementtyper!"
 	done
 
-_SilphCo9BattleText3::
+_SilphCo9FRocket2BattleText::
 	text "Jeg er én af de 4"
 	line "ROCKET-BRØDRE!"
 	done
 
-_SilphCo9EndBattleText3::
+_SilphCo9FRocket2EndBattleText::
 	text "Warg!"
 	line "Brødre, jeg tabte!"
 	prompt
 
-_SilphCo9AfterBattleText3::
+_SilphCo9FRocket2AfterBattleText::
 	text "Mine brødre vil"
 	line "hævne mig!"
 	done

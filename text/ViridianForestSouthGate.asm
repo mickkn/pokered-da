@@ -1,4 +1,4 @@
-_ViridianForestEntranceText1::
+﻿_ViridianForestSouthGateGirlText::
 	text "Skal du ind i"
 	line "VIRIDIAN FOREST?"
 	cont "Pas på, det er"
@@ -6,7 +6,7 @@ _ViridianForestEntranceText1::
 	cont "labyrint!"
 	done
 
-_ViridianForestEntranceText2::
+_ViridianForestSouthGateLittleGirlText::
 	text "RATTATA er måske"
 	line "lille, men dens"
 	cont "bid er slemt!"

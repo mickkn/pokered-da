@@ -1,4 +1,4 @@
-_BrockPostBattleAdviceText::
+﻿_PewterGymBrockPostBattleAdviceText::
 	text "Der er alle slags"
 	line "trænere i verden!"
 
@@ -11,12 +11,12 @@ _BrockPostBattleAdviceText::
 	cont "dine evner!"
 	done
 
-_BeforeReceivedTM34Text::
+_PewterGymBrockWaitTakeThisText::
 	text "Vent! Tag denne"
 	line "med dig!"
 	done
 
-_ReceivedTM34Text::
+_PewterGymReceivedTM34Text::
 	text "<PLAYER> modtog"
 	line "TM34!@"
 	text_end
@@ -44,12 +44,12 @@ _TM34ExplanationText::
 	cont "den dobbelt!"
 	done
 
-_TM34NoRoomText::
+_PewterGymTM34NoRoomText::
 	text "Du har ikke plads"
 	line "til dette!"
 	done
 
-_ReceivedBoulderBadgeText::
+_PewterGymBrockReceivedBoulderBadgeText::
 	text "Jeg tog"
 	line "let på dig."
 
@@ -61,7 +61,7 @@ _ReceivedBoulderBadgeText::
 	line "BOULDEREMBLEMET!@"
 	text_end
 
-_BrockBoulerBadgeInfoText::
+_PewterGymBrockBoulderBadgeInfoText::
 	text_start
 
 	para "Det er et"
@@ -78,7 +78,7 @@ _BrockBoulerBadgeInfoText::
 	cont "når som helst!"
 	prompt
 
-_PewterGymBattleText1::
+_PewterGymCooltrainerMBattleText::
 	text "Stop lige der,"
 	line "knægt!"
 
@@ -87,7 +87,7 @@ _PewterGymBattleText1::
 	cont "møde BROCK!"
 	done
 
-_PewterGymEndBattleText1::
+_PewterGymCooltrainerMEndBattleText::
 	text "Pokkers!"
 
 	para "Lysår er ikke"
@@ -95,7 +95,7 @@ _PewterGymEndBattleText1::
 	cont "afstand!"
 	prompt
 
-_PewterGymAfterBattleText1::
+_PewterGymCooltrainerMAfterBattleText::
 	text "Du er ret god,"
 	line "men ikke så god"
 	cont "som BROCK!"
@@ -133,7 +133,7 @@ _PewterGymGuideAdviceText::
 	cont "blive nemmere!"
 	done
 
-_PewterGymText_5c524::
+_PewterGymGuideFreeServiceText::
 	text "Det er gratis!"
 	line "Lad os komme"
 	cont "i gang!"

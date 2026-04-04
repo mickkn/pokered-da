@@ -1,45 +1,45 @@
-_PokemonTower3BattleText1::
+﻿_PokemonTower3FChanneler1BattleText::
 	text "Urrg...Awaa..."
 	line "Huhu...graa.."
 	done
 
-_PokemonTower3EndBattleText1::
+_PokemonTower3FChanneler1EndBattleText::
 	text "Hwa!"
 	line "Jeg er reddet!"
 	prompt
 
-_PokemonTower3AfterBattleText1::
+_PokemonTower3FChanneler1AfterBattleText::
 	text "SPØGELSErne kan"
 	line "identificeres med"
 	cont "SILPH SCOPE."
 	done
 
-_PokemonTower3BattleText2::
+_PokemonTower3FChanneler2BattleText::
 	text "Kekeke...."
 	line "Kwaaah!"
 	done
 
-_PokemonTower3EndBattleText2::
+_PokemonTower3FChanneler2EndBattleText::
 	text "Hmm?"
 	line "Hvad laver jeg?"
 	prompt
 
-_PokemonTower3AfterBattleText2::
+_PokemonTower3FChanneler2AfterBattleText::
 	text "Undskyld! Jeg var"
 	line "besat!"
 	done
 
-_PokemonTower3BattleText3::
+_PokemonTower3FChanneler3BattleText::
 	text "Forsvind!"
 	line "Ond ånd!"
 	done
 
-_PokemonTower3EndBattleText3::
+_PokemonTower3FChanneler3EndBattleText::
 	text "Pyha!"
 	line "Ånden forsvandt!"
 	prompt
 
-_PokemonTower3AfterBattleText3::
+_PokemonTower3FChanneler3AfterBattleText::
 	text "Mine venner var"
 	line "også besatte!"
 	done

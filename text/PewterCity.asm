@@ -1,4 +1,4 @@
-_PewterCityText1::
+﻿_PewterCityCooltrainerFText::
 	text "Der går rygter om"
 	line "at CLEFAIRYs kom"
 	cont "fra månen!"
@@ -8,7 +8,7 @@ _PewterCityText1::
 	cont "faldt på MT.MOON."
 	done
 
-_PewterCityText2::
+_PewterCityCooltrainerMText::
 	text "Der er ikke mange"
 	line "seriøse #MON"
 	cont "trænere her!"
@@ -20,24 +20,24 @@ _PewterCityText2::
 	cont "vild med det!"
 	done
 
-_PewterCityText_193f1::
+_PewterCitySuperNerd1DidYouCheckOutMuseumText::
 	text "Har du set"
 	line "MUSEET?"
 	done
 
-_PewterCityText_193f6::
+_PewterCitySuperNerd1WerentThoseFossilsAmazingText::
 	text "Var de fossiler"
 	line "fra MT.MOON ikke"
 	cont "fantastiske?"
 	done
 
-_PewterCityText_193fb::
+_PewterCitySuperNerd1YouHaveToGoText::
 	text "Virkelig?"
 	line "Du skal absolut"
 	cont "derhen!"
 	done
 
-_PewterCityText13::
+_PewterCitySuperNerd1ItsRightHereText::
 	text "Det er lige her!"
 	line "Du skal betale"
 	cont "for at komme ind,"
@@ -45,38 +45,38 @@ _PewterCityText13::
 	cont "værd! Vi ses!"
 	done
 
-_PewterCityText_19427::
+_PewterCitySuperNerd2DoYouKnowWhatImDoingText::
 	text "Psssst!"
 	line "Ved du hvad"
 	cont "jeg laver?"
 	done
 
-_PewterCityText_1942c::
+_PewterCitySuperNerd2ThatsRightText::
 	text "Helt rigtigt!"
 	line "Det er hårdt!"
 	done
 
-_PewterCityText_19431::
+_PewterCitySuperNerd2ImSprayingRepelText::
 	text "Jeg sprayer REPEL"
 	line "for at holde"
 	cont "#MON ude af"
 	cont "min have!"
 	done
 
-_PewterCityText_1945d::
+_PewterCityYoungsterYoureATrainerFollowMeText::
 	text "Du er en træner,"
 	line "ikke? BROCK søger"
 	cont "nye udfordrere!"
 	cont "Følg med mig!"
 	done
 
-_PewterCityText14::
+_PewterCityYoungsterGoTakeOnBrockText::
 	text "Hvis du har det"
 	line "der skal til, tag"
 	cont "kampen mod BROCK!"
 	done
 
-_PewterCityText6::
+_PewterCityTrainerTipsText::
 	text "TRÆNER TIPS"
 
 	para "Enhver #MON der"
@@ -85,7 +85,7 @@ _PewterCityText6::
 	cont "får EXP!"
 	done
 
-_PewterCityText7::
+_PewterCityPoliceNoticeSignText::
 	text "MEDDELELSE!"
 
 	para "Tyve har stjålet"
@@ -96,12 +96,12 @@ _PewterCityText7::
 	cont "med oplysninger!"
 	done
 
-_PewterCityText10::
+_PewterCityMuseumSignText::
 	text "PEWTER MUSEUM"
 	line "FOR VIDENSKAB"
 	done
 
-_PewterCityText11::
+_PewterCityGymSignText::
 	text "PEWTER CITY"
 	line "#MON GYM"
 	cont "LEDER: BROCK"
@@ -110,7 +110,7 @@ _PewterCityText11::
 	line "#MON Træner!"
 	done
 
-_PewterCityText12::
+_PewterCitySignText::
 	text "PEWTER CITY"
 	line "En stengrå"
 	cont "by"

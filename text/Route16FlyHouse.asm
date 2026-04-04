@@ -1,4 +1,4 @@
-_Route16HouseText3::
+﻿_Route16FlyHouseBrunetteGirlText::
 	text "Åh, du fandt mit"
 	line "hemmelige tilhold!"
 
@@ -8,12 +8,12 @@ _Route16HouseText3::
 	cont "denne!"
 	prompt
 
-_ReceivedHM02Text::
+_Route16FlyHouseBrunetteGirlReceivedHM02Text::
 	text "<PLAYER> modtog"
 	line "HM02!@"
 	text_end
 
-_HM02ExplanationText::
+_Route16FlyHouseBrunetteGirlHM02ExplanationText::
 	text "HM02 er FLY."
 	line "Det tager dig"
 	cont "til enhver by."
@@ -21,11 +21,11 @@ _HM02ExplanationText::
 	para "Brug det godt!"
 	done
 
-_HM02NoRoomText::
+_Route16FlyHouseBrunetteGirlHM02NoRoomText::
 	text "Du har ikke plads"
 	line "til dette."
 	done
 
-_Route16HouseText_1e652::
+_Route16FlyHouseFearowText::
 	text "FEAROW: Kyueen!"
 	done

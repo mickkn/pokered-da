@@ -1,4 +1,4 @@
-_VermilionPokecenterText2::
+﻿_VermilionPokecenterFishingGuruText::
 	text "Selv om de er"
 	line "samme niveau, kan"
 	cont "#MON have"
@@ -11,7 +11,7 @@ _VermilionPokecenterText2::
 	cont "i naturen."
 	done
 
-_VermilionPokecenterText3::
+_VermilionPokecenterSailorText::
 	text "Min #MON blev"
 	line "forgiftet! Den"
 	cont "besvimede mens"

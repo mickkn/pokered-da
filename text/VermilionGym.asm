@@ -1,4 +1,4 @@
-_LTSurgePreBattleText::
+﻿_VermilionGymLTSurgePreBattleText::
 	text "Hej, knægt! Hvad"
 	line "tror du, du laver"
 	cont "her?"

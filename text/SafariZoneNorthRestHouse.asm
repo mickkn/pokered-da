@@ -1,4 +1,4 @@
-_SafariZoneRestHouse4Text1::
+_SafariZoneNorthRestHouseScientistText::
 	text "Du kan beholde"
 	line "alle ting du"
 	cont "finder på jorden"
@@ -11,14 +11,14 @@ _SafariZoneRestHouse4Text1::
 	cont "gang!"
 	done
 
-_SafariZoneRestHouse4Text2::
+_SafariZoneNorthRestHouseSafariZoneWorkerText::
 	text "Gå til den"
 	line "dybeste del af"
 	cont "SAFARIZONEN. Du"
 	cont "vinder en præmie!"
 	done
 
-_SafariZoneRestHouse4Text3::
+_SafariZoneNorthRestHouseGentlemanText::
 	text "Min EEVEE blev"
 	line "til FLAREON!"
 

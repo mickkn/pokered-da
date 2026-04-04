@@ -1,4 +1,4 @@
-_Lab4Text_75dc6::
+﻿_CinnabarLabFossilRoomScientist1Text::
     text "Hej!"
 
     para "Jeg er en vigtig"
@@ -12,12 +12,12 @@ _Lab4Text_75dc6::
     line "fossil til mig?"
     prompt
 
-_Lab4Text_75dcb::
+_CinnabarLabFossilRoomScientist1NoFossilsText::
     text "Nej! Det er for"
 	cont "dårligt!"
     done
 
-_Lab4Text_75dd0::
+_CinnabarLabFossilRoomScientist1GoForAWalkText::
     text "Det tager lidt"
     line "tid!"
 
@@ -25,7 +25,7 @@ _Lab4Text_75dd0::
     line "i mellemtiden!"
     done
 
-_Lab4Text_75dd5::
+_CinnabarLabFossilRoomScientist1FossilIsBackToLifeText::
     text "Hvor har du"
 	cont "været?"
 
@@ -38,7 +38,7 @@ _Lab4Text_75dd5::
     line "som jeg troede!"
     prompt
 
-_Lab4Text_610ae::
+_CinnabarLabFossilRoomScientist1SeesFossilText::
     text "Åh! Det er"
     line "@"
     text_ram wcd6d
@@ -58,7 +58,7 @@ _Lab4Text_610ae::
     cont "leve igen!"
     done
 
-_Lab4Text_610b3::
+_CinnabarLabFossilRoomScientist1TakesFossilText::
     text "Så! Skynd dig at"
     line "giv mig det!"
 
@@ -68,7 +68,7 @@ _Lab4Text_610b3::
     text "!"
     prompt
 
-_Lab4Text_610b8::
+_CinnabarLabFossilRoomScientist1GoForAWalkText2::
     text "Det tager lidt"
     line "tid!"
 
@@ -76,7 +76,7 @@ _Lab4Text_610b8::
     line "i mellemtiden!"
     done
 
-_Lab4Text_610bd::
+_CinnabarLabFossilRoomScientist1ComeAgainText::
     text "Aiyah! Du kom"
     line "igen!"
     done

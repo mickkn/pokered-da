@@ -1,4 +1,4 @@
-_Route12HouseText_564c0::
+﻿_Route12SuperRodHouseFishingGuruDoYouLikeToFishText::
 	text "Jeg er FISKE-"
 	line "GURUENS bror!"
 
@@ -9,7 +9,7 @@ _Route12HouseText_564c0::
 	line "fiske?"
 	done
 
-_Route12HouseText_564c5::
+_Route12SuperRodHouseFishingGuruReceivedSuperRodText::
 	text "Storartet! Jeg"
 	line "kan lide din stil!"
 
@@ -22,7 +22,7 @@ _Route12HouseText_564c5::
 	text "!@"
 	text_end
 
-_Route12HouseText_564ca::
+_Route12SuperRodHouseFishingGuruFishingWayOfLifeText::
 	text_start
 
 	para "Fiskeri er en"
@@ -34,12 +34,12 @@ _Route12HouseText_564ca::
 	cont "store!"
 	done
 
-_Route12HouseText_564cf::
+_Route12SuperRodHouseFishingGuruThatsDisappointingText::
 	text "Åh... Det er så"
 	line "skuffende..."
 	done
 
-_Route12HouseText_564d4::
+_Route12SuperRodHouseFishingGuruTryFishingText::
 	text "Hej med dig,"
 	line "<PLAYER>!"
 
@@ -53,7 +53,7 @@ _Route12HouseText_564d4::
 	line "overalt!"
 	done
 
-_Route12HouseText_564d9::
+_Route12SuperRodHouseFishingGuruNoRoomText::
 	text "Åh nej!"
 
 	para "Jeg havde en gave"

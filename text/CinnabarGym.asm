@@ -1,4 +1,4 @@
-_BlainePreBattleText::
+﻿_CinnabarGymBlainePreBattleText::
 	text "Hah!"
 
 	para "Jeg er BLAINE!"
@@ -13,7 +13,7 @@ _BlainePreBattleText::
 	line "BURN HEAL med!"
 	done
 
-_ReceivedVolcanoBadgeText::
+_CinnabarGymBlaineReceivedVolcanoBadgeText::
 	text "Jeg er"
 	line "brændt ud!"
 
@@ -21,7 +21,7 @@ _ReceivedVolcanoBadgeText::
 	line "VOLCANOEMBLEM'et!@"
 	text_end
 
-_BlainePostBattleAdviceText::
+_CinnabarGymBlainePostBattleAdviceText::
 	text "FIRE BLAST er den"
 	line "ultimative"
 	cont "ild-teknik!"
@@ -30,7 +30,7 @@ _BlainePostBattleAdviceText::
 	line "på vand-#MON!"
 	done
 
-_BlaineVolcanoBadgeInfoText::
+_CinnabarGymBlaineVolcanoBadgeInfoText::
 	text "Hah!"
 
 	para "VOLCANOEMBLEM'et"
@@ -42,14 +42,14 @@ _BlaineVolcanoBadgeInfoText::
 	line "få denne!"
 	done
 
-_ReceivedTM38Text::
+_CinnabarGymBlaineReceivedTM38Text::
 	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
-_TM38ExplanationText::
+_CinnabarGymBlaineTM38ExplanationText::
 	text_start
 
 	para "TM38 indeholder"
@@ -63,23 +63,23 @@ _TM38ExplanationText::
 	cont "valg!"
 	done
 
-_TM38NoRoomText::
+_CinnabarGymBlaineTM38NoRoomText::
 	text "Skab plads til"
 	line "min gave!"
 	done
 
-_CinnabarGymBattleText2::
+_CinnabarGymSuperNerd1BattleText::
 	text "Ved du hvor varmt"
 	line "ild-åndedræt fra"
 	cont "#MON kan være?"
 	done
 
-_CinnabarGymEndBattleText2::
+_CinnabarGymSuperNerd1EndBattleText::
 	text "Av!"
 	line "Varmt, varmt!"
 	prompt
 
-_CinnabarGymAfterBattleText2::
+_CinnabarGymSuperNerd1AfterBattleText::
 	text "Ild, eller mere"
 	line "præcist,"
 	cont "forbrænding..."
@@ -88,70 +88,70 @@ _CinnabarGymAfterBattleText2::
 	line "bla..."
 	done
 
-_CinnabarGymBattleText1::
+_CinnabarGymSuperNerd2BattleText::
 	text "Jeg var en tyv,"
 	line "men jeg blev"
 	cont "ærlig som træner!"
 	done
 
-_CinnabarGymEndBattleText1::
+_CinnabarGymSuperNerd2EndBattleText::
 	text "Jeg"
 	line "overgiver mig!"
 	prompt
 
-_CinnabarGymAfterBattleText1::
+_CinnabarGymSuperNerd2AfterBattleText::
 	text "Jeg kan ikke lade"
 	line "være med at"
 	cont "stjæle andres"
 	cont "#MON!"
 	done
 
-_CinnabarGymBattleText3::
+_CinnabarGymSuperNerd3BattleText::
 	text "Du kan ikke vinde!"
 	line "Jeg har studeret"
 	cont "#MON totalt!"
 	done
 
-_CinnabarGymEndBattleText3::
+_CinnabarGymSuperNerd3EndBattleText::
 	text "Waah!"
 	line "Mine studier!"
 	prompt
 
-_CinnabarGymAfterBattleText3::
+_CinnabarGymSuperNerd3AfterBattleText::
 	text "Mine teorier er"
 	line "for komplicerede"
 	cont "for dig!"
 	done
 
-_CinnabarGymBattleText4::
+_CinnabarGymSuperNerd4BattleText::
 	text "Jeg kan bare lide"
 	line "at bruge"
 	cont "ild-#MON!"
 	done
 
-_CinnabarGymEndBattleText4::
+_CinnabarGymSuperNerd4EndBattleText::
 	text "For varmt"
 	line "at håndtere!"
 	prompt
 
-_CinnabarGymAfterBattleText4::
+_CinnabarGymSuperNerd4AfterBattleText::
 	text "Jeg ville ønske"
 	line "der var en tyv"
 	cont "#MON! Den ville"
 	cont "jeg bruge!"
 	done
 
-_CinnabarGymBattleText5::
+_CinnabarGymSuperNerd5BattleText::
 	text "Jeg ved hvorfor"
 	line "BLAINE blev"
 	cont "træner!"
 	done
 
-_CinnabarGymEndBattleText5::
+_CinnabarGymSuperNerd5EndBattleText::
 	text "Av!"
 	prompt
 
-_CinnabarGymAfterBattleText5::
+_CinnabarGymSuperNerd5AfterBattleText::
 	text "BLAINE var faret"
 	line "vild i bjergene"
 	cont "da en brændende"
@@ -163,42 +163,42 @@ _CinnabarGymAfterBattleText5::
 	cont "finde vej ned!"
 	done
 
-_CinnabarGymBattleText6::
+_CinnabarGymSuperNerd6BattleText::
 	text "Jeg har været i"
 	line "mange GYMs, men"
 	cont "dette er min"
 	cont "favorit!"
 	done
 
-_CinnabarGymEndBattleText6::
+_CinnabarGymSuperNerd6EndBattleText::
 	text "Av da!"
 	line "For varmt!"
 	prompt
 
-_CinnabarGymAfterBattleText6::
+_CinnabarGymSuperNerd6AfterBattleText::
 	text "Vi ild-#MON"
 	line "fans kan lide"
 	cont "PONYTA og"
 	cont "NINETALES!"
 	done
 
-_CinnabarGymBattleText7::
+_CinnabarGymSuperNerd7BattleText::
 	text "Ild er svag"
 	line "mod H2O!"
 	done
 
-_CinnabarGymEndBattleText7::
+_CinnabarGymSuperNerd7EndBattleText::
 	text "Åh!"
 	line "Slukket!"
 	prompt
 
-_CinnabarGymAfterBattleText7::
+_CinnabarGymSuperNerd7AfterBattleText::
 	text "Vand slår ild!"
 	line "Men ild smelter"
 	cont "is-#MON!"
 	done
 
-_CinnabarGymGuidePreBattleText::
+_CinnabarGymGymGuideChampInMakingText::
 	text "Hej! Kommende"
 	line "mester!"
 
@@ -213,7 +213,7 @@ _CinnabarGymGuidePreBattleText::
 	line "BURN HEALs med!"
 	done
 
-_CinnabarGymGuidePostBattleText::
+_CinnabarGymGymGuideBeatBlaineText::
 	text "<PLAYER>! Du slog"
 	line "ildmesteren!"
 	done

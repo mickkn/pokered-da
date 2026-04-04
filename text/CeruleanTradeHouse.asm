@@ -1,4 +1,4 @@
-_CeruleanHouse1Text1::
+﻿_CeruleanTradeHouseGrannyText::
 	text "Min mand kan lide"
 	line "at bytte #MON."
 

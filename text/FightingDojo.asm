@@ -1,4 +1,4 @@
-_FightingDojoText_5ce8e::
+﻿_FightingDojoKarateMasterText::
 	text "Grunt!"
 
     para "Jeg er KARATE"
@@ -13,12 +13,12 @@ _FightingDojoText_5ce8e::
     para "Fwaaa!"
     done
 
-_FightingDojoText_5ce93::
+_FightingDojoKarateMasterDefeatedText::
     text "Hwa!"
     line "Arrgh! Besejret!"
     prompt
 
-_FightingDojoText_5ce98::
+_FightingDojoKarateMasterIWillGiveYouAPokemonText::
     text "Ja, jeg har"
     line "tabt!"
 
@@ -37,24 +37,24 @@ _FightingDojoText_5ce98::
 	cont "du kan lide!"
     done
 
-_FightingDojoText_5ce9d::
+_FightingDojoKarateMasterStayAndTrainWithUsText::
     text "Ho!"
 
     para "Bliv og træn"
     line "karate med os!"
     done
 
-_FightingDojoBattleText1::
+_FightingDojoBlackbelt1BattleText::
     text "Hoargh! Tag dine"
     line "sko af!"
     done
 
-_FightingDojoEndBattleText1::
+_FightingDojoBlackbelt1EndBattleText::
     text "Jeg giver"
     line "op!"
     prompt
 
-_FightingDojoAfterBattleText1::
+_FightingDojoBlackbelt1AfterBattleText::
     text "Vent til du"
     line "ser vores Mester!"
 
@@ -63,23 +63,23 @@ _FightingDojoAfterBattleText1::
 	cont "med ham!"
     done
 
-_FightingDojoBattleText2::
+_FightingDojoBlackbelt2BattleText::
     text "Jeg hører, du er"
     line "god! Vis mig det!"
     done
 
-_FightingDojoEndBattleText2::
+_FightingDojoBlackbelt2EndBattleText::
     text "Dommer!"
     line "1 point!"
     prompt
 
-_FightingDojoAfterBattleText2::
+_FightingDojoBlackbelt2AfterBattleText::
     text "Vores Mester er"
     line "en professionel"
 	cont "kæmper!"
     done
 
-_FightingDojoBattleText3::
+_FightingDojoBlackbelt3BattleText::
     text "Intet hårdt"
     line "skræmmer mig!"
 
@@ -88,18 +88,18 @@ _FightingDojoBattleText3::
 	cont "træning!"
     done
 
-_FightingDojoEndBattleText3::
+_FightingDojoBlackbelt3EndBattleText::
     text "Av! Forstuvet"
     line "fingre!"
     prompt
 
-_FightingDojoAfterBattleText3::
+_FightingDojoBlackbelt3AfterBattleText::
     text "Det eneste, der"
     line "skræmmer os,"
     cont "er psykisk kraft!"
     done
 
-_FightingDojoBattleText4::
+_FightingDojoBlackbelt4BattleText::
 	text "Hoohah!"
 
 	para "Du er på fremmed"
@@ -107,30 +107,30 @@ _FightingDojoBattleText4::
 	cont "KAMPSPORTS DOJO!"
 	done
 
-_FightingDojoEndBattleText4::
+_FightingDojoBlackbelt4EndBattleText::
     text "Uff!"
     line "Jeg giver op!"
     prompt
 
-_FightingDojoAfterBattleText4::
+_FightingDojoBlackbelt4AfterBattleText::
     text "De bedste kæmpere"
     line "fra hele landet"
     cont "træner her."
     done
 
-_WantHitmonleeText::
+_FightingDojoHitmonleePokeBallText::
     text "Vil du have den"
     line "hårdsparkende"
     cont "HITMONLEE?"
     done
 
-_WantHitmonchanText::
+_FightingDojoHitmonchanPokeBallText::
     text "Vil du have den"
     line "hårdslående"
     cont "HITMONCHAN?"
     done
 
-_OtherHitmonText::
+_FightingDojoBetterNotGetGreedyText::
 	text "Lad vær med at"
 	line "være grådig..."
 	done

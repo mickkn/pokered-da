@@ -1,4 +1,4 @@
-_FuchsiaHouse3Text_561bd::
+﻿_FuchsiaGoodRodHouseFishingGuruText::
 	text "Jeg er FISKE-"
 	line "GURUENS ældre"
 	cont "bror!"
@@ -10,7 +10,7 @@ _FuchsiaHouse3Text_561bd::
 	line "fiske?"
 	done
 
-_FuchsiaHouse3Text_561c2::
+_FuchsiaGoodRodHouseFishingGuruReceivedGoodRodText::
 	text "Storartet! Jeg"
 	line "kan lide din stil!"
 
@@ -23,12 +23,12 @@ _FuchsiaHouse3Text_561c2::
 	text "!@"
 	text_end
 
-_FuchsiaHouse3Text_56212::
+_FuchsiaGoodRodHouseFishingGuruThatsSoDisappointingText::
 	text "Åh... Det er så"
 	line "skuffende..."
 	done
 
-_FuchsiaHouse3Text_56217::
+_FuchsiaGoodRodHouseFishingGuruHowAreTheFishText::
 	text "Hej med dig,"
 	line "<PLAYER>!"
 
@@ -36,7 +36,7 @@ _FuchsiaHouse3Text_56217::
 	line "fiskene?"
 	done
 
-_FuchsiaHouse3Text_5621c::
+_FuchsiaGoodRodHouseFishingGuruNoRoomText::
 	text "Åh nej!"
 
 	para "Du har ikke plads"

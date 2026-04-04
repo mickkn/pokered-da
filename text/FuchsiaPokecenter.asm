@@ -1,4 +1,4 @@
-_FuchsiaPokecenterText1::
+﻿_FuchsiaPokecenterRockerText::
 	text "Du kan ikke vinde"
 	line "med kun én stærk"
 	cont "#MON."
@@ -8,7 +8,7 @@ _FuchsiaPokecenterText1::
 	cont "jævnt."
 	done
 
-_FuchsiaPokecenterText3::
+_FuchsiaPokecenterCooltrainerFText::
 	text "Der er en smal"
 	line "sti vest for"
 	cont "VIRIDIAN CITY."

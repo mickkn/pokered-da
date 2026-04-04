@@ -1,4 +1,4 @@
-_CeruleanMartText2::
+﻿_CeruleanMartCooltrainerMText::
 	text "Brug REPEL til"
 	line "at holde insekter"
 	line "og svage"
@@ -10,7 +10,7 @@ _CeruleanMartText2::
 	cont "bedste resultater!"
 	done
 
-_CeruleanMartText3::
+_CeruleanMartCooltrainerFText::
 	text "Har du set nogen"
 	line "RARE CANDY?"
 

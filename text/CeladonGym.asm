@@ -1,4 +1,4 @@
-_ErikaPreBattleText::
+﻿_CeladonGymErikaPreBattleText::
 	text "Hej. Dejligt"
 	line "vejr, ik' sandt?"
 	cont "Det er så"
@@ -29,7 +29,7 @@ _ErikaPreBattleText::
 	cont "tabe."
 	done
 
-_ReceivedRainbowBadgeText::
+_CeladonGymErikaReceivedRainbowBadgeText::
 	text "Åh! Jeg"
 	line "overgiver mig."
 
@@ -40,7 +40,7 @@ _ReceivedRainbowBadgeText::
 	line "et RAINBOWEMBLEM."
 	prompt
 
-_ErikaPostBattleAdviceText::
+_CeladonGymErikaPostBattleAdviceText::
 	text "Er du i gang med"
 	line "at katalogisere"
 	cont "#MON? Jeg må"
@@ -53,7 +53,7 @@ _ErikaPostBattleAdviceText::
 	cont "og attraktive."
 	done
 
-_ErikaRainbowBadgeInfoText::
+_CeladonGymRainbowBadgeInfoText::
 	text "Et RAINBOWEMBLEM"
 	line "vil få #MON til"
 	cont "at lytte til"
@@ -70,7 +70,7 @@ _ErikaRainbowBadgeInfoText::
 	line "med dig."
 	done
 
-_ReceivedTM21Text::
+_CeladonGymReceivedTM21Text::
 	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
@@ -91,7 +91,7 @@ _TM21ExplanationText::
 	cont "#MON!"
 	done
 
-_TM21NoRoomText::
+_CeladonGymTM21NoRoomText::
 	text "Du bør gøre plads"
 	line "til den."
 	done

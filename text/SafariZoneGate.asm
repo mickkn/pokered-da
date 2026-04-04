@@ -1,9 +1,9 @@
-_SafariZoneEntranceText1::
+﻿_SafariZoneGateSafariZoneWorker1Text::
 	text "Velkommen til"
 	line "SAFARIZONEN!"
 	done
 
-SafariZoneEntranceText_9e6e4::
+_SafariZoneGateSafariZoneWorker1WouldYouLikeToJoinText::
 	text "For kun ¥500 kan"
 	line "du fange alle de"
 	cont "#MON du vil i"
@@ -13,7 +13,7 @@ SafariZoneEntranceText_9e6e4::
 	line "i jagten?@"
 	text_end
 
-SafariZoneEntranceText_9e747::
+_SafariZoneGateSafariZoneWorker1ThatllBe500PleaseText::
 	text "Det bliver ¥500"
 	line "tak!"
 
@@ -25,7 +25,7 @@ SafariZoneEntranceText_9e747::
 	line "30 SAFARI BALLs!@"
 	text_end
 
-_SafariZoneEntranceText_75360::
+_SafariZoneGateSafariZoneWorker1CallYouOnThePAText::
 	text_start
 
 	para "Vi kalder dig på"
@@ -35,42 +35,42 @@ _SafariZoneEntranceText_75360::
 	cont "BALLs!"
 	done
 
-_SafariZoneEntranceText_75365::
+_SafariZoneGateSafariZoneWorker1PleaseComeAgainText::
 	text "OK! Kom venligst"
 	line "igen!"
 	done
 
-_SafariZoneEntranceText_7536a::
+_SafariZoneGateSafariZoneWorker1NotEnoughMoneyText::
 	text "Ups! Ikke nok"
 	line "penge!"
 	done
 
-SafariZoneEntranceText_9e814::
+_SafariZoneGateSafariZoneWorker1LeavingEarlyText::
 	text "Smutter du tidligt?@"
 	text_end
 
-_SafariZoneEntranceText_753bb::
+_SafariZoneGateSafariZoneWorker1ReturnSafariBallsText::
 	text "Aflever venligst"
 	line "de SAFARI BALLs"
 	cont "du har tilbage."
 	done
 
-_SafariZoneEntranceText_753c0::
+_SafariZoneGateSafariZoneWorker1GoodLuckText::
 	text "Held og lykke!"
 	done
 
-_SafariZoneEntranceText_753c5::
+_SafariZoneGateSafariZoneWorker1GoodHaulComeAgainText::
 	text "Fik du et godt"
 	line "udbytte?"
 	cont "Kom igen!"
 	done
 
-_SafariZoneEntranceText_753e6::
+_SafariZoneGateSafariZoneWorker2FirstTimeHereText::
 	text "Hej! Er det din"
 	line "første gang her?"
 	done
 
-_SafariZoneEntranceText_753eb::
+_SafariZoneGateSafariZoneWorker2SafariZoneExplanationText::
 	text "SAFARIZONEN har 4"
 	line "zoner i sig."
 
@@ -92,7 +92,7 @@ _SafariZoneEntranceText_753eb::
 	cont "#MON!"
 	done
 
-_SafariZoneEntranceText_753f0::
+_SafariZoneGateSafariZoneWorker2YoureARegularHereText::
 	text "Beklager, du er"
 	line "stamgæst her!"
 	done

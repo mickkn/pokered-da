@@ -1,11 +1,11 @@
-_CeladonHouseText1::
+﻿_CeladonChiefHouseChiefText::
 	text "Hehehe!"
 	line "Spillemaskinerne"
 	cont "hive bare penge"
 	cont "ind, konstant!"
 	done
 
-_CeladonHouseText2::
+_CeladonChiefHouseRocketText::
 	text "CHEF!"
 
 	para "Vi har har lige"
@@ -15,7 +15,7 @@ _CeladonHouseText2::
 	cont "gevinster!"
 	done
 
-_CeladonHouseText3::
+_CeladonChiefHouseSailorText::
 	text "Rør ikke ved"
 	line "plakaten i"
 	cont "SPILLEHJØRNET!"

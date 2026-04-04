@@ -1,4 +1,4 @@
-_VermilionHouse2Text_560b1::
+﻿_VermilionOldRodHouseFishingGuruDoYouLikeToFishText::
 	text "Jeg er FISKERI-"
 	line "GURUEN!"
 
@@ -9,7 +9,7 @@ _VermilionHouse2Text_560b1::
 	line "fiske?"
 	done
 
-_VermilionHouse2Text_560b6::
+_VermilionOldRodHouseFishingGuruTakeThisText::
 	text "Fint! Jeg kan"
 	line "lide din stil!"
 
@@ -22,7 +22,7 @@ _VermilionHouse2Text_560b6::
 	text "!@"
 	text_end
 
-_VermilionHouse2Text_560bb::
+_VermilionOldRodHouseFishingGuruFishingIsAWayOfLifeText::
 	text_start
 
 	para "Fiskeri er en"
@@ -34,12 +34,12 @@ _VermilionHouse2Text_560bb::
 	cont "fisk, unge ven!"
 	done
 
-_VermilionHouse2Text_560c0::
+_VermilionOldRodHouseFishingGuruThatsSoDisappointingText::
 	text "Åh... Det er så"
 	line "skuffende..."
 	done
 
-_VermilionHouse2Text_560c5::
+_VermilionOldRodHouseFishingGuruHowAreTheFishBitingText::
 	text "Hej med dig,"
 	line "<PLAYER>!"
 
@@ -47,7 +47,7 @@ _VermilionHouse2Text_560c5::
 	line "fiskene?"
 	done
 
-_VermilionHouse2Text_560ca::
+_VermilionOldRodHouseFishingGuruNoRoomText::
 	text "Åh nej!"
 
 	para "Du har ikke plads"

@@ -40,7 +40,7 @@ _EvolvedText::
 _IntoText::
 	text_start
 	line "til @"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "!"
 	done
 
@@ -183,14 +183,14 @@ _MimicLearnedMoveText::
 	text "<USER>"
 	line "lærte"
 	cont "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "!"
 	prompt
 
 _MoveWasDisabledText::
 	text "<TARGET>'s"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " blev"
 	cont "deaktiveret!"
 	prompt
@@ -296,7 +296,7 @@ _TransformedText::
 	text "<USER>"
 	line "transformerede til"
 	cont "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "!"
 	prompt
 
@@ -326,10 +326,10 @@ _DreamWasEatenText::
 	line "drømme blev spist!"
 	prompt
 
-_TradeCenterText1::
+_TradeCenterOpponentText::
 	text "!"
 	done
 
-_ColosseumText1::
+_ColosseumOpponentText::
 	text "!"
 	done

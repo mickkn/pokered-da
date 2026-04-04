@@ -1,20 +1,20 @@
-_SSAnne6Text1::
+﻿_SSAnneKitchenCook1Text::
 	text "Du der, mon petit!"
 	line "Vi har travlt her!"
 	cont "Flyt dig!"
 	done
 
-_SSAnne6Text2::
+_SSAnneKitchenCook2Text::
 	text "Jeg så en mærkelig"
 	line "bold i skraldet."
 	done
 
-_SSAnne6Text3::
+_SSAnneKitchenCook3Text::
 	text "Jeg har så travlt"
 	line "at jeg er svimmel!"
 	done
 
-_SSAnne6Text4::
+_SSAnneKitchenCook4Text::
 	text "Hum-de-hum-de-"
 	line "ho..."
 
@@ -23,7 +23,7 @@ _SSAnne6Text4::
 	cont "dag! Hum-hum..."
 	done
 
-_SSAnne6Text5::
+_SSAnneKitchenCook5Text::
 	text "Har du hørt om"
 	line "SNORLAX?"
 
@@ -32,7 +32,7 @@ _SSAnne6Text5::
 	cont "og sove!"
 	done
 
-_SSAnne6Text6::
+_SSAnneKitchenCook6Text::
 	text "Snøft...Snøft..."
 
 	para "Jeg må kun"
@@ -40,14 +40,14 @@ _SSAnne6Text6::
 	cont "Snøft..."
 	done
 
-_SSAnne6Text_61807::
+_SSAnneKitchenCook7MainCourseIsText::
 	text "Ahem! Jeg er"
 	line "le CHEF!"
 
 	para "Le hovedret er"
 	prompt
 
-_SSAnne6Text_6180c::
+SSAnneKitchenCook7SalmonDuSaladText::
 	text "Laks du Salat!"
 
 	para "Les gæster klager"
@@ -55,7 +55,7 @@ _SSAnne6Text_6180c::
 	cont "igen, dog!"
 	done
 
-_SSAnne6Text_61811::
+SSAnneKitchenCook7EelsAuBarbecueText::
 	text "Ål au Barbecue!"
 
 	para "Les gæster gør"
@@ -63,7 +63,7 @@ _SSAnne6Text_61811::
 	cont "jeg."
 	done
 
-_SSAnne6Text_61816::
+SSAnneKitchenCook7PrimeBeefSteakText::
 	text "Prima Bøf Steak!"
 
 	para "Men har jeg nok"

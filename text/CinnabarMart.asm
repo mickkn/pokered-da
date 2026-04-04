@@ -1,10 +1,10 @@
-_CinnabarMartText2::
+﻿_CinnabarMartSilphWorkerFText::
     text "Har de ikke X"
     line "ANGREB? Det er"
     cont "godt til kampe!"
     done
 
-_CinnabarMartText3::
+_CinnabarMartScientistText::
     text "Det skader aldrig"
     line "at have ekstra"
 	cont "genstande!"

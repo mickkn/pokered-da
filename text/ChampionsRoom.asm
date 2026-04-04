@@ -1,4 +1,4 @@
-_GaryChampionIntroText::
+﻿_ChampionsRoomRivalIntroText::
 	text "<RIVAL>: Hey!"
 
     para "Jeg har set"
@@ -36,7 +36,7 @@ _GaryChampionIntroText::
     cont "i verden!"
     done
 
-_GaryDefeatedText::
+_RivalDefeatedText::
     text "NEJ!"
     line "Det kan ikke ske!"
 	line "Du slog min"
@@ -53,7 +53,7 @@ _GaryDefeatedText::
     cont "Det er ikke fair!"
     prompt
 
-_GaryVictoryText::
+_RivalVictoryText::
     text "Hahaha!"
     line "Jeg vandt,"
 	line "jeg vandt!"
@@ -72,7 +72,7 @@ _GaryVictoryText::
     line "taber! Hahaha!"
     prompt
 
-_GaryText_76103::
+_ChampionsRoomRivalAfterBattleText::
     text "Hvorfor? Hvorfor"
     line "tabte jeg?"
 
@@ -90,11 +90,11 @@ _GaryText_76103::
 	line "indrømme det."
     done
 
-_GaryText2::
+_ChampionsRoomOakText::
 	text "OAK: <PLAYER>!"
 	done
 
-_GaryText_76120::
+_ChampionsRoomOakCongratulatesPlayerText::
     text "OAK: Du vandt!"
     line "Tillykke!"
     cont "Du er den nye"
@@ -112,7 +112,7 @@ _GaryText_76120::
     line "blevet voksen!"
     done
 
-_GaryText_76125::
+_ChampionsRoomOakDisappointedWithRivalText::
     text "OAK: <RIVAL>!"
     line "Jeg er skuffet!"
 
@@ -139,7 +139,7 @@ _GaryText_76125::
     cont "mester igen!"
     done
 
-_GaryText_7612a::
+_ChampionsRoomOakComeWithMeText::
 	text "OAK: <PLAYER>!"
 
     para "Du forstår"

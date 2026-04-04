@@ -1,4 +1,4 @@
-_CeladonGameCornerText1::
+﻿_GameCornerBeauty1Text::
 	text "Velkommen!"
 
 	para "Du kan bytte dine"
@@ -7,7 +7,7 @@ _CeladonGameCornerText1::
 	cont "ved siden af."
 	done
 
-_CeladonGameCornerText_48d22::
+_GameCornerClerk1DoYouNeedSomeGameCoinsText::
 	text "Velkommen til"
 	line "ROCKET"
 	cont "SPILLEHJØRNET!"
@@ -20,32 +20,32 @@ _CeladonGameCornerText_48d22::
 	cont "have nogle?"
 	done
 
-_CeladonGameCornerText_48d27::
+_GameCornerClerk1ThanksHereAre50CoinsText::
 	text "Tak! Her er dine"
 	line "50 mønter!"
 	done
 
-_CeladonGameCornerText_48d2c::
+_GameCornerClerk1PleaseComePlaySometimeText::
 	text "Nej? Kom og spil"
 	line "en anden gang!"
 	done
 
-_CeladonGameCornerText_48d31::
+_GameCornerClerk1CantAffordTheCoinsText::
 	text "Du har ikke råd"
 	line "til mønterne!"
 	done
 
-_CeladonGameCornerText_48d36::
+_GameCornerClerk1CoinCaseIsFullText::
 	text "Ups! Din MØNTKASSE"
 	line "er fuld."
 	done
 
-_CeladonGameCornerText_48d3b::
+_GameCornerClerk1DontHaveCoinCaseText::
 	text "Du har ikke en"
 	line "MØNTKASSE!"
 	done
 
-_CeladonGameCornerText3::
+_GameCornerMiddleAgedMan1Text::
 	text "Hold det for dig."
 
 	para "Der går rygter om"
@@ -54,38 +54,38 @@ _CeladonGameCornerText3::
 	cont "ROCKET."
 	done
 
-_CeladonGameCornerText4::
+_GameCornerBeauty2Text::
 	text "Jeg tror disse"
 	line "maskiner har"
 	cont "forskellige odds."
 	done
 
-_CeladonGameCornerText_48d9c::
+_GameCornerFishingGuruWantToPlayText::
 	text "Knægt, vil du"
 	line "spille?"
 	prompt
 
-_Received10CoinsText::
+_GameCornerFishingGuruReceived10CoinsText::
 	text "<PLAYER> modtog"
 	line "10 mønter!@"
 	text_end
 
-_CeladonGameCornerText_48da7::
+_GameCornerFishingGuruDontNeedMyCoinsText::
 	text "Du behøver ikke"
 	line "mine mønter!"
 	done
 
-_CeladonGameCornerText_48dac::
+_GameCornerFishingGuruWinsComeAndGoText::
 	text "Gevinster kommer"
 	line "og går."
 	done
 
-_CeladonGameCornerText6::
+_GameCornerMiddleAgedWomanText::
 	text "Jeg har det"
 	line "vidunderligt!"
 	done
 
-_CeladonGameCornerText_48dca::
+_GameCornerGymGuideChampInMakingText::
 	text "Hej!"
 
 	para "Du har bedre ting"
@@ -102,7 +102,7 @@ _CeladonGameCornerText_48dca::
 	cont "ikke narre!"
 	done
 
-_CeladonGameCornerText_48dcf::
+_GameCornerGymGuideTheyOfferRarePokemonText::
 	text "De tilbyder"
 	line "sjældne #MON"
 	cont "som kan byttes"
@@ -112,75 +112,75 @@ _CeladonGameCornerText_48dcf::
 	line "ikke vinde!"
 	done
 
-_CeladonGameCornerText8::
+_GameCornerGamblerText::
 	text "Spil er farlige!"
 	line "Det er så let at"
 	cont "blive afhængig!"
 	done
 
-_CeladonGameCornerText_48e26::
+_GameCornerClerk2WantSomeCoinsText::
 	text "Hvad så? Vil du"
 	line "have mønter?"
 	prompt
 
-_Received20CoinsText::
+_GameCornerClerk2Received20CoinsText::
 	text "<PLAYER> modtog"
 	line "20 mønter!@"
 	text_end
 
-_CeladonGameCornerText_48e31::
+_GameCornerClerk2YouHaveLotsOfCoinsText::
 	text "Du har masser af"
 	line "mønter!"
 	done
 
-_CeladonGameCornerText_48e36::
+_GameCornerClerk2INeedMoreCoinsText::
 	text "Pokkers! Jeg"
 	line "mangler mønter"
 	cont "til den #MON"
 	cont "jeg ønsker!"
 	done
 
-_CeladonGameCornerText_48e88::
+_GameCornerGentlemanThrowingMeOffText::
 	text "Hej, hvad? Du"
 	line "forstyrrer mig!"
 	cont "Her er nogle"
 	cont "mønter, skrub af!"
 	prompt
 
-_CeladonGameCornerText_48e8d::
+_GameCornerGentlemanReceived20CoinsText::
 	text "<PLAYER> modtog"
 	line "20 mønter!@"
 	text_end
 
-_CeladonGameCornerText_48e93::
+_GameCornerGentlemanYouGotYourOwnCoinsText::
 	text "Du har dine egne"
 	line "mønter!"
 	done
 
-_CeladonGameCornerText_48e98::
+_GameCornerGentlemanCloselyWatchTheReelsText::
 	text "Tricket er at"
 	line "holde øje med"
 	cont "hjulene!"
 	done
 
-_CeladonGameCornerText_48ece::
+_GameCornerRocketImGuardingThisPosterText::
 	text "Jeg vogter denne"
 	line "plakat!"
 	cont "Forsvind, ellers!"
 	done
 
-_CeladonGameCornerText_48ed3::
+_GameCornerRocketBattleEndText::
 	text "Pokkers!"
 	prompt
 
-_CeladonGameCornerText_48ed8::
+_GameCornerRocketAfterBattleText::
 	text "Vores skjulested"
 	line "kan opdages! Jeg"
 	cont "må sige det til"
 	cont "BOSSEN!"
 	done
 
-_CeladonGameCornerText_48f09::
+_GameCornerPosterSwitchBehindPosterText::
 	text "Hej!"
 
 	para "En kontakt bag"
@@ -188,7 +188,7 @@ _CeladonGameCornerText_48f09::
 	cont "Lad os trykke!@"
 	text_end
 
-_CeladonGameCornerText_48f19::
+_GameCornerOopsForgotCoinCaseText::
 	text "Ups! Glemte"
 	line "MØNTKASSEN!"
 	done

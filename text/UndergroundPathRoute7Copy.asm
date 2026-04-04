@@ -1,4 +1,4 @@
-_UGPathRoute7EntranceUnusedText_5d773::
+﻿_UndergroundPathRoute7CopyUnusedGirlText::
 	text "Jeg vil handle i"
 	line "stormagasinet i"
 	cont "CELADON, men..."
@@ -8,14 +8,14 @@ _UGPathRoute7EntranceUnusedText_5d773::
 	cont "derinde."
 	done
 
-_UGPathRoute7EntranceUnusedText_5d778::
+_UndergroundPathRoute7CopyUnusedTeamRocketHadAHideoutText::
 	text "TEAM ROCKET havde"
 	line "et hemmeligt"
 	cont "tilholdssted i"
 	cont "CELADON CITY?"
 	done
 
-_UGPathRoute7EntranceUnusedText_5d77d::
+_UndergroundPathRoute7CopyUnusedMiddleAgedManText::
 	text "Er du her for at"
 	line "handle i CELADON?"
 
@@ -23,7 +23,7 @@ _UGPathRoute7EntranceUnusedText_5d77d::
 	line "og gå mod vest!"
 	done
 
-_UGPathRoute7EntranceUnusedText_5d782::
+_UndergroundPathRoute7CopyUnusedGoesUnderSaffronText::
 	text "Den UNDERJORDISKE"
 	line "VEJ går under"
 	cont "SAFFRON og fører"

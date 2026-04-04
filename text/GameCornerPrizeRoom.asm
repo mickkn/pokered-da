@@ -1,4 +1,4 @@
-_CeladonPrizeRoomText1::
+﻿_GameCornerPrizeRoomBaldingGuyText::
 	text "Jeg er helt vild"
 	line "med den PORYGON!"
 
@@ -6,7 +6,7 @@ _CeladonPrizeRoomText1::
 	line "at vinde i slots!"
 	done
 
-_CeladonPrizeRoomText2::
+_GameCornerPrizeRoomGamblerText::
 	text "Jeg scorede stort"
 	line "i dag!"
 	done

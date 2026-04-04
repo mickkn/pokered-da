@@ -1,4 +1,4 @@
-_ViridianForestExitText1::
+﻿_ViridianForestNorthGateSuperNerdText::
 	text "Mange #MON lever"
 	line "kun i skove"
 	cont "og huler."
@@ -8,7 +8,7 @@ _ViridianForestExitText1::
 	cont "forskellige slags!"
 	done
 
-_ViridianForestExitText2::
+_ViridianForestNorthGateGrampsText::
 	text "Har du lagt mærke"
 	line "til buskene langs"
 	cont "vejen?"

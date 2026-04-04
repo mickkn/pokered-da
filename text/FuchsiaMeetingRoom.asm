@@ -1,4 +1,4 @@
-_FuchsiaMeetingRoomText1::
+﻿_FuchsiaMeetingRoomSafariZoneWorker1::
 	text "Vi gav"
 	line "PARKBETJENTEN"
 	cont "øgenavnet"
@@ -9,7 +9,7 @@ _FuchsiaMeetingRoomText1::
 	cont "fraværende ud!"
 	done
 
-_FuchsiaMeetingRoomText2::
+_FuchsiaMeetingRoomSafariZoneWorker2::
 	text "SLOWPOKE ved"
 	line "utrolig meget om"
 	cont "#MON!"
@@ -20,7 +20,7 @@ _FuchsiaMeetingRoomText2::
 	cont "#MON!"
 	done
 
-_FuchsiaMeetingRoomText3::
+_FuchsiaMeetingRoomSafariZoneWorker3::
 	text "SLOWPOKE kom ind,"
 	line "men jeg kunne"
 	cont "ikke forstå ham."

@@ -1,4 +1,4 @@
-_SabrinaPreBattleText::
+﻿_SaffronGymSabrinaText::
 	text "Jeg havde en"
 	line "forudsigelse om"
 	cont "din ankomst!"
@@ -20,7 +20,7 @@ _SabrinaPreBattleText::
 	cont "kræfter!"
 	done
 
-_ReceivedMarshBadgeText::
+_SaffronGymSabrinaReceivedMarshBadgeText::
 	text "Jeg er"
 	line "chokeret!"
 	cont "Men et tab er"
@@ -35,14 +35,14 @@ _ReceivedMarshBadgeText::
 	line "MARSHEMBLEMET!@"
 	text_end
 
-_SabrinaPostBattleAdviceText::
+_SaffronGymSabrinaPostBattleAdviceText::
 	text "Alle har psykiske"
 	line "krafter!"
 	cont "Folk indser det"
 	cont "bare ikke!"
 	done
 
-_KogaMarshBadgeInfoText::
+_SaffronGymSabrinaMarshBadgeInfoText::
 	text "MARSHEMBLEMET får"
 	line "#MON op til L70"
 	cont "til at lystre!"
@@ -60,7 +60,7 @@ _KogaMarshBadgeInfoText::
 	line "TM med dig!"
 	done
 
-_ReceivedTM46Text::
+_SaffronGymSabrinaReceivedTM46Text::
 	text "<PLAYER> modtog"
 	line "TM46!@"
 	text_end
@@ -75,12 +75,12 @@ _TM46ExplanationText::
 	cont "gøre skade!"
 	done
 
-_TM46NoRoomText::
+_SaffronGymSabrinaTM46NoRoomText::
 	text "Din taske er fuld"
 	line "af andre ting!"
 	done
 
-_SaffronGymGuidePreBattleText::
+_SaffronGymGuideChampInMakingText::
 	text "Yo! Kommende"
 	line "mester!"
 
@@ -98,7 +98,7 @@ _SaffronGymGuidePreBattleText::
 	cont "at slå!"
 	done
 
-_SaffronGymGuidePostBattleText::
+_SaffronGymGuideBeatSabrinaText::
 	text "Psykisk kraft,"
 	line "hva?"
 
@@ -108,18 +108,18 @@ _SaffronGymGuidePostBattleText::
 	cont "spillemaskinerne!"
 	done
 
-_SaffronGymBattleText1::
+_SaffronGymChanneler1BattleText::
 	text "SABRINA er yngre"
 	line "end mig, men jeg"
 	cont "respekterer hende!"
 	done
 
-_SaffronGymEndBattleText1::
+_SaffronGymChanneler1EndBattleText::
 	text "Ikke"
 	line "godt nok!"
 	prompt
 
-_SaffronGymAfterBattleText1::
+_SaffronGymChanneler1AfterBattleText::
 	text "I en kamp mellem"
 	line "ligemænd vinder"
 	cont "den med den"
@@ -130,25 +130,25 @@ _SaffronGymAfterBattleText1::
 	cont "på at vinde!"
 	done
 
-_SaffronGymBattleText2::
+_SaffronGymYoungster1BattleText::
 	text "Skræmmer vores"
 	line "usynlige kraft"
 	cont "dig?"
 	done
 
-_SaffronGymEndBattleText2::
+_SaffronGymYoungster1EndBattleText::
 	text "Det forud-"
 	line "så jeg aldrig!"
 	prompt
 
-_SaffronGymAfterBattleText2::
+_SaffronGymYoungster1AfterBattleText::
 	text "Psykiske #MON"
 	line "frygter kun"
 	cont "spøgelser og"
 	cont "insekter!"
 	done
 
-_SaffronGymBattleText3::
+_SaffronGymChanneler2BattleText::
 	text "#MON ligner"
 	line "deres trænere."
 
@@ -156,52 +156,52 @@ _SaffronGymBattleText3::
 	line "være seje, så!"
 	done
 
-_SaffronGymEndBattleText3::
+_SaffronGymChanneler2EndBattleText::
 	text "Jeg"
 	line "vidste det!"
 	prompt
 
-_SaffronGymAfterBattleText3::
+_SaffronGymChanneler2AfterBattleText::
 	text "Jeg må lære mine"
 	line "#MON bedre"
 	cont "teknikker!"
 	done
 
-_SaffronGymBattleText4::
+_SaffronGymYoungster2BattleText::
 	text "Du ved at styrke"
 	line "alene ikke er"
 	cont "nok!"
 	done
 
-_SaffronGymEndBattleText4::
+_SaffronGymYoungster2EndBattleText::
 	text "Jeg kan"
 	line "ikke tro det!"
 	prompt
 
-_SaffronGymAfterBattleText4::
+_SaffronGymYoungster2AfterBattleText::
 	text "SABRINA besejrede"
 	line "lige KARATE-"
 	cont "MESTEREN ved"
 	cont "siden af!"
 	done
 
-_SaffronGymBattleText5::
+_SaffronGymChanneler3BattleText::
 	text "Du og jeg, vores"
 	line "#MON skal"
 	cont "kæmpe!"
 	done
 
-_SaffronGymEndBattleText5::
+_SaffronGymChanneler3EndBattleText::
 	text "Jeg tabte"
 	line "alligevel!"
 	prompt
 
-_SaffronGymAfterBattleText5::
+_SaffronGymChanneler3AfterBattleText::
 	text "Jeg vidste at"
 	line "dette ville ske."
 	done
 
-_SaffronGymBattleText6::
+_SaffronGymYoungster3BattleText::
 	text "SABRINA er ung,"
 	line "men hun er også"
 	cont "vores LEDER!"
@@ -210,12 +210,12 @@ _SaffronGymBattleText6::
 	line "frem til hende!"
 	done
 
-_SaffronGymEndBattleText6::
+_SaffronGymYoungster3EndBattleText::
 	text "Jeg mistede"
 	line "koncentrationen!"
 	prompt
 
-_SaffronGymAfterBattleText6::
+_SaffronGymYoungster3AfterBattleText::
 	text "Der var engang"
 	line "2 #MON GYMs i"
 	cont "SAFFRON."
@@ -228,7 +228,7 @@ _SaffronGymAfterBattleText6::
 	cont "knuste dem!"
 	done
 
-_SaffronGymBattleText7::
+_SaffronGymYoungster4BattleText::
 	text "SAFFRON #MON"
 	line "GYM er berømt for"
 	cont "sine synske!"
@@ -238,11 +238,11 @@ _SaffronGymBattleText7::
 	cont "Det kan jeg se!"
 	done
 
-_SaffronGymEndBattleText7::
+_SaffronGymYoungster4EndBattleText::
 	text "Arrrgh!"
 	prompt
 
-_SaffronGymAfterBattleText7::
+_SaffronGymYoungster4AfterBattleText::
 	text "Rigtigt! Jeg"
 	line "brugte telepati"
 	cont "til at læse"

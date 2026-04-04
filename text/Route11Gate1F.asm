@@ -1,4 +1,4 @@
-_Route11GateText1::
+﻿_Route11Gate1FGuardText::
 	text "Når du fanger"
 	line "mange #MON, er"
 	cont "det svært at"

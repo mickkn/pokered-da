@@ -1,61 +1,61 @@
-_SaffronCityText1::
+﻿_SaffronCityRocket1Text::
 	text "Hvad vil du?"
 	line "Skrub af!"
 	done
 
-_SaffronCityText2::
+_SaffronCityRocket2Text::
 	text "CHEFEN sagde at"
 	line "han tager byen!"
 	done
 
-_SaffronCityText3::
+_SaffronCityRocket3Text::
 	text "Flyt dig af"
 	line "vejen!"
 	done
 
-_SaffronCityText4::
+_SaffronCityRocket4Text::
 	text "SAFFRON tilhører"
 	line "TEAM ROCKET!"
 	done
 
-_SaffronCityText5::
+_SaffronCityRocket5Text::
 	text "At være ond får"
 	line "mig til at føle"
 	cont "mig så levende!"
 	done
 
-_SaffronCityText6::
+_SaffronCityRocket6Text::
 	text "Av! Se dig for"
 	line "hvor du går!"
 	done
 
-_SaffronCityText7::
+_SaffronCityRocket7Text::
 	text "Med SILPH under"
 	line "kontrol kan vi"
 	cont "udnytte #MON"
 	cont "over hele verden!"
 	done
 
-_SaffronCityText8::
+_SaffronCityScientistText::
 	text "Du slog TEAM"
 	line "ROCKET helt"
 	cont "alene? Vildt!"
 	done
 
-_SaffronCityText9::
+_SaffronCitySilphWorkerMText::
 	text "Ja! TEAM ROCKET"
 	line "er væk!"
 	cont "Det er sikkert"
 	cont "at gå ud igen!"
 	done
 
-_SaffronCityText10::
+_SaffronCitySilphWorkerFText::
 	text "Folk burde strømme"
 	line "tilbage til"
 	cont "SAFFRON nu."
 	done
 
-_SaffronCityText11::
+_SaffronCityGentlemanText::
 	text "Jeg fløj hertil"
 	line "på min PIDGEOT da"
 	cont "jeg læste om"
@@ -67,17 +67,17 @@ _SaffronCityText11::
 	cont "mediedækningen."
 	done
 
-_SaffronCityText12::
+_SaffronCityPidgeotText::
 	text "PIDGEOT: Bi bibii!@"
 	text_end
 
-_SaffronCityText13::
+_SaffronCityRockerText::
 	text "Jeg så ROCKET-"
 	line "CHEFEN flygte fra"
 	cont "SILPHs bygning."
 	done
 
-_SaffronCityText14::
+_SaffronCityRocket8Text::
 	text "Jeg er sikker-"
 	line "hedsvagt."
 
@@ -86,7 +86,7 @@ _SaffronCityText14::
 	cont "ikke ind!"
 	done
 
-_SaffronCityText15::
+_SaffronCityRocket9Text::
 	text "..."
 	line "Snork..."
 
@@ -94,17 +94,17 @@ _SaffronCityText15::
 	line "en lur!"
 	done
 
-_SaffronCityText16::
+_SaffronCitySignText::
 	text "SAFFRON CITY"
 	line "Skinnende, Gyldne"
 	cont "Handelsland"
 	done
 
-_SaffronCityText17::
+_SaffronCityFightingDojoSignText::
 	text "KAMPSPORT-DOJOEN"
 	done
 
-_SaffronCityText18::
+_SaffronCityGymSignText::
 	text "SAFFRON CITY"
 	line "#MON GYM"
 	cont "LEDER: SABRINA"
@@ -113,7 +113,7 @@ _SaffronCityText18::
 	line "Psykiske #MON!"
 	done
 
-_SaffronCityText20::
+_SaffronCityTrainerTips1Text::
 	text "TRÆNERTIPS"
 
 	para "FULL HEAL kurerer"
@@ -126,7 +126,7 @@ _SaffronCityText20::
 	cont "mere praktisk."
 	done
 
-_SaffronCityText21::
+_SaffronCityTrainerTips2Text::
 	text "TRÆNERTIPS"
 
 	para "Nye GREAT BALL"
@@ -138,17 +138,17 @@ _SaffronCityText21::
 	cont "#MON."
 	done
 
-_SaffronCityText22::
+_SaffronCitySilphCoSignText::
 	text "SILPH CO."
 	line "KONTORBYGNING"
 	done
 
-_SaffronCityText24::
+_SaffronCityMrPsychicsHouseSignText::
 	text "HR.PSYKISKs"
 	line "HUS"
 	done
 
-_SaffronCityText25::
+_SaffronCitySilphCoLatestProductSignText::
 	text "SILPHs nyeste"
 	line "produkt!"
 

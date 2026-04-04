@@ -1,4 +1,4 @@
-_TowerRescueFujiText::
+﻿_PokemonTower7FMrFujiRescueText::
 	text "MR.FUJI: Heh? Du"
 	line "kom for at redde"
 	cont "mig?"
@@ -25,21 +25,21 @@ _TowerRescueFujiText::
 	cont "af dette tårn."
 	done
 
-_PokemonTower7BattleText1::
+_PokemonTower7FRocket1BattleText::
 	text "Hvad vil du?"
 	line "Hvorfor er du her?"
 	done
 
-_PokemonTower7EndBattleText1::
+_PokemonTower7FRocket1EndBattleText::
 	text "Jeg giver op!"
 	prompt
 
-_PokemonTower7AfterBattleText1::
+_PokemonTower7FRocket1AfterBattleText::
 	text "Jeg glemmer ikke"
 	line "dette!"
 	done
 
-_PokemonTower7BattleText2::
+_PokemonTower7FRocket2BattleText::
 	text "Den gamle fyr kom"
 	line "og klagede over"
 	cont "at vi skader"
@@ -49,12 +49,12 @@ _PokemonTower7BattleText2::
 	line "det som voksne!"
 	done
 
-_PokemonTower7EndBattleText2::
+_PokemonTower7FRocket2EndBattleText::
 	text "Vær sød!"
 	line "Ikke mere!"
 	prompt
 
-_PokemonTower7AfterBattleText2::
+_PokemonTower7FRocket2AfterBattleText::
 	text "#MON er kun"
 	line "gode til at tjene"
 	cont "penge!"
@@ -63,17 +63,17 @@ _PokemonTower7AfterBattleText2::
 	line "vores forretning!"
 	done
 
-_PokemonTower7BattleText3::
+_PokemonTower7FRocket3BattleText::
 	text "Du redder ingen,"
 	line "knægt!"
 	done
 
-_PokemonTower7EndBattleText3::
+_PokemonTower7FRocket3EndBattleText::
 	text "Kæmp"
 	line "ikke mod os!"
 	prompt
 
-_PokemonTower7AfterBattleText3::
+_PokemonTower7FRocket3AfterBattleText::
 	text "Du slipper ikke"
 	line "afsted med dette!"
 	done

@@ -1,4 +1,4 @@
-_Lab1Text1::
+﻿_CinnabarLabFishingGuruText::
     text "Vi studerer #MON"
     line "indgående her."
 
@@ -8,24 +8,24 @@ _Lab1Text1::
 	cont "undersøgelse."
     done
 
-_Lab1Text2::
+_CinnabarLabPhotoText::
     text "Et foto af LAB's"
     line "grundlægger,"
     cont "DR.FUJI!"
     done
 
-_Lab1Text3::
+_CinnabarLabMeetingRoomSignText::
     text "#MON LAB"
     line "Mødelokale"
     done
 
-_Lab1Text4::
+_CinnabarLabRAndDSignText::
     text "#MON LAB"
     line "Forskning og"
 	cont "Udvikling"
     done
 
-_Lab1Text5::
+_CinnabarLabTestingRoomSignText::
     text "#MON LAB"
     line "Testlokale"
     done

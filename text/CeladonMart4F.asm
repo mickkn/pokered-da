@@ -1,10 +1,10 @@
-_CeladonMart4Text2::
+﻿_CeladonMart4FSuperNerdText::
 	text "Jeg skal købe en"
 	line "# DOLL til min"
 	cont "kæreste!"
 	done
 
-_CeladonMart4Text3::
+_CeladonMart4FYoungsterText::
 	text "Jeg hørte noget"
 	line "nyttigt."
 
@@ -14,7 +14,7 @@ _CeladonMart4Text3::
 	cont "med en # DOLL!"
 	done
 
-_CeladonMart4Text4::
+_CeladonMart4FCurrentFloorSignText::
 	text "Udtryk dig"
 	line "med gaver!"
 

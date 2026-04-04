@@ -1,10 +1,10 @@
-_SafariZoneRestHouse1Text1::
+﻿_SafariZoneCenterRestHouseGirlText::
 	text "SARA: Hvor blev"
 	line "min kæreste,"
 	cont "ERIK, af?"
 	done
 
-_SafariZoneRestHouse1Text2::
+_SafariZoneCenterRestHouseScientistText::
 	text "Jeg fanger #MON"
 	line "til at tage med"
 	cont "hjem som gaver!"

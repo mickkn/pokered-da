@@ -1,22 +1,22 @@
-_Mansion2BattleText1::
+﻿_PokemonMansion2FSuperNerdBattleText::
 	text "Jeg kan ikke"
 	line "komme ud! Det"
 	cont "gamle sted er ét"
 	cont "stort puslespil!"
 	done
 
-_Mansion2EndBattleText1::
+_PokemonMansion2FSuperNerdEndBattleText::
 	text "Åh nej!"
 	line "Min pose bytte!"
 	prompt
 
-_Mansion2AfterBattleText1::
+_PokemonMansion2FSuperNerdAfterBattleText::
 	text "Kontakter åbner"
 	line "og lukker skiften-"
 	cont "de sæt af døre!"
 	done
 
-_Mansion2Text3::
+_PokemonMansion2FDiary1Text::
 	text "Dagbog: 5. juli"
 	line "Guyana,"
 	cont "Sydamerika"
@@ -26,24 +26,24 @@ _Mansion2Text3::
 	cont "junglen."
 	done
 
-_Mansion2Text4::
+_PokemonMansion2FDiary2Text::
 	text "Dagbog: 10. juli"
 	line "Vi døbte den nyt"
 	cont "opdagede #MON,"
 	cont "MEW."
 	done
 
-_Mansion2Text_520c2::
+_PokemonMansion2FSwitchText::
 	text "En hemmelig"
 	line "kontakt!"
 
 	para "Trykke på den?"
 	done
 
-_Mansion2Text_520c7::
+_PokemonMansion2FSwitchPressedText::
 	text "Hvem ville ikke?"
 	prompt
 
-_Mansion2Text_520cc::
+_PokemonMansion2FSwitchNotPressedText::
 	text "Ikke lige endnu!"
 	done

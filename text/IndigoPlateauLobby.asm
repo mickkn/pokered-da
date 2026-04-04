@@ -1,4 +1,4 @@
-_IndigoPlateauLobbyText2::
+﻿_IndigoPlateauLobbyGymGuideText::
 	text "Hej! Kommende"
 	line "mester!"
 
@@ -13,7 +13,7 @@ _IndigoPlateauLobbyText2::
 	cont "nu! Giv den gas!"
 	done
 
-_IndigoPlateauLobbyText3::
+_IndigoPlateauLobbyCooltrainerFText::
 	text "Herfra møder du"
 	line "ELITE-FIREN én"
 	cont "efter én!"

@@ -1,4 +1,4 @@
-_Route22RivalBeforeBattleText1::
+﻿_Route22RivalBeforeBattleText1::
 	text "<RIVAL>: Hey!"
 	line "<PLAYER>!"
 
@@ -32,13 +32,13 @@ _Route22RivalAfterBattleText1::
 	cont "gang!"
 	done
 
-_Route22RivalDefeatedText1::
+_Route22Rival1DefeatedText::
 	text "Argh!"
 	line "Du var bare"
 	cont "heldig!"
 	prompt
 
-_Route22Text_511bc::
+_Route22Rival1VictoryText::
 	text "<RIVAL>: Hvad?"
 	line "Hvorfor har jeg"
 	cont "2 #MON?"
@@ -81,14 +81,14 @@ _Route22RivalAfterBattleText2::
 	cont "nu. Vi ses!"
 	done
 
-_Route22RivalDefeatedText2::
+_Route22Rival2DefeatedText::
 	text "Hvad!?"
 
 	para "Jeg var bare"
 	line "skødesløs!"
 	prompt
 
-_Route22Text_511d0::
+_Route22Rival2VictoryText::
 	text "<RIVAL>: Hahaha!"
 	line "<PLAYER>! Er det"
 	cont "dit bedste? Du er"
@@ -99,7 +99,7 @@ _Route22Text_511d0::
 	line "mere, din taber!"
 	prompt
 
-_Route22FrontGateText::
+_Route22PokemonLeagueSignText::
 	text "#MON-LIGA"
 	line "Hovedindgang"
 	done

@@ -1,22 +1,22 @@
-_RocketHideout3BattleText2::
+﻿_RocketHideoutB3FRocket1BattleText::
 	text "Stop med at blande"
 	line "dig i TEAM"
 	cont "ROCKETs sager!"
 	done
 
-_RocketHideout3EndBattleText2::
+_RocketHideoutB3FRocket1EndBattleText::
 	text "Uf!"
 	line "Slået ned!"
 	prompt
 
-_RocketHideout3AfterBattleTxt2::
+_RocketHideoutB3FRocket1AfterBattleText::
 	text "SILPH SCOPE?"
 	line "Maskinen BOSSEN"
 	cont "stjal. Den er"
 	cont "her et sted."
 	done
 
-_RocketHideout3BattleTxt::
+_RocketHideout3BattleText::
 	text "Vi fik besked"
 	line "ovenfra om at"
 	cont "du var på vej!"

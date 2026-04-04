@@ -31,14 +31,14 @@ ReadTrainer:
 ; and hl points to the trainer class.
 ; Our next task is to iterate through the trainers,
 ; decrementing b each time, until we get to the right one.
-.outer
+.CheckNextTrainer
 	dec b
 	jr z, .IterateTrainer
-.inner
+.SkipTrainer
 	ld a, [hli]
 	and a
-	jr nz, .inner
-	jr .outer
+	jr nz, .SkipTrainer
+	jr .CheckNextTrainer
 
 ; if the first byte of trainer data is FF,
 ; - each pokemon has a specific level
@@ -49,12 +49,12 @@ ReadTrainer:
 	ld a, [hli]
 	cp $FF ; is the trainer special?
 	jr z, .SpecialTrainer ; if so, check for special moves
-	ld [wCurEnemyLVL], a
+	ld [wCurEnemyLevel], a
 .LoopTrainerData
 	ld a, [hli]
 	and a ; have we reached the end of the trainer data?
 	jr z, .FinishUp
-	ld [wcf91], a ; write species somewhere (XXX why?)
+	ld [wCurPartySpecies], a
 	ld a, ENEMY_PARTY_DATA
 	ld [wMonDataLocation], a
 	push hl
@@ -69,9 +69,9 @@ ReadTrainer:
 	ld a, [hli]
 	and a ; have we reached the end of the trainer data?
 	jr z, .AddLoneMove
-	ld [wCurEnemyLVL], a
+	ld [wCurEnemyLevel], a
 	ld a, [hli]
-	ld [wcf91], a
+	ld [wCurPartySpecies], a
 	ld a, ENEMY_PARTY_DATA
 	ld [wMonDataLocation], a
 	push hl
@@ -92,7 +92,7 @@ ReadTrainer:
 	ld a, [hli]
 	ld d, [hl]
 	ld hl, wEnemyMon1Moves + 2
-	ld bc, wEnemyMon2 - wEnemyMon1
+	ld bc, PARTYMON_STRUCT_LENGTH
 	call AddNTimes
 	ld [hl], d
 	jr .FinishUp
@@ -150,7 +150,7 @@ ReadTrainer:
 	ld [de], a
 	inc de
 	ld [de], a
-	ld a, [wCurEnemyLVL]
+	ld a, [wCurEnemyLevel]
 	ld b, a
 .LastLoop
 ; update wAmountMoneyWon addresses (money to win) based on enemy's level
@@ -162,5 +162,5 @@ ReadTrainer:
 	inc de
 	inc de
 	dec b
-	jr nz, .LastLoop ; repeat wCurEnemyLVL times
+	jr nz, .LastLoop ; repeat wCurEnemyLevel times
 	ret

@@ -16,7 +16,7 @@ MarowakAnim:
 	ld a, $1
 	ldh [hWhoseTurn], a
 	callfar ChangeMonPic
- ; alternate between black and light grey 8 times.
+ ; alternate between black and light gray 8 times.
  ; this makes the ghost's body appear to flash
 	ld d, $80
 	call FlashSprite8Times
@@ -48,11 +48,11 @@ MarowakAnim:
 	call Delay3
 	jp ClearSprites
 
-; copies a mon pic's  from background VRAM to sprite VRAM and sets up OAM
+; copies a mon pic's from background VRAM to sprite VRAM and sets up OAM
 CopyMonPicFromBGToSpriteVRAM:
 	ld de, vFrontPic
 	ld hl, vSprites
-	ld bc, 7 * 7
+	ld bc, PIC_SIZE
 	call CopyVideoData
 	ld a, $10
 	ld [wBaseCoordY], a
@@ -74,7 +74,7 @@ CopyMonPicFromBGToSpriteVRAM:
 	ld [hli], a
 	ld a, d
 	ld [hli], a
-	ld a, OAM_OBP1
+	ld a, OAM_PAL1
 	ld [hli], a
 	inc d
 	dec c

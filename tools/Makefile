@@ -1,7 +1,7 @@
 .PHONY: all clean
 
 CC := gcc
-CFLAGS := -O3 -flto -std=c11 -Wall -Wextra -pedantic
+CFLAGS := -O3 -std=c11 -Wall -Wextra -pedantic
 
 tools := \
 	gfx \
@@ -15,8 +15,5 @@ all: $(tools)
 clean:
 	$(RM) $(tools)
 
-gfx: common.h
-scan_includes: common.h
-
-%: %.c
+%: %.c common.h
 	$(CC) $(CFLAGS) -o $@ $<

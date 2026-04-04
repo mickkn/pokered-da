@@ -1,4 +1,4 @@
-_ProgrammerText::
+﻿_CeladonMansion3FProgrammerText::
 	text "Mig? Jeg er"
 	line "den danske"
 	cont "oversætter! Kan"
@@ -6,14 +6,14 @@ _ProgrammerText::
 	cont "på dansk?"
 	done
 
-_GraphicArtistText::
+_CeladonMansion3FGraphicArtistText::
 	text "Jeg er den"
 	line "grafiske"
 	cont "designer! Jeg"
 	cont "tegnede dig!"
 	done
 
-_WriterText::
+_CeladonMansion3FWriterText::
 	text "Jeg skrev"
 	line "historien!"
 	cont "Er ERIKA"
@@ -27,7 +27,7 @@ _WriterText::
 	cont "hende!"
 	done
 
-_GameDesignerText::
+_CeladonMansion3FGameDesignerText::
 	text "Er det rigtigt?"
 
 	para "Jeg er spil"
@@ -42,7 +42,7 @@ _GameDesignerText::
 	cont "mig det!"
 	done
 
-_CompletedDexText::
+_CeladonMansion3FGameDesignerCompletedDexText::
 	text "Wow! Fantastisk!"
 	line "Du fuldførte"
 	cont "dit #DEX!"
@@ -50,20 +50,20 @@ _CompletedDexText::
 	cont "...@"
 	text_end
 
-_CeladonMansion3Text5::
+_CeladonMansion3FGameProgramPCText::
 	text "Det er spillets"
 	line "program! At rode"
 	cont "med det kan bugge"
 	cont "spillet ud!"
 	done
 
-_CeladonMansion3Text6::
+_CeladonMansion3FPlayingGamePCText::
 	text "Nogen spiller"
 	line "et spil i stedet"
 	cont "for at arbejde!"
 	done
 
-_CeladonMansion3Text7::
+_CeladonMansion3FGameScriptPCText::
 	text "Det er"
 	line "manuskriptet! Du"
 	cont "har bare, ikke at"
@@ -71,7 +71,7 @@ _CeladonMansion3Text7::
 	cont "slutningen"
 	done
 
-_CeladonMansion3Text8::
+_CeladonMansion3FDevRoomSignText::
 	text "GAME FREAK"
 	line "Udviklingsrum"
 	done

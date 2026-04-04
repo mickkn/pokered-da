@@ -1,4 +1,4 @@
-_SafariZoneRestHouse2Text1::
+﻿_SafariZoneWestRestHouseScientistText::
 	text "At kaste STEN"
 	line "efter #MON kan"
 	cont "få dem til at"
@@ -7,13 +7,13 @@ _SafariZoneRestHouse2Text1::
 	cont "fange."
 	done
 
-_SafariZoneRestHouse2Text2::
+_SafariZoneWestRestHouseCooltrainerMText::
 	text "At bruge LOKKEMAD"
 	line "gør #MON"
 	cont "nemmere at fange."
 	done
 
-_SafariZoneRestHouse2Text3::
+_SafariZoneWestRestHouseSilphWorkerFText::
 	text "Jeg vandrede en"
 	line "masse, men så"
 	cont "ingen #MON"

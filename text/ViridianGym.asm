@@ -1,4 +1,4 @@
-_GiovanniPreBattleText::
+﻿_ViridianGymGiovanniPreBattleText::
 	text "Fwahahaha! Det"
 	line "her er mit"
 	cont "tilholdssted!"
@@ -19,7 +19,7 @@ _GiovanniPreBattleText::
 	cont "træner!"
 	done
 
-_ReceivedEarthBadgeText::
+_ViridianGymGiovanniReceivedEarthBadgeText::
 	text "Ha!"
 	line "Det var en"
 	cont "virkelig intens"
@@ -29,7 +29,7 @@ _ReceivedEarthBadgeText::
 	cont "JORDEMBLEMET!@"
 	text_end
 
-_GiovanniPostBattleAdviceText::
+_ViridianGymGiovanniPostBattleAdviceText::
 	text "Efter at have"
 	line "tabt kan jeg ikke"
 	cont "møde mine"
@@ -46,7 +46,7 @@ _GiovanniPostBattleAdviceText::
 	cont "Farvel!@"
 	text_end
 
-_GiovanniEarthBadgeInfoText::
+_ViridianGymGiovanniEarthBadgeInfoText::
 	text "JORDEMBLEMET får"
 	line "#MON af alle"
 	cont "niveauer til at"
@@ -65,12 +65,12 @@ _GiovanniEarthBadgeInfoText::
 	cont "LIGA-udfordring!"
 	done
 
-_ReceivedTM27Text::
+_ViridianGymGiovanniReceivedTM27Text::
 	text "<PLAYER> modtog"
 	line "TM27!@"
 	text_end
 
-_TM27ExplanationText::
+_ViridianGymGiovanniTM27ExplanationText::
 	text_start
 
 	para "TM27 er FISSURE!"
@@ -84,140 +84,140 @@ _TM27ExplanationText::
 	cont "siden..."
 	done
 
-_TM27NoRoomText::
+_ViridianGymGiovanniTM27NoRoomText::
 	text "Du har ikke plads"
 	line "til dette!"
 	done
 
-_ViridianGymBattleText1::
+_ViridianGymCooltrainerM1BattleText::
 	text "Heh! Du må snart"
 	line "løbe tør for"
 	cont "kræfter!"
 	done
 
-_ViridianGymEndBattleText1::
+_ViridianGymCooltrainerM1EndBattleText::
 	text "Jeg"
 	line "løb tør for gas!"
 	prompt
 
-_ViridianGymAfterBattleText1::
+_ViridianGymCooltrainerM1AfterBattleText::
 	text "Du har brug for"
 	line "styrke for at"
 	cont "følge med vores"
 	cont "GYM-LEDER!"
 	done
 
-_ViridianGymBattleText2::
+_ViridianGymHiker1BattleText::
 	text "Rrrroar! Jeg"
 	line "pisker mig selv"
 	cont "op i raseri!"
 	done
 
-_ViridianGymEndBattleText2::
+_ViridianGymHiker1EndBattleText::
 	text "Wargh!"
 	prompt
 
-_ViridianGymAfterBattleText2::
+_ViridianGymHiker1AfterBattleText::
 	text "Jeg er stadig"
 	line "ikke værdig!"
 	done
 
-_ViridianGymBattleText3::
+_ViridianGymRocker1BattleText::
 	text "#MON og jeg, vi"
 	line "laver vidunderlig"
 	cont "musik sammen!"
 	done
 
-_ViridianGymEndBattleText3::
+_ViridianGymRocker1EndBattleText::
 	text "I er i perfekt"
 	line "harmoni!"
 	prompt
 
-_ViridianGymAfterBattleText3::
+_ViridianGymRocker1AfterBattleText::
 	text "Kender du"
 	line "identiteten på"
 	cont "vores GYM-LEDER?"
 	done
 
-_ViridianGymBattleText4::
+_ViridianGymHiker2BattleText::
 	text "Karate er den"
 	line "ultimative form"
 	cont "for kampsport!"
 	done
 
-_ViridianGymEndBattleText4::
+_ViridianGymHiker2EndBattleText::
 	text "Atcho!"
 	prompt
 
-_ViridianGymAfterBattleText4::
+_ViridianGymHiker2AfterBattleText::
 	text "Hvis mine #MON"
 	line "var lige så gode"
 	cont "til Karate"
 	cont "som mig..."
 	done
 
-_ViridianGymBattleText5::
+_ViridianGymCooltrainerM2BattleText::
 	text "De virkelig"
 	line "talentfulde vinder"
 	cont "med stil!"
 	done
 
-_ViridianGymEndBattleText5::
+_ViridianGymCooltrainerM2EndBattleText::
 	text "Jeg"
 	line "mistede grebet!"
 	prompt
 
-_ViridianGymAfterBattleText5::
+_ViridianGymCooltrainerM2AfterBattleText::
 	text "LEDEREN skælder"
 	line "mig ud!"
 	done
 
-_ViridianGymBattleText6::
+_ViridianGymHiker3BattleText::
 	text "Jeg er KARATE-"
 	line "KONGEN! Din"
 	cont "skæbne hviler"
 	cont "hos mig!"
 	done
 
-_ViridianGymEndBattleText6::
+_ViridianGymHiker3EndBattleText::
 	text "Ayah!"
 	prompt
 
-_ViridianGymAfterBattleText6::
+_ViridianGymHiker3AfterBattleText::
 	text "#MON-LIGAEN?"
 	line "Dig? Bliv ikke"
 	cont "for kæk!"
 	done
 
-_ViridianGymBattleText7::
+_ViridianGymRocker2BattleText::
 	text "Dine #MON vil"
 	line "krympe sig ved"
 	cont "lyden af min pisk!"
 	done
 
-_ViridianGymEndBattleText7::
+_ViridianGymRocker2EndBattleText::
 	text "Yowch!"
 	line "Piskesmæld!"
 	prompt
 
-_ViridianGymAfterBattleText7::
+_ViridianGymRocker2AfterBattleText::
 	text "Vent! Jeg var"
 	line "bare uopmærksom!"
 	done
 
-_ViridianGymBattleText8::
+_ViridianGymCooltrainerM3BattleText::
 	text "VIRIDIAN GYM var"
 	line "lukket i lang tid,"
 	cont "men nu er vores"
 	cont "LEDER tilbage!"
 	done
 
-_ViridianGymEndBattleText8::
+_ViridianGymCooltrainerM3EndBattleText::
 	text "Jeg"
 	line "blev besejret?"
 	prompt
 
-_ViridianGymAfterBattleText8::
+_ViridianGymCooltrainerM3AfterBattleText::
 	text "Du kan kun komme"
 	line "til #MON-LIGAEN"
 	cont "ved at besejre"

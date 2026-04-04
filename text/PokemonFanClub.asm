@@ -1,16 +1,16 @@
-PikachuFanText::
+﻿_PokemonFanClubPikachuFanNormalText::
 	text "Vil du ikke se"
 	line "min PIKACHUs"
 	cont "yndige hale?"
 	done
 
-PikachuFanBetterText::
+_PokemonFanClubPikachuFanBetterText::
 	text "Hmph! Min PIKACHU"
 	line "er dobbelt så sød"
 	cont "som den der!"
 	done
 
-SeelFanText::
+_PokemonFanClubSeelFanNormalText::
 	text "Jeg elsker min"
 	line "SEEL!"
 
@@ -18,23 +18,23 @@ SeelFanText::
 	line "jeg krammer den!"
 	done
 
-SeelFanBetterText::
+_PokemonFanClubSeelFanBetterText::
 	text "Åh kære!"
 
 	para "Min SEEL er langt"
 	line "mere tiltrækkende!"
 	done
 
-FanClubPikachuText::
+_PokemonFanClubPikachuText::
 	text "PIKACHU: Chu!"
 	line "Pikachu!"
 	done
 
-FanClubSeelText::
+_PokemonFanClubSeelText::
 	text "SEEL: Kyuoo!"
 	done
 
-FanClubMeetChairText::
+_PokemonFanClubChairmanIntroText::
 	text "Jeg er formand"
 	line "for #MON"
 	cont "Fan Klubben!"
@@ -53,7 +53,7 @@ FanClubMeetChairText::
 	cont "#MON?"
 	done
 
-FanClubChairStoryText::
+_PokemonFanClubChairmanStoryText::
 	text "Godt!"
 	line "Så lyt godt efter!"
 
@@ -83,14 +83,14 @@ FanClubChairStoryText::
 	cont "give dig dette!"
 	prompt
 
-ReceivedBikeVoucherText::
+_PokemonFanClubReceivedBikeVoucherText::
 	text "<PLAYER> modtog"
 	line "en @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
-ExplainBikeVoucherText::
+_PokemonFanClubExplainBikeVoucherText::
 	text_start
 	para "Byt den til en"
 	line "CYKEL!"
@@ -106,13 +106,13 @@ ExplainBikeVoucherText::
 	line "lide at cykle!"
 	done
 
-FanClubNoStoryText::
+_PokemonFanClubNoStoryText::
 	text "Åh. Kom tilbage"
 	line "når du vil høre"
 	cont "min historie!"
 	done
 
-FanClubChairFinalText::
+_PokemonFanClubChairFinalText::
 	text "Hej, <PLAYER>!"
 
 	para "Kom du for at se"
@@ -122,24 +122,24 @@ FanClubChairFinalText::
 	para "Nej? Ærgerligt!"
 	done
 
-FanClubBagFullText::
+_PokemonFanClubBagFullText::
 	text "Skab plads til"
 	line "dette!"
 	done
 
-_FanClubText6::
+_PokemonFanClubReceptionistText::
 	text "Vores formand er"
 	line "meget vokal om"
 	cont "#MON."
 	done
 
-_FanClubText7::
+_PokemonFanClubSign1Text::
 	text "Lad os alle lytte"
 	line "høfligt til andre"
 	cont "trænere!"
 	done
 
-_FanClubText8::
+_PokemonFanClubSign2Text::
 	text "Hvis nogen praler,"
 	line "pral lige tilbage!"
 	done

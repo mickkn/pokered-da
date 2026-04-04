@@ -1,44 +1,44 @@
-_SilphCo3Text_59ff9::
+_SilphCo3FSilphWorkerMWhatShouldIDoText::
 	text "Jeg arbejder for"
 	line "SILPH. Hvad skal"
 	cont "jeg gøre?"
 	done
 
-_SilphCo3Text_59ffe::
+_SilphCo3FSilphWorkerMYouSavedUsText::
 	text "<PLAYER>! Du og"
 	line "dine #MON"
 	cont "reddede os!"
 	done
 
-_SilphCo3BattleText1::
+_SilphCo3FRocketBattleText::
 	text "Hold op med at"
-	line "pille ved os,"
+	line "irritere os,"
 	cont "knægt!"
 	done
 
-_SilphCo3EndBattleText1::
+_SilphCo3FRocketEndBattleText::
 	text "Jeg"
 	line "giver op!"
 	prompt
 
-_SilphCo3AfterBattleText1::
+_SilphCo3FRocketAfterBattleText::
 	text "Et hint? Du kan"
 	line "åbne døre med et"
 	cont "NØGLEKORT!"
 	done
 
-_SilphCo3BattleText2::
+_SilphCo3FScientistBattleText::
 	text "Jeg støtter TEAM"
 	line "ROCKET mere end"
 	cont "jeg støtter SILPH!"
 	done
 
-_SilphCo3EndBattleText2::
+_SilphCo3FScientistEndBattleText::
 	text "Du"
 	line "fik mig virkelig!"
 	prompt
 
-_SilphCo3AfterBattleText2::
+_SilphCo3FScientistAfterBattleText::
 	text "Humph..."
 
 	para "TEAM ROCKET sagde"

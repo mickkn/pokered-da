@@ -1,4 +1,4 @@
-_LanceBeforeBattleText::
+﻿_LancesRoomLanceBeforeBattleText::
 	text "Ah! Jeg har hørt"
 	line "om dig <PLAYER>!"
 
@@ -28,7 +28,7 @@ _LanceBeforeBattleText::
 	cont "hos mig, <PLAYER>!"
 	done
 
-_LanceEndBattleText::
+_LancesRoomLanceEndBattleText::
 	text "Det var det!"
 
 	para "Jeg hader at"
@@ -37,7 +37,7 @@ _LanceEndBattleText::
 	cont "#MON-mester!"
 	prompt
 
-_LanceAfterBattleText::
+_LancesRoomLanceAfterBattleText::
 	text "Jeg kan stadig"
 	line "ikke tro mine"
 	cont "drager tabte til"

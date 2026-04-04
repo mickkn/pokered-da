@@ -1,8 +1,8 @@
-_SafariZoneWestText5::
+﻿_SafariZoneWestRestHouseSignText::
 	text "HVILEHJEM"
 	done
 
-_SafariZoneWestText6::
+_SafariZoneWestFindWardensTeethSignText::
 	text "EFTERLYSNING"
 
 	para "Find venligst"
@@ -17,7 +17,7 @@ _SafariZoneWestText6::
 	cont "PARKBETJENTEN"
 	done
 
-_SafariZoneWestText7::
+_SafariZoneWestTrainerTipsText::
 	text "TRÆNERTIPS"
 
 	para "Zone-udforsknings-"
@@ -27,7 +27,7 @@ _SafariZoneWestText7::
 	line "HEMMELIGE HUS!"
 	done
 
-_SafariZoneWestText8::
+_SafariZoneWestSignText::
 	text "OMRÅDE 3"
 	line "ØST: CENTEROMRÅDE"
 	done

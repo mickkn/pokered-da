@@ -1,4 +1,4 @@
-_VermilionMartText2::
+﻿_VermilionMartCooltrainerMText::
 	text "Der er onde"
 	line "mennesker som vil"
 	cont "bruge #MON til"
@@ -15,7 +15,7 @@ _VermilionMartText2::
 	cont "eller nyttige."
 	done
 
-_VermilionMartText3::
+_VermilionMartCooltrainerFText::
 	text "Jeg tror #MON"
 	line "kan være gode"
 	cont "eller onde."

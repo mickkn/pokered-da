@@ -1,11 +1,11 @@
-_SaffronPokecenterText2::
+_SaffronPokecenterBeautyText::
 	text "#MON vokser"
 	line "med forskellig"
 	cont "hastighed fra"
 	cont "art til art."
 	done
 
-_SaffronPokecenterText3::
+_SaffronPokecenterGentlemanText::
 	text "SILPH CO. er meget"
 	line "berømt. Derfor"
 	cont "tiltrak det"

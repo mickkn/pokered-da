@@ -1,4 +1,4 @@
-_BrockPreBattleText::
+﻿_PewterGymBrockPreBattleText::
 	text "Jeg er BROCK!"
 	line "Jeg er PEWTERs"
 	cont "GYM LEDER!"

@@ -1,4 +1,4 @@
-_LavenderMartText2::
+﻿_LavenderMartBaldingGuyText::
 	text "Jeg leder efter"
 	line "ting der øger"
 	cont "evnerne hos"
@@ -14,13 +14,13 @@ _LavenderMartText2::
 	line "kan få dem?"
 	done
 
-_LavenderMartReviveText::
+_LavenderMartCooltrainerMReviveText::
 	text "Kender du REVIVE?"
 	line "Den genopliver"
 	cont "besvimet #MON!"
 	done
 
-_LavenderMartNuggetText::
+_LavenderMartCooltrainerMNuggetText::
 	text "Jeg fandt en"
 	line "NUGGET i bjergene."
 

@@ -1,4 +1,4 @@
-_BillsHouseText_1e865::
+_BillsHouseBillImNotAPokemonText::
 	text "Hej! Jeg er en"
 	line "#MON..."
 	cont "...Nej, jeg er"
@@ -21,7 +21,7 @@ _BillsHouseText_1e865::
 	line "Hjælp mig lige!"
 	done
 
-_BillsHouseText_1e86a::
+_BillsHouseBillUseSeparationSystemText::
 	text "Når jeg er i"
 	line "TELEPORTØREN, gå"
 	cont "til min PC og kør"
@@ -29,7 +29,7 @@ _BillsHouseText_1e86a::
 	cont "systemet!"
 	done
 
-_BillsHouseText_1e86f::
+_BillsHouseBillNoYouGottaHelpText::
 	text "Nej!? Kom nu, du"
 	line "bliver nødt til"
 	cont "at hjælpe en fyr"
@@ -40,7 +40,7 @@ _BillsHouseText_1e86f::
 	cont "Okay? Okay!"
 	prompt
 
-_BillThankYouText::
+_BillsHouseBillThankYouText::
 	text "BILL: Yeehah!"
 	line "Tak, ven! Jeg"
 	cont "skylder dig en!"
@@ -69,7 +69,7 @@ _SSTicketNoRoomText::
 	line "genstande, ven"
 	done
 
-_BillsHouseText_1e8cb::
+_BillsHouseBillWhyDontYouGoInsteadOfMeText::
 	text "Det krydstogtskib,"
 	line "S.S.ANNE, er i"
 	cont "VERMILION CITY."
@@ -86,7 +86,7 @@ _BillsHouseText_1e8cb::
 	cont "stedet for mig?"
 	done
 
-_BillsHouseText_1e8da::
+_BillsHouseBillCheckOutMyRarePokemonText::
 	text "BILL: Se, ven,"
 	line "bare kig på nogle"
 	cont "af mine sjældne"

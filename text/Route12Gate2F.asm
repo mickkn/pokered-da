@@ -1,4 +1,4 @@
-_TM39PreReceiveText::
+﻿_Route12Gate2FBrunetteGirlYouCanHaveThisText::
 	text "Min #MONs aske"
 	line "opbevares i"
 	cont "#MON TOWER."
@@ -8,12 +8,12 @@ _TM39PreReceiveText::
 	cont "brug for den..."
 	prompt
 
-_ReceivedTM39Text::
+_Route12Gate2FBrunetteGirlReceivedTM39Text::
 	text "<PLAYER> modtog"
 	line "TM39!@"
 	text_end
 
-_TM39ExplanationText::
+_Route12Gate2FBrunetteGirlTM39ExplanationText::
 	text "TM39 er et angreb"
 	line "kaldet SWIFT."
 
@@ -24,19 +24,19 @@ _TM39ExplanationText::
 	cont "at tabe."
 	done
 
-_TM39NoRoomText::
+_Route12Gate2FBrunetteGirlTM39NoRoomText::
 	text "Du har ikke plads"
 	line "til dette."
 	done
 
-_Route12GateUpstairsText_495b8::
+_Route12Gate2FLeftBinocularsText::
 	text "Kiggede i"
 	line "kikkerten."
 
 	para "En mand fisker!"
 	done
 
-_Route12GateUpstairsText_495c4::
+_Route12Gate2FRightBinocularsText::
 	text "Kiggede i"
 	line "kikkerten."
 

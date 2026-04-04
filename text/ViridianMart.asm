@@ -1,14 +1,14 @@
-_ViridianMartText1::
+﻿_ViridianMartClerkSayHiToOakText::
 	text "OK! Sig hej til"
 	line "PROF.OAK fra mig!"
 	done
 
-_ViridianMartText4::
+_ViridianMartClerkYouCameFromPalletTownText::
 	text "Hej! Kommer du fra"
 	line "PALLET TOWN?"
 	done
 
-ViridianMartParcelQuestText::
+_ViridianMartClerkParcelQuestText::
 	text "Du kender PROF."
 	line "OAK, ikke?"
 
@@ -21,13 +21,13 @@ ViridianMartParcelQuestText::
 	line "OAKs PAKKE!@"
 	text_end
 
-_ViridianMartText2::
+_ViridianMartYoungsterText::
 	text "Denne butik"
 	line "sælger mange"
 	cont "MODGIFTer."
 	done
 
-_ViridianMartText3::
+_ViridianMartCooltrainerMText::
 	text "Nej! POTIONs er"
 	line "helt udsolgt."
 	done

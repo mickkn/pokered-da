@@ -1,4 +1,4 @@
-_CeruleanCityText_19668::
+﻿_CeruleanCityRivalPreBattleText::
 	text "<RIVAL>: Hej!"
 	line "<PLAYER>!"
 
@@ -17,19 +17,19 @@ _CeruleanCityText_19668::
 	cont "<PLAYER>!"
     done
 
-_CeruleanCityText_1966d::
+_CeruleanCityRivalDefeatedText::
     text "Hey!"
     line "Tag det roligt!"
     cont "Du har jo vundet!"
     prompt
 
-_CeruleanCityText_19672::
+_CeruleanCityRivalVictoryText::
     text "Heh! Du er"
     line "ingen match for"
     cont "min genialitet!"
     prompt
 
-_CeruleanCityText_19677::
+_CeruleanCityRivalIWentToBillsText::
     text "<RIVAL>: Hej,"
     line "gæt hvad?"
 
@@ -59,7 +59,7 @@ _CeruleanCityText_19677::
     cont "Vi ses senere!"
     done
 
-_CeruleanCityText_196d9::
+_CeruleanCityRocketText::
     text "Hey! Bliv ude!"
     line "Det er ikke din"
     cont "have! Huh? Mig?"
@@ -69,12 +69,12 @@ _CeruleanCityText_196d9::
     cont "ikke på mig?"
     done
 
-_ReceivedTM28Text::
+_CeruleanCityRocketReceivedTM28Text::
     text "<PLAYER> fik"
     line "TM28 tilbage!@"
     text_end
 
-_ReceivedTM28Text2::
+_CeruleanCityRocketIBetterGetMovingText::
 	text_start
 
     para "Jeg må hellere"
@@ -82,7 +82,7 @@ _ReceivedTM28Text2::
 	line "Farvel!@"
     text_end
 
-_TM28NoRoomText::
+_CeruleanCityRocketTM28NoRoomText::
     text "Lav plads til"
     line "dette!"
 
@@ -91,27 +91,27 @@ _TM28NoRoomText::
 	line "det til dig!"
     done
 
-_CeruleanCityText_196ee::
+_CeruleanCityRocketIGiveUpText::
     text "Stop!"
     line "Jeg giver op! Jeg"
 	line "forlader stedet"
     cont "stille og roligt!"
     prompt
 
-_CeruleanCityText_196f3::
+_CeruleanCityRocketIllReturnTheTMText::
     text "OK! Jeg vil"
     line "returnere den TM"
 	line "jeg stjal!"
 	prompt
 
-_CeruleanCityText3::
+_CeruleanCityCooltrainerMText::
     text "Er du også en"
     line "træner? At samle,"
     cont "kæmpe, det er et"
     cont "hårdt liv."
 	done
 
-_CeruleanCityText4::
+_CeruleanCitySuperNerd1Text::
     text "Den busk foran"
     line "butikken"
     cont "er i vejen."
@@ -120,14 +120,14 @@ _CeruleanCityText4::
     line "vej rundt."
 	done
 
-_CeruleanCityText5::
+_CeruleanCitySuperNerd2Text::
     text "Du laver et"
     line "leksikon om"
     cont "#MON? Det"
     cont "lyder sjovt."
     done
 
-_CeruleanCityText6::
+_CeruleanCityGuardText::
     text "Folk her"
     line "blev røvet."
 
@@ -141,20 +141,20 @@ _CeruleanCityText6::
     cont "med ROCKETs!"
 	done
 
-_CeruleanCityText_19730::
+_CeruleanCityCooltrainerF1SlowbroUseSonicboomText::
     text "OK! SLOWBRO!"
     line "Brug SONICBOOM!"
     cont "Kom nu, SLOWBRO"
     cont "vær opmærksom!"
     done
 
-_CeruleanCityText_19735::
+_CeruleanCityCooltrainerF1SlowbroPunchText::
     text "SLOWBRO slå!"
     line "Nej! Du ødelagde"
     cont "det igen!"
 	done
 
-_CeruleanCityText_1973a::
+_CeruleanCityCooltrainerF1SlowbroWithdrawText::
     text "SLOWBRO,"
 	line "TRÆK DIG TILBAGE!"
     line "Nej! Det"
@@ -169,28 +169,28 @@ _CeruleanCityText_1973a::
     cont "som en træner!"
     done
 
-_CeruleanCityText_1976f::
+_CeruleanCitySlowbroTookASnoozeText::
     text "SLOWBRO tog en"
     line "lur..."
 	done
 
-_CeruleanCityText_19774::
+_CeruleanCitySlowbroIsLoafingAroundText::
     text "SLOWBRO går"
     line "doven rundt..."
 	done
 
-_CeruleanCityText_19779::
+_CeruleanCitySlowbroTurnedAwayText::
     text "SLOWBRO vendte"
     line "sig væk..."
 	done
 
-_CeruleanCityText_1977e::
+_CeruleanCitySlowbroIgnoredOrdersText::
     text "SLOWBRO"
     line "ignorerede"
 	line "ordrer..."
 	done
 
-_CeruleanCityText9::
+_CeruleanCityCooltrainerF2Text::
     text "Jeg vil have en"
     line "lysende rød"
 	line "CYKEL!"
@@ -201,7 +201,7 @@ _CeruleanCityText9::
     cont "beskidt!"
 	done
 
-_CeruleanCityText10::
+_CeruleanCitySuperNerd3Text::
     text "Dette er CERULEAN"
     line "GROTTEN!"
     line "Der lever"
@@ -215,14 +215,14 @@ _CeruleanCityText10::
     cont "har adgang!"
 	done
 
-_CeruleanCityText12::
+_CeruleanCitySignText::
     text "CERULEAN BY"
     line "En mystisk,"
     cont "blå aura"
     cont "omgiver den"
 	done
 
-_CeruleanCityText13::
+_CeruleanCityTrainerTipsText::
     text "TRÆNER TIPS"
 
     para "Tryk på B-knappen"
@@ -231,13 +231,13 @@ _CeruleanCityText13::
     cont "hele processen."
 	done
 
-_CeruleanCityText16::
+_CeruleanCityBikeShopSign::
     text "Græs og grotter"
     line "er en leg!"
     cont "CYKEL BUTIK"
 	done
 
-_CeruleanCityText17::
+_CeruleanCityGymSign::
 	text "CERULEAN BY"
 	line "#MON GYM"
 	cont "LEDER: MISTY"

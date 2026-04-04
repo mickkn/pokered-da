@@ -7,9 +7,9 @@ _JumpMoveEffect:
 	ldh a, [hWhoseTurn]
 	and a
 	ld a, [wPlayerMoveEffect]
-	jr z, .next1
+	jr z, .next
 	ld a, [wEnemyMoveEffect]
-.next1
+.next
 	dec a ; subtract 1, there is no special effect for 00
 	add a ; x2, 16bit pointers
 	ld hl, MoveEffectPointerTable
@@ -41,7 +41,7 @@ SleepEffect:
 	                        ; including the event where the target already has another status
 	ld a, [de]
 	ld b, a
-	and $7
+	and SLP_MASK
 	jr z, .notAlreadySleeping ; can't affect a mon that is already asleep
 	ld hl, AlreadyAsleepText
 	jp PrintText
@@ -58,7 +58,7 @@ SleepEffect:
 .setSleepCounter
 ; set target's sleep counter to a random number between 1 and 7
 	call BattleRandom
-	and $7
+	and SLP_MASK
 	jr z, .setSleepCounter
 	ld [de], a
 	call PlayCurrentMoveAnimation2
@@ -118,17 +118,17 @@ PoisonEffect:
 	ret nc
 .inflictPoison
 	dec hl
-	set 3, [hl] ; mon is now poisoned
+	set PSN, [hl]
 	push de
 	dec de
 	ldh a, [hWhoseTurn]
 	and a
-	ld b, ANIM_C7
+	ld b, SHAKE_SCREEN_ANIM
 	ld hl, wPlayerBattleStatus3
 	ld a, [de]
 	ld de, wPlayerToxicCounter
 	jr nz, .ok
-	ld b, ANIM_A9
+	ld b, ENEMY_HUD_SHAKE_ANIM
 	ld hl, wEnemyBattleStatus3
 	ld de, wEnemyToxicCounter
 .ok
@@ -194,7 +194,7 @@ ExplodeEffect:
 FreezeBurnParalyzeEffect:
 	xor a
 	ld [wAnimationType], a
-	call CheckTargetSubstitute ; test bit 4 of d063/d068 flags [target has substitute flag]
+	call CheckTargetSubstitute
 	ret nz ; return if they have a substitute, can't effect them
 	ldh a, [hWhoseTurn]
 	and a
@@ -216,7 +216,9 @@ FreezeBurnParalyzeEffect:
 	jr c, .regular_effectiveness
 ; extra effectiveness
 	ld b, 30 percent + 1
-	sub BURN_SIDE_EFFECT2 - BURN_SIDE_EFFECT1 ; treat extra effective as regular from now on
+	ASSERT PARALYZE_SIDE_EFFECT2 - PARALYZE_SIDE_EFFECT1 == BURN_SIDE_EFFECT2 - BURN_SIDE_EFFECT1
+	ASSERT PARALYZE_SIDE_EFFECT2 - PARALYZE_SIDE_EFFECT1 == FREEZE_SIDE_EFFECT2 - FREEZE_SIDE_EFFECT1
+	sub PARALYZE_SIDE_EFFECT2 - PARALYZE_SIDE_EFFECT1 ; treat extra effective as regular from now on
 .regular_effectiveness
 	push af
 	call BattleRandom ; get random 8bit value for probability test
@@ -226,20 +228,20 @@ FreezeBurnParalyzeEffect:
 	ld a, b ; what type of effect is this?
 	cp BURN_SIDE_EFFECT1
 	jr z, .burn1
-	cp FREEZE_SIDE_EFFECT
+	cp FREEZE_SIDE_EFFECT1
 	jr z, .freeze1
-; .paralyze1
+; paralyze1
 	ld a, 1 << PAR
 	ld [wEnemyMonStatus], a
 	call QuarterSpeedDueToParalysis ; quarter speed of affected mon
-	ld a, ANIM_A9
+	ld a, ENEMY_HUD_SHAKE_ANIM
 	call PlayBattleAnimation
 	jp PrintMayNotAttackText ; print paralysis text
 .burn1
 	ld a, 1 << BRN
 	ld [wEnemyMonStatus], a
 	call HalveAttackDueToBurn ; halve attack of affected mon
-	ld a, ANIM_A9
+	ld a, ENEMY_HUD_SHAKE_ANIM
 	call PlayBattleAnimation
 	ld hl, BurnedText
 	jp PrintText
@@ -247,7 +249,7 @@ FreezeBurnParalyzeEffect:
 	call ClearHyperBeam ; resets hyper beam (recharge) condition from target
 	ld a, 1 << FRZ
 	ld [wEnemyMonStatus], a
-	ld a, ANIM_A9
+	ld a, ENEMY_HUD_SHAKE_ANIM
 	call PlayBattleAnimation
 	ld hl, FrozenText
 	jp PrintText
@@ -279,9 +281,9 @@ FreezeBurnParalyzeEffect:
 	ld a, b
 	cp BURN_SIDE_EFFECT1
 	jr z, .burn2
-	cp FREEZE_SIDE_EFFECT
+	cp FREEZE_SIDE_EFFECT1
 	jr z, .freeze2
-; .paralyze2
+; paralyze2
 	ld a, 1 << PAR
 	ld [wBattleMonStatus], a
 	call QuarterSpeedDueToParalysis
@@ -293,7 +295,7 @@ FreezeBurnParalyzeEffect:
 	ld hl, BurnedText
 	jp PrintText
 .freeze2
-; hyper beam bits aren't reseted for opponent's side
+; hyper beam bits aren't reset for opponent's side
 	ld a, 1 << FRZ
 	ld [wBattleMonStatus], a
 	ld hl, FrozenText
@@ -321,7 +323,7 @@ CheckDefrost:
 	ld [wEnemyMonStatus], a ; set opponent status to 00 ["defrost" a frozen monster]
 	ld hl, wEnemyMon1Status
 	ld a, [wEnemyMonPartyPos]
-	ld bc, wEnemyMon2 - wEnemyMon1
+	ld bc, PARTYMON_STRUCT_LENGTH
 	call AddNTimes
 	xor a
 	ld [hl], a ; clear status in roster
@@ -334,7 +336,7 @@ CheckDefrost:
 	ld [wBattleMonStatus], a
 	ld hl, wPartyMon1Status
 	ld a, [wPlayerMonNumber]
-	ld bc, wPartyMon2 - wPartyMon1
+	ld bc, PARTYMON_STRUCT_LENGTH
 	call AddNTimes
 	xor a
 	ld [hl], a
@@ -591,7 +593,7 @@ StatModifierDownEffect:
 	ld a, [de]
 	cp ATTACK_DOWN2_EFFECT - $16 ; $24
 	jr c, .ok
-	cp EVASION_DOWN2_EFFECT + $5 ; $44
+	cp ATTACK_DOWN_SIDE_EFFECT ; move side effects, stat mod decrease is always 1
 	jr nc, .ok
 	dec b ; stat down 2 effects only (dec mod again)
 	jr nz, .ok
@@ -678,14 +680,14 @@ UpdateLoweredStatDone:
 	call PrintStatText
 	pop de
 	ld a, [de]
-	cp $44
+	cp ATTACK_DOWN_SIDE_EFFECT ; for all side effects, move animation has already played, skip it
 	jr nc, .ApplyBadgeBoostsAndStatusPenalties
 	call PlayCurrentMoveAnimation2
 .ApplyBadgeBoostsAndStatusPenalties
 	ldh a, [hWhoseTurn]
 	and a
-	call nz, ApplyBadgeStatBoosts ; whenever the player uses a stat-down move, badge boosts get reapplied again to every stat,
-	                              ; even to those not affected by the stat-up move (will be boosted further)
+	call nz, ApplyBadgeStatBoosts ; whenever the opponent uses a stat-down move, badge boosts get reapplied again to every stat,
+	                              ; even to those not affected by the stat-down move (will be boosted further)
 	ld hl, MonsStatsFellText
 	call PrintText
 
@@ -709,7 +711,7 @@ CantLowerAnymore:
 
 MoveMissed:
 	ld a, [de]
-	cp $44
+	cp ATTACK_DOWN_SIDE_EFFECT
 	ret nc
 	jp ConditionalPrintButItFailed
 
@@ -741,7 +743,7 @@ FellText:
 
 PrintStatText:
 	ld hl, StatModTextStrings
-	ld c, "@"
+	ld c, '@'
 .findStatName_outer
 	dec b
 	jr z, .foundStatName
@@ -752,7 +754,7 @@ PrintStatText:
 	jr .findStatName_inner
 .foundStatName
 	ld de, wStringBuffer
-	ld bc, $a
+	ld bc, STAT_NAME_LENGTH
 	jp CopyData
 
 INCLUDE "data/battle/stat_mod_names.asm"
@@ -802,7 +804,7 @@ ThrashPetalDanceEffect:
 	inc a
 	ld [de], a ; set thrash/petal dance counter to 2 or 3 at random
 	ldh a, [hWhoseTurn]
-	add ANIM_B0
+	add SHRINKING_SQUARE_ANIM
 	jp PlayBattleAnimation2
 
 SwitchAndTeleportEffect:
@@ -812,7 +814,7 @@ SwitchAndTeleportEffect:
 	ld a, [wIsInBattle]
 	dec a
 	jr nz, .notWildBattle1
-	ld a, [wCurEnemyLVL]
+	ld a, [wCurEnemyLevel]
 	ld b, a
 	ld a, [wBattleMonLevel]
 	cp b ; is the player's level greater than the enemy's level?
@@ -856,7 +858,7 @@ SwitchAndTeleportEffect:
 	jr nz, .notWildBattle2
 	ld a, [wBattleMonLevel]
 	ld b, a
-	ld a, [wCurEnemyLVL]
+	ld a, [wCurEnemyLevel]
 	cp b
 	jr nc, .enemyMoveWasSuccessful
 	add b
@@ -1002,7 +1004,7 @@ ChargeEffect:
 	jr z, .chargeEffect
 	ld hl, wEnemyBattleStatus1
 	ld de, wEnemyMoveEffect
-	ld b, ANIM_AF
+	ld b, XSTATITEM_DUPLICATE_ANIM
 .chargeEffect
 	set CHARGING_UP, [hl]
 	ld a, [de]
@@ -1016,7 +1018,7 @@ ChargeEffect:
 	cp DIG
 	jr nz, .notDigOrFly
 	set INVULNERABLE, [hl] ; mon is now invulnerable to typical attacks (fly/dig)
-	ld b, ANIM_C0
+	ld b, SLIDE_DOWN_ANIM
 .notDigOrFly
 	xor a
 	ld [wAnimationType], a
@@ -1262,7 +1264,7 @@ MimicEffect:
 	add hl, bc
 	ld a, d
 	ld [hl], a
-	ld [wd11e], a
+	ld [wNamedObjectIndex], a
 	call GetMoveName
 	call PlayCurrentMoveAnimation
 	ld hl, MimicLearnedMoveText
@@ -1309,7 +1311,7 @@ DisableEffect:
 	pop hl
 	and a
 	jr z, .pickMoveToDisable ; loop until a non-00 move slot is found
-	ld [wd11e], a ; store move number
+	ld [wNamedObjectIndex], a ; store move number
 	push hl
 	ldh a, [hWhoseTurn]
 	and a
@@ -1319,7 +1321,7 @@ DisableEffect:
 	cp LINK_STATE_BATTLING
 	pop hl ; wEnemyMonMoves
 	jr nz, .playerTurnNotLinkBattle
-; .playerTurnLinkBattle
+; player's turn, Link Battle
 	push hl
 	ld hl, wEnemyMonPP
 .enemyTurn
@@ -1330,7 +1332,7 @@ DisableEffect:
 	or [hl]
 	inc hl
 	or [hl]
-	and $3f
+	and PP_MASK
 	pop hl ; wBattleMonPP or wEnemyMonPP
 	jr z, .moveMissedPopHL ; nothing to do if all moves have no PP left
 	add hl, bc
@@ -1354,7 +1356,7 @@ DisableEffect:
 	jr nz, .printDisableText
 	inc hl ; wEnemyDisabledMoveNumber
 .printDisableText
-	ld a, [wd11e] ; move number
+	ld a, [wNamedObjectIndex] ; move number
 	ld [hl], a
 	call GetMoveName
 	ld hl, MoveWasDisabledText
@@ -1436,9 +1438,9 @@ CheckTargetSubstitute:
 	ld hl, wEnemyBattleStatus2
 	ldh a, [hWhoseTurn]
 	and a
-	jr z, .next1
+	jr z, .next
 	ld hl, wPlayerBattleStatus2
-.next1
+.next
 	bit HAS_SUBSTITUTE_UP, [hl]
 	pop hl
 	ret
@@ -1454,15 +1456,16 @@ PlayCurrentMoveAnimation2:
 .notEnemyTurn
 	and a
 	ret z
+; fallthrough
 
 PlayBattleAnimation2:
 ; play animation ID at a and animation type 6 or 3
 	ld [wAnimationID], a
 	ldh a, [hWhoseTurn]
 	and a
-	ld a, $6
+	ld a, ANIMATIONTYPE_SHAKE_SCREEN_HORIZONTALLY_SLOW_2
 	jr z, .storeAnimationType
-	ld a, $3
+	ld a, ANIMATIONTYPE_SHAKE_SCREEN_HORIZONTALLY_SLOW
 .storeAnimationType
 	ld [wAnimationType], a
 	jp PlayBattleAnimationGotID
@@ -1480,6 +1483,7 @@ PlayCurrentMoveAnimation:
 .notEnemyTurn
 	and a
 	ret z
+; fallthrough
 
 PlayBattleAnimation:
 ; play animation ID at a and predefined animation type

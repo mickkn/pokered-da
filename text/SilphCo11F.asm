@@ -1,4 +1,4 @@
-_SilphCoPresidentText::
+_SilphCo11FSilphPresidentText::
 	text "PRÆSIDENT: Tak"
 	line "fordi du reddede"
 	cont "SILPH!"
@@ -20,14 +20,14 @@ _SilphCoPresidentText::
 	line "duer!"
 	prompt
 
-_ReceivedSilphCoMasterBallText::
+_SilphCo11FSilphPresidentReceivedMasterBallText::
 	text "<PLAYER> fik en"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
-_SilphCo10Text_6231c::
+_SilphCo11FSilphPresidentMasterBallDescriptionText::
 	text "PRÆSIDENT: Den"
 	line "kan man ikke købe"
 	cont "nogen steder!"
@@ -45,12 +45,12 @@ _SilphCo10Text_6231c::
 	cont "du bruger den."
 	done
 
-_SilphCoMasterBallNoRoomText::
+_SilphCo11FSilphPresidentNoRoomText::
 	text "Du har ingen plads"
 	line "til dette."
 	done
 
-_SilphCo11Text2::
+_SilphCo11FBeautyText::
 	text "SEKRETÆR: Tak"
 	line "fordi du reddede"
 	cont "os alle!"
@@ -59,7 +59,7 @@ _SilphCo11Text2::
 	line "mod."
 	done
 
-_SilphCo11Text3::
+_SilphCo11FGiovanniText::
 	text "Ah <PLAYER>!"
 	line "Så mødes vi igen!"
 
@@ -77,12 +77,12 @@ _SilphCo11Text3::
 	line "verden af smerte!"
 	done
 
-_SilphCo10Text_62330::
+_SilphCo10FGiovanniILostAgainText::
 	text "Arrgh!!"
 	line "Tabte jeg igen!?"
 	prompt
 
-_SilphCo10Text_62335::
+_SilphCo11FGiovanniYouRuinedOurPlansText::
 	text "For pokker!"
 	line "Du ødelagde vores"
 	cont "planer for SILPH!"
@@ -100,39 +100,39 @@ _SilphCo10Text_62335::
 	cont "tilbage!"
 	done
 
-_SilphCo11BattleText1::
+_SilphCo11FRocket1BattleText::
 	text "Stop lige der!"
 	line "Rør dig ikke!"
 	done
 
-_SilphCo11EndBattleText1::
-	text "Lad..."
+_SilphCo11FRocket1EndBattleText::
+	text "Stop..."
 	line "Vær sød!"
 	prompt
 
-_SilphCo11AfterBattleText1::
+_SilphCo11FRocket1AfterBattleText::
 	text "Så du vil se"
 	line "min CHEF?"
 	done
 
-_SilphCo11BattleText2::
+_SilphCo11FRocket2BattleText::
 	text "Stop! Har du en"
 	line "aftale med min"
 	cont "CHEF?"
 	done
 
-_SilphCo11EndBattleText2::
+_SilphCo11FRocket2EndBattleText::
 	text "Gaah!"
 	line "Smadret!"
 	prompt
 
-_SilphCo11AfterBattleText2::
+_SilphCo11FRocket2AfterBattleText::
 	text "Pas på, min CHEF"
 	line "kan lide sine"
 	cont "#MON hårde!"
 	done
 
-_SilphCo10Text_6237b::
+_SilphCo10FPorygonText::
 	text "Skærmen viser"
 	line "#MON!"
 	done

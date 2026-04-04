@@ -1,4 +1,4 @@
-_FuchsiaHouse1Text1::
+﻿_FuchsiaBillsGrandpasHouseMiddleAgedWomanText::
     text "SAFARIZONEN's"
     line "PARKBETJENT er"
     cont "gammel, men"
@@ -8,7 +8,7 @@ _FuchsiaHouse1Text1::
     line "er dog falske."
     done
 
-_FuchsiaHouse1Text2::
+_FuchsiaBillsGrandpasHouseBillsGrandpaText::
     text "Hmm? Har du mødt"
     line "BILL?"
 
@@ -21,7 +21,7 @@ _FuchsiaHouse1Text2::
 	cont "som barn!"
     done
 
-_FuchsiaHouse1Text3::
+_FuchsiaBillsGrandpasHouseYoungsterText::
     text "BILL gemmer sine"
     line "egne #MON data"
     cont "på sin PC!"

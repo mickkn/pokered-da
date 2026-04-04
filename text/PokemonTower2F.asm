@@ -1,4 +1,4 @@
-_PokemonTower2Text_6062d::
+﻿_PokemonTower2FRivalWhatBringsYouHereText::
 	text "<RIVAL>: Hej,"
 	line "<PLAYER>! Hvad"
 	cont "laver du her?"
@@ -10,7 +10,7 @@ _PokemonTower2Text_6062d::
 	cont "dem! Kom så, ven!"
 	done
 
-_PokemonTower2Text_60632::
+_PokemonTower2FRivalDefeatedText::
 	text "Hvad?"
 	line "Din stinker!"
 
@@ -18,7 +18,7 @@ _PokemonTower2Text_60632::
 	line "en chance!"
 	prompt
 
-_PokemonTower2Text_60637::
+_PokemonTower2FRivalVictoryText::
 	text "<RIVAL>: Tja,"
 	line "se alle dine"
 	cont "svage #MON!"
@@ -27,7 +27,7 @@ _PokemonTower2Text_60637::
 	line "stærkere!"
 	prompt
 
-_PokemonTower2Text_6063c::
+_PokemonTower2FRivalHowsYourDexText::
 	text "Hvordan går dit"
 	line "#DEX, makker?"
 	cont "Jeg fangede lige"
@@ -46,7 +46,7 @@ _PokemonTower2Text_6063c::
 	para "Lugtes ved!"
 	done
 
-_PokemonTower2Text2::
+_PokemonTower2FChannelerText::
 	text "Selv vi kunne"
 	line "ikke identificere"
 	cont "de vildfarne"

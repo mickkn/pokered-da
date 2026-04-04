@@ -1,10 +1,10 @@
-_SchoolText1::
+﻿_ViridianSchoolHouseBrunetteGirlText::
 	text "Pyha! Jeg prøver"
 	line "at lære alle mine"
 	cont "noter udenad."
 	done
 
-_SchoolText2::
+_ViridianSchoolHouseCooltrainerFText::
 	text "OK!"
 
 	para "Sørg for at læse"

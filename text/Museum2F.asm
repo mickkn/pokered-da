@@ -1,11 +1,11 @@
-_Museum2FText1::
+﻿_Museum2FYoungsterText::
 	text "MOON STONE?"
 
 	para "Hvad er der så"
 	line "specielt ved den?"
 	done
 
-_Museum2FText2::
+_Museum2FGrampsText::
 	text "20. juli, 1969!"
 
 	para "Den første"
@@ -16,12 +16,12 @@ _Museum2FText2::
 	cont "se det!"
 	done
 
-_Museum2FText3::
+_Museum2FScientistText::
 	text "Vi har en rum-"
 	line "udstilling nu."
 	done
 
-_Museum2FText4::
+_Museum2FBrunetteGirlText::
 	text "Jeg vil ha en"
 	line "PIKACHU! Den er"
 	cont "så sød!"
@@ -30,18 +30,18 @@ _Museum2FText4::
 	line "fange én til mig!"
 	done
 
-_Museum2FText5::
+_Museum2FHikerText::
 	text "Ja, en PIKACHU"
 	line "snart, det lover"
 	cont "jeg!"
 	done
 
-_Museum2FText6::
+_Museum2FSpaceShuttleSignText::
 	text "RUMFÆRGEN"
 	line "COLUMBIA"
 	done
 
-_Museum2FText7::
+_Museum2FMoonStoneSignText::
 	text "Meteorit der"
 	line "faldt på MT.MOON."
 	cont "(MOON STONE?)"

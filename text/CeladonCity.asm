@@ -1,4 +1,4 @@
-_CeladonCityText1::
+﻿_CeladonCityLittleGirlText::
 	text "Jeg fik min"
 	line "KOFFING i"
 	cont "CINNABAR!"
@@ -8,20 +8,20 @@ _CeladonCityText1::
 	cont "når den er vred!"
 	done
 
-_CeladonCityText2::
+_CeladonCityGramps1Text::
 	text "Heheh! Dette GYM"
 	line "er fantastisk!"
 	cont "Det er fyldt med"
 	cont "kvinder!"
 	done
 
-_CeladonCityText3::
+_CeladonCityGirlText::
 	text "SPILLEHJØRNET"
 	line "er dårligt for"
 	cont "byens image!"
 	done
 
-_CeladonCityText4::
+_CeladonCityGramps2Text::
 	text "Støn!"
 	line "Jeg tabte alt på"
 	cont "spillemaskinerne!"
@@ -33,7 +33,7 @@ _CeladonCityText4::
 	cont "præmier!"
 	done
 
-_TM41PreText::
+_CeladonCityGramps3Text::
 	text "Hej der!"
 
 	para "Jeg har set dig,"
@@ -46,14 +46,14 @@ _TM41PreText::
 	cont "forbi!"
 	prompt
 
-_ReceivedTM41Text::
+_CeladonCityGramps3ReceivedTM41Text::
 	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
-_TM41ExplanationText::
+_CeladonCityGramps3TM41ExplanationText::
 	text "TM41 lærer"
 	line "SOFTBOILED!"
 
@@ -64,13 +64,13 @@ _TM41ExplanationText::
 	line "CHANSEY!"
 	done
 
-_TM41NoRoomText::
+_CeladonCityGramps3TM41NoRoomText::
 	text "Åh, din taske er"
 	line "fyldt med"
 	cont "genstande!"
 	done
 
-_CeladonCityText6::
+_CeladonCityFisherText::
 	text "Dette er min"
 	line "betroede ven,"
 	cont "POLIWRATH!"
@@ -81,21 +81,21 @@ _CeladonCityText6::
 	cont "VANDSTEN!"
 	done
 
-_CeladonCityText7::
+_CeladonCityPoliwrathText::
 	text "POLIWRATH: Ribi"
 	line "ribit!@"
 	text_end
 
-_CeladonCityText8::
+_CeladonCityRocket1Text::
 	text "Hvad glor du på?"
 	done
 
-_CeladonCityText9::
+_CeladonCityRocket2Text::
 	text "Hold dig væk fra"
 	line "TEAM ROCKETs vej!"
 	done
 
-_CeladonCityText10::
+_CeladonCityTrainerTips1Text::
 	text "TRÆNER TIPS"
 
 	para "X ACCURACY"
@@ -111,13 +111,13 @@ _CeladonCityText10::
 	line "i CELADON VAREHUS"
 	done
 
-_CeladonCityText11::
+_CeladonCitySignText::
 	text "CELADON CITY"
 	line "Regnbuedrømmenes"
 	cont "by!"
 	done
 
-_CeladonCityText13::
+_CeladonCityGymSignText::
 	text "CELADON CITY"
 	line "#MON GYM"
 	cont "LEDER: ERIKA"
@@ -126,17 +126,17 @@ _CeladonCityText13::
 	line "prinsesse!"
 	done
 
-_CeladonCityText14::
+_CeladonCityMansionSignText::
 	text "CELADON MANSION"
 	done
 
-_CeladonCityText15::
+_CeladonCityDeptStoreSignText::
 	text "Find hvad du har"
 	line "brug for i"
 	cont "CELADON VAREHUS"
 	done
 
-_CeladonCityText16::
+_CeladonCityTrainerTips2Text::
 	text "TRÆNER TIPS"
 
 	para "GUARD SPEC."
@@ -149,13 +149,13 @@ _CeladonCityText16::
 	line "i CELADON VAREHUS"
 	done
 
-_CeladonCityText17::
+_CeladonCityPrizeExchangeSignText::
 	text "Mønter byttes til"
 	line "præmier!"
 	cont "PRÆMIEUDVEKSLING"
 	done
 
-_CeladonCityText18::
+_CeladonCityGameCornerSignText::
 	text "ROCKET SPILLEHAL"
 	line "Legepladsen"
 	cont "for voksne!"

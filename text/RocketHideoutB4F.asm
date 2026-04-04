@@ -1,17 +1,17 @@
-_RocketHideout4Text_4557a::
+﻿_RocketHideoutB4FGiovanniImpressedYouGotHereText::
 	text "Så! Jeg må sige,"
 	line "jeg er imponeret"
 	cont "over du at du"
 	cont "kom!"
 	done
 
-_RocketHideout4Text_4557f::
+_RocketHideoutB4FGiovanniWhatCannotBeText::
 	text "HVAD!"
 	line "Det kan ikke"
 	cont "være rigtigt!"
 	prompt
 
-_RocketHideout4Text_45584::
+_RocketHideoutB4FGiovanniHopeWeMeetAgainText::
 	text "Jeg kan se du"
 	line "opfostrer #MON"
 	cont "med største omhu."
@@ -28,49 +28,49 @@ _RocketHideout4Text_45584::
 	line "mødes igen..."
 	done
 
-_RocketHideout4BattleText2::
+_RocketHideoutB4FRocket1BattleText::
 	text "Jeg kender dig!"
 	line "Du ødelagde vores"
 	cont "planer ved"
 	cont "MT.MOON!"
 	done
 
-_RocketHideout4EndBattleText2::
+_RocketHideoutB4FRocket1EndBattleText::
 	text "Brændt"
 	line "igen!"
 	prompt
 
-_RocketHide4AfterBattleText2::
+_RocketHideoutB4FRocket1AfterBattleText::
 	text "Har du noget imod"
 	line "TEAM ROCKET?"
 	done
 
-_RocketHideout4BattleText3::
+_RocketHideoutB4FRocket2BattleText::
 	text "Kan du ikke se"
 	line "skønheden i"
 	cont "vores ondskab?"
 	done
 
-_RocketHideout4EndBattleText3::
+_RocketHideoutB4FRocket2EndBattleText::
 	text "Ajaja!"
 	prompt
 
-_RocketHide4AfterBattleText3::
+_RocketHideoutB4FRocket2AfterBattleText::
 	text "BOSS! Undskyld at"
 	line "jeg svigtede!"
 	done
 
-_RocketHideout4BattleText4::
+_RocketHideoutB4FRocket3BattleText::
 	text "Elevatoren virker"
 	line "ikke? Hvem har"
 	cont "ELEVATOR-NØGLEN?"
 	done
 
-_RocketHideout4EndBattleText4::
+_RocketHideoutB4FRocket3EndBattleText::
 	text "Nej!"
 	prompt
 
-_RocketHideout4Text_455ec::
+_RocketHideoutB4FRocket3AfterBattleText::
 	text "Åh nej! Jeg tabte"
 	line "ELEVATOR-NØGLEN!"
 	done

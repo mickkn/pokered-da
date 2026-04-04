@@ -1,4 +1,4 @@
-_ViridianCityText1::
+﻿_ViridianCityYoungster1Text::
 	text "De # BALLs"
 	line "i dit bælte!"
 	cont "Du har #MON!"
@@ -10,7 +10,7 @@ _ViridianCityText1::
 	cont "som helst!"
 	done
 
-_ViridianCityText_19122::
+_ViridianCityGambler1GymAlwaysClosedText::
 	text "Dette #MON GYM"
 	line "er altid lukket."
 
@@ -18,23 +18,23 @@ _ViridianCityText_19122::
 	line "er?"
 	done
 
-_ViridianCityText_19127::
+_ViridianCityGambler1GymLeaderReturnedText::
 	text "VIRIDIAN GYMs"
 	line "LEDER er vendt"
 	cont "tilbage!"
 	done
 
-_ViridianCityText_1914d::
+_ViridianCityYoungster2YouWantToKnowAboutText::
 	text "Vil du vide noget"
 	line "om de 2 slags"
 	cont "larve-#MON?"
 	done
 
-_ViridianCityText_19152::
+ViridianCityYoungster2OkThenText::
 	text "Nå, OK da!"
 	done
 
-_ViridianCityText_19157::
+ViridianCityYoungster2CaterpieAndWeedleDescriptionText::
 	text "CATERPIE har"
 	line "ingen gift, men"
 	cont "WEEDLE har."
@@ -43,7 +43,7 @@ _ViridianCityText_19157::
 	line "POISON STING!"
 	done
 
-_ViridianCityText_19175::
+_ViridianCityGirlHasntHadHisCoffeeYetText::
 	text "Åh bedstefar! Lad"
 	line "nu være med at"
 	cont "være så sur!"
@@ -51,7 +51,7 @@ _ViridianCityText_19175::
 	cont "sin kaffe endnu."
 	done
 
-_ViridianCityText_1917a::
+_ViridianCityGirlWhenIGoShopText::
 	text "Når jeg handler i"
 	line "PEWTER CITY, skal"
 	cont "jeg tage den"
@@ -59,7 +59,7 @@ _ViridianCityText_1917a::
 	cont "i VIRIDIAN FOREST."
 	done
 
-_ViridianCityText_19191::
+_ViridianCityOldManSleepyPrivatePropertyText::
 	text "Du kan ikke gå"
 	line "igennem her!"
 
@@ -67,7 +67,7 @@ _ViridianCityText_19191::
 	line "ejendom!"
 	done
 
-_ViridianCityText_191ca::
+ViridianCityFisherYouCanHaveThisText::
 	text "Gaaaab!"
 	line "Jeg må have"
 	cont "døset hen i"
@@ -85,23 +85,23 @@ _ViridianCityText_191ca::
 	cont "denne TM."
 	prompt
 
-_ReceivedTM42Text::
+_ViridianCityFisherReceivedTM42Text::
 	text "<PLAYER> modtog"
 	line "TM42!@"
 	text_end
 
-_TM42Explanation::
+_ViridianCityFisherTM42ExplanationText::
 	text "TM42 indeholder"
 	line "DREAM EATER..."
 	cont "...Snork..."
 	done
 
-_TM42NoRoomText::
+_ViridianCityFisherTM42NoRoomText::
 	text "Du har for mange"
 	line "ting allerede."
 	done
 
-_ViridianCityText_1920a::
+_ViridianCityOldManHadMyCoffeeNowText::
 	text "Ahh, jeg har fået"
 	line "min kaffe nu og"
 	cont "har det godt!"
@@ -112,7 +112,7 @@ _ViridianCityText_1920a::
 	para "Har du travlt?"
 	done
 
-_ViridianCityText_1920f::
+_ViridianCityOldManKnowHowToCatchPokemonText::
 	text "Jeg kan se du"
 	line "bruger en #DEX."
 
@@ -129,24 +129,24 @@ _ViridianCityText_1920f::
 	line "hvordan."
 	done
 
-_ViridianCityText_19214::
+_ViridianCityOldManTimeIsMoneyText::
 	text "Tid er penge..."
 	line "Gå du bare."
 	done
 
-_ViridianCityText_19219::
+_ViridianCityOldManYouNeedToWeakenTheTargetText::
 	text "Først skal du"
 	line "svække den #MON"
 	cont "du går efter."
 	done
 
-_ViridianCityText8::
+_ViridianCitySignText::
 	text "VIRIDIAN CITY "
 	line "Det Evigt Grønne"
 	cont "Paradis"
 	done
 
-_ViridianCityText9::
+_ViridianCityTrainerTips1Text::
 	text "TRÆNERTIPS"
 
 	para "Fang #MON og"
@@ -158,7 +158,7 @@ _ViridianCityText9::
 	cont "det at kæmpe!"
 	done
 
-_ViridianCityText10::
+_ViridianCityTrainerTips2Text::
 	text "TRÆNERTIPS"
 
 	para "Kamptrækkene for"
@@ -174,12 +174,12 @@ _ViridianCityText10::
 	cont "#MON CENTER!"
 	done
 
-_ViridianCityText13::
+_ViridianCityGymSignText::
 	text "VIRIDIAN CITY"
 	line "#MON GYM"
 	done
 
-_ViridianCityText14::
+_ViridianCityGymLockedText::
 	text "GYMets døre er"
 	line "låst..."
 	done

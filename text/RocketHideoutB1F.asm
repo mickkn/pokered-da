@@ -1,75 +1,75 @@
-_RocketHideout1EndBattleText6::
+﻿_RocketHideoutB1FRocket5EndBattleText::
 	text "Hvorfor...?@"
 	text_end
 
-_RocketHideout1BattleText2::
+_RocketHideoutB1FRocket1BattleText::
 	text "Hvem er du?"
 	line "Hvordan kom du"
 	cont "herind?"
 	done
 
-_RocketHideout1EndBattleText2::
+_RocketHideoutB1FRocket1EndBattleText::
 	text "Av!"
 	line "Besejret!"
 	prompt
 
-_RocketHideout1AfterBattleTxt2::
+_RocketHideoutB1FRocket1AfterBattleText::
 	text "Håner du"
 	line "TEAM ROCKET?"
 	done
 
-_RocketHideout1BattleText3::
+_RocketHideoutB1FRocket2BattleText::
 	text "Du brød ind i"
 	line "vores operation?"
 	done
 
-_RocketHideout1EndBattleText3::
+_RocketHideoutB1FRocket2EndBattleText::
 	text "Brændt!"
 	prompt
 
-_RocketHideout1AfterBattleTxt3::
+_RocketHideoutB1FRocket2AfterBattleText::
 	text "Du slipper ikke"
 	line "afsted med dette,"
 	cont "møgunge!"
 	done
 
-_RocketHideout1BattleText4::
+_RocketHideoutB1FRocket3BattleText::
 	text "Indtrænger alarm!"
 	done
 
-_RocketHideout1EndBattleText4::
+_RocketHideoutB1FRocket3EndBattleText::
 	text "Jeg"
 	line "kan ikke!"
 	prompt
 
-_RocketHideout1AfterBattleTxt4::
+_RocketHideoutB1FRocket3AfterBattleText::
 	text "SILPH SCOPE?"
 	line "Jeg ved ikke"
 	cont "hvor det er!"
 	done
 
-_RocketHideout1BattleText5::
+_RocketHideoutB1FRocket4BattleText::
 	text "Hvorfor kom du"
 	line "herhen?"
 	done
 
-_RocketHideout1EndBattleText5::
+_RocketHideoutB1FRocket4EndBattleText::
 	text "Det"
 	line "duer ikke!"
 	prompt
 
-_RocketHideout1AfterBattleTxt5::
+_RocketHideoutB1FRocket4AfterBattleText::
 	text "OK, jeg taler!"
 	line "Tag elevatoren"
 	cont "til min BOSS!"
 	done
 
-_RocketHideout1BattleText6::
+_RocketHideoutB1FRocket5BattleText::
 	text "Er du faret vild,"
 	line "din lille rotte?"
 	done
 
-_RocketHideout1AfterBattleTxt6::
+_RocketHideoutB1FRocket5AfterBattleText::
 	text "Åh-åh, den kamp"
 	line "åbnede døren!"
 	done

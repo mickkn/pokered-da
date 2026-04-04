@@ -1,4 +1,4 @@
-_ViridianHouseText1::
+﻿_ViridianNicknameHouseBaldingGuyText::
 	text "At finde på"
 	line "kælenavne er"
 	cont "sjovt, men svært."
@@ -8,16 +8,16 @@ _ViridianHouseText1::
 	cont "huske."
 	done
 
-_ViridianHouseText2::
+_ViridianNicknameHouseLittleGirlText::
 	text "Min far elsker"
 	line "også #MON."
 	done
 
-_ViridianHouseText_1d5b1::
+_ViridianNicknameHouseSpearowText::
 	text "SPEARY: Tetweet!"
 	done
 
-_ViridianHouseText4::
+_ViridianNicknameHouseSpearySignText::
 	text "SPEAROW"
 	line "Navn: SPEARY"
 	done

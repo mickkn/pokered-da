@@ -10,7 +10,7 @@ _AIBattleUseItemText::
 	text_ram wTrainerName
 	text_start
 	line "brugte @"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text_start
 	cont "på @"
 	text_ram wEnemyMonNick
@@ -36,7 +36,7 @@ _TradeSendsText::
 	text_ram wLinkEnemyTrainerName
 	text " sender"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "."
 	done
 
@@ -47,7 +47,7 @@ _TradeWavesFarewellText::
 	done
 
 _TradeTransferredText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " er"
 	line "overført."
 	done
@@ -55,7 +55,7 @@ _TradeTransferredText::
 _TradeTakeCareText::
 	text "Tag dig godt af"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "."
 	done
 
@@ -63,7 +63,7 @@ _TradeWillTradeText::
 	text_ram wLinkEnemyTrainerName
 	text " vil"
 	line "bytte @"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text_start
 	done
 
@@ -784,7 +784,7 @@ _VermilionGymTrashFailText::
 _FoundHiddenItemText::
 	text "<PLAYER> fandt"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "!@"
 	text_end
 
@@ -1115,26 +1115,26 @@ _CantMoveText::
 _MoveIsDisabledText::
 	text "<USER>'s"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " er"
 	cont "deaktiveret!"
 	prompt
 
-_MonName1Text::
+_ActorNameText::
 	text "<USER>@"
 	text_end
 
-_Used1Text::
+_UsedMove1Text::
 	text_start
 	line "brugte @"
 	text_end
 
-_Used2Text::
+_UsedMove2Text::
 	text_start
 	line "brugte @"
 	text_end
 
-_InsteadText::
+_UsedInsteadText::
 	text "istedet,"
 	cont "@"
 	text_end
@@ -1143,23 +1143,23 @@ _MoveNameText::
 	text_ram wStringBuffer
 	text "@"
 
-_ExclamationPoint1Text::
+_EndUsedMove1Text::
 	text "!"
 	done
 
-_ExclamationPoint2Text::
+_EndUsedMove2Text::
 	text "!"
 	done
 
-_ExclamationPoint3Text::
+_EndUsedMove3Text::
 	text "!"
 	done
 
-_ExclamationPoint4Text::
+_EndUsedMove4Text::
 	text "!"
 	done
 
-_ExclamationPoint5Text::
+_EndUsedMove5Text::
 	text "!"
 	done
 
@@ -1252,7 +1252,7 @@ _HitXTimesText::
 	prompt
 
 _GainedText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " opnåede"
 	line "@"
 	text_end
@@ -1273,10 +1273,10 @@ _ExpPointsText::
 	prompt
 
 _GrewLevelText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " steg"
 	line "til level @"
-	text_decimal wCurEnemyLVL, 1, 3
+	text_decimal wCurEnemyLevel, 1, 3
 	text "!@"
 	text_end
 
@@ -1432,7 +1432,7 @@ _PartyMenuSwapMonText::
 	done
 
 _PotionText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text_start
 	line "genvandt @"
 	text_decimal wHPBarHPDifference, 2, 3
@@ -1440,55 +1440,55 @@ _PotionText::
 	done
 
 _AntidoteText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " blev"
 	line "helbredt for gift"
 	done
 
 _ParlyzHealText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "'s"
 	line "lammelse blev"
 	cont "helbredt!"
 	done
 
 _BurnHealText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "'s"
 	line "forbrænding blev"
 	cont "helbredt!"
 	done
 
 _IceHealText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " blev"
 	line "tøet op!"
 	done
 
 _AwakeningText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text_start
 	line "vågnede op!"
 	done
 
 _FullHealText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "'s"
 	line "liv blev"
 	cont "genoprettet!"
 	done
 
 _ReviveText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text_start
 	line "vågnede op!"
 	done
 
 _RareCandyText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " steg"
 	line "til level @"
-	text_decimal wCurEnemyLVL, 1, 3
+	text_decimal wCurEnemyLevel, 1, 3
 	text "!@"
 	text_end
 
@@ -1544,7 +1544,7 @@ _DepositHowManyText::
 	done
 
 _ItemWasStoredText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " blev"
 	line "gemt via PC."
 	prompt
@@ -1573,7 +1573,7 @@ _WithdrawHowManyText::
 _WithdrewItemText::
 	text "Trak"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "."
 	prompt
 
@@ -1705,7 +1705,7 @@ _HereYouGoText::
 _SoYouWantPrizeText::
 	text "Så, du vil have"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "?"
 	done
 
@@ -1827,7 +1827,7 @@ _DoYouWantToNicknameText::
 	text "Vil du give et"
 	line "kælenavn til"
 	cont "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text "?"
 	done
 
@@ -1847,14 +1847,14 @@ _WillBeTradedText::
 	text_ram wNameOfPlayerMonToBeTraded
 	text " og"
 	line "@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " vil"
 	cont "blive byttet."
 	done
 
 _TextIDErrorText::
-	text_decimal hSpriteIndexOrTextID, 1, 2
-	text " FEJL."
+	text_decimal hTextID, 1, 2
+	text " ERROR."
 	done
 
 _ContCharText::

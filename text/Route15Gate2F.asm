@@ -1,4 +1,4 @@
-_Route15GateUpstairsText_4968c::
+﻿_Route15Gate2FOaksAideExpAllText::
 	text "EXP.ALL giver EXP"
 	line "point til alle"
 	cont "#MON du har"
@@ -15,7 +15,7 @@ _Route15GateUpstairsText_4968c::
 	cont "via PC."
 	done
 
-_Route15GateUpstairsText_49698::
+_Route15Gate2FBinocularsText::
 	text "Kiggede i"
 	line "kikkerten."
 

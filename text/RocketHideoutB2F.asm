@@ -1,15 +1,15 @@
-_RocketHideout2BattleText2::
+﻿_RocketHideoutB2FRocketBattleText::
 	text "BOSSEN sagde du"
 	line "kan se SPØGELSER"
 	cont "med SILPH SCOPE!"
 	done
 
-_RocketHideout2EndBattleText2::
+_RocketHideoutB2FRocketEndBattleText::
 	text "Jeg"
 	line "overgiver mig!"
 	prompt
 
-_RocketHideout2AfterBattleTxt2::
+_RocketHideoutB2FRocketAfterBattleText::
 	text "TEAM ROCKETs HQ"
 	line "har 4 kælder-"
 	cont "etager. Kan du"

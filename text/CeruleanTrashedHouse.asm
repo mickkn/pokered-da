@@ -1,4 +1,4 @@
-_CeruleanTrashedText_1d6ab::
+﻿_CeruleanTrashedHouseFishingGuruTheyStoleATMText::
     text "De elendige"
     line "ROCKETs!"
 
@@ -14,7 +14,7 @@ _CeruleanTrashedText_1d6ab::
     line "en formue!"
     done
 
-_CeruleanTrashedText_1d6b0::
+_CeruleanTrashedHouseFishingGuruWhatsLostIsLostText::
     text "Jeg tænker, hvad"
     line "der er tabt,"
 	line "er tabt!"
@@ -24,14 +24,14 @@ _CeruleanTrashedText_1d6b0::
     cont "GRAVE uden en TM!"
     done
 
-_CeruleanHouseTrashedText2::
+_CeruleanTrashedHouseGirlText::
     text "TEAM ROCKET må"
     line "forsøge at GRAVE"
     cont "sig vej til noget"
     cont "skidt!"
     done
 
-_CeruleanHouseTrashedText3::
+_CeruleanTrashedHouseWallHoleText::
     text "TEAM ROCKET"
     line "efterlod en"
 	line "vej ud!"

@@ -1,15 +1,15 @@
-_SSAnne5Text1::
+﻿_SSAnneBowSuperNerdText::
 	text "Festen er slut."
 	line "Skibet afgår"
 	cont "snart."
 	done
 
-_SSAnne5Text2::
+_SSAnneBowSailor1Text::
 	text "At skrubbe dæk"
 	line "er hårdt arbejde!"
 	done
 
-_SSAnne5Text3::
+_SSAnneBowCooltrainerMText::
 	text "Urk. Jeg har det"
 	line "dårligt."
 
@@ -17,35 +17,35 @@ _SSAnne5Text3::
 	line "at få frisk luft."
 	done
 
-_SSAnne5BattleText1::
+_SSAnneBowSailor2BattleText::
 	text "Hej makker!"
 
 	para "Skal vi danse en"
 	line "lille jig!"
 	done
 
-_SSAnne5EndBattleText1::
+_SSAnneBowSailor2EndBattleText::
 	text "Du er"
 	line "imponerende!"
 	prompt
 
-_SSAnne5AfterBattleText1::
+_SSAnneBowSailor2AfterBattleText::
 	text "Hvor mange slags"
 	line "#MON tror du"
 	cont "der findes?"
 	done
 
-_SSAnne5BattleText2::
+_SSAnneBowSailor3BattleText::
 	text "Ohøj derhenne!"
 	line "Er du søsyg?"
 	done
 
-_SSAnne5EndBattleText2::
+_SSAnneBowSailor3EndBattleText::
 	text "Jeg var"
 	line "bare uopmærksom!"
 	prompt
 
-_SSAnne5AfterBattleText2::
+_SSAnneBowSailor3AfterBattleText::
 	text "Min far sagde der"
 	line "er 100 slags"
 	cont "#MON. Jeg tror"

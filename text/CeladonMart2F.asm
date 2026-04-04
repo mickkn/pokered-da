@@ -1,4 +1,4 @@
-_CeladonMart2Text3::
+﻿_CeladonMart2FMiddleAgedManText::
 	text "SUPER REPEL"
 	line "holder svage"
 	cont "#MON på"
@@ -9,13 +9,13 @@ _CeladonMart2Text3::
 	cont "REPEL!"
 	done
 
-_CeladonMart2Text4::
+_CeladonMart2FGirlText::
 	text "Til lange ture,"
 	line "bør du købe"
 	cont "REVIVE."
 	done
 
-_CeladonMart2Text5::
+_CeladonMart2FCurrentFloorSignText::
 	text "Topkvalitets-"
 	line "genstande til"
 	cont "trænere!"

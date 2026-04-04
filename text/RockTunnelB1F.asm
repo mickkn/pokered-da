@@ -1,108 +1,108 @@
-_RockTunnel2BattleText2::
+﻿_RockTunnelB1FCooltrainerF1BattleText::
 	text "Vandrere bruger"
 	line "kviste som"
 	cont "stimarkører."
 	done
 
-_RockTunnel2EndBattleText2::
+_RockTunnelB1FCooltrainerF1EndBattleText::
 	text "Ohhh!"
 	line "Jeg gjorde mit!"
 	prompt
 
-_RockTunnel2AfterBattleText2::
+_RockTunnelB1FCooltrainerF1AfterBattleText::
 	text "Jeg vil hjem!"
 	done
 
-_RockTunnel2BattleText3::
+_RockTunnelB1FHiker1BattleText::
 	text "Hahaha! Kan du"
 	line "slå min styrke?"
 	done
 
-_RockTunnel2EndBattleText3::
+_RockTunnelB1FHiker1EndBattleText::
 	text "Ups!"
 	line "Overmandet!"
 	prompt
 
-_RockTunnel2AfterBattleText3::
+_RockTunnelB1FHiker1AfterBattleText::
 	text "Jeg satser på"
 	line "styrke fordi jeg"
 	cont "hader at tænke!"
 	done
 
-_RockTunnel2BattleText4::
+_RockTunnelB1FSuperNerd1BattleText::
 	text "Har du et"
 	line "#DEX?"
 	cont "Jeg vil også ha!"
 	done
 
-_RockTunnel2EndBattleText4::
+_RockTunnelB1FSuperNerd1EndBattleText::
 	text "Pokkers!"
 	line "Jeg er misundelig!"
 	prompt
 
-_RockTunnel2AfterBattleText4::
+_RockTunnelB1FSuperNerd1AfterBattleText::
 	text "Når du er færdig"
 	line "med dit #DEX,"
 	cont "kan jeg så få?"
 	done
 
-_RockTunnel2BattleText5::
+_RockTunnelB1FSuperNerd2BattleText::
 	text "Kender du til"
 	line "kostumespillere?"
 	done
 
-_RockTunnel2EndBattleText5::
+_RockTunnelB1FSuperNerd2EndBattleText::
 	text "Nå ja,"
 	line "sådan er det."
 	prompt
 
-_RockTunnel2AfterBattleText5::
+_RockTunnelB1FSuperNerd2AfterBattleText::
 	text "Kostumespillere"
 	line "klæder sig ud som"
 	cont "#MON for sjov."
 	done
 
-_RockTunnel2BattleText6::
+_RockTunnelB1FHiker2BattleText::
 	text "Mine #MON"
 	line "teknikker får dig"
 	cont "til at græde!"
 	done
 
-_RockTunnel2EndBattleText6::
+_RockTunnelB1FHiker2EndBattleText::
 	text "Jeg giver op!"
 	line "Du er en bedre"
 	cont "tekniker!"
 	prompt
 
-_RockTunnel2AfterBattleText6::
+_RockTunnelB1FHiker2AfterBattleText::
 	text "I bjerge finder"
 	line "man ofte sten-"
 	cont "type #MON."
 	done
 
-_RockTunnel2BattleText7::
+_RockTunnelB1FCooltrainerF2BattleText::
 	text "Jeg kommer ikke"
 	line "ofte her, men jeg"
 	cont "kæmper med dig."
 	done
 
-_RockTunnel2EndBattleText7::
+_RockTunnelB1FCooltrainerF2EndBattleText::
 	text "Åh!"
 	line "Jeg tabte!"
 	prompt
 
-_RockTunnel2AfterBattleText7::
+_RockTunnelB1FCooltrainerF2AfterBattleText::
 	text "Jeg kan lide små"
 	line "#MON, store er"
 	cont "for uhyggelige!"
 	done
 
-_RockTunnel2BattleText8::
+_RockTunnelB1FHiker3BattleText::
 	text "Giv mig dit"
 	line "bedste skud!"
 	done
 
-_RockTunnel2EndBattleText8::
+_RockTunnelB1FHiker3EndBattleText::
 	text "Fyret"
 	line "af!"
 	prompt

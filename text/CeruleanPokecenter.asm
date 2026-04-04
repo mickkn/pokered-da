@@ -1,4 +1,4 @@
-_CeruleanPokecenterText2::
+﻿_CeruleanPokecenterSuperNerdText::
     text "Den BILL!"
 
     para "Jeg har hørt, at"
@@ -8,7 +8,7 @@ _CeruleanPokecenterText2::
     cont "sjældne #MON!"
     done
 
-_CeruleanPokecenterText3::
+_CeruleanPokecenterGentlemanText::
     text "Har du hørt"
     line "om BILL?"
 

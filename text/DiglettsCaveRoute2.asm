@@ -1,4 +1,4 @@
-_DiglettsCaveRoute2Text1::
+﻿_DiglettsCaveRoute2FishingGuruText::
     text "Jeg gik til"
     line "STENTUNNELen, men"
     cont "den er mørk"

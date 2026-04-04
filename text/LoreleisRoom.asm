@@ -1,4 +1,4 @@
-_LoreleiBeforeBattleText::
+﻿_LoreleisRoomLoreleiBeforeBattleText::
 	text "Velkommen til"
 	line "#MON-LIGAEN!"
 
@@ -21,12 +21,12 @@ _LoreleiBeforeBattleText::
 	line "Er du klar?"
 	done
 
-_LoreleiEndBattleText::
+_LoreleisRoomLoreleiEndBattleText::
 	text "Hvordan"
 	line "vover du!"
 	prompt
 
-_LoreleiAfterBattleText::
+_LoreleisRoomLoreleiAfterBattleText::
 	text "Du er bedre end"
 	line "jeg troede!"
 	cont "Gå videre!"
@@ -36,7 +36,7 @@ _LoreleiAfterBattleText::
 	cont "#MON-LIGA magt!"
 	done
 
-_LoreleiDontRunAwayText::
+_LoreleisRoomLoreleiDontRunAwayText::
 	text "Nogens stemme:"
 	line "Løb ikke væk!"
 	done

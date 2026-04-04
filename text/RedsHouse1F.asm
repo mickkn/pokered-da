@@ -1,4 +1,4 @@
-_MomWakeUpText::
+﻿_RedsHouse1FMomWakeUpText::
     text "MOR: Rigtigt."
     cont "forlader hjemmet"
 	cont "en dag. Det sagde"
@@ -9,13 +9,13 @@ _MomWakeUpText::
     cont "leder efter dig."
     done
 
-_MomHealText1::
+_RedsHouse1FMomYouShouldRestText::
     text "MOR: <PLAYER>!"
     line "Du bør tage et"
     cont "hurtigt hvile."
     prompt
 
-_MomHealText2::
+_RedsHouse1FMomLookingGreatText::
     text "MOR: Åh godt!"
     line "Du og dine"
     cont "#MON ser"
@@ -24,7 +24,7 @@ _MomHealText2::
 	cont "jer selv!"
     done
 
-_StandByMeText::
+_RedsHouse1FTVStandByMeMovieText::
     text "Der er en film"
     line "på TV. Fire"
     cont "drenge går på"
@@ -34,6 +34,6 @@ _StandByMeText::
 	line "også gå."
 	done
 
-_TVWrongSideText::
+_RedsHouse1FTVWrongSideText::
     text "Ups, forkert side."
 	done

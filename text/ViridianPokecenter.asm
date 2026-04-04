@@ -1,4 +1,4 @@
-_ViridianPokeCenterText2::
+﻿_ViridianPokecenterGentlemanText::
 	text "Du kan bruge den"
 	line "PC i hjørnet."
 
@@ -7,7 +7,7 @@ _ViridianPokeCenterText2::
 	cont "Så venligt!"
 	done
 
-_ViridianPokeCenterText3::
+_ViridianPokecenterCooltrainerMText::
 	text "Der er et #MON"
 	line "CENTER i hver"
 	cont "by fremover."

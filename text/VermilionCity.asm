@@ -1,4 +1,4 @@
-_VermilionCityText1::
+﻿_VermilionCityBeautyText::
 	text "Vi er forsigtige"
 	line "med forurening!"
 
@@ -8,13 +8,13 @@ _VermilionCityText1::
 	cont "slam!"
 	done
 
-_VermilionCityTextDidYouSee::
+_VermilionCityGambler1DidYouSeeText::
 	text "Så du S.S.ANNE"
 	line "fortøjet i"
 	cont "havnen?"
 	done
 
-_VermilionCityTextSSAnneDeparted::
+_VermilionCityGambler1SSAnneDepartedText::
 	text "Så er S.S.ANNE"
 	line "sejlet!"
 
@@ -23,12 +23,12 @@ _VermilionCityTextSSAnneDeparted::
 	cont "cirka et år."
 	done
 
-_SSAnneWelcomeText4::
+_VermilionCitySailor1WelcomeToSSAnneText::
 	text "Velkommen til"
 	line "S.S.ANNE!"
 	done
 
-_SSAnneWelcomeText9::
+_VermilionCitySailor1DoYouHaveATicketText::
 	text "Velkommen til"
 	line "S.S.ANNE!"
 
@@ -36,7 +36,7 @@ _SSAnneWelcomeText9::
 	line "en billet?"
 	prompt
 
-_SSAnneFlashedTicketText::
+_VermilionCitySailor1FlashedTicketText::
 	text "<PLAYER> viste"
 	line "S.S.BILLETTEN!"
 
@@ -44,7 +44,7 @@ _SSAnneFlashedTicketText::
 	line "til S.S.ANNE!"
 	done
 
-_SSAnneNoTicketText::
+_VermilionCitySailor1YouNeedATicketText::
 	text "<PLAYER> har ikke"
 	line "den nødvendige"
 	cont "S.S.BILLET."
@@ -56,11 +56,11 @@ _SSAnneNoTicketText::
 	cont "komme om bord."
 	done
 
-_SSAnneNotHereText::
+_VermilionCitySailor1ShipSetSailText::
 	text "Skibet er sejlet."
 	done
 
-_VermilionCityText4::
+_VermilionCityGambler2Text::
 	text "Jeg bygger på"
 	line "denne grund."
 
@@ -68,18 +68,18 @@ _VermilionCityText4::
 	line "stamper jorden."
 	done
 
-_VermilionCityText5::
+_VermilionCityMachopText::
 	text "MACHOP: Guoh!"
 	line "Gogogoh!@"
 	text_end
 
-_VermilionCityText14::
+_VermilionCityMachopStompingTheLandFlatText::
 	text_start
 	para "En MACHOP stamper"
 	line "jorden flad."
 	done
 
-_VermilionCityText6::
+_VermilionCitySailor2Text::
 	text "S.S.ANNE er et"
 	line "berømt luksus-"
 	cont "krydstogtskib."
@@ -89,14 +89,14 @@ _VermilionCityText6::
 	cont "gang om året."
 	done
 
-_VermilionCityText7::
+_VermilionCitySignText::
 	text "VERMILION CITY"
 	line "Havnen med de"
 	cont "Udsøgte"
 	cont "Solnedgange"
 	done
 
-_VermilionCityText8::
+_VermilionCityNoticeSignText::
 	text "MEDDELELSE!"
 
 	para "RUTE 12 kan være"
@@ -110,13 +110,13 @@ _VermilionCityText8::
 	para "VERMILION POLITI"
 	done
 
-_VermilionCityText11::
+_VermilionCityPokemonFanClubSignText::
 	text "#MON FANKLUB"
 	line "Alle #MON-fans"
 	cont "er velkomne!"
 	done
 
-_VermilionCityText12::
+_VermilionCityGymSignText::
 	text "VERMILION CITY"
 	line "#MON GYM"
 	cont "LEDER: LT.SURGE"
@@ -125,6 +125,6 @@ _VermilionCityText12::
 	line "Amerikaner!"
 	done
 
-_VermilionCityText13::
+_VermilionCityHarborSignText::
 	text "VERMILION HAVN"
 	done

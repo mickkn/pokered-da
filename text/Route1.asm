@@ -1,4 +1,4 @@
-_Route1ViridianMartSampleText::
+﻿_Route1Youngster1MartSampleText::
     text "Hej! Jeg arbejder"
     line "i en #MON MART."
 
@@ -13,25 +13,25 @@ _Route1ViridianMartSampleText::
     cont "Her, værsgo!"
     prompt
 
-_Route1Text_1cae8::
+_Route1Youngster1GotPotionText::
     text "<PLAYER> fik"
     line "@"
     text_ram wStringBuffer
     text "!@"
     text_end
 
-_Route1Text_1caee::
+_Route1Youngster1AlsoGotPokeballsText::
     text "Vi har også"
     line "# BALLs til"
     cont "at fange #MON!"
     done
 
-_Route1Text_1caf3::
+_Route1Youngster1NoRoomText::
     text "Du har for mange"
     line "ting med dig!"
     done
 
-_Route1Text2::
+_Route1Youngster2Text::
     text "Ser du de kanter"
     line "langs vejen?"
 
@@ -47,7 +47,7 @@ _Route1Text2::
     cont "på den måde."
 	done
 
-_Route1Text3::
+_Route1SignText::
 	text "RUTE 1"
 	line "PALLET TOWN -"
 	cont "VIRIDIAN CITY"

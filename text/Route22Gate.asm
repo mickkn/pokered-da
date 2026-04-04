@@ -1,4 +1,4 @@
-_Route22GateText_1e704::
+﻿_Route22GateGuardNoBoulderbadgeText::
 	text "Kun virkelig"
 	line "dygtige trænere"
 	cont "kan komme igennem."
@@ -7,7 +7,7 @@ _Route22GateText_1e704::
 	line "et BOULDEREMBLEM!@"
 	text_end
 
-_Route22GateText_1e715::
+_Route22GateGuardICantLetYouPassText::
 	text_start
 
 	para "Regler er regler."
@@ -15,7 +15,7 @@ _Route22GateText_1e715::
 	cont "dig passere."
 	done
 
-_Route22GateText_1e71a::
+_Route22GateGuardGoRightAheadText::
 	text "Åh! Det er"
 	line "BOULDEREMBLEMET!"
 	cont "Gå bare videre!@"

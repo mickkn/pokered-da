@@ -1,4 +1,4 @@
-_KogaPostBattleAdviceText::
+﻿_FuchsiaGymKogaPostBattleAdviceText::
 	text "Når man rammes af"
 	line "TOXIC, lider ens"
 	cont "#MON mere og"
@@ -10,7 +10,7 @@ _KogaPostBattleAdviceText::
 	cont "fjenderne!"
 	done
 
-_KogaSoulBadgeInfoText::
+_FuchsiaGymKogaSoulBadgeInfoText::
 	text "Nu hvor du har"
 	line "SOULEMBLEM'et,"
 	cont "øges dine"
@@ -24,14 +24,14 @@ _KogaSoulBadgeInfoText::
 	line "denne!"
 	done
 
-_ReceivedTM06Text::
+_FuchsiaGymKogaReceivedTM06Text::
 	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
-_TM06ExplanationText::
+_FuchsiaGymKogaTM06ExplanationText::
 	text_start
 	para "TM06 indeholder"
 	line "TOXIC!"
@@ -41,12 +41,12 @@ _TM06ExplanationText::
 	cont "år gammel!"
 	done
 
-_TM06NoRoomText::
+_FuchsiaGymKogaTM06NoRoomText::
 	text "Skab plads til"
 	line "dette, barn!"
 	done
 
-_FuchsiaGymBattleText1::
+_FuchsiaGymRocker1BattleText::
 	text "Styrke er ikke"
 	line "nøglen for"
 	cont "#MON!"
@@ -58,56 +58,56 @@ _FuchsiaGymBattleText1::
 	cont "slår rå styrke!"
 	done
 
-_FuchsiaGymEndBattleText1::
+_FuchsiaGymRocker1EndBattleText::
 	text "Hvad?"
 	line "Ekstraordinært!"
 	prompt
 
-_FuchsiaGymAfterBattleText1::
+_FuchsiaGymRocker1AfterBattleText::
 	text "Så, du blander"
 	line "muskler med"
 	cont "hjerne? God"
 	cont "strategi!"
 	done
 
-_FuchsiaGymBattleText2::
+_FuchsiaGymRocker2BattleText::
 	text "Jeg ville være"
 	line "ninja, så jeg"
 	cont "meldte mig til"
 	cont "dette GYM!"
 	done
 
-_FuchsiaGymEndBattleText2::
+_FuchsiaGymRocker2EndBattleText::
 	text "Jeg er"
 	line "færdig!"
 	prompt
 
-_FuchsiaGymAfterBattleText2::
+_FuchsiaGymRocker2AfterBattleText::
 	text "Jeg vil blive ved"
 	line "med at træne"
 	cont "under KOGA, min"
 	cont "ninjamester!"
 	done
 
-_FuchsiaGymBattleText3::
+_FuchsiaGymRocker3BattleText::
 	text "Lad os se dig"
 	line "slå mine særlige"
 	cont "teknikker!"
 	done
 
-_FuchsiaGymEndBattleText3::
+_FuchsiaGymRocker3EndBattleText::
 	text "Du"
 	line "narrede mig!"
 	prompt
 
-_FuchsiaGymAfterBattleText3::
+_FuchsiaGymRocker3AfterBattleText::
 	text "Jeg kan lide gift"
 	line "og søvnteknikker,"
 	cont "da de varer ved"
 	cont "efter kamp!"
 	done
 
-_FuchsiaGymBattleText4::
+_FuchsiaGymRocker4BattleText::
 	text "Stop! Stå stille!"
 
 	para "Gør vores"
@@ -115,12 +115,12 @@ _FuchsiaGymBattleText4::
 	cont "dig frustreret?"
 	done
 
-_FuchsiaGymEndBattleText4::
+_FuchsiaGymRocker4EndBattleText::
 	text "Wow!"
 	line "Han klarede det!"
 	prompt
 
-_FuchsiaGymAfterBattleText4::
+_FuchsiaGymRocker4AfterBattleText::
 	text "Du imponerede"
 	line "mig! Her er et"
 	cont "tip!"
@@ -130,7 +130,7 @@ _FuchsiaGymAfterBattleText4::
 	cont "usynlige vægge!"
 	done
 
-_FuchsiaGymBattleText5::
+_FuchsiaGymRocker5BattleText::
 	text "Jeg studerer også"
 	line "ninjaens vej med"
 	cont "mester KOGA!"
@@ -140,16 +140,16 @@ _FuchsiaGymBattleText5::
 	cont "at bruge dyr!"
 	done
 
-_FuchsiaGymEndBattleText5::
+_FuchsiaGymRocker5EndBattleText::
 	text "Auuu!"
 	prompt
 
-_FuchsiaGymAfterBattleText5::
+_FuchsiaGymRocker5AfterBattleText::
 	text "Jeg har stadig"
 	line "meget at lære!"
 	done
 
-_FuchsiaGymBattleText6::
+_FuchsiaGymRocker6BattleText::
 	text "Mester KOGA"
 	line "kommer fra en"
 	cont "lang slægt af"
@@ -159,12 +159,12 @@ _FuchsiaGymBattleText6::
 	line "du fra?"
 	done
 
-_FuchsiaGymEndBattleText6::
+_FuchsiaGymRocker6EndBattleText::
 	text "Tabte"
 	line "mine bolde!"
 	prompt
 
-_FuchsiaGymAfterBattleText6::
+_FuchsiaGymRocker6AfterBattleText::
 	text "Hvor der er lys,"
 	line "er der skygge!"
 
@@ -172,7 +172,7 @@ _FuchsiaGymAfterBattleText6::
 	line "Hvad vælger du?"
 	done
 
-_FuchsiaGymGuidePreBattleText::
+_FuchsiaGymGymGuideChampInMakingText::
 	text "Hej! Kommende"
 	line "mester!"
 
@@ -189,7 +189,7 @@ _FuchsiaGymGuidePreBattleText::
 	cont "for at nå ham!"
 	done
 
-_FuchsiaGymGuidePostBattleText::
+_FuchsiaGymGymGuideBeatKogaText::
 	text "Det er utroligt"
 	line "hvor ninjaer"
 	cont "stadig kan"

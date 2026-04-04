@@ -1,4 +1,4 @@
-_RockTunnelPokecenterText2::
+﻿_RockTunnelPokecenterGentlemanText::
 	text "Elementtyperne"
 	line "hos #MON gør"
 	cont "dem stærkere mod"
@@ -7,7 +7,7 @@ _RockTunnelPokecenterText2::
 	cont "andre!"
 	done
 
-_RockTunnelPokecenterText3::
+_RockTunnelPokecenterFisherText::
 	text "Jeg solgte en"
 	line "ubrugelig NUGGET"
 	cont "for ¥5000!"

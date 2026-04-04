@@ -1,35 +1,35 @@
-_Mansion3BattleText1::
+﻿_PokemonMansion3FSuperNerdBattleText::
 	text "Dette sted er"
 	line "altså kæmpestort!"
 	done
 
-_Mansion3EndBattleText1::
+_PokemonMansion3FSuperNerdEndBattleText::
 	text "Ajaj!"
 	prompt
 
-_Mansion3AfterBattleText1::
+_PokemonMansion3FSuperNerdAfterBattleText::
 	text "Jeg gad vide hvor"
 	line "min makker gik"
 	cont "hen."
 	done
 
-_Mansion3BattleText2::
+_PokemonMansion3FScientistBattleText::
 	text "Min mentor boede"
 	line "engang her."
 	done
 
-_Mansion3EndBattleText2::
+_PokemonMansion3FScientistEndBattleText::
 	text "Pyha!"
 	line "Overvældende!"
 	prompt
 
-_Mansion3AfterBattleText2::
+_PokemonMansion3FScientistAfterBattleText::
 	text "Så, sidder du"
 	line "fast? Prøv at"
 	cont "hoppe ned derovre!"
 	done
 
-_Mansion3Text5::
+_PokemonMansion3FDiaryText::
 	text "Dagbog: 6. feb."
 	line "MEW fødte."
 

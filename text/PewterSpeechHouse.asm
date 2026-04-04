@@ -1,4 +1,4 @@
-_PewterHouse2Text1::
+﻿_PewterSpeechHouseGamblerText::
 	text "#MON lærer nye"
 	line "teknikker når de"
 	cont "vokser!"
@@ -8,7 +8,7 @@ _PewterHouse2Text1::
 	cont "træneren!"
 	done
 
-_PewterHouse2Text2::
+_PewterSpeechHouseYoungsterText::
 	text "#MON er nemmere"
 	line "at fange når de"
 	cont "er sårede eller"

@@ -1,4 +1,4 @@
-_PewterMartText2::
+﻿_PewterMartYoungsterText::
 	text "En lyssky, gammel"
 	line "mand fik mig til"
 	cont "at købe en mærklig"
@@ -9,7 +9,7 @@ _PewterMartText2::
 	cont "¥500!"
 	done
 
-_PewterMartText3::
+_PewterMartSuperNerdText::
 	text "Gode ting kan ske"
 	line "hvis du træner"
 	cont "#MON flittigt,"
