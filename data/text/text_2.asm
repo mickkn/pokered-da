@@ -735,7 +735,7 @@ _ViridianBlackboardFrozenText::
 	cont "fuldstændig"
 	cont "ubevægelig!"
 
-	para "Forbrysning varer"
+	para "Forfrysning varer"
 	line "ved efter kampe."
 
 	para "Brug ICE HEAL til"
