@@ -435,7 +435,7 @@ PrintPlayTime:
 	jp PrintNumber
 
 SaveScreenInfoText:
-	db   "NAVN  "
+	db   "NAVN "
 	next "EMBLEMER  "
 	next "#DEX    "
 	next "TID@"
