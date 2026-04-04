@@ -84,7 +84,7 @@ _VitaminNoEffectText::
 
 _ThrewBaitText::
 	text "<PLAYER> kastede"
-	line "noget BAIT."
+	line "noget LOKKEMAD."
 	done
 
 _ThrewRockText::

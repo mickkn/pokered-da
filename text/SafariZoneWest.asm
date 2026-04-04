@@ -1,31 +1,32 @@
 _SafariZoneWestText5::
-	text "REST HOUSE"
+	text "HVILEHJEM"
 	done
 
 _SafariZoneWestText6::
-	text "REQUEST NOTICE"
+	text "EFTERLYSNING"
 
-	para "Please find the"
-	line "SAFARI FORVALTERS's"
-	cont "lost GOLD TEETH."
-	cont "They're around"
-	cont "here somewhere."
+	para "Find venligst"
+	line "SAFARI-"
+	cont "FORVALTERENS"
+	cont "tabte GULDTÆNDER."
+	cont "De er et sted"
+	cont "herude."
 
-	para "Reward offered!"
-	line "Contact: FORVALTER"
+	para "Belønning udloves!"
+	line "Kontakt: FORVALTER"
 	done
 
 _SafariZoneWestText7::
-	text "TRAINER TIPS"
+	text "TRÆNERTIPS"
 
-	para "Zone Exploration"
-	line "Campaign!"
+	para "Zone-udforsknings-"
+	line "kampagne!"
 
-	para "The Search for"
-	line "the SECRET HOUSE!"
+	para "Jagten på det"
+	line "HEMMELIGE HUS!"
 	done
 
 _SafariZoneWestText8::
-	text "AREA 3"
-	line "EAST: CENTER AREA"
+	text "OMRÅDE 3"
+	line "ØST: CENTEROMRÅDE"
 	done

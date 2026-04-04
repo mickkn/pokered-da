@@ -1,45 +1,49 @@
 _SecretHouseText_4a350::
-	text "Ah! Finally!"
+	text "Ah! Endelig!"
 
-	para "You're the first"
-	line "person to reach"
-	cont "the SECRET HOUSE!"
+	para "Du er den første"
+	line "person der har"
+	cont "nået det"
+	cont "HEMMELIGE HUS!"
 
-	para "I was getting"
-	line "worried that no"
-	cont "one would win our"
-	cont "campaign prize."
+	para "Jeg var bange for"
+	line "at ingen ville"
+	cont "vinde vores"
+	cont "kampagnepræmie."
 
-	para "Congratulations!"
-	line "You have won!"
+	para "Tillykke!"
+	line "Du har vundet!"
 	prompt
 
 _ReceivedHM03Text::
-	text "<PLAYER> received"
+	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _HM03ExplanationText::
-	text "HM03 is SURF!"
+	text "HM03 er SURF!"
 
-	para "#MON will be"
-	line "able to ferry you"
-	cont "across water!"
+	para "#MON vil kunne"
+	line "sejle dig over"
+	cont "vandet!"
 
-	para "And, this HM isn't"
-	line "disposable! You"
-	cont "can use it over"
-	cont "and over!"
+	para "Og denne HM kan"
+	line "ikke bruges op!"
+	cont "Du kan bruge den"
+	cont "igen og igen!"
 
-	para "You're super lucky"
-	line "for winning this"
-	cont "fabulous prize!"
+	para "Du er super"
+	line "heldig med at"
+	cont "vinde denne"
+	cont "fantastiske"
+	cont "præmie!"
 	done
 
 _HM03NoRoomText::
-	text "You don't have"
-	line "room for this"
-	cont "fabulous prize!"
+	text "Du har ikke plads"
+	line "til denne"
+	cont "fantastiske"
+	cont "præmie!"
 	done

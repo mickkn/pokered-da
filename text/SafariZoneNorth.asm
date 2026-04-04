@@ -1,33 +1,33 @@
 _SafariZoneNorthText3::
-	text "REST HOUSE"
+	text "HVILEHJEM"
 	done
 
 _SafariZoneNorthText4::
-	text "TRAINER TIPS"
+	text "TRÆNERTIPS"
 
-	para "The SECRET HOUSE"
-	line "is still ahead!"
+	para "Det HEMMELIGE HUS"
+	line "er stadig forude!"
 	done
 
 _SafariZoneNorthText5::
-	text "AREA 2"
+	text "OMRÅDE 2"
 	done
 
 _SafariZoneNorthText6::
-	text "TRAINER TIPS"
+	text "TRÆNERTIPS"
 
-	para "#MON hide in"
-	line "tall grass!"
+	para "#MON gemmer sig"
+	line "i højt græs!"
 
-	para "Zigzag through"
-	line "grassy areas to"
-	cont "flush them out."
+	para "Gå i zigzag"
+	line "gennem græsset"
+	cont "for at finde dem."
 	done
 
 _SafariZoneNorthText7::
-	text "TRAINER TIPS"
+	text "TRÆNERTIPS"
 
-	para "Win a free HM for"
-	line "finding the"
-	cont "SECRET HOUSE!"
+	para "Vind en gratis HM"
+	line "ved at finde det"
+	cont "HEMMELIGE HUS!"
 	done

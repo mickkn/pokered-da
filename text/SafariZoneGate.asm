@@ -1,97 +1,98 @@
 _SafariZoneEntranceText1::
-	text "Welcome to the"
+	text "Velkommen til"
 	line "SAFARIZONEN!"
 	done
 
 SafariZoneEntranceText_9e6e4::
-	text "For just ¥500,"
-	line "you can catch all"
-	cont "the #MON you"
-	cont "want in the park!"
+	text "For kun ¥500 kan"
+	line "du fange alle de"
+	cont "#MON du vil i"
+	cont "parken!"
 
-	para "Would you like to"
-	line "join the hunt?@"
+	para "Vil du deltage"
+	line "i jagten?@"
 	text_end
 
 SafariZoneEntranceText_9e747::
-	text "That'll be ¥500"
-	line "please!"
+	text "Det bliver ¥500"
+	line "tak!"
 
-	para "We only use a"
-	line "special # BALL"
-	cont "here."
+	para "Vi bruger kun en"
+	line "speciel # BALL"
+	cont "her."
 
-	para "<PLAYER> received"
+	para "<PLAYER> modtog"
 	line "30 SAFARI BALLs!@"
 	text_end
 
 _SafariZoneEntranceText_75360::
 	text_start
 
-	para "We'll call you on"
-	line "the PA when you"
-	cont "run out of time"
-	cont "or SAFARI BALLs!"
+	para "Vi kalder dig på"
+	line "højttaleren når"
+	cont "du løber tør for"
+	cont "tid eller SAFARI"
+	cont "BALLs!"
 	done
 
 _SafariZoneEntranceText_75365::
-	text "OK! Please come"
-	line "again!"
+	text "OK! Kom venligst"
+	line "igen!"
 	done
 
 _SafariZoneEntranceText_7536a::
-	text "Oops! Not enough"
-	line "money!"
+	text "Ups! Ikke nok"
+	line "penge!"
 	done
 
 SafariZoneEntranceText_9e814::
-	text "Leaving early?@"
+	text "Smutter du tidligt?@"
 	text_end
 
 _SafariZoneEntranceText_753bb::
-	text "Please return any"
-	line "SAFARI BALLs you"
-	cont "have left."
+	text "Aflever venligst"
+	line "de SAFARI BALLs"
+	cont "du har tilbage."
 	done
 
 _SafariZoneEntranceText_753c0::
-	text "Good Luck!"
+	text "Held og lykke!"
 	done
 
 _SafariZoneEntranceText_753c5::
-	text "Did you get a"
-	line "good haul?"
-	cont "Come again!"
+	text "Fik du et godt"
+	line "udbytte?"
+	cont "Kom igen!"
 	done
 
 _SafariZoneEntranceText_753e6::
-	text "Hi! Is it your"
-	line "first time here?"
+	text "Hej! Er det din"
+	line "første gang her?"
 	done
 
 _SafariZoneEntranceText_753eb::
-	text "SAFARIZONEN has 4"
-	line "zones in it."
+	text "SAFARIZONEN har 4"
+	line "zoner i sig."
 
-	para "Each zone has"
-	line "different kinds"
-	cont "of #MON. Use"
-	cont "SAFARI BALLs to"
-	cont "catch them!"
+	para "Hver zone har"
+	line "forskellige slags"
+	cont "#MON. Brug"
+	cont "SAFARI BALLs til"
+	cont "at fange dem!"
 
-	para "When you run out"
-	line "of time or SAFARI"
-	cont "BALLs, it's game"
-	cont "over for you!"
+	para "Når du løber tør"
+	line "for tid eller"
+	cont "SAFARI BALLs, er"
+	cont "det slut for dig!"
 
-	para "Before you go,"
-	line "open an unused"
-	cont "#MON BOX so"
-	cont "there's room for"
-	cont "new #MON!"
+	para "Inden du går, åbn"
+	line "en ubrugt #MON"
+	cont "BOX, så der er"
+	cont "plads til nye"
+	cont "#MON!"
 	done
 
 _SafariZoneEntranceText_753f0::
-	text "Sorry, you're a"
-	line "regular here!"
+	text "Beklager, du er"
+	line "stamgæst her!"
 	done

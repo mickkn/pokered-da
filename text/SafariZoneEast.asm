@@ -1,16 +1,16 @@
 _SafariZoneEastText5::
-	text "REST HOUSE"
+	text "HVILEHJEM"
 	done
 
 _SafariZoneEastText6::
-	text "TRAINER TIPS"
+	text "TRÆNERTIPS"
 
-	para "The remaining time"
-	line "declines only"
-	cont "while you walk!"
+	para "Den resterende tid"
+	line "falder kun mens"
+	cont "du går!"
 	done
 
 _SafariZoneEastText7::
-	text "CENTER AREA"
-	line "NORTH: AREA 2"
+	text "CENTEROMRÅDE"
+	line "NORD: OMRÅDE 2"
 	done

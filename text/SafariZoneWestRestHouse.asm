@@ -1,19 +1,21 @@
 _SafariZoneRestHouse2Text1::
-	text "Tossing ROCKs at"
-	line "#MON might"
-	cont "make them run,"
-	cont "but they'll be"
-	cont "easier to catch."
+	text "At kaste STEN"
+	line "efter #MON kan"
+	cont "få dem til at"
+	cont "flygte, men de"
+	cont "er nemmere at"
+	cont "fange."
 	done
 
 _SafariZoneRestHouse2Text2::
-	text "Using BAIT will"
-	line "make #MON"
-	cont "easier to catch."
+	text "At bruge LOKKEMAD"
+	line "gør #MON"
+	cont "nemmere at fange."
 	done
 
 _SafariZoneRestHouse2Text3::
-	text "I hiked a lot, but"
-	line "I didn't see any"
-	cont "#MON I wanted."
+	text "Jeg vandrede en"
+	line "masse, men så"
+	cont "ingen #MON"
+	cont "jeg ville have."
 	done
