@@ -1,67 +1,70 @@
 _SaffronCityText1::
-	text "What do you want?"
-	line "Get lost!"
+	text "Hvad vil du?"
+	line "Skrub af!"
 	done
 
 _SaffronCityText2::
-	text "BOSS said he'll"
-	line "take this town!"
+	text "CHEFEN sagde at"
+	line "han tager byen!"
 	done
 
 _SaffronCityText3::
-	text "Get out of the"
-	line "way!"
+	text "Flyt dig af"
+	line "vejen!"
 	done
 
 _SaffronCityText4::
-	text "SAFFRON belongs"
-	line "to TEAM ROCKET!"
+	text "SAFFRON tilhører"
+	line "TEAM ROCKET!"
 	done
 
 _SaffronCityText5::
-	text "Being evil makes"
-	line "me feel so alive!"
+	text "At være ond får"
+	line "mig til at føle"
+	cont "mig så levende!"
 	done
 
 _SaffronCityText6::
-	text "Ow! Watch where"
-	line "you're walking!"
+	text "Av! Se dig for"
+	line "hvor du går!"
 	done
 
 _SaffronCityText7::
-	text "With SILPH under"
-	line "control, we can"
-	cont "exploit #MON"
-	cont "around the world!"
+	text "Med SILPH under"
+	line "kontrol kan vi"
+	cont "udnytte #MON"
+	cont "over hele verden!"
 	done
 
 _SaffronCityText8::
-	text "You beat TEAM"
-	line "ROCKET all alone?"
-	cont "That's amazing!"
+	text "Du slog TEAM"
+	line "ROCKET helt"
+	cont "alene? Vildt!"
 	done
 
 _SaffronCityText9::
-	text "Yeah! TEAM ROCKET"
-	line "is gone!"
-	cont "It's safe to go"
-	cont "out again!"
+	text "Ja! TEAM ROCKET"
+	line "er væk!"
+	cont "Det er sikkert"
+	cont "at gå ud igen!"
 	done
 
 _SaffronCityText10::
-	text "People should be"
-	line "flocking back to"
-	cont "SAFFRON now."
+	text "Folk burde strømme"
+	line "tilbage til"
+	cont "SAFFRON nu."
 	done
 
 _SaffronCityText11::
-	text "I flew here on my"
-	line "PIDGEOT when I"
-	cont "read about SILPH."
+	text "Jeg fløj hertil"
+	line "på min PIDGEOT da"
+	cont "jeg læste om"
+	cont "SILPH."
 
-	para "It's already over?"
-	line "I missed the"
-	cont "media action."
+	para "Det er allerede"
+	line "overstået? Jeg"
+	cont "gik glip af"
+	cont "mediedækningen."
 	done
 
 _SaffronCityText12::
@@ -69,84 +72,86 @@ _SaffronCityText12::
 	text_end
 
 _SaffronCityText13::
-	text "I saw ROCKET"
-	line "BOSS escaping"
-	cont "SILPH's building."
+	text "Jeg så ROCKET-"
+	line "CHEFEN flygte fra"
+	cont "SILPHs bygning."
 	done
 
 _SaffronCityText14::
-	text "I'm a security"
-	line "guard."
+	text "Jeg er sikker-"
+	line "hedsvagt."
 
-	para "Suspicious kids I"
-	line "don't allow in!"
+	para "Mistænkelige"
+	line "børn lukker jeg"
+	cont "ikke ind!"
 	done
 
 _SaffronCityText15::
 	text "..."
-	line "Snore..."
+	line "Snork..."
 
-	para "Hah! He's taking"
-	line "a snooze!"
+	para "Ha! Han tager"
+	line "en lur!"
 	done
 
 _SaffronCityText16::
 	text "SAFFRON CITY"
-	line "Shining, Golden"
-	cont "Land of Commerce"
+	line "Skinnende, Gyldne"
+	cont "Handelsland"
 	done
 
 _SaffronCityText17::
-	text "FIGHTING DOJO"
+	text "KAMPSPORT-DOJOEN"
 	done
 
 _SaffronCityText18::
 	text "SAFFRON CITY"
 	line "#MON GYM"
-	cont "LEADER: SABRINA"
+	cont "LEDER: SABRINA"
 
-	para "The Master of"
-	line "Psychic #MON!"
+	para "Mesteren af"
+	line "Psykiske #MON!"
 	done
 
 _SaffronCityText20::
-	text "TRAINER TIPS"
+	text "TRÆNERTIPS"
 
-	para "FULL HEAL cures"
-	line "all ailments like"
-	cont "sleep and burns."
+	para "FULL HEAL kurerer"
+	line "alle lidelser som"
+	cont "søvn og"
+	cont "forbrændinger."
 
-	para "It costs a bit"
-	line "more, but it's"
-	cont "more convenient."
+	para "Den koster lidt"
+	line "mere, men er"
+	cont "mere praktisk."
 	done
 
 _SaffronCityText21::
-	text "TRAINER TIPS"
+	text "TRÆNERTIPS"
 
-	para "New GREAT BALL"
-	line "offers improved"
-	cont "capture rates."
+	para "Nye GREAT BALL"
+	line "giver forbedret"
+	cont "fangstrate."
 
-	para "Try it on those"
-	line "hard-to-catch"
+	para "Prøv den på de"
+	line "svære-at-fange"
 	cont "#MON."
 	done
 
 _SaffronCityText22::
 	text "SILPH CO."
-	line "OFFICE BUILDING"
+	line "KONTORBYGNING"
 	done
 
 _SaffronCityText24::
-	text "MR.PSYCHIC's"
-	line "HOUSE"
+	text "HR.PSYKISKs"
+	line "HUS"
 	done
 
 _SaffronCityText25::
-	text "SILPH's latest"
-	line "product!"
+	text "SILPHs nyeste"
+	line "produkt!"
 
-	para "Release to be"
-	line "determined..."
+	para "Udgivelse endnu"
+	line "ubestemt..."
 	done

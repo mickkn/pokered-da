@@ -1,12 +1,13 @@
 _SaffronPokecenterText2::
-	text "#MON growth"
-	line "rates differ from"
-	cont "specie to specie."
+	text "#MON vokser"
+	line "med forskellig"
+	cont "hastighed fra"
+	cont "art til art."
 	done
 
 _SaffronPokecenterText3::
-	text "SILPH CO. is very"
-	line "famous. That's"
-	cont "why it attracted"
+	text "SILPH CO. er meget"
+	line "berømt. Derfor"
+	cont "tiltrak det"
 	cont "TEAM ROCKET!"
 	done

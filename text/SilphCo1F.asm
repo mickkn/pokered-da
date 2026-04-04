@@ -1,7 +1,7 @@
 _SilphCo1Text1::
-	text "Welcome!"
+	text "Velkommen!"
 
-	para "The PRESIDENT is"
-	line "in the boardroom"
-	cont "on 11F!"
+	para "PRÆSIDENTEN er i"
+	line "bestyrelseslokalet"
+	cont "på 11F!"
 	done

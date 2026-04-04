@@ -1,19 +1,19 @@
 _SaffronGateText_1dfe7::
-	text "I'm on guard duty."
-	line "Gee, I'm thirsty,"
-	cont "though!"
+	text "Jeg er på vagt."
+	line "Puha, jeg er"
+	cont "tørstig!"
 
-	para "Oh wait there,"
-	line "the road's closed."
+	para "Vent lige, vejen"
+	line "er spærret."
 	done
 
 _SaffronGateText_8aaa9::
-	text "Whoa, boy!"
-	line "I'm parched!"
+	text "Hold da op!"
+	line "Jeg er udtørret!"
 	cont "..."
-	cont "Huh? I can have"
-	cont "this drink?"
-	cont "Gee, thanks!@"
+	cont "Hva? Må jeg få"
+	cont "den drik?"
+	cont "Tak skal du have!@"
 	text_end
 
 _SaffronGateText_1dff1::
@@ -22,17 +22,17 @@ _SaffronGateText_1dff1::
 	para "..."
 	line "Glug glug..."
 	cont "..."
-	cont "Gulp..."
-	cont "If you want to go"
-	cont "to SAFFRON CITY..."
+	cont "Slurp..."
+	cont "Hvis du vil til"
+	cont "SAFFRON CITY..."
 	cont "..."
-	cont "You can go on"
-	cont "through. I'll"
-	cont "share this with"
-	cont "the other guards!"
+	cont "Du kan bare gå"
+	cont "igennem. Jeg"
+	cont "deler med de"
+	cont "andre vagter!"
 	done
 
 _SaffronGateText_1dff6::
-	text "Hi, thanks for"
-	line "the cool drinks!"
+	text "Hej, tak for de"
+	line "lækre drinks!"
 	done

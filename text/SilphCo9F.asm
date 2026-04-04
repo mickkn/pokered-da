@@ -1,21 +1,21 @@
 _SilphCo9Text_5d8e5::
-	text "You look tired!"
-	line "You should take a"
-	cont "quick nap!"
+	text "Du ser træt ud!"
+	line "Du burde tage en"
+	cont "hurtig lur!"
 	prompt
 
 _SilphCo9Text_5d8ea::
-	text "Don't give up!"
+	text "Giv ikke op!"
 	done
 
 _SilphCo9Text_5d8ef::
-	text "Thank you so"
-	line "much!"
+	text "Tusind tak!"
 	done
 
 _SilphCo9BattleText1::
-	text "Your #MON seem"
-	line "to adore you, kid!"
+	text "Dine #MON ser"
+	line "ud til at elske"
+	cont "dig, knægt!"
 	done
 
 _SilphCo9EndBattleText1::
@@ -23,40 +23,41 @@ _SilphCo9EndBattleText1::
 	prompt
 
 _SilphCo9AfterBattleText1::
-	text "If I had started"
-	line "as a trainer at"
-	cont "your age..."
+	text "Hvis jeg var"
+	line "startet som"
+	cont "træner i din"
+	cont "alder..."
 	done
 
 _SilphCo9BattleText2::
-	text "Your #MON have"
-	line "weak points! I"
-	cont "can nail them!"
+	text "Dine #MON har"
+	line "svage punkter!"
+	cont "Jeg kan ramme dem!"
 	done
 
 _SilphCo9EndBattleText2::
-	text "You"
-	line "hammered me!"
+	text "Du"
+	line "hamrede mig!"
 	prompt
 
 _SilphCo9AfterBattleText2::
-	text "Exploiting weak"
-	line "spots does work!"
-	cont "Think about"
-	cont "element types!"
+	text "At udnytte svage"
+	line "punkter virker!"
+	cont "Tænk over"
+	cont "elementtyper!"
 	done
 
 _SilphCo9BattleText3::
-	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	text "Jeg er én af de 4"
+	line "ROCKET-BRØDRE!"
 	done
 
 _SilphCo9EndBattleText3::
 	text "Warg!"
-	line "Brothers, I lost!"
+	line "Brødre, jeg tabte!"
 	prompt
 
 _SilphCo9AfterBattleText3::
-	text "My brothers will"
-	line "avenge me!"
+	text "Mine brødre vil"
+	line "hævne mig!"
 	done

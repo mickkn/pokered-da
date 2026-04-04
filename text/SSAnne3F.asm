@@ -1,7 +1,7 @@
 _SSAnne3Text1::
-	text "Our CAPTAIN is a"
-	line "sword master!"
+	text "Vores KAPTAJN er"
+	line "en sværdmester!"
 
-	para "He even teaches"
-	line "CUT to #MON!"
+	para "Han lærer endda"
+	line "CUT til #MON!"
 	done

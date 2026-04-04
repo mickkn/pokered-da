@@ -4,111 +4,116 @@ _SSAnne10Text8::
 	text_end
 
 _SSAnne10BattleText1::
-	text "You know what they"
-	line "say about sailors"
-	cont "and fighting!"
+	text "Du kender"
+	line "ordsproget om"
+	cont "sømænd og kampe!"
 	done
 
 _SSAnne10EndBattleText1::
-	text "Right!"
-	line "Good fight, mate!"
+	text "Rigtigt!"
+	line "God kamp, makker!"
 	prompt
 
 _SSAnne10AfterBattleText1::
-	text "Haha! Want to be"
-	line "a sailor, mate?"
+	text "Haha! Vil du være"
+	line "sømand, makker?"
 	done
 
 _SSAnne10BattleText2::
-	text "My sailor's pride"
-	line "is at stake!"
+	text "Min"
+	line "sømandsstolthed"
+	cont "er på spil!"
 	done
 
 _SSAnne10EndBattleText2::
-	text "Your"
-	line "spirit sank me!"
+	text "Din"
+	line "kampgejst sank"
+	cont "mig!"
 	prompt
 
 _SSAnne10AfterBattleText2::
-	text "Did you see the"
-	line "FISHING GURU in"
+	text "Så du FISKERI-"
+	line "GURUEN i"
 	cont "VERMILION CITY?"
 	done
 
 _SSAnne10BattleText3::
-	text "Us sailors have"
-	line "#MON too!"
+	text "Vi sømænd har"
+	line "også #MON!"
 	done
 
 _SSAnne10EndBattleText3::
 	text "OK, "
-	line "you're not bad."
+	line "du er ikke dårlig."
 	prompt
 
 _SSAnne10AfterBattleText3::
-	text "We caught all our"
-	line "#MON while"
-	cont "out at sea!"
+	text "Vi fangede alle"
+	line "vores #MON"
+	cont "ude på havet!"
 	done
 
 _SSAnne10BattleText4::
-	text "I like feisty"
-	line "kids like you!@"
+	text "Jeg kan lide"
+	line "modige børn som"
+	cont "dig!@"
 	text_end
 
 _SSAnne10EndBattleText4::
 	text "Argh!"
-	line "Lost it!"
+	line "Tabte den!"
 	prompt
 
 _SSAnne10AfterBattleText4::
-	text "Sea #MON live"
-	line "in deep water."
-	cont "You'll need a ROD!"
+	text "Vand-#MON lever"
+	line "i dybt vand."
+	cont "Du skal bruge en"
+	cont "FISKESTANG!"
 	done
 
 _SSAnne10BattleText5::
-	text "Matey, you're"
-	line "walking the plank"
-	cont "if you lose!"
+	text "Makker, du skal"
+	line "gå planken ud"
+	cont "hvis du taber!"
 	done
 
 _SSAnne10EndBattleText5::
 	text "Argh!"
-	line "Beaten by a kid!"
+	line "Slået af et barn!"
 	prompt
 
 _SSAnne10AfterBattleText5::
-	text "Jellyfish some-"
-	line "times drift into"
-	cont "the ship."
+	text "Vandmænd driver"
+	line "ind i skibet"
+	cont "sommetider."
 	done
 
 _SSAnne10BattleText6::
-	text "Hello stranger!"
-	line "Stop and chat!"
+	text "Hej fremmede!"
+	line "Stop og snak!"
 
-	para "All my #MON"
-	line "are from the sea!"
+	para "Alle mine #MON"
+	line "er fra havet!"
 	done
 
 _SSAnne10EndBattleText6::
-	text "Darn!"
-	line "I let that one"
-	cont "get away!"
+	text "Pøj!"
+	line "Der slap den"
+	cont "fra mig!"
 	prompt
 
 _SSAnne10AfterBattleText6::
-	text "I was going to"
-	line "make you my"
-	cont "assistant too!"
+	text "Jeg ville ellers"
+	line "have gjort dig til"
+	cont "min assistent!"
 	done
 
 _SSAnne10Text7::
-	text "My buddy, MACHOKE,"
-	line "is super strong!"
+	text "Min ven, MACHOKE,"
+	line "er super stærk!"
 
-	para "He has enough"
-	line "STRENGTH to move"
-	cont "big rocks!"
+	para "Han har nok"
+	line "STRENGTH til at"
+	cont "flytte store"
+	cont "sten!"
 	done

@@ -1,135 +1,138 @@
 _SilphCoPresidentText::
-	text "PRESIDENT: Thank"
-	line "you for saving"
+	text "PRÆSIDENT: Tak"
+	line "fordi du reddede"
 	cont "SILPH!"
 
-	para "I will never"
-	line "forget you saved"
-	cont "us in our moment"
-	cont "of peril!"
+	para "Jeg vil aldrig"
+	line "glemme at du"
+	cont "reddede os i"
+	cont "nødens stund!"
 
-	para "I have to thank"
-	line "you in some way!"
+	para "Jeg må takke dig"
+	line "på en eller anden"
+	cont "måde!"
 
-	para "Because I am rich,"
-	line "I can give you"
-	cont "anything!"
+	para "Fordi jeg er rig,"
+	line "kan jeg give dig"
+	cont "hvad som helst!"
 
-	para "Here, maybe this"
-	line "will do!"
+	para "Her, måske dette"
+	line "duer!"
 	prompt
 
 _ReceivedSilphCoMasterBallText::
-	text "<PLAYER> got a"
+	text "<PLAYER> fik en"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SilphCo10Text_6231c::
-	text "PRESIDENT: You"
-	line "can't buy that"
-	cont "anywhere!"
+	text "PRÆSIDENT: Den"
+	line "kan man ikke købe"
+	cont "nogen steder!"
 
-	para "It's our secret"
-	line "prototype MASTER"
-	cont "BALL!"
+	para "Det er vores"
+	line "hemmelige MASTER"
+	cont "BALL-prototype!"
 
-	para "It will catch any"
-	line "#MON without"
-	cont "fail!"
+	para "Den fanger enhver"
+	line "#MON uden"
+	cont "fejl!"
 
-	para "You should be"
-	line "quiet about using"
-	cont "it, though."
+	para "Du bør dog holde"
+	line "det hemmeligt at"
+	cont "du bruger den."
 	done
 
 _SilphCoMasterBallNoRoomText::
-	text "You have no"
-	line "room for this."
+	text "Du har ingen plads"
+	line "til dette."
 	done
 
 _SilphCo11Text2::
-	text "SECRETARY: Thank"
-	line "you for rescuing"
-	cont "all of us!"
+	text "SEKRETÆR: Tak"
+	line "fordi du reddede"
+	cont "os alle!"
 
-	para "We admire your"
-	line "courage."
+	para "Vi beundrer dit"
+	line "mod."
 	done
 
 _SilphCo11Text3::
 	text "Ah <PLAYER>!"
-	line "So we meet again!"
+	line "Så mødes vi igen!"
 
-	para "The PRESIDENT and"
-	line "I are discussing"
-	cont "a vital business"
-	cont "proposition."
+	para "PRÆSIDENTEN og"
+	line "jeg diskuterer"
+	cont "et vigtigt"
+	cont "forretnings-"
+	cont "forslag."
 
-	para "Keep your nose"
-	line "out of grown-up"
-	cont "matters..."
+	para "Hold næsen"
+	line "udenfor voksnes"
+	cont "anliggender..."
 
-	para "Or, experience a"
-	line "world of pain!"
+	para "Eller oplev en"
+	line "verden af smerte!"
 	done
 
 _SilphCo10Text_62330::
 	text "Arrgh!!"
-	line "I lost again!?"
+	line "Tabte jeg igen!?"
 	prompt
 
 _SilphCo10Text_62335::
-	text "Blast it all!"
-	line "You ruined our"
-	cont "plans for SILPH!"
+	text "For pokker!"
+	line "Du ødelagde vores"
+	cont "planer for SILPH!"
 
-	para "But, TEAM ROCKET"
-	line "will never fall!"
+	para "Men TEAM ROCKET"
+	line "falder aldrig!"
 
-	para "<PLAYER>! Never"
-	line "forget that all"
-	cont "#MON exist"
+	para "<PLAYER>! Glem"
+	line "aldrig at alle"
+	cont "#MON eksisterer"
 	cont "for TEAM ROCKET!"
 
-	para "I must go, but I"
-	line "shall return!"
+	para "Jeg må gå, men"
+	line "jeg vender"
+	cont "tilbage!"
 	done
 
 _SilphCo11BattleText1::
-	text "Stop right there!"
-	line "Don't you move!"
+	text "Stop lige der!"
+	line "Rør dig ikke!"
 	done
 
 _SilphCo11EndBattleText1::
-	text "Don't..."
-	line "Please!"
+	text "Lad..."
+	line "Vær sød!"
 	prompt
 
 _SilphCo11AfterBattleText1::
-	text "So, you want to"
-	line "see my BOSS?"
+	text "Så du vil se"
+	line "min CHEF?"
 	done
 
 _SilphCo11BattleText2::
-	text "Halt! Do you have"
-	line "an appointment"
-	cont "with my BOSS?"
+	text "Stop! Har du en"
+	line "aftale med min"
+	cont "CHEF?"
 	done
 
 _SilphCo11EndBattleText2::
 	text "Gaah!"
-	line "Demolished!"
+	line "Smadret!"
 	prompt
 
 _SilphCo11AfterBattleText2::
-	text "Watch your step,"
-	line "my BOSS likes his"
-	cont "#MON tough!"
+	text "Pas på, min CHEF"
+	line "kan lide sine"
+	cont "#MON hårde!"
 	done
 
 _SilphCo10Text_6237b::
-	text "The monitor has"
-	line "#MON on it!"
+	text "Skærmen viser"
+	line "#MON!"
 	done

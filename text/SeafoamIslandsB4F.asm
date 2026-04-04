@@ -3,12 +3,12 @@ _ArticunoBattleText::
 	text_end
 
 _SeafoamIslands5Text4::
-	text "Boulders might"
-	line "change the flow"
-	cont "of water!"
+	text "Klippeblokke kan"
+	line "ændre vandets"
+	cont "strømning!"
 	done
 
 _SeafoamIslands5Text5::
-	text "DANGER"
-	line "Fast current!"
+	text "FARE"
+	line "Stærk strøm!"
 	done

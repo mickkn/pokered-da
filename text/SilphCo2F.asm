@@ -1,97 +1,99 @@
 _SilphCo2Text_59ded::
-	text "Eeek!"
-	line "No! Stop! Help!"
+	text "Iiik!"
+	line "Nej! Stop! Hjælp!"
 
-	para "Oh, you're not"
-	line "with TEAM ROCKET."
-	cont "I thought..."
-	cont "I'm sorry. Here,"
-	cont "please take this!"
+	para "Åh, du er ikke"
+	line "med TEAM ROCKET."
+	cont "Jeg troede..."
+	cont "Undskyld. Her,"
+	cont "tag venligst det"
+	cont "her!"
 	prompt
 
 _ReceivedTM36Text::
-	text "<PLAYER> got"
+	text "<PLAYER> fik"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _TM36ExplanationText::
-	text "TM36 is"
+	text "TM36 er"
 	line "SELFDESTRUCT!"
 
-	para "It's powerful, but"
-	line "the #MON that"
-	cont "uses it faints!"
-	cont "Be careful."
+	para "Den er kraftig,"
+	line "men den #MON"
+	cont "der bruger den,"
+	cont "besvimer! Pas på."
 	done
 
 _TM36NoRoomText::
-	text "You don't have any"
-	line "room for this."
+	text "Du har ikke plads"
+	line "til dette."
 	done
 
 _SilphCo2BattleText1::
-	text "Help! I'm a SILPH"
-	line "employee."
+	text "Hjælp! Jeg er en"
+	line "SILPH-ansat."
 	done
 
 _SilphCo2EndBattleText1::
-	text "How"
-	line "did you know I"
-	cont "was a ROCKET?"
+	text "Hvordan"
+	line "vidste du at jeg"
+	cont "var en ROCKET?"
 	prompt
 
 _SilphCo2AfterBattleText1::
-	text "I work for both"
-	line "SILPH and TEAM"
-	cont "ROCKET!"
+	text "Jeg arbejder for"
+	line "både SILPH og"
+	cont "TEAM ROCKET!"
 	done
 
 _SilphCo2BattleText2::
-	text "It's off limits"
-	line "here! Go home!"
+	text "Her er adgang"
+	line "forbudt! Gå hjem!"
 	done
 
 _SilphCo2EndBattleText2::
-	text "You're"
-	line "good."
+	text "Du er"
+	line "god."
 	prompt
 
 _SilphCo2AfterBattleText2::
-	text "Can you solve the"
-	line "maze in here?"
+	text "Kan du løse"
+	line "labyrinten her?"
 	done
 
 _SilphCo2BattleText3::
-	text "No kids are"
-	line "allowed in here!"
+	text "Børn har ikke"
+	line "adgang herinde!"
 	done
 
 _SilphCo2EndBattleText3::
-	text "Tough!"
+	text "Sejt!"
 	prompt
 
 _SilphCo2AfterBattleText3::
-	text "Diamond shaped"
-	line "tiles are"
-	cont "teleport blocks!"
+	text "Diamantformede"
+	line "fliser er"
+	cont "teleportblokke!"
 
-	para "They're hi-tech"
-	line "transporters!"
+	para "De er højtek-"
+	line "nologiske"
+	cont "transportører!"
 	done
 
 _SilphCo2BattleText4::
-	text "Hey kid! What are"
-	line "you doing here?"
+	text "Hej knægt! Hvad"
+	line "laver du her?"
 	done
 
 _SilphCo2EndBattleText4::
-	text "I goofed!"
+	text "Jeg trådte i det!"
 	prompt
 
 _SilphCo2AfterBattleText4::
-	text "SILPH CO. will"
-	line "be merged with"
+	text "SILPH CO. bliver"
+	line "fusioneret med"
 	cont "TEAM ROCKET!"
 	done

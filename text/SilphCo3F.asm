@@ -1,46 +1,49 @@
 _SilphCo3Text_59ff9::
-	text "I work for SILPH."
-	line "What should I do?"
+	text "Jeg arbejder for"
+	line "SILPH. Hvad skal"
+	cont "jeg gøre?"
 	done
 
 _SilphCo3Text_59ffe::
-	text "<PLAYER>! You and"
-	line "your #MON"
-	cont "saved us!"
+	text "<PLAYER>! Du og"
+	line "dine #MON"
+	cont "reddede os!"
 	done
 
 _SilphCo3BattleText1::
-	text "Quit messing with"
-	line "us, kid!"
+	text "Hold op med at"
+	line "pille ved os,"
+	cont "knægt!"
 	done
 
 _SilphCo3EndBattleText1::
-	text "I give"
-	line "up!"
+	text "Jeg"
+	line "giver op!"
 	prompt
 
 _SilphCo3AfterBattleText1::
-	text "A hint? You can"
-	line "open doors with a"
-	cont "CARD KEY!"
+	text "Et hint? Du kan"
+	line "åbne døre med et"
+	cont "NØGLEKORT!"
 	done
 
 _SilphCo3BattleText2::
-	text "I support TEAM"
-	line "ROCKET more than"
-	cont "I support SILPH!"
+	text "Jeg støtter TEAM"
+	line "ROCKET mere end"
+	cont "jeg støtter SILPH!"
 	done
 
 _SilphCo3EndBattleText2::
-	text "You"
-	line "really got me!"
+	text "Du"
+	line "fik mig virkelig!"
 	prompt
 
 _SilphCo3AfterBattleText2::
 	text "Humph..."
 
-	para "TEAM ROCKET said"
-	line "that if I helped"
-	cont "them, they'd let"
-	cont "me study #MON!"
+	para "TEAM ROCKET sagde"
+	line "at hvis jeg hjalp"
+	cont "dem, ville de"
+	cont "lade mig studere"
+	cont "#MON!"
 	done

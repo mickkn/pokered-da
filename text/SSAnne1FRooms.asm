@@ -4,102 +4,106 @@ _SSAnne8Text8::
 	text_end
 
 _SSAnne8BattleText1::
-	text "I travel alone"
-	line "on my journeys!"
+	text "Jeg rejser alene"
+	line "på mine rejser!"
 
-	para "My #MON are my"
-	line "only friends!"
+	para "Mine #MON er"
+	line "mine eneste"
+	cont "venner!"
 	done
 
 _SSAnne8EndBattleText1::
-	text "My, my"
-	line "friends..."
+	text "Mine, mine"
+	line "venner..."
 	prompt
 
 _SSAnne8AfterBattleText1::
-	text "You should be"
-	line "nice to friends!"
+	text "Man bør være sød"
+	line "mod sine venner!"
 	done
 
 _SSAnne8BattleText2::
-	text "You pup! How dare"
-	line "you barge in!"
+	text "Din hvalp! Hvordan"
+	line "vover du at"
+	cont "bryde ind!"
 	done
 
 _SSAnne8EndBattleText2::
-	text "Humph!"
-	line "You rude child!"
+	text "Hmf!"
+	line "Dit uhøflige barn!"
 	prompt
 
 _SSAnne8AfterBattleText2::
-	text "I wish to be left"
-	line "alone! Get out!"
+	text "Jeg ønsker at"
+	line "være alene!"
+	cont "Forsvind!"
 	done
 
 _SSAnne8BattleText3::
-	text "I love #MON!"
-	line "Do you?"
+	text "Jeg elsker #MON!"
+	line "Gør du?"
 	done
 
 _SSAnne8EndBattleText3::
 	text "Wow! "
-	line "You're great!"
+	line "Du er fantastisk!"
 	prompt
 
 _SSAnne8AfterBattleText3::
-	text "Let me be your"
-	line "friend, OK?"
+	text "Lad mig være din"
+	line "ven, OK?"
 
-	para "Then we can trade"
+	para "Så kan vi bytte"
 	line "#MON!"
 	done
 
 _SSAnne8BattleText4::
-	text "I collected these"
-	line "#MON from all"
-	cont "around the world!"
+	text "Jeg samlede disse"
+	line "#MON fra hele"
+	cont "verden!"
 	done
 
 _SSAnne8EndBattleText4::
-	text "Oh no!"
-	line "I went around the"
-	cont "world for these!"
+	text "Åh nej!"
+	line "Jeg rejste rundt"
+	cont "i verden for dem!"
 	prompt
 
 _SSAnne8AfterBattleText4::
-	text "You hurt my poor"
-	line "worldly #MON!"
+	text "Du sårede mine"
+	line "stakkels #MON!"
 
-	para "I demand that you"
-	line "heal them at a"
-	cont "#MON CENTER!"
+	para "Jeg kræver at du"
+	line "helbreder dem på"
+	cont "et #MON CENTER!"
 	done
 
 _SSAnne8Text5::
-	text "Waiter, I would"
-	line "like a cherry pie"
-	cont "please!"
+	text "Tjener, jeg vil"
+	line "gerne have en"
+	cont "kirsebærtærte!"
 	done
 
 _SSAnne8Text6::
-	text "A cruise is so"
-	line "elegant yet cozy!"
+	text "Et krydstogt er"
+	line "så elegant men"
+	cont "hyggeligt!"
 	done
 
 _SSAnne8Text7::
-	text "I always travel"
-	line "with WIGGLYTUFF!"
+	text "Jeg rejser altid"
+	line "med WIGGLYTUFF!"
 	done
 
 _SSAnne8Text9::
-	text "We are cruising"
-	line "around the world."
+	text "Vi sejler rundt"
+	line "i verden."
 	done
 
 _SSAnne8Text11::
-	text "Ssh! I'm a GLOBAL"
-	line "POLICE agent!"
+	text "Ssh! Jeg er fra"
+	line "GLOBALPOLITIET!"
 
-	para "I'm on the trail"
-	line "of TEAM ROCKET!"
+	para "Jeg er på sporet"
+	line "af TEAM ROCKET!"
 	done

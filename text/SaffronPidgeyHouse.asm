@@ -1,10 +1,11 @@
 _SaffronHouse1Text1::
-	text "Thank you for"
-	line "writing. I hope"
-	cont "to see you soon!"
+	text "Tak fordi du"
+	line "skrev. Jeg håber"
+	cont "at se dig snart!"
 
-	para "Hey! Don't look"
-	line "at my letter!"
+	para "Hej! Lad være med"
+	line "at kigge i mit"
+	cont "brev!"
 	done
 
 _SaffronHouse1Text2::
@@ -12,16 +13,16 @@ _SaffronHouse1Text2::
 	text_end
 
 _SaffronHouse1Text3::
-	text "The COPYCAT is"
-	line "cute! I'm getting"
-	cont "her a # DOLL!"
+	text "COPYCAT er sød!"
+	line "Jeg giver hende"
+	cont "en # DUKKE!"
 	done
 
 _SaffronHouse1Text4::
-	text "I was given a PP"
-	line "UP as a gift."
+	text "Jeg fik en PP"
+	line "UP i gave."
 
-	para "It's used for"
-	line "increasing the PP"
-	cont "of techniques!"
+	para "Den bruges til at"
+	line "øge PP for"
+	cont "teknikker!"
 	done

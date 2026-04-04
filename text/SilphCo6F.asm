@@ -1,107 +1,113 @@
 _SilphCo6Text_1a24a::
-	text "The ROCKETs came"
-	line "and took over the"
-	cont "building!"
+	text "ROCKETerne kom"
+	line "og overtog"
+	cont "bygningen!"
 	done
 
 _SilphCo6Text_1a24f::
-	text "Well, better get"
-	line "back to work!"
+	text "Nå, bedre at"
+	line "komme i gang med"
+	cont "arbejdet igen!"
 	done
 
 _SilphCo6Text_1a261::
-	text "Oh dear, oh dear."
-	line "Help me please!"
+	text "Åh nej, åh nej."
+	line "Hjælp mig!"
 	done
 
 _SilphCo6Text_1a266::
-	text "We got engaged!"
-	line "Heheh!"
+	text "Vi er blevet"
+	line "forlovet! Heheh!"
 	done
 
 _SilphCo6Text_1a278::
-	text "Look at him! He's"
-	line "such a coward!"
+	text "Se på ham! Han er"
+	line "sådan en kujon!"
 	done
 
 _SilphCo6Text_1a27d::
-	text "I feel so sorry"
-	line "for him, I have"
-	cont "to marry him!"
+	text "Jeg har så ondt"
+	line "af ham, at jeg"
+	cont "må gifte mig"
+	cont "med ham!"
 	done
 
 _SilphCo6Text_1a28f::
-	text "TEAM ROCKET is"
-	line "trying to conquer"
-	cont "the world with"
+	text "TEAM ROCKET"
+	line "prøver at erobre"
+	cont "verden med"
 	cont "#MON!"
 	done
 
 _SilphCo6Text_1a294::
-	text "TEAM ROCKET ran"
-	line "because of you!"
+	text "TEAM ROCKET flyg-"
+	line "tede på grund af"
+	cont "dig!"
 	done
 
 _SilphCo6Text_1a2a6::
-	text "They must have"
-	line "targeted SILPH"
-	cont "for our #MON"
-	cont "products."
+	text "De må have haft"
+	line "SILPH i kikkerten"
+	cont "for vores #MON-"
+	cont "produkter."
 	done
 
 _SilphCo6Text_1a2ab::
-	text "Come work for"
-	line "SILPH when you"
-	cont "get older!"
+	text "Kom og arbejd for"
+	line "SILPH når du"
+	cont "bliver ældre!"
 	done
 
 _SilphCo6BattleText2::
-	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	text "Jeg er én af de 4"
+	line "ROCKET-BRØDRE!"
 	done
 
 _SilphCo6EndBattleText2::
-	text "Flame"
-	line "out!"
+	text "Brændt"
+	line "af!"
 	prompt
 
 _SilphCo6AfterBattleText2::
-	text "No matter!"
-	line "My brothers will"
-	cont "avenge me!"
+	text "Det gør ikke"
+	line "noget! Mine brødre"
+	cont "vil hævne mig!"
 	done
 
 _SilphCo6BattleText3::
-	text "That rotten"
-	line "PRESIDENT!"
+	text "Den elendige"
+	line "PRÆSIDENT!"
 
-	para "He shouldn't have"
-	line "sent me to the"
-	cont "TIKSI BRANCH!"
+	para "Han burde ikke"
+	line "have sendt mig"
+	cont "til TIKSI-"
+	cont "AFDELINGEN!"
 	done
 
 _SilphCo6EndBattleText3::
-	text "Shoot!"
+	text "Pøj!"
 	prompt
 
 _SilphCo6AfterBattleText3::
-	text "TIKSI BRANCH?"
-	line "It's in Russian"
-	cont "no man's land!"
+	text "TIKSI-AFDELINGEN?"
+	line "Den ligger i"
+	cont "russisk ødemark!"
 	done
 
 _SilphCo6BattleText4::
-	text "You dare betray"
-	line "TEAM ROCKET?"
+	text "Vover du at"
+	line "forråde TEAM"
+	cont "ROCKET?"
 	done
 
 _SilphCo6EndBattleText4::
-	text "You"
-	line "traitor!"
+	text "Din"
+	line "forræder!"
 	prompt
 
 _SilphCo6AfterBattleText4::
-	text "If you stand for"
-	line "justice, you"
-	cont "betray evil!"
+	text "Hvis du kæmper"
+	line "for retfærdighed,"
+	cont "forråder du"
+	cont "ondskab!"
 	done

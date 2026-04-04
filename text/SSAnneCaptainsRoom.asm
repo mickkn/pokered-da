@@ -1,64 +1,67 @@
 _SSAnne7RubText::
-	text "CAPTAIN: Ooargh..."
-	line "I feel hideous..."
-	cont "Urrp! Seasick..."
+	text "KAPTAJN: Ooargh..."
+	line "Jeg har det"
+	cont "forfærdeligt..."
+	cont "Urrp! Søsyg..."
 
-	para "<PLAYER> rubbed"
-	line "the CAPTAIN's"
-	cont "back!"
+	para "<PLAYER> gned"
+	line "KAPTAJNENs"
+	cont "ryg!"
 
-	para "Rub-rub..."
-	line "Rub-rub...@"
+	para "Gnid-gnid..."
+	line "Gnid-gnid...@"
 	text_end
 
 _ReceivingHM01Text::
-	text "CAPTAIN: Whew!"
-	line "Thank you! I"
-	cont "feel much better!"
+	text "KAPTAJN: Pyha!"
+	line "Tak! Jeg har"
+	cont "det meget bedre!"
 
-	para "You want to see"
-	line "my CUT technique?"
+	para "Vil du se min"
+	line "CUT-teknik?"
 
-	para "I could show you"
-	line "if I wasn't ill..."
+	para "Jeg kunne vise"
+	line "dig hvis jeg ikke"
+	cont "var syg..."
 
-	para "I know! You can"
-	line "have this!"
+	para "Jeg ved det! Du"
+	line "kan få denne!"
 
-	para "Teach it to your"
-	line "#MON and you"
-	cont "can see it CUT"
-	cont "any time!"
+	para "Lær den til dine"
+	line "#MON, så kan"
+	cont "du se den CUT"
+	cont "når som helst!"
 	prompt
 
 _ReceivedHM01Text::
-	text "<PLAYER> got"
+	text "<PLAYER> fik"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SSAnne7Text_61932::
-	text "CAPTAIN: Whew!"
+	text "KAPTAJN: Pyha!"
 
-	para "Now that I'm not"
-	line "sick any more, I"
-	cont "guess it's time."
+	para "Nu hvor jeg ikke"
+	line "er syg mere, er"
+	cont "det vist tid."
 	done
 
 _HM01NoRoomText::
-	text "Oh no! You have"
-	line "no room for this!"
+	text "Åh nej! Du har"
+	line "ikke plads til"
+	cont "dette!"
 	done
 
 _SSAnne7Text2::
-	text "Yuck! Shouldn't"
-	line "have looked!"
+	text "Fy! Skulle ikke"
+	line "have kigget!"
 	done
 
 _SSAnne7Text3::
-	text "How to Conquer"
-	line "Seasickness..."
-	cont "The CAPTAIN's"
-	cont "reading this!"
+	text "Sådan overvinder"
+	line "du søsyge..."
+	cont "KAPTAJNENs"
+	cont "læsestof!"
 	done

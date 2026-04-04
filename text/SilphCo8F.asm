@@ -1,56 +1,56 @@
 _SilphCo8Text_565be::
-	text "I wonder if SILPH"
-	line "is finished..."
+	text "Mon SILPH er"
+	line "færdig..."
 	done
 
 _SilphCo8Text_565c3::
-	text "Thanks for saving"
-	line "us!"
+	text "Tak fordi du"
+	line "reddede os!"
 	done
 
 _SilphCo8BattleText1::
-	text "That's as far as"
-	line "you'll go!"
+	text "Længere kommer"
+	line "du ikke!"
 	done
 
 _SilphCo8EndBattleText1::
-	text "Not"
-	line "enough grit!"
+	text "Ikke"
+	line "nok gejst!"
 	prompt
 
 _SilphCo8AfterBattleText1::
-	text "If you don't turn"
-	line "back, I'll call"
-	cont "for backup!"
+	text "Hvis du ikke"
+	line "vender om, kalder"
+	cont "jeg på"
+	cont "forstærkning!"
 	done
 
 _SilphCo8BattleText2::
-	text "You're causing us"
-	line "problems!"
+	text "Du skaber"
+	line "problemer for os!"
 	done
 
 _SilphCo8EndBattleText2::
-	text "Huh?"
-	line "I lost?"
+	text "Hvad?"
+	line "Jeg tabte?"
 	prompt
 
 _SilphCo8AfterBattleText2::
-	text "So, what do you"
-	line "think of SILPH"
-	cont "BUILDING's maze?"
+	text "Hvad synes du om"
+	line "SILPHs labyrint?"
 	done
 
 _SilphCo8BattleText3::
-	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	text "Jeg er én af de 4"
+	line "ROCKET-BRØDRE!"
 	done
 
 _SilphCo8EndBattleText3::
 	text "Whoo!"
-	line "Oh brothers!"
+	line "Åh brødre!"
 	prompt
 
 _SilphCo8AfterBattleText3::
-	text "I'll leave you up"
-	line "to my brothers!"
+	text "Jeg overlader dig"
+	line "til mine brødre!"
 	done

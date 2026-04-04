@@ -1,42 +1,43 @@
 _SilphCo10Text_5a1d3::
-	text "Waaaaa!"
-	cont "I'm scared!"
+	text "Vaaaaa!"
+	cont "Jeg er bange!"
 	done
 
 _SilphCo10Text_5a1d8::
-	text "Please keep quiet"
-	line "about my crying!"
+	text "Lad venligst være"
+	line "med at fortælle"
+	cont "at jeg græd!"
 	done
 
 _SilphCo10BattleText1::
-	text "Welcome to the"
-	line "10F! So good of"
-	cont "you to join me!"
+	text "Velkommen til"
+	line "10F! Dejligt at"
+	cont "du kom!"
 	done
 
 _SilphCo10EndBattleText1::
-	text "I'm"
-	line "stunned!"
+	text "Jeg er"
+	line "lamslået!"
 	prompt
 
 _SilphCo10AfterBattleText1::
-	text "Nice try, but the"
-	line "boardroom is up"
-	cont "one more floor!"
+	text "Godt forsøg, men"
+	line "bestyrelseslokalet"
+	cont "er én etage op!"
 	done
 
 _SilphCo10BattleText2::
-	text "Enough of your"
-	line "silly games!"
+	text "Nu er det nok med"
+	line "dine dumme spil!"
 	done
 
 _SilphCo10EndBattleText2::
-	text "No"
-	line "continues left!"
+	text "Ikke"
+	line "flere forsøg!"
 	prompt
 
 _SilphCo10AfterBattleText2::
-	text "Are you satisfied"
-	line "with beating me?"
-	cont "Then go on home!"
+	text "Er du tilfreds"
+	line "med at slå mig?"
+	cont "Så gå hjem!"
 	done
