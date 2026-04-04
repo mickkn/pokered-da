@@ -871,7 +871,7 @@ _WildRanText::
 	prompt
 
 _EnemyRanText::
-	text "Modstander @"
+	text "Fjende @"
 	text_ram wEnemyMonNick
 	text_start
 	line "stak af!"
@@ -894,7 +894,7 @@ _HurtByLeechSeedText::
 	prompt
 
 _EnemyMonFaintedText::
-	text "Modstander @"
+	text "Fjende @"
 	text_ram wEnemyMonNick
 	text_start
 	line "besvimede!"
@@ -1016,7 +1016,7 @@ _NoMovesLeftText::
 	done
 
 _MultiHitText::
-	text "Ramte modstander"
+	text "Ramte fjende"
 	line "@"
 	text_decimal wPlayerNumHits, 1, 1
 	text " gange!"
@@ -1333,7 +1333,7 @@ _GetmText::
 	text_end
 
 _EnemysWeakText::
-	text "Modstanderen"
+	text "Fjenden"
 	line "er svag!"
 	cont "Tag dem! @"
 	text_end
