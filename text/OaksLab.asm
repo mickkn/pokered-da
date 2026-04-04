@@ -267,8 +267,8 @@ _OaksLabRivalIllTakeYouOnText::
 	cont "Lad os se på"
 	cont "vores #MON!"
 
-	para "Kom nu, jeg tager"
-	line "dig ned!"
+	para "Kom nu, jeg slår"
+	line "dig ud!"
 	done
 
 _OaksLabRivalIPickedTheWrongPokemonText::

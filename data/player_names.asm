@@ -10,7 +10,7 @@ DefaultNamesRival:
 	db   "NYT NAVN"
 	next "BLÅ"
 	next "GARY"
-	next "KARL"
+	next "CARL"
 	db   "@"
 ENDC
 
@@ -26,6 +26,6 @@ DefaultNamesRival:
 	db   "NYT NAVN"
 	next "RØD"
 	next "GARY"
-	next "KARL"
+	next "CARL"
 	db   "@"
 ENDC

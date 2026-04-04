@@ -9,7 +9,7 @@ DefaultNamesRivalList:
 	db "NYT NAVN@"
 	db "BLÅ@"
 	db "GARY@"
-	db "KARL@"
+	db "CARL@"
 ENDC
 
 IF DEF(_BLUE)
@@ -23,5 +23,5 @@ DefaultNamesRivalList:
 	db "NYT NAVN@"
 	db "RØD@"
 	db "GARY@"
-	db "KARL@"
+	db "CARL@"
 ENDC
