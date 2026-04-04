@@ -1,5 +1,6 @@
 _RedsHouse1FMomWakeUpText::
     text "MOR: Rigtigt."
+    line "All drenge"
     cont "forlader hjemmet"
 	cont "en dag. Det sagde"
     cont "de på TV."
@@ -12,7 +13,7 @@ _RedsHouse1FMomWakeUpText::
 _RedsHouse1FMomYouShouldRestText::
     text "MOR: <PLAYER>!"
     line "Du bør tage et"
-    cont "hurtigt hvile."
+    cont "hurtigt hvil."
     prompt
 
 _RedsHouse1FMomLookingGreatText::

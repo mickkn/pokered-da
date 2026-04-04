@@ -595,15 +595,15 @@ DisplayOptionMenu:
 	jp .eraseOldMenuCursor
 
 TextSpeedOptionText:
-	db   "TEXT SPEED"
+	db   "TEKSTHASTIGHED"
 	next " FAST  MEDIUM SLOW@"
 
 BattleAnimationOptionText:
-	db   "BATTLE ANIMATION"
-	next " ON       OFF@"
+	db   "KAMPANIMATION"
+	next " TIL      FRA@"
 
 BattleStyleOptionText:
-	db   "BATTLE STYLE"
+	db   "KAMPSTIL"
 	next " SHIFT    SET@"
 
 OptionMenuCancelText:
